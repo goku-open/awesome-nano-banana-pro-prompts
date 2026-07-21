@@ -1,7 +1,7 @@
 {
-  "name": "awesome-gpt-image-2",
+  "name": "awesome-nano-banana-pro-prompts",
   "version": "1.0.0",
-  "description": "Curated collection of GPT Image 2 prompts",
+  "description": "Curated collection of Nano Banana Pro prompts",
   "type": "module",
   "scripts": {
     "generate": "tsx scripts/generate-readme.ts"

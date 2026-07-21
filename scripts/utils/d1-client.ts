@@ -164,7 +164,7 @@ export async function fetchAllPrompts(
 export async function fetchItems(
   pageSize: number = 100
 ): Promise<{ items: D1PromptItem[]; total: number }> {
-  const url = `${API_HOST}/api/list?pageSize=${Math.min(pageSize, 200)}&random=1&model=gpt-image-2`;
+  const url = `${API_HOST}/api/list?pageSize=${Math.min(pageSize, 200)}&random=1&model=nano-banana-pro`;
 
   const response = await fetch(url, {
     headers: {
