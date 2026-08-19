@@ -50,25 +50,25 @@
 | 指标 | 数量 |
 |--------|-------|
 | 📝 提示词总数 | **26657** |
-| 🔄 最后更新 | **2026年8月18日星期二 UTC 00:36:40** |
+| 🔄 最后更新 | **2026年8月19日星期三 UTC 00:36:51** |
 
 </div>
 
 ---
 ## 📋 所有提示词
 
-### No. 1: 角色表情设计指南
+### No. 1: 逆重力弯曲之城
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-制作一个角色设计表情风格指南的图像，宽高比 16:9
+以8K分辨率创作一件超现实、电影感十足、超现实的艺术作品，展示上传参考图像中的主角。主角穿着时尚多层街头服饰，黑色飞行员夹克外面是炭灰色连帽衫、深色工装裤和高帮运动鞋，配戴太阳镜和手表。他正大步走着，自信地走向镜头，目光微微向上侧移，观察着周围的弯曲世界。这场超现实的场景发生在一条城市街道上，街道远处剧烈向上弯曲，无…
 
 #### 📝 提示词
 
 ```
-制作一个角色设计表情风格指南的图像，宽高比 16:9
+以8K分辨率创作一件超现实、电影感十足、超现实的艺术作品，展示上传参考图像中的主角。主角穿着时尚多层街头服饰，黑色飞行员夹克外面是炭灰色连帽衫、深色工装裤和高帮运动鞋，配戴太阳镜和手表。他正大步走着，自信地走向镜头，目光微微向上侧移，观察着周围的弯曲世界。这场超现实的场景发生在一条城市街道上，街道远处剧烈向上弯曲，无限弯曲直冲天空，并在他头顶上完全倒挂。汽车和行人违抗重力，沿着建筑中垂直倒置的部分行走和驾驶。他周围的世界无缝扭曲，映射出场景中不可能的几何形态。灯光戏剧性十足，金色时分的夕阳色调投下长长的阴影，突出这座弯曲城市超现实的建筑风格。
 ```
 
 #### 🖼️ 生成图片
@@ -76,25 +76,25 @@
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19938_0.jpeg" width="600" alt="角色表情设计指南 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04395_0.jpg" width="600" alt="逆重力弯曲之城 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 2: 暗黑西部烈焰女郎
+### No. 2: 红裙玫瑰奢华诱惑
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-电影风格的暗黑西部肖像，使用上传图片中的面部，但身体为自信的女性体格，一位时尚女性夜晚坐在草地中央的金属凳上。她身穿修身的深色夹克、黑色长裤和皮靴，优雅而粗犷的西部时尚，一只手松散地握着马缰。一匹强壮的棕色马在她身后的阴影中。火焰在她周围的草地上形成一个圆圈燃烧，火花和余烬在空中飘浮，戏剧性的火光照亮了她的脸庞和服装…
+{ "image_metadata": { "title": "浪漫奢华", "subject_identity": "{argument name=\"subject name\" default=\"Ana de Armas\"}", "aspect_ratio": "3:4", "aesthetic_categ…
 
 #### 📝 提示词
 
 ```
-电影风格的暗黑西部肖像，使用上传图片中的面部，但身体为自信的女性体格，一位时尚女性夜晚坐在草地中央的金属凳上。她身穿修身的深色夹克、黑色长裤和皮靴，优雅而粗犷的西部时尚，一只手松散地握着马缰。一匹强壮的棕色马在她身后的阴影中。火焰在她周围的草地上形成一个圆圈燃烧，火花和余烬在空中飘浮，戏剧性的火光照亮了她的脸庞和服装。营造出忧郁的夜晚氛围，烟雾和发光的余烬，强烈的电影级灯光，超逼真的纹理，浅景深，编辑摄影风格，暗黑戏剧性的色彩分级，8k 超细节。
+{ "image_metadata": { "title": "浪漫奢华", "subject_identity": "{argument name=\"subject name\" default=\"Ana de Armas\"}", "aspect_ratio": "3:4", "aesthetic_category": "精心策划的奢华 / 凡尔赛宫的戏剧性浪漫" }, "visual_composition": { "subject_pose": { "body_position": "坐着/身体前倾", "head_orientation": "头部转向相机后方", "interaction": "打破第四面墙 / 直接眼神接触", "expression": "俏皮、自信、心领神会的互动" }, "wardrobe_details": { "garment": { "type": "{argument name=\"garment type\" default=\"短款红色连衣裙搭配连裤袜\"}", "color_profile": "鲜艳 / 热情", "construction": "露背设计，腰部和臀部有褶皱", "texture": "流畅、优雅的动态" }, "adornments": { "material": "精致的金色链条首饰", "placement": "垂坠于肩部和脊柱", "visual_style": "仪式感、建筑感" } }, "environmental_props": { "primary_prop": "圆形奢华红玫瑰礼盒", "floral_characteristics": "紧密、重复的形态；密集的排列", "symbolic_weight": [ "欲望", "奉献", "丰盛" ] } }, "thematic_analysis": { "psychological_layers": { "vulnerability": "露背设计所展现的脆弱", "agency": "通过受控的姿势和凝视，将脆弱重塑为力量", "intent": "刻意的奢华而非偶然的美丽" }, "visual_contrasts": [ { "element_a": "有机流动性（面料和肌肤）", "element_b": "几何重复性（玫瑰和链条）" } ] }, "artistic_direction": { "lighting": "柔和的光线，突出背部和珠宝的轮廓", "styling": "整洁的发型，精致的妆容", "audience_role": "从观察者转变为参与者" } }
 ```
 
 #### 🖼️ 生成图片
@@ -102,46 +102,25 @@
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_16092_0.jpg" width="600" alt="暗黑西部烈焰女郎 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_17942_0.jpg" width="600" alt="红裙玫瑰奢华诱惑 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 3: 粉裙花篮自拍
+### No. 3: 奢华咖啡品鉴菜单设计
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一名女子靠着浅色墙坐在地板上，用智能手机自拍镜子。她的身体微微侧向一侧，肩膀微微下垂，一只手握着手机，另一只手放在一大篮花的边缘，目光直视屏幕。角度为中景，视线平齐，构图居中，重点放在她的脸庞和前景中那束丰盛的花束上。 她穿着一件柔软的粉色缎面连衣裙，细肩带，深V领口，前面系着装饰性领带。布料柔和地贴合她的身形，反射…
+奢华咖啡品鉴菜单布局，不规则网格构图，网页宽高比为 9:16。 布局：不规则 3x3 网格，单元格大小各异，流畅的编辑排版 背景：同色系面板 - 交替使用 拿铁米色 (#F2E2D2)、摩卡棕 (#D1B48F) 和咖啡奶油色 (#FAF5E6)，营造出微妙的咖啡韵律 产品呈现：仅展示产品，俯视和 45 度角混合，在…
 
 #### 📝 提示词
 
 ```
-一名女子靠着浅色墙坐在地板上，用智能手机自拍镜子。她的身体微微侧向一侧，肩膀微微下垂，一只手握着手机，另一只手放在一大篮花的边缘，目光直视屏幕。角度为中景，视线平齐，构图居中，重点放在她的脸庞和前景中那束丰盛的花束上。
-
-她穿着一件柔软的粉色缎面连衣裙，细肩带，深V领口，前面系着装饰性领带。布料柔和地贴合她的身形，反射着光线，散发着细腻丝滑的光泽。
-
-她的头发梳成大而柔软的波浪，随意地垂到一侧。妆容自然：肤色均匀，淡淡的唇彩，整齐的眉毛，睫毛上有细微的点缀。她的首饰极简——脖子上系着一条细链，手指上戴着戒指。
-
-她面前是一个大柳条篮子，里面装着粉色玫瑰——粉色、奶油色和柔软的桃子花苞，点缀着绿色植物——篮子上系着一条宽大的粉色丝带蝴蝶结。背景是中性色调，是一面浅色、朴素无装饰的墙面，地板是浅色木质。
-
-灯光柔和自然，散射的日光从侧面洒落，营造出柔和的阴影，没有刺眼的棱角。肤色温暖自然，花朵色彩细腻且不过度饱和。
-
-用智能手机拍摄，35–50mm等效镜头，适中的景深，高花瓣细节和缎面质地。干净美学的生活摄影，柔和浪漫氛围，细节丰富，照片级写实。
-
-柔和的粉彩色调，
-自然散射的日光，
-低对比度和柔和的阴影，
-温暖的肤色，
-缎面面料上的细腻挑染，
-平衡曝光，
-奶油粉色和象牙色调，
-干净、简约的背景，
-新鲜浪漫的调色，
-轻盈通透的美学。
+奢华咖啡品鉴菜单布局，不规则网格构图，网页宽高比为 9:16。 布局：不规则 3x3 网格，单元格大小各异，流畅的编辑排版 背景：同色系面板 - 交替使用 拿铁米色 (#F2E2D2)、摩卡棕 (#D1B48F) 和咖啡奶油色 (#FAF5E6)，营造出微妙的咖啡韵律 产品呈现：仅展示产品，俯视和 45 度角混合，在简约的石板陶瓷餐具上摆盘 色调策略：同色系 - 咖啡色调与背景色调和谐统一，空灵融合 主要元素：独立咖啡品鉴 - 意式浓缩咖啡配奶沫、撒有金粉的卡布奇诺吐司、用咖啡鱼子酱和意式脆饼代替鱼子酱薄饼、柠檬片拿铁、摩卡挞，每款都盛放在配套的盘中，光线柔和一致 排版：双语 - 英文名称采用优雅的细衬线字体 (Didot)，下方是简洁的无衬线英文/韩文，浅灰色的小字产地描述 相机：Canon EOS R5，100mm 微距镜头用于细节拍摄，50mm 镜头用于拍摄全盘，柔和漫射的顶灯，侧面轮廓光 风格：极简 + 奢华混合 - 充足的留白，精致的排版，咖啡色系作为主要色源 风格关键词：咖啡、品鉴菜单、同色系、奢华、网页 右下角小字优雅地放置着精致的手写签名“Willy”。
 ```
 
 #### 🖼️ 生成图片
@@ -149,2867 +128,61 @@
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23690_0.jpg" width="600" alt="粉裙花篮自拍 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_17991_0.jpg" width="600" alt="奢华咖啡品鉴菜单设计 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 4: 海边冷艳时尚大片
+### No. 4: 谷歌新AI彻底解析
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-{ “image_prompt”： { “reference_image”：“use_uploaded_photo”， “face_preservation”： { “启用”：真， “强度”：“最大”， “说明”：“不要以任何方式改变面部结构、比例、皮肤质地、表情、痣或身份。脸部必须与参考图像完全一致。” }, “主…
+この男性が、{argument name="テーマ" default="Nano Banana Pro を紹介する"}YouTubeのサムネイル - スタイル: {argument name="スタイル" default="ビジネスマン向け"}、フォント: {argument name="フォント" default=…
+
+#### 📝 提示词
+
+```
+この男性が、{argument name="テーマ" default="Nano Banana Pro を紹介する"}YouTubeのサムネイル - スタイル: {argument name="スタイル" default="ビジネスマン向け"}、フォント: {argument name="フォント" default="ダイナミックな、光沢感、斜体"} -{argument name="ターゲット" default="日本人向け"} - テキスト: {argument name="テキスト" default="Google の新AI「Nano Banana Pro 」徹底解説"}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02243_0.jpg" width="600" alt="谷歌新AI彻底解析 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 5: 潮男萌趣自拍日记
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “提示”： [ { “id”：1， “标题”：“store_boy”， “提示”：“一位时尚的年轻男子在一家现代服装店里自拍镜子，穿着休闲时尚的服装（{argument name=”outfit 1“ 默认=”宽大T恤或衬衫，轻便夹克，休闲牛仔裤，运动鞋，斜挎包“），手里拿着一个手提袋。他周围是多个可爱的Q版迷你…
 
 #### 📝 提示词
 
 ```
 {
-  “image_prompt”： {
-    “reference_image”：“use_uploaded_photo”，
-    “face_preservation”： {
-      “启用”：真，
-      “强度”：“最大”，
-      “说明”：“不要以任何方式改变面部结构、比例、皮肤质地、表情、痣或身份。脸部必须与参考图像完全一致。”
-    },
-
-“主旨”：{
-      “描述”：“一位非常美丽的年轻女子”，
-      “表情”：“平静，略带梦幻感”，
-      “凝视”：“直视镜头”，
-      “皮肤”：“自然、逼真的皮肤质地”，
-      “化妆”：{
-        “风格”：“极简搭配柔和烟熏眼妆”，
-        “聚焦”：“眼睛被微妙地强调”
-      },
-      “头发”：{
-        “颜色”：“深棕色”
-        “长度”：“长度”，
-        “风格”：“松散、波浪状、略带凌乱”，
-        “细节”：“几缕头发部分遮住脸庞，营造自然、毫不费力的感觉”
-      }
-    },
-
-“outfit_and_accessories”： {
-      “顶部”：{
-        “类型”：“松散的白色敞开衬衫纽扣”，
-        “fit”：“放松”，
-        “细节”：“袖子在手腕处微微卷起”
-      },
-      “外套”：{
-        “类型”：“正式黑色西装外套”，
-        “位置”：“搭在左肩上，稍微靠在车盖上”
-      },
-      “底部”：{
-        “类型”：“深色裤子”，
-        “颜色”：“黑色”，
-        “可见性”：“仅部分可见”
-      },
-      “珠宝”：{
-        “脖子”：“层叠厚重的银链项链”，
-        “耳朵”：“小银环耳环”，
-        “手腕”：“银链手链”
-      }
-    },
-
-“pose_and_composition”： {
-      “姿势”：“随意地坐在汽车引擎盖上”，
-      “支撑”：“稍微靠在引擎盖上”，
-      “构图”：“中特写”，
-      “聚焦”：“对主体的锐利聚焦”，
-      “background_blur”：“轻微自然散景”
-    },
-
-“环境”：{
-      “前景”：“光滑的黑色跑车引擎盖，带有细微反光”，
-      “背景”：{
-        “位置”：“海滩或海边”，
-        “细节”： [
-          “淡淡的沙滩海岸线”
-          “宁静的灰蓝色海洋”
-          “阴天或多云的天空”
-        ],
-        “氛围”：“凉爽、忧郁、宁静”
-      }
-    },
-
-“闪电”：{
-      “类型”：“柔和的自然日光”，
-      “状态”：“阴天”
-      “效果”：“均匀扩散的光线，没有刺眼的阴影”
-    },
-
-“photography_style”： {
-      “类型”：“户外时尚肖像”，
-      “写实”：“高度照片写实”，
-      “color_tone”：“冷静而低调”，
-      “depth_of_field”：“中等，背景模糊轻柔”
-    },
-
-“质量”：{
-      “分辨率”：“超高”
-      “细节”：“锋利的面料、头发、首饰和皮肤质地”，
-      “render_style”：“自然单反摄影风格”
-    }
-  }
-}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01955_0.jpg" width="600" alt="海边冷艳时尚大片 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 5: 春日花下少女自拍
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-阳光明媚的户外自拍风格肖像，一位年轻女子站在盛开的苹果树下，白粉相间的花朵框住并部分遮住了她的脸。她轻轻靠在自己的肩膀上，带着温柔调皮的微笑凝视着镜头。长而光滑的头发中分，垂落过肩膀。清新自然华丽妆容：眉毛轮廓分明，青铜色中性眼睑，长睫毛，阳光亲吻的光泽肌肤，柔和光泽裸唇。她穿着白色罗纹圆领背心，外面是奶油色针织开衫…
-
-#### 📝 提示词
-
-```
-阳光明媚的户外自拍风格肖像，一位年轻女子站在盛开的苹果树下，白粉相间的花朵框住并部分遮住了她的脸。她轻轻靠在自己的肩膀上，带着温柔调皮的微笑凝视着镜头。长而光滑的头发中分，垂落过肩膀。清新自然华丽妆容：眉毛轮廓分明，青铜色中性眼睑，长睫毛，阳光亲吻的光泽肌肤，柔和光泽裸唇。她穿着白色罗纹圆领背心，外面是奶油色针织开衫，戴着厚金圈耳环和细金链项圈。背景：一个明亮的春季花园，枝叶盛开，天空晴朗，蔚蓝一片。垂直拍摄，视线平视角，明亮的自然阳光，温暖通透的春天美感。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23178_0.jpg" width="600" alt="春日花下少女自拍 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 6: 桑拿美人写真
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ “project_configuration”：{ “标题”：“电影健康：桑拿肖像” “版本”：“2.0_High_Fidelity”， “output_parameters”： { “aspect_ratio”：“9：16”， “分辨率”：“8K UHD”， “color_space”：“DCI-P3”， “s…
-
-#### 📝 提示词
-
-```
-{
-  “project_configuration”：{
-    “标题”：“电影健康：桑拿肖像”
-    “版本”：“2.0_High_Fidelity”，
-    “output_parameters”： {
-      “aspect_ratio”：“9：16”，
-      “分辨率”：“8K UHD”，
-      “color_space”：“DCI-P3”，
-      “style_preset”：“超写实照片写实主义”
-      “rendering_engine”：“Octane Render / 虚幻引擎 5.4 路径追踪”
-    }
-  },
-  “subject_composition”： {
-    “身份”：{
-      “相似性”：“{论元名称=”主语相似性“默认=”悉尼·斯威尼“}”，
-      “age_range”：“二十出头”，
-      “表达”：“宁静、内省、迷人、直接的眼神交流”
-      “skin_tone”：“白皙、象牙色、露水般的肤色”
-    },
-    “anatomical_precision”： {
-      “micro_details”：“可见的皮肤毛孔，细软的绒毛，逼真的皮肤质地，皮下散射（SSS），锁骨和额头上有细小晶体水滴。”
-      “眼睛”：“深榛色，复杂的虹膜图案，锐利的聚光灯反射着温暖的桑拿室内。”
-      “唇部”：“柔和的粉色，湿润，微微分开，因湿度而呈现高光泽。”
-      “头发”：“长金发，湿润造型，湿发贴肤，深金色发根，高光层光泽。”
-    },
-    “attire_and_fabric”： {
-      “primary_garment”：“高质白棉浴巾”，
-      “fabric_details”：“可见的毛巾布环，厚重的织物重量，湿润的斑块显示出较深的白色调，复杂的织造图案，柔软的边缘磨损。”
-    },
-    “pose_and_dynamics”： {
-      “姿势”：“优雅地坐在中层的雪松长椅上，双腿交叉于脚踝。”
-      “body_language”：“微微前倾以营造深度，放松肩膀，自然姿态，双手轻轻放在木头上。”
-    }
-  },
-  “environment_design”： {
-    “环境”：“超豪华传统芬兰桑拿”，
-    “interior_materials”： {
-      “木材”：“抛光的西部红雪松，水平木条，可见纹理，结节，以及热引起的油光泽。”
-      “元素”：“热桑拿石置于不锈钢加热器中（背景），热雾上升。”
-    },
-    “atmospheric_effects”： {
-      “蒸汽”：“虚无缥缈的旋涡雾气，体积雾气，浓重的湿气，充满水分的空气。”
-      “雾霾”：“柔焦背景，金色光辉通过蒸汽颗粒过滤。”
-    }
-  },
-  “lighting_and_optics”： {
-    “lighting_setup”： {
-      “类型”：“温暖的漫射环境光”，
-      “primary_source”：“长椅下方隐藏的LED灯条，营造出柔和的底色光泽。”
-      “secondary_source”：“俯视暖光（3200K温度）。”
-      “阴影”：“柔和、扩散，没有任何刺眼的棱角。”
-    },
-    “optical_settings”： {
-      “镜头”：“35毫米定焦镜头，广角，几乎没有失真。”
-      “光圈”：“浅景深（散景背景）时的f/1.8。”
-      “对焦”：“对被摄者眼睛的锐利聚焦，肩膀和环境逐渐失去焦点。”
-    }
-  },
-  “technical_post_processing”： {
-    “quality_enhancements”：[
-      “Phot”
-    ]
-  }
-}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02745_0.jpg" width="600" alt="桑拿美人写真 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 7: 雀斑少女冬装写真
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ “主旨”：{ “描述”：“年轻女性，肤色较浅，鼻子和脸颊上有明显的雀斑。她戴着一顶毛绒的、{argument name=“balaclava color” default=“浅蓝色}的针织头套或兜帽，框住她的脸庞，饰以心形大水晶水晶和圆形图案。几缕金发从太阳穴附近的兜帽中滑落。她穿着一件黑色比基尼上衣，边缘有白色…
-
-#### 📝 提示词
-
-```
-{
-“主旨”：{
-“描述”：“年轻女性，肤色较浅，鼻子和脸颊上有明显的雀斑。她戴着一顶毛绒的、{argument name=“balaclava color” default=“浅蓝色}的针织头套或兜帽，框住她的脸庞，饰以心形大水晶水晶和圆形图案。几缕金发从太阳穴附近的兜帽中滑落。她穿着一件黑色比基尼上衣，边缘有白色滚边和钢圈结构。胸部体积丰满且明显，展现出自然的分理和结构化罩杯的贴合度，保持准确的解剖比例和重力。”
-“属性”： [
-“浅蓝色毛茸茸的头套”
-“水钻装饰”，
-“心形水晶”，
-“黑色比基尼上衣配白色滚边”，
-“雀斑”
-“金发细丝”
-“满负面”，
-“自然皮肤质地”
-]
-},
-“姿势”：{
-“描述”：“站在正面对着镜头。双手抬起，握住头套领口的两侧，手指轻轻握着针织布料。手臂肘部弯曲，形成对称的构图。凝视直接且引人入胜。头部是水平的。”
-“类型”：“正面中景”，
-“细节”：“双手握帽，肘部外展，姿势对称，直接眼神交流”
-},
-“环境”：{
-“地点”：“雪地冬季户外”，
-“元素”： [
-“被雪覆盖的松树”，
-“地面上的深雪”
-“背景中迷蒙的冬山”
-“森林空地”
-],
-“氛围”：“寒冷、清爽、冬日的白天”
-},
-“相机”：{
-“shot_type”：“中景（腰部以上）”，
-“透视”：“眼睛水平”，
-“对焦”：“对主体的清晰聚焦，背景景深略柔和”，
-“focal_length”：“50mm至85mm人像镜头”，
-“框架”：“置中主体”
-},
-“闪电”：{
-“类型”：“自然阴天白昼”，
-“品质”：“柔和、弥漫、无阴影”，
-“方向”：“来自天空的全局照明”，
-“基调”：“凉爽的冬日光线”
-},
-“mood_and_expression”： {
-“心情”：“宁静、冷漠、自信、略带诱惑”
-“表情”：“中性嘴唇，柔和却直接的目光”，
-“氛围”：“冬季美学，寒冷天气与泳装的对比”
-},
-“style_and_realism”： {
-“风格”：“写实、原始摄影、社交媒体美学”
-“质量”：“高保真，8K分辨率，细致纹理”，
-“渲染”：“虚幻引擎5级别的真实感或高端单反摄影”
-},
-“colors_and_tone”： {
-“调色板”： [
-“宝贝蓝”，
-“白雪公主”
-“黑色”，
-“温暖的米色肤色”
-],
-“对比”：“黑色泳装与白色雪地之间的强烈对比”，
-“饱和度”：“自然，因环境因素略带凉爽色调”
-},
-“quality_and_technical_details”： {
-“分辨率”：“高分辨率”，
-“细节”：“针织羊毛质感、水晶折射、皮肤毛孔、雪粒”
-},
-“aspect_ratio_and_output”： {
-“比例”：“3：4”，
-“方向”：“肖像”
-},
-“ControlNet”： {
-“pose_control”： {
-“model_type”：“OpenPose”，
-“目的”：“精确骨骼和姿势锁定”，
-“约束”： [
-“保持肩宽”，
-“保留臀部”
-]
-}
-}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04284_0.jpg" width="600" alt="雀斑少女冬装写真 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 8: 罗马桥畔女星时尚
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ "image_id": 1, "subject_name": "{argument name=\"first subject name\" default=\"Madison Beer\"}", "profession": "美国歌手兼词曲作者", "location_details": { "city": "罗…
-
-#### 📝 提示词
-
-```
-{ "image_id": 1, "subject_name": "{argument name=\"first subject name\" default=\"Madison Beer\"}", "profession": "美国歌手兼词曲作者", "location_details": { "city": "罗马", "country": "意大利", "location": "圣天使桥 (Ponte Sant&#x27;Angelo)", "background": "圣天使城堡的历史建筑和蓝色天空" }, "fashion_details": { "dress_type": "无肩带分层荷叶边迷你连衣裙", "dress_color": "淡粉色 / 柔和粉色", "bag_style": "Fendi Baguette (带多色图案)", "accessories": "珍珠项链和戴在头上的太阳镜" } }, { "image_id": 2, "subject_name": "{argument name=\"second subject name\" default=\"Sydney Sweeney\"}", "profession": "美国女演员 (因《亢奋》成名)", "location_details": { "view": "从桥中央清晰可见城堡", "weather": "宜人晴朗的一天" }, "fashion_details": { "pose": "双手扶在栏杆上站立", "sunglasses": "复古黑色椭圆形", "hand_jewelry": "多色串珠手链" } }, { "image_id": 3, "subject_name": "{argument name=\"third subject name\" default=\"Kendall Jenner\"}", "profession": "时尚模特和媒体人", "location_details": { "angle": "侧视图，上方清晰可见天使雕像", "crowd": "背景中可见游客" }, "fashion_details": { "style_vibe": "时尚夏日意大利美学", "makeup": "自然光泽妆容", "bag_position": "手持印花迷你包向下" } }
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_20594_0.jpg" width="600" alt="罗马桥畔女星时尚 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 9: 角色设定草图手绘
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-人物设定草图，描绘了[人物]的多个角度和丰富的面部表情变化，使用铅笔和圆珠笔绘制在干净的白色背景上。采用柔和的粉彩色调，线条清晰锐利，对比度高，手绘漫画风格。
-
-#### 📝 提示词
-
-```
-人物设定草图，描绘了[人物]的多个角度和丰富的面部表情变化，使用铅笔和圆珠笔绘制在干净的白色背景上。采用柔和的粉彩色调，线条清晰锐利，对比度高，手绘漫画风格。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19573_0.jpeg" width="600" alt="角色设定草图手绘 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 10: 月球骑行插画
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一个人穿着密封服，背着氧气罐，在月球表面骑着公路自行车，风格为 Irasutoya
-
-#### 📝 提示词
-
-```
-一个人穿着密封服，背着氧气罐，在月球表面骑着公路自行车，风格为 Irasutoya
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15998_0.png" width="600" alt="月球骑行插画 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 11: 象牙白蕾丝优雅自拍
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-制作一张超写实的室内全身自拍，是一位年轻女性，长而波浪发，中间分成分。她有低调自然的妆容，长长的黑色自然睫毛，带有微光的米色眼影，黑色眼线笔，皮肤无瑕，唇膏是棕色唇彩和深棕色唇线，嘴唇丰满。修整得体的眉毛，带有Brauenlifting-Effekt。短尖亮的指甲。她手里拿着一台白色iPhone。她穿着一套优雅、时尚…
-
-#### 📝 提示词
-
-```
-制作一张超写实的室内全身自拍，是一位年轻女性，长而波浪发，中间分成分。她有低调自然的妆容，长长的黑色自然睫毛，带有微光的米色眼影，黑色眼线笔，皮肤无瑕，唇膏是棕色唇彩和深棕色唇线，嘴唇丰满。修整得体的眉毛，带有Brauenlifting-Effekt。短尖亮的指甲。她手里拿着一台白色iPhone。她穿着一套优雅、时尚、惊艳的女性象牙白服装。材质为奢华的蕾丝材质，赋予其奢华感。虽然长裙腰身较高，但它与紧身胸衣上衣的下缘完美契合，营造出无缝连衣裙的效果。材质为流畅、轻盈的缎面或绉纱面料，材质相同为米白色/象牙白。她佩戴极简但大胆的金饰，如简单的耳钉或厚重的金手链。她的身体微微转动，随意地靠在一面深灰色的墙上。背景中，略偏中心的是一扇浅灰色门，门框深色。整体灯光温暖而金黄，突显服装的丝质质感和空间的奢华氛围。请注意，我身高5英尺。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22726_0.jpg" width="600" alt="象牙白蕾丝优雅自拍 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 12: 暗夜皮草贵妇
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-超写实的夜晚编辑肖像，描绘一位坐在昏暗长椅上的女性，身披一件巨大的黑色仿皮草大衣，外套剧性地垂落地面。她优雅地盘腿坐着，露出从大腿中部延伸到光滑黑色细高跟鞋的黑色蕾丝紧身裤，复杂的蕾丝图案在柔软的毛皮上格外细腻。她的上半身又沉回外套，双臂大多藏在外套里，一只手隐约可见，仿佛在拉紧外套，而她那长长的金发顺滑地垂落在肩上…
-
-#### 📝 提示词
-
-```
-超写实的夜晚编辑肖像，描绘一位坐在昏暗长椅上的女性，身披一件巨大的黑色仿皮草大衣，外套剧性地垂落地面。她优雅地盘腿坐着，露出从大腿中部延伸到光滑黑色细高跟鞋的黑色蕾丝紧身裤，复杂的蕾丝图案在柔软的毛皮上格外细腻。她的上半身又沉回外套，双臂大多藏在外套里，一只手隐约可见，仿佛在拉紧外套，而她那长长的金发顺滑地垂落在肩上。她冷静而疏离地望向一旁，颧骨被柔和的定向灯光勾勒出，柔和的阴影在她的脸庞和毛发褶皱上投下柔和的阴影。背景是一个昏暗、略带反光的大堂或酒吧布置，建筑线条简约，灯光模糊，聚焦于奢华的质感和她那几乎像黑帮妻子那样的沉着气场，以极度细致、电影般的质感呈现。 相机与设置：索尼a7 III，50mm镜头，f/2，ISO 800,1/125秒，手持拍摄，RAW格式。灯光与氛围：室内氛围灯，前方有柔和暖色的暗黑，长椅和背景周围有深影，氛围浓郁，高端夜晚氛围。皮肤逼真：皮肤毛孔明显，自然质地，脸颊上细腻的腮红，尽管如此仍保留细微瑕疵。头发与面料：柔和蓬松的浅棕色波浪，单缕发丝捕捉到高光;密集的仿毛皮，纤维分隔和重量明显;蕾丝紧身裤，图案清晰，略带光泽。后期处理：电影级色彩调色，带有暖色调高光和冷淡去饱和阴影，温和的对比度提升，画面周围细腻的暗影，细腻的胶片颗粒感。现实主义
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24102_0.jpg" width="600" alt="暗夜皮草贵妇 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 13: 手办建模全流程展示
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-将这个角色变成一个收藏型手办产品展示：创建一个实体PVC人偶，站立在透明圆形底座上，放置带有角色艺术作品的产品盒，并添加一台显示Blender中3D建模过程的电脑显示器
-
-#### 📝 提示词
-
-```
-将这个角色变成一个收藏型手办产品展示：创建一个实体PVC人偶，站立在透明圆形底座上，放置带有角色艺术作品的产品盒，并添加一台显示Blender中3D建模过程的电脑显示器
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13155_0.jpg" width="600" alt="手办建模全流程展示 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 14: 热带海滩夏日狂欢
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ "prompt": "一个充满欢乐的热带海滩场景，一名年轻女子坐在停靠在海岸线附近的一辆深色越野 SUV 的敞开式车门框上。她穿着一件 {argument name=\"Bikini Color\" default=\"orange\"} 图案的比基尼，双臂高举以示庆祝，笑容灿烂，金色的头发随风飘扬。背景是高大的…
-
-#### 📝 提示词
-
-```
-{ "prompt": "一个充满欢乐的热带海滩场景，一名年轻女子坐在停靠在海岸线附近的一辆深色越野 SUV 的敞开式车门框上。她穿着一件 {argument name=\"Bikini Color\" default=\"orange\"} 图案的比基尼，双臂高举以示庆祝，笑容灿烂，金色的头发随风飘扬。背景是高大的棕榈树、碧绿的海浪、沙质草丘，以及点缀着朵朵白云的湛蓝色天空。画面在明亮的自然日光下拍摄，充满无忧无虑的夏日度假氛围。照片级写实的生活方式摄影，对焦锐利，色彩鲜明。", "style": "photorealistic", "lighting": "bright natural sunlight", "camera": { "type": "DSLR", "lens": "35mm", "aperture": "f/2.8" }, "composition": "dynamic pose, subject foreground, tropical coastline background", "mood": "energetic, carefree, beach adventure", "quality": "ultra-detailed, high resolution, professional photography" }
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15191_0.jpg" width="600" alt="热带海滩夏日狂欢 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 15: 冷冽权力美学大片
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-高品质工作室超细致写实的编辑拍摄，2026年高端时尚美学，全球奢侈品广告级别。侧面低角度时尚镜头，重点关注最大腿部长度。摄像机位于侧面，拉伸剪影，营造高度、地位和权力感。脸部清晰、清晰、清晰，没有模糊或变形。模型自信地坐落在极简主义建筑形式（艺术品）之上。双腿斜向前伸展，视觉上是无限的。她穿着一件宽松的酒红色皮夹克，…
-
-#### 📝 提示词
-
-```
-高品质工作室超细致写实的编辑拍摄，2026年高端时尚美学，全球奢侈品广告级别。侧面低角度时尚镜头，重点关注最大腿部长度。摄像机位于侧面，拉伸剪影，营造高度、地位和权力感。脸部清晰、清晰、清晰，没有模糊或变形。模型自信地坐落在极简主义建筑形式（艺术品）之上。双腿斜向前伸展，视觉上是无限的。她穿着一件宽松的酒红色皮夹克，带有建筑剪裁和夸张肩线，2026年力量剪裁。脚部：Balenciaga 2026 尖头高跟鞋，激进优雅的轮廓。腿部穿着黑色哑光紧身裤，厚实昂贵的质感。配饰：带有黑色点缀的大型建筑金色耳环。发型：梳理利落的马尾，分界清晰，干净有力。表情：冷漠、大胆、理智，没有笑容。背景：2026年流行做旧混凝土，博物馆式时尚混凝土。灯光：复杂多层次的工作室灯光，建筑阴影，深度，突出皮革质感和面部结构。超写实，8K，高微细节，自然肌肤质地，毛孔可见，无塑料，无CGI，无模糊。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25620_0.jpg" width="600" alt="冷冽权力美学大片 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 16: 香蕉Pro下書挑戰
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-nano banana pro！鉛筆下書きから正面側面の書き起こしを試す。
-
-#### 📝 提示词
-
-```
-nano banana pro！鉛筆下書きから正面側面の書き起こしを試す。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13114_0.jpg" width="600" alt="香蕉Pro下書挑戰 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13114_1.jpg" width="600" alt="香蕉Pro下書挑戰 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 17: 竹林弓道少女
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-分析输入图像，将人物转化为身着弓道（日本弓箭）服饰的 female 形象。人物表情庄重，站立于宁静的竹林中。真实描绘袴的质感和弓的细节。光线柔和，营造出神秘的氛围。
-
-#### 📝 提示词
-
-```
-分析输入图像，将人物转化为身着弓道（日本弓箭）服饰的 female 形象。人物表情庄重，站立于宁静的竹林中。真实描绘袴的质感和弓的细节。光线柔和，营造出神秘的氛围。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15155_0.jpg" width="600" alt="竹林弓道少女 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 18: 温馨午后少女肖像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-（保持面部和身体的比例精确1：1，如参考照片所示） 一尊温馨的高分辨率半身肖像，是一位年轻女性手持毛绒玩具，表情可爱且顽皮。她穿着一件舒适的奶油色毛衣，看起来温暖且质感十足。柔和的午后阳光从侧面照亮她的脸庞，营造出温暖的光泽，衬托出她光滑、光泽且自然的肌肤。她的面部表情温柔富有表现力，眉毛干净，睫毛卷曲，皮肤发光，嘴…
-
-#### 📝 提示词
-
-```
-（保持面部和身体的比例精确1：1，如参考照片所示）
-一尊温馨的高分辨率半身肖像，是一位年轻女性手持毛绒玩具，表情可爱且顽皮。她穿着一件舒适的奶油色毛衣，看起来温暖且质感十足。柔和的午后阳光从侧面照亮她的脸庞，营造出温暖的光泽，衬托出她光滑、光泽且自然的肌肤。她的面部表情温柔富有表现力，眉毛干净，睫毛卷曲，皮肤发光，嘴唇自然而微妙。
-背景是一个极简明亮的房间，自然光透过附近的窗户洒进来，营造出宁静、温暖且亲密的家庭氛围。
-整体氛围真实、温馨而宁静——仿佛在家中捕捉到一个宁静的黄金时刻。
-风格：超写实的特写肖像，自然光，温馨的家居环境，柔焦深度
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_27065_0.jpg" width="600" alt="温馨午后少女肖像 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 19: 雪夜浴袍自拍
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ “主旨”：{ “人口统计”：“肤色白皙、自然清新面容的年轻女性。” “头发”：{ “color”：“{argument name=”hair color“ default=”鲜艳的铜红色“}.”， “风格”：“长而松散、凌乱的波浪顺着肩膀垂落。” “质感”：“略微潮湿或被风吹拂，细致的单缕发丝，雪花被头发缠绕。”…
-
-#### 📝 提示词
-
-```
-{
-  “主旨”：{
-    “人口统计”：“肤色白皙、自然清新面容的年轻女性。”
-    “头发”：{
-      “color”：“{argument name=”hair color“ default=”鲜艳的铜红色“}.”，
-      “风格”：“长而松散、凌乱的波浪顺着肩膀垂落。”
-      “质感”：“略微潮湿或被风吹拂，细致的单缕发丝，雪花被头发缠绕。”
-      “细节”：“闪光灯照亮的飞翔。”
-    },
-    “脸”：{
-      “表情”：“冷静，直视镜头，微笑，放松自信。”
-      “眼睛”：“清澈的蓝绿色眼睛，锐利明亮。”
-      “skin_texture”：“高精度皮肤细节：鼻子和脸颊上的毛孔可见，冷空气带来的自然红润/红润，无需喷枪即可保持真实质感。”
-      “化妆”：“几乎不化妆，自然风格。”
-    },
-    “姿势”：{
-      “type”：“自拍视角。”
-      “手臂”：“右臂伸向相机镜头（缩短版）握住相机。”
-      “角度”：“眼睛平视，特写肖像。”
-    }
-  },
-  “服装”：{
-    “物品”：“白色浴袍。”
-    “面料”：“柔软的毛巾布或柔软抓绒质地。”
-    “细节”：“厚实的领口，柔软的褶皱，在灯光下能看到细致的布料堆。”
-    “合身”：“宽松舒适，紧贴身体。”
-  },
-  “环境”：{
-    “地点”：“夜晚在滑雪胜地或高山村庄户外。”
-    “天气”：“下雪;可见的白色雪花飘落在黑暗背景上（有些是条纹，有些是明显的雪花）。”
-    “背景”：{
-      “结构”：“传统的木质阿尔卑斯山小屋/小屋。”
-      “细节”：“深色木结构，雪顶屋顶，厚实的檐口。”
-      “照明”：“背景小木屋窗户透出温暖的黄色光芒，与冰冷的外景形成鲜明对比。”
-    },
-    “地面”：“中景可见深雪堆。”
-  },
-  “闪电”：{
-    “类型”：“直接闪光灯或明亮自拍灯。”
-    “质量”：“对主体施加强硬正面光线，清晰照亮面部和头发。”
-    “氛围”：“黑暗夜晚环境，混合光线（冷环境夜风、暖窗光与明亮白光）。”
-    “阴影”：“由于直接闪光灯，面部阴影极少;背景陷入深影。”
-  },
-  “camera_gear”： {
-    “camera_model”：“iPhone 15 Pro Max 或高端无反自拍模式。”
-    “镜头”：“24毫米广角镜头（模拟智能手机主摄）。”
-    “设定”：{
-      “光圈”：“f/2.8”，
-      “shutter_speed”：“1/60”，
-      “iso”：“800”
-    }
-  },
-  “technical_specs”：[
-    “8K超高清”
-    “RAW照片”，
-    “未压缩”，
-    “闪光摄影美学”，
-    “超写实皮肤质感”，
-    “眼睛聚焦锐利”，
-    “细致的织物质感”，
-    “粒子效应（雪）”
-    “寒冷的大气”
-  ],
-  “negative_prompt”： [
-    “模糊”，
-    “散景”，
-    “迷雾”
-    “过滤器”，
-    “修图”，
-    “光滑的皮肤”，
-    "
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08825_0.jpg" width="600" alt="雪夜浴袍自拍 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08825_1.jpg" width="600" alt="雪夜浴袍自拍 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 20: 发明原型展示盒
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-<instruction> 输入A是一项改变世界的发明（照片或发明名称）。 分析发明者、灵光一现、原型设计以及社会影响。 可选输入B是风格参考（专利局/发明人车间）。如果缺少，可以选择蒸汽朋克与现代博物馆美学的结合。 目标：一个带有黄铜铰链的木制展示盒，内含微型“第一原型”，周围环绕着发明家的工具、失败尝试和蓝图碎片…
-
-#### 📝 提示词
-
-```
-<instruction>
-输入A是一项改变世界的发明（照片或发明名称）。
-分析发明者、灵光一现、原型设计以及社会影响。
-可选输入B是风格参考（专利局/发明人车间）。如果缺少，可以选择蒸汽朋克与现代博物馆美学的结合。
-目标：一个带有黄铜铰链的木制展示盒，内含微型“第一原型”，周围环绕着发明家的工具、失败尝试和蓝图碎片。
-规则：
-- 中心：微型且可工作的发明原型
-- 在微型工作台上展示发明家雕像
-- 环绕，配有10-15个时期工具、草图、失败版本
-- 添加透过玻璃顶板可见的陈旧纸质“专利文件”
-- 材料：深色木材、黄铜装饰、复古玻璃
-- 铭牌，标明发明人姓名、发明人、专利年份
-输出：一张图片，1：1发明家日记美学
-</instruction>
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03779_0.jpg" width="600" alt="发明原型展示盒 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 21: 雪山蓝眸少女
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ “project_metadata”： { “output_format”：“RAW_Photography”， “版本”：“3.0_High_Fidelity”， “aspect_ratio”：“3：4”， “style_preset”：“Cinematic_Portrait” }, “subject_defi…
-
-#### 📝 提示词
-
-```
-{
-  “project_metadata”： {
-    “output_format”：“RAW_Photography”，
-    “版本”：“3.0_High_Fidelity”，
-    “aspect_ratio”：“3：4”，
-    “style_preset”：“Cinematic_Portrait”
-  },
-  “subject_definition”： {
-    “身份”：{
-      “生物识别”：{
-        “性别”：“女性”，
-        “apparent_age”：“20-25”，
-        “ethnicity_profile”：“北欧人”
-      },
-      “face_mapping”： {
-        “眼神”： { “iris_color”： “水晶蓝”， “表情”： “强烈、直接” }，
-        “皮肤”：{
-          “texture_type”：“超细致的真皮层”，
-          “瑕疵”：[“雀斑”、“冷引起的潮红”]，
-          “moisture_level”：“因积雪微微潮湿”
-        },
-        “头发”：{
-          “base_color”： “{argument name=”hair color“ default=”Blonde“}”，
-          “状态”：“凌乱/风吹散”
-          “互动”：“藏在护目镜带下，脸上有烟雾。”
-        }
-      }
-    },
-    “styling_layers”： {
-      “layer_0_skin”：“自然粉唇，素朴无华”，
-      “layer_1_base”： {
-        “商品”：“针织高领衫”，
-        “颜色”：“棕褐色”，
-        “纹理”：“竖纹”
-      },
-      “layer_2_outer”： {
-        “物品”：“派克大衣”，
-        “口音”：“棕色假毛领”，
-        “互动”：“雪花覆盖”
-      },
-      “配件”：{
-        “物品”：“滑雪护目镜”，
-        “frame”： “{argument name=”goggle frame color“ default=”Tan Matte“}”，
-        “镜片”：“棕色镜面处理”，
-        “位置”：“额头”
-      }
-    }
-  },
-  “environment_simulation”： {
-    “地理”：{
-      “primary_location”：“阿尔卑斯山坡”，
-      “background_elements”：“雪顶山峰”、“玄武岩露头”，
-      《depth_mapping》：“极端散景/背景模糊”
-    },
-    “particle_effects”： {
-      “类型”：“新鲜粉雪”，
-      “放置”：“毛领纤维”、“发丝”、“护目镜边缘”]
-    },
-    “lighting_engine”： {
-      “来源”：“阴天白天”，
-      “扩散”：“高（柔和的阴影）”
-      “color_temp”：“6500k（冷冬色调）”，
-      “高光”：“雪晶和护目镜上的反光光芒”
-    }
-  },
-  “optical_parameters”： {
-    “camera_specs”： {
-      “lens_type”：“85毫米定焦”，
-      “光圈”：“f/1.8”，
-      “shot_distance”：“特写（CU）”，
-      “focus_priority”：“眼睛的虹膜”
-    },
-    “render_passes”：[
-      “次表面散射（表皮）”，
-      “微位移（针织纹理）”
-      “体积冷空气雾”，
-      “单个卵泡的呈现”
-    ],
-    “mood_profile”：“宁静”、“北极”、“探索”、“高对比度”]
-  }
-}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04484_0.jpg" width="600" alt="雪山蓝眸少女 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04484_1.jpg" width="600" alt="雪山蓝眸少女 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 22: 玫瑰绅士的情人节
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一个成年男子坐在一个极简的工作室里，色调柔和中性。他穿着米色或奶油色针织毛衣和剪裁合身的长裤。一朵红玫瑰随意地放在他手中。柔和的柔和柔和光线，干净的背景，温暖的阴影。姿态放松，温柔自信的微笑。优雅、亲密的情人节氛围。时尚摄影，高端生活美学
-
-#### 📝 提示词
-
-```
-一个成年男子坐在一个极简的工作室里，色调柔和中性。他穿着米色或奶油色针织毛衣和剪裁合身的长裤。一朵红玫瑰随意地放在他手中。柔和的柔和柔和光线，干净的背景，温暖的阴影。姿态放松，温柔自信的微笑。优雅、亲密的情人节氛围。时尚摄影，高端生活美学
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25018_0.jpg" width="600" alt="玫瑰绅士的情人节 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 23: 金色时光的红发少女
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-照片写实的肖像，是一位二十出头的美丽年轻女子，长而蓬松、波浪状的鲜艳红发披散在背后和肩膀上，皮肤白皙光滑，带有淡淡自然光泽，明亮的蓝眼睛，温柔友善的微笑，紧闭的嘴唇，悠闲地站在水泥人行道上。她自信地摆姿势，右臂高举，手轻轻触碰头发，左臂放松地垂在身侧，手指微微弯曲。她穿着紧身白色无肩带长筒短款上衣，露出结实的腹部和肚…
-
-#### 📝 提示词
-
-```
-照片写实的肖像，是一位二十出头的美丽年轻女子，长而蓬松、波浪状的鲜艳红发披散在背后和肩膀上，皮肤白皙光滑，带有淡淡自然光泽，明亮的蓝眼睛，温柔友善的微笑，紧闭的嘴唇，悠闲地站在水泥人行道上。她自信地摆姿势，右臂高举，手轻轻触碰头发，左臂放松地垂在身侧，手指微微弯曲。她穿着紧身白色无肩带长筒短款上衣，露出结实的腹部和肚脐，搭配高腰浅色水洗牛仔短裤，裙摆破洞破洞，裙摆磨损，展现修长光滑的双腿。她胸前戴着一条精致的银色球链项链，上面用大而粗体的大写字母拼出“SADIE”，右手腕上戴着多条叠叠的珍珠和金色珠链。背景显示一栋现代商业建筑，配有大型反光玻璃窗，绿色常春藤攀爬在深色墙壁上，前景是茂密的绿色灌木，右侧有一个黄色消防栓，以及远处可见汽车停车场的停车场。自然日光，柔和的黄金时段光线，柔和的阴影，高度细致且逼真的皮肤质感，锐利的对焦，专业的时尚摄影风格，8K分辨率，电影般的构图，鲜艳的色彩，无文字或水印
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03054_0.jpg" width="600" alt="金色时光的红发少女 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 24: 青橙光影厨房热舞
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ "shot": "电影感中景镜头 (MS)，拍摄高位主体", "shot_details": "动态的、略带低角度的构图，捕捉模特跪在反光厨房台面上的场景。画面采用强烈的、戏剧性的“青色与橙色”灯光对比，突出主体皮肤和衣物的湿润质感，营造出极具活力、表演性的美学效果。", "subject": { "age":…
-
-#### 📝 提示词
-
-```
-{ "shot": "电影感中景镜头 (MS)，拍摄高位主体", "shot_details": "动态的、略带低角度的构图，捕捉模特跪在反光厨房台面上的场景。画面采用强烈的、戏剧性的“青色与橙色”灯光对比，突出主体皮肤和衣物的湿润质感，营造出极具活力、表演性的美学效果。", "subject": { "age": "25-30", "appearance": "健美、结实的身材；长长的深色头发看起来湿漉漉的/梳理得很光滑；表情强烈，略带喘息，适合音乐视频或情感表演。", "pose": "直接跪在抛光的深色台面上，躯干向前扭动。双手正在积极地拉扯或调整一件大号法兰绒衬衫，使其脱离肩膀/背部。头部略微后仰，目光向下/向前凝视。" }, "wardrobe": "湿润的、半透明的 {argument name=\"tank top color\" default=\"white\"} 运动背心/内衣；极简的深海军蓝或黑色比基尼下装/平角短裤；一件正在被脱下的红黑大格纹/法兰绒纽扣衬衫；深棕色、高跟凉鞋，配有精致的脚踝绑带。", "environment": "时尚、现代、工业风的厨房内部。特色包括深色木质吊柜、不锈钢电器背面/防溅板，以及一个大型、高反光的黑色或深灰色石材厨房岛台/台面。墙壁涂有冷色调、柔和的青色/浅蓝色。", "lighting": "高对比度双光源照明。主光/补光是冷色调、强烈的青色 LED 或频闪灯，照亮前景、主体正面和侧墙。辅助光/背光是来自嵌入式天花板灯具的暖色调、琥珀色/黄色环境光，丰富地照亮木质橱柜，并与冷色调前景形成强烈分离。", "camera": { "focal_length": "50mm (标准定焦)", "aperture": "f/4.0", "distance": "中景", "angle": "略微低角度 (仰视高位主体)", "framing": "跪姿主体的完整视图，从大腿下方开始，居中放置在厨房背景前。" }, "color_grade": "激进的电影级调色，强调冷青色阴影和暖琥珀色中间调之间的分离（青色与橙色 LUT）。整体画面略微欠曝，以最大限度地增强戏剧效果，这是高端视频制作的特点。", "selective_color": { "mask_target": "高光（湿润的皮肤、不锈钢）和阴影（环境补光）", "palette_hex": [ "#00CFFF", "#FF8C00" ], "rule": "在反光表面和环境光上强制使用冷蓝色调，与背景木材和主体皮肤中的饱和暖色调形成对比。以图片作为最终长宽比的参考。" }, "style": "高能量、光泽感十足的音乐视频风格" }
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_21526_0.jpg" width="600" alt="青橙光影厨房热舞 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 25: 时尚女性镜像自拍
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一位时尚年轻女性的镜像自拍，全身照，视角。她穿着黑色剪裁西装外套，腰部收紧，翻领宽大，扣子三颗，搭配黑色宽腿裤。她的头发优雅地束起，发丝框住脸庞，搭配明显的妆容（翅膀眼线、裸唇）、金色圈耳环和金戒指。她拿着智能手机，自信地望向一旁，捕捉着自己的倒影。背景是一个现代、干净的室内空间，配有浅色石阶。柔和均匀的室内灯光营造…
-
-#### 📝 提示词
-
-```
-一位时尚年轻女性的镜像自拍，全身照，视角。她穿着黑色剪裁西装外套，腰部收紧，翻领宽大，扣子三颗，搭配黑色宽腿裤。她的头发优雅地束起，发丝框住脸庞，搭配明显的妆容（翅膀眼线、裸唇）、金色圈耳环和金戒指。她拿着智能手机，自信地望向一旁，捕捉着自己的倒影。背景是一个现代、干净的室内空间，配有浅色石阶。柔和均匀的室内灯光营造出微微温暖的氛围。镜子的倒影中，可以看到一座欧洲建筑风格的城市建筑和阳台，楼梯上放着一个深色购物袋。细节丰富，对主题聚焦锐利，氛围复杂，写实，工作室水准。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_26253_0.jpg" width="600" alt="时尚女性镜像自拍 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 26: 秋日暖阳型男写真
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-使用参考图片中完全相同的脸，生成一张超写实的环境肖像，描绘一个{argument name=“subject” default=“young man”}，他背靠着一面简单的陈旧米色墙壁，悠闲地站着。一扇传统窗户位于他旁边，为场景增添了建筑特色。上方，一根{argument name=“leaves” default=…
-
-#### 📝 提示词
-
-```
-使用参考图片中完全相同的脸，生成一张超写实的环境肖像，描绘一个{argument name=“subject” default=“young man”}，他背靠着一面简单的陈旧米色墙壁，悠闲地站着。一扇传统窗户位于他旁边，为场景增添了建筑特色。上方，一根{argument name=“leaves” default=“鲜艳橙色秋叶”}的枝条伸入画面，几片叶子轻轻飘落空中。温暖的阳光透过树叶洒下，在墙壁、地面和主体上投下自然斑驳的光影和柔和的阴影。男子正面对着镜头，从正面角度拍摄，采用全身、远距离的构图，既展现了主体，也展现了周围环境。他有一头凌乱蓬乱的黑发，自然垂落在额头上，质感逼真，动作细腻。他的表情冷静、自信，且毫不费力地展现出时尚感。他穿着休闲的{argument name=“outfit” default=“米色宽腿裤，一件宽大的陶土衬衫，袖子随意卷到前臂，还有干净的现代运动鞋”}。色彩调色板温暖、大地气息且和谐，完美衬托秋天的氛围。自然阳光以逼真的高光、柔和的对比和电影般的深度照亮了场景。高度细致的皮肤质感，真实的布料褶皱，专业摄影，浅景深，超锐利对焦，逼真的色彩分级，编辑风格的生活方式摄影，拍摄于高端全肖像。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04198_0.jpg" width="600" alt="秋日暖阳型男写真 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 27: 逆光雀斑少女
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ "prompt_details": { "subject": { "type": "年轻女性肖像", "expression": "柔和、自信的微笑，头部略微倾斜", "eye_contact": "与镜头直接对视" }, "appearance": { "hair": { "style": "长发，蓬松，凌乱的…
-
-#### 📝 提示词
-
-```
-{ "prompt_details": { "subject": { "type": "年轻女性肖像", "expression": "柔和、自信的微笑，头部略微倾斜", "eye_contact": "与镜头直接对视" }, "appearance": { "hair": { "style": "长发，蓬松，凌乱的波浪发型，有层次感", "color": "深巧克力棕色，逆光下呈现强烈的红铜色高光", "texture": "蓬乱、毛躁，被阳光照亮的自然碎发" }, "face": { "skin_tone": "白皙至浅色，可见自然的皮肤纹理", "features": [ "鼻梁和脸颊上有明显的雀斑", "上扬眼线（猫眼风格）", "精心修饰的拱形眉毛", "丰满的嘴唇，带有自然的粉红色调" ], "accessories": "银色鼻中隔穿刺饰品" } }, "outfit": { "outerwear": "超大号法兰绒/格子衬衫（深棕色、黑色和白色格子图案）", "styling": "随意地滑落一侧肩膀，休闲的垃圾摇滚美学", "inner_wear": "内搭白色罗纹背心或吊带衫可见" }, "environment": { "setting": "户外住宅后院或花园", "background": "清晰聚焦的树木、植物和房屋屋顶线", "atmosphere": "温暖、阳光明媚、夏日气息，轻松的独立音乐氛围" }, "lighting": { "type": "自然阳光，黄金时段逆光", "effects": [ "顶部强烈的镜头光晕", "头发周围的光晕效果/轮廓光", "脸部柔和的斑驳阴影" ] }, "technical_specs": { "resolution": "4K 超高清", "quality": "照片级真实感，高度详细的纹理", "focus": "深景深，所有物体都清晰聚焦", "camera_style": "肖像摄影，原始风格，背景锐利" } } }
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15143_0.jpg" width="600" alt="逆光雀斑少女 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 28: 俏皮眨眼自拍时刻
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一名女性在距离内自拍。她的脸微微转向镜头，一只眼睛眯着，调皮地眨眼，嘴唇紧抿着，像是在亲吻。这个姿势轻松随意，营造出日常时刻的氛围。画面从上胸部到头部，从略微上方的角度拍摄，像手机镜头一样。画面居中，她的脸占据了画面的大部分。拍摄类型：一臂距离的自拍。 妆容轻盈，呈现柔和半哑光效果。温暖的米粉色眼影涂抹在眼皮上，柔和…
-
-#### 📝 提示词
-
-```
-一名女性在距离内自拍。她的脸微微转向镜头，一只眼睛眯着，调皮地眨眼，嘴唇紧抿着，像是在亲吻。这个姿势轻松随意，营造出日常时刻的氛围。画面从上胸部到头部，从略微上方的角度拍摄，像手机镜头一样。画面居中，她的脸占据了画面的大部分。拍摄类型：一臂距离的自拍。
-
-妆容轻盈，呈现柔和半哑光效果。温暖的米粉色眼影涂抹在眼皮上，柔和晕染。睫毛线上画着细细的深色眼线。睫毛分开整齐且略微拉长。嘴唇涂有柔和的裸粉色口红，带有缎面效果。
-
-头发被束成高高的随意发髻。几缕波浪状的发丝自由地垂落在脸上，形成柔和的质感。
-
-女子穿着一件宽松的浅灰色软针织面料卫衣。她脖子上挂着几条不同长度的细金链，上面挂着小吊坠。她戴着小圈形耳环。
-
-场景发生在明亮、温馨的室内环境。背景中可见一扇白色门和一面中性色调的浅米色墙壁。背景极简而平静，没有任何明亮细节。
-
-灯光柔和自然。阳光从侧面洒下，均匀地照亮了脸庞，投下柔和的阴影。灯光突显了头发、首饰和卫衣面料的质感。
-
-用35mm镜头拍摄，景深浅。面部对焦清晰，背景略显模糊。面料、头发和珠宝的质感都被细致捕捉。这种休闲生活方式摄影风格自然，细节丰富且写实。
-
-调色
-
-干净随意的生活方式氛围，
-柔和的中性灰和米色调，
-温暖的室内阳光亮点，
-略显柔和的自然色调，
-低对比度灯光，
-柔和的阴影过渡，
-室内氛围温馨舒适，
-自然生活方式色彩分级。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24641_0.jpg" width="600" alt="俏皮眨眼自拍时刻 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 29: 悉尼妹昼夜妆容对比
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-上半身肖像照，对比展示了 Sydney Sweeney 化妆前后。照片垂直居中分为两等份，以便直接进行视觉比较。每半部分的顶部都有清晰的文字标签。 左侧 – “Day”（顶部标签）： 自然、素颜妆容。真实的皮肤纹理，毛孔可见，眼下略有阴影，唇部自然，极少修饰。柔和、放松的笑容。发型随意。她穿着一件简单的睡裙，舒适而朴…
-
-#### 📝 提示词
-
-```
-上半身肖像照，对比展示了 Sydney Sweeney 化妆前后。照片垂直居中分为两等份，以便直接进行视觉比较。每半部分的顶部都有清晰的文字标签。 左侧 – “Day”（顶部标签）： 自然、素颜妆容。真实的皮肤纹理，毛孔可见，眼下略有阴影，唇部自然，极少修饰。柔和、放松的笑容。发型随意。她穿着一件简单的睡裙，舒适而朴素。呈现出白天的感觉，清新、未经修饰，真实的居家形象。 右侧 – “Night”（顶部标签）： 专业妆容：肤色均匀，微妙的修容，睫毛膏和眼线增强了眼部效果，眉毛清晰，唇色柔和。明亮、自信的笑容。发型优雅。她穿着一件漂亮的粉色深 V 领连衣裙。 两侧展示了相同的姿势、构图、相机距离、背景和角度，以确保对比纯粹来自妆容、造型和服装。 摄影与相机风格： 智能手机相机般的真实感，人像模式效果，手持感，自然光线，轻微的数字噪点，轻微的压缩伪影，真实的色彩平衡，极少修饰，真实的皮肤细节。休闲但清晰的对比照片，而非影棚般的完美效果。 长宽比： 3:4（纵向） 负面提示词： 美颜滤镜，过度平滑的皮肤，夸张的妆容，不一致的光线，不匹配的表情，面部扭曲，影棚魅力灯光，电影感，水印，文字伪影（“Day”和“Night”标签除外）
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_21465_0.jpg" width="600" alt="悉尼妹昼夜妆容对比 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 30: 墨镜少年像素插画
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-基于所提供的图片，一个高分辨率、边缘锐利的{argument name=“style” default=“像素艺术插画”}。一位时尚的年轻人，{argument name=“hair style” 默认=“dark， messy hair”}，坐在{argument name=“furniture” default=…
-
-#### 📝 提示词
-
-```
-基于所提供的图片，一个高分辨率、边缘锐利的{argument name=“style” default=“像素艺术插画”}。一位时尚的年轻人，{argument name=“hair style” 默认=“dark， messy hair”}，坐在{argument name=“furniture” default=“modern tan armchair”}，戴着深色墨镜，灰色图案T恤和宽腿牛仔裤。他随意地靠在椅背上，一只手调整着墨镜。背景是一面白色砖墙，墙上挂着三幅装框的素描。在第三个相框的右下角，保持原作相同的色彩调色板和细胞着色美学，确保所有线条清晰，分辨率得到提升。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07434_0.jpg" width="600" alt="墨镜少年像素插画 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 31: 叛逆朋克女肖像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-使用上传的参考照片——保持面部特征、比例和表情的精确一比一，不做任何修改。制作一个超高清的超写实特写肖像，描绘一位表情强烈、叛逆的女性，通过张开的手指直视镜头。 姿势：她的双手靠近脸部，手指微微张开遮住眼睛，露出手上复杂的纹身或绘画。 发型：扎成两个高高凌乱的太空发髻，银链交织其中。短而钝的刘海垂在额前，长长的链条辫…
-
-#### 📝 提示词
-
-```
-使用上传的参考照片——保持面部特征、比例和表情的精确一比一，不做任何修改。制作一个超高清的超写实特写肖像，描绘一位表情强烈、叛逆的女性，通过张开的手指直视镜头。 姿势：她的双手靠近脸部，手指微微张开遮住眼睛，露出手上复杂的纹身或绘画。 发型：扎成两个高高凌乱的太空发髻，银链交织其中。短而钝的刘海垂在额前，长长的链条辫子向前垂落。 服装：一件黑色时尚的西装外套或夹克，外面是黑色上衣，部分露出胸部和锁骨，上面布满了醒目的黑色艺术文字纹身和符号。 配饰：层叠的银链项链和项圈，胸前挂着各种金属首饰，夹克上别着小银色安全别针或夹子。 妆容/面部细节：戏剧性的黑色延长眼线，额头和脸颊上画有小巧的艺术黑色符号（新月、星星）。柔软的红粉色嘴唇，带有一个小横穿环。眼睛为浅色（蓝色或灰色）。 指甲：长款黑色细高跟美甲——锐利、光泽、优雅且前卫。 灯光：工作室灯光，强烈的高光和阴影，强调金属链条、纹身纹理和面部强度。美学：粗犷却精致，高端时尚编辑风格。 背景：极简渐变背景——柔和的蓝色渐渐淡入浅灰色，与深色服装形成清晰对比。 相机 / 风格：使用专业全画幅相机（如徕卡SL2 / 佳能EOS R3）拍摄，使用高分辨率人像微距镜头（约105mm f/2.8）。超细致的超写实编辑时尚造型——朋克时尚、戏剧性、电影感和挑衅性十足。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_27013_0.jpg" width="600" alt="叛逆朋克女肖像 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 32: 简约清新的扁平设计
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-シンプルかつ清潔感のあるフラットデザイン。 均一な黒のアウトライン線で描かれた人物やアイコンを配置し、 パステル調のアクセントカラーを部分的に使用。線の太さはできるだけ統一し、モダンな印象に。 丸みを帯びた形状と柔らかい印象を重視。 図解中心の構成（例：ベン図、棒グラフ、吹き出しなど）で、学生や若年層が見る資料やSN…
-
-#### 📝 提示词
-
-```
-シンプルかつ清潔感のあるフラットデザイン。
-均一な黒のアウトライン線で描かれた人物やアイコンを配置し、 パステル調のアクセントカラーを部分的に使用。線の太さはできるだけ統一し、モダンな印象に。
-丸みを帯びた形状と柔らかい印象を重視。
-図解中心の構成（例：ベン図、棒グラフ、吹き出しなど）で、学生や若年層が見る資料やSNS向けの親しみやすいトーン。
-余白を多く取り、視認性とバランスを意識したデザイン。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00726_0.jpg" width="600" alt="简约清新的扁平设计 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00726_1.jpg" width="600" alt="简约清新的扁平设计 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00726_2.jpg" width="600" alt="简约清新的扁平设计 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00726_3.jpg" width="600" alt="简约清新的扁平设计 - Image 4">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 33: 蕾丝美腿白棚写真
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-Девушка лежит на белой циклораме. Волосы очень длинные с легким и локонами и объемом у Корней Пару прядей на лице Одежда (что на втором фото) Ноги в полупрозра…
-
-#### 📝 提示词
-
-```
-Девушка лежит на белой циклораме.
-Волосы очень длинные с легким и локонами и объемом у Корней
-Пару прядей на лице
-Одежда (что на втором фото) Ноги в полупрозрачных кружевных колготках с цветочным узором, придающим изысканность
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24794_0.jpg" width="600" alt="蕾丝美腿白棚写真 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 34: 向日葵少女光影
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-将这张图片（上传你的图片）转换为一张64K单反画质、超写实电影般的明亮户外生活肖像，描绘一位年轻女性（与上传图片相同的面孔）站在盛开的向日葵花园中，正值黄金时段。 垂直2：3构图，画面中叠加创意拼贴元素。一位开朗的年轻女性（与上传图片相同），头发长而波浪 深棕色的头发自然地披散在肩上。她睁开眼睛，微笑着，散发着温暖与…
-
-#### 📝 提示词
-
-```
-将这张图片（上传你的图片）转换为一张64K单反画质、超写实电影般的明亮户外生活肖像，描绘一位年轻女性（与上传图片相同的面孔）站在盛开的向日葵花园中，正值黄金时段。
-
-垂直2：3构图，画面中叠加创意拼贴元素。一位开朗的年轻女性（与上传图片相同），头发长而波浪
-深棕色的头发自然地披散在肩上。她睁开眼睛，微笑着，散发着温暖与宁静。一只手举到额头上，仿佛挡住阳光，摆出一个阳光亲吻的姿势。她的姿态放松优雅，微微侧身。
-
-她穿着：-
-
-一种芥末黄的传统库尔塔（飘逸柔软的棉质面料）
-
-一件浅橄榄绿色的披肩优雅地披在肩上
-
-简约珠宝（小耳环、精致手镯）自然妆容，色调温暖，皮肤光泽。面料在微风中轻轻摆动，增添柔和感和动感。
-
-环境与背景：
-
-户外花园，种满了不同高度的鲜黄色向日葵
-
-背景是一栋带有楼梯和窗户的住宅楼
-
-晴朗的蓝天，温暖的阳光投下自然的阴影
-
-前景是细腻的花园绿植和草地，自然光为头发和服装营造柔和的高光。艺术与图形元素：
-
-创意Instagram拼贴布局，包含：
-
-左侧的垂直光带包含
-
-同一位女性在略有不同姿势中的4张较小的抓拍照片（宝丽来风格相框）
-
-一个柔和的粉彩色说明框，上面写着：
-
-“{argument name=”caption“ default=”她像阳光一样闪耀“}”
-
-装饰性插画向日葵贴纸贴在主体周围（一个靠近肩膀，一个靠近底部）
-
-一张柔和的黄色Spotify风格音乐叠加卡
-
-右侧显示：
-
-歌曲：“{argument name=”song“ default=”Sunflower“}”
-
-艺术家：“{argument name=”artist“ default=”[pappon）“}”歌词片段：-
-
-《旋律》
-
-音乐卡附近有个小丝带/蝴蝶结贴纸
-
-灯光与氛围：
-
-温暖的金色时光
-
-自然柔和的阴影
-
-明亮、鲜艳的调色
-
-轻微的发光效果带来梦幻美感
-
-开朗、女性化、健康的氛围
-
-年轻Instagram网红美学
-
-相机及技术细节：
-
-全画幅单反拍摄
-
-50mm镜头，f/2.8光圈
-
-浅景深（柔和背景模糊）
-
-高动态范围
-
-超细致的面料质感和发丝
-
-64K分辨率 干净、鲜艳、高饱和度的调色
-
-整体氛围与主题：
-
-阳光美学
-
-快乐、无忧无虑、充满活力
-
-柔和浪漫的氛围
-
-社交媒体作品集/帖子封面风格
-
-乡村风格遇上现代Instagram拼贴画。
-
-Octane渲染、超超现实与虚幻
-
-5号消防车。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10018_0.jpg" width="600" alt="向日葵少女光影 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 35: 浮世绘风格转换教程
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-将此（右侧图像）更改为 Ukiyo-e 并输出！
-
-#### 📝 提示词
-
-```
-将此（右侧图像）更改为 Ukiyo-e 并输出！
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_16287_0.jpg" width="600" alt="浮世绘风格转换教程 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 36: 奢华圣诞时尚肖像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-参考图片：概念变体。完全还原你的姿势、构图、灯光和造型。保持面部结构、体型比例和表情。 一幅超写实的奢华假日肖像，描绘一位女性在高端酒店或高档大堂里，与装饰精美的圣诞树摆姿势。室内拥有温暖的大理石墙面、金色色调、柔和的倒影和精致的节日氛围。 姿势：全身站立姿势。女子站立，一条腿抬起并弯曲于膝盖处，脚轻轻搭在一个装饰性…
-
-#### 📝 提示词
-
-```
-参考图片：概念变体。完全还原你的姿势、构图、灯光和造型。保持面部结构、体型比例和表情。
-一幅超写实的奢华假日肖像，描绘一位女性在高端酒店或高档大堂里，与装饰精美的圣诞树摆姿势。室内拥有温暖的大理石墙面、金色色调、柔和的倒影和精致的节日氛围。
-姿势：全身站立姿势。女子站立，一条腿抬起并弯曲于膝盖处，脚轻轻搭在一个装饰性的礼盒上。另一条腿伸直，支撑身体。一只手放在臀部，另一只手则放松地沿着身体。姿态自信、优雅且高大。
-面部表情：
-冷静、自信、迷人的表情。中性嘴唇，锐利的目光。自然的面部比例被精确保留。晚妆，柔和修容，挑染肌肤，眼线分明。皮肤质地很逼真。
-发型：整齐直发，披肩后。干净、精致的外观。服装：闪亮银色两件套晚装。长袖短款上衣，不对称领口，剪裁剪裁。高腰长裙，开衩及大腿，露出腿部。
-布料上覆盖着亮片，光线反射强烈。裸色尖头高跟鞋配纤细细跟。环境与装饰：大型圣诞树装饰有金色、青铜色和白色装饰品，温暖的彩灯、蝴蝶结和金属点缀。白色奢华礼盒，配有金色丝带，放在树根部。
-抛光的大理石地板和温暖的金色内饰。照明：温暖的室内氛围灯，柔和的高光反射在亮片和装饰品上。对比度平衡，光泽优雅，没有刺眼的阴影。节日般的电影氛围。摄影与风格：高端时尚与节日编辑摄影。全身构图，对主体的锐利聚焦，背景柔和感细腻。极其写实、华丽、电影般的奢华美学。氛围与关键词：节日魅力、节日奢华、圣诞优雅、晚间高级定制、金色色调、高级时尚庆典、电影现实主义。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_26531_0.jpg" width="600" alt="奢华圣诞时尚肖像 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 37: 暗影轮廓
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一尊强劲、高对比度的黑白侧面肖像（使用参考照片，保持人物面容100%准确），五官鲜明且永恒，从完全黑暗中显现。 构图极简且雕塑化，形态、光线和阴影定义主题，而非颜色或质感。 （主体为附图中的人物） 主体侧脸干净而坚定，神情沉思，仿佛夹在思绪与超越之间。他穿着一件深色紧身高领毛衣，与黑色虚空无缝融合，抹去了所有细节，只…
-
-#### 📝 提示词
-
-```
-一尊强劲、高对比度的黑白侧面肖像（使用参考照片，保持人物面容100%准确），五官鲜明且永恒，从完全黑暗中显现。  
-构图极简且雕塑化，形态、光线和阴影定义主题，而非颜色或质感。  
-（主体为附图中的人物） 
-主体侧脸干净而坚定，神情沉思，仿佛夹在思绪与超越之间。他穿着一件深色紧身高领毛衣，与黑色虚空无缝融合，抹去了所有细节，只剩下轮廓的发光边缘。  
-一束狭窄的边缘光线明亮、锐利且有方向性地勾勒出头部、颈部和肩膀的轮廓，精准地描绘出轮廓。光线从主体正后方稍高处射出，形成一条细长的发光光晕，沿着头骨的下颌线和曲线形成，其余部分则溶解成纯黑。  
-背景是绝对的黑暗，一个没有质感和深度的虚无，强调了光影之间的光明界限。  
-没有中间色调，只有最纯净的黑色和刻意的对比，与最明亮的白色形成鲜明对比，增强了戏剧性和抽象感。  
-氛围与美学：极简主义、概念性强且深刻内省。唤起孤独、沉思和永恒优雅。感觉电影般且亲密，通过光线探索身份认同。  
-技术细节：  
-使用长焦镜头拍摄以实现压缩透视 
-光圈：全开（f/1.8-2.8），以实现发光轮廓和浅景深 
-光线：正面，高光平衡良好 
-渲染：超现实的8K电影级质量，真实的镜头物理效果，景深，细腻的胶片颗粒感
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_26417_0.jpg" width="600" alt="暗影轮廓 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 38: 书籍广告生成
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-広告画像を生成してください ==== 広告の仕様 === - アスペクト比: 16:9（横長） - 広告したい商品: 添付画像1枚目の本 - アイキャッチ: 添付画像1枚目の本を立体的に配置 - 使用言語: 日本語 - テイスト: ビジネス書の広告 # 掲載文字: - プリデッドコピー: | 【 発売1週間ほどで重版…
-
-#### 📝 提示词
-
-```
-広告画像を生成してください
-
-==== 広告の仕様 ===
-- アスペクト比: 16:9（横長）
-- 広告したい商品: 添付画像1枚目の本
-- アイキャッチ: 添付画像1枚目の本を立体的に配置
-- 使用言語: 日本語
-- テイスト: ビジネス書の広告
-
-# 掲載文字:
-- プリデッドコピー: | 【 発売1週間ほどで重版決定 】
-
-書籍「{argument name="書籍名" default="AIでゼロからデザイン"}」好評発売中
-
-Amazon 売れ筋ランキング
-商業デザイン売上 1位 を記録（10/15 調べ）
-https://t.co/QxbYpfFVj6
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02034_0.jpg" width="600" alt="书籍广告生成 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 39: 洛可可魅影
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ “元能力”：{ “意图”：“电影级高端时尚编辑” “优先事项”：“氛围深度、服装华丽、发型与场景之间的色彩对比”， “device_profile”：“第一阶段XF IQ4 150MP系统” }, “框架”： { “相位”：“4：5”， “构图”：“中景，主体居中，背景杂乱无奇”， “布局”：“主体是运动漩涡中的…
-
-#### 📝 提示词
-
-```
-{
-  “元能力”：{
-    “意图”：“电影级高端时尚编辑”
-    “优先事项”：“氛围深度、服装华丽、发型与场景之间的色彩对比”，
-    “device_profile”：“第一阶段XF IQ4 150MP系统”
-  },
-  “框架”： {
-    “相位”：“4：5”，
-    “构图”：“中景，主体居中，背景杂乱无奇”，
-    “布局”：“主体是运动漩涡中的静态锚点”，
-    “camera_angle”：“与眼睛平齐，略低以强调庄严”，
-    “tilt_roll_degrees”：“0度”
-  },
-  “主旨”：{
-    “性别”：“女性”，
-    “身份”：“拥有独特的瓷白皮肤和零星雀斑的年轻女子”
-    “人口统计”：“白人，20多岁中期”
-    “脸部”：“对称的五官，醒目的蓝绿色眼睛，柔和自然妆容，带有大胆的浆果唇染”，
-    “发型”：“鲜艳的铜红色，半盘起的复杂洛可可蓬蓬发，散落松散波浪。”
-    “身材”：“身材修长优雅，领口以上可见分明的锁骨”
-    “表情”：“神秘，混乱中的宁静，直视镜头的锐利目光”，
-    “姿势”：“完全静止，身体倾斜45度，头转向镜头，一只手将面具拿离脸部”
-  },
-  “wardrobe_accessories”： {
-    “服装”： [
-      {
-        “物品”：“舞会礼服”，
-        “材质”：“香槟色丝绸锦缎，绣金线”，
-        “颜色”：“香槟与金色”，
-        “合身”：“结构紧身胸衣，配有蓬松的驮裙”
-      }
-    ],
-    “配件”：[
-      {
-        “物品”：“威尼斯面具”，
-        “颜色”：“珍珠白与金色”
-        “材料”：“瓷器和羽毛”，
-        “brand_style”：“古董工匠”
-      },
-      {
-        “物品”：“Choker”，
-        “颜色”：“深天鹅绒红色”，
-        “材料”：“天鹅绒和浮雕”，
-        “brand_style”：“复古维多利亚风格”
-      }
-    ]
-  },
-  “环境”：{
-    “环境”：“华丽的洛可可舞厅，宛如镜厅，高耸的天花板，精致的壁画”
-    “表面”：“抛光拼花地板、镀金墙面线脚、落地镜子”，
-    “深度”：“深邃的背景，充满模糊旋转的舞者穿着时代服装”，
-    “氛围”：“朦胧、梦幻、颓废，充满漂浮的金色尘埃”，
-    “lens_interaction”：“吊灯灯光柔和泛光，背景元素略有运动模糊”
-  },
-  “闪电”：{
-    “关键”：“柔和温暖的伦勃朗灯光聚焦面部”，
-    “fill”：“烛光在金色墙壁上反射”，
-    “边缘”：“冷淡的淡蓝色月光从高窗洒下，将头发与背景分开”，
-    “阴影”：“丰富而戏剧性的阴影落入裙褶中”，
-    “color_temperature”：“混合光线：3200K（烛光）对比5600K（月光）”，
-    “sensor_flare”：“吊灯上的细微星芒”
-  },
-  “相机”：{
-    “lens_type”：“主人像镜头”，
-    “focal_length”：“85毫米”，
-  }
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13678_0.jpg" width="600" alt="洛可可魅影 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13678_1.jpg" width="600" alt="洛可可魅影 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 40: 泳池光影人像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ “元能力”：{ “类型”：“照片”， “orientation_lock”：“锁定：方位保持4：5”， “sensor_emulation”：“iPhone 15 Pro / 高分辨率智能手机传感器” } }, “spatial_orientation_engine”： { “subject_facing_dir…
-
-#### 📝 提示词
-
-```
-{
-  “元能力”：{
-      “类型”：“照片”，
-      “orientation_lock”：“锁定：方位保持4：5”，
-      “sensor_emulation”：“iPhone 15 Pro / 高分辨率智能手机传感器”
-    }
-  },
-  “spatial_orientation_engine”： {
-    “subject_facing_direction”：“CAMERA（向上视角）”，
-    “body_rotation”：“身体前倾，身体俯卧，头向后仰面对镜片”，
-    “camera_position_relative”：“高角度/鸟瞰视角，正上方和正前方”
-  },
-  “camera_optics_and_geometry”： {
-    “lens_profile”： {
-      “focal_length”：“26毫米（广角）”，
-      “光圈”：“f/1.8（因距离导致的深景深）”
-      “lens_character”：“数字处理带来的现代锐利度”
-    },
-    “optical_flaws”：[
-      “镜面开花（阳光洒在水面上）”
-      “水的折射”，
-      “轻微的桶状失真（特写）”
-    ]
-  },
-  “environment_and_physics”： {
-    “lighting_engine”： {
-      《primary_source》：《正午的太阳（左上角）》，
-      “radiosity_color_bleed”：“青绿色的光线从泳池水面反射到下巴下方和手臂内侧”，
-      “shadow_structure”：“头部投射在肩膀和泳池边缘的锐利、强烈对比的阴影”，
-      “体积感”：“清空气 / 高对比度”
-    },
-    “surface_physics”： {
-      “weather_impact”：“水珠在油润/湿润的皮肤上凝结，湿发结块”，
-      “material_response”：“混凝土护墙吸收热量（干燥），水表现出腐蚀性和波纹”
-    }
-  },
-  “scene_text_ocr”： {
-    “检测到”：错误，
-    “内容”：[]
-  },
-  “objects_and_actors”：[
-    {
-      “id”：“MAIN_SUBJECT”，
-      “角色”：“身份交换目标”，
-      “pose_engineering”： {
-        “skeletal_rig”：“前臂平放在泳池檐口上，肩膀上耸，脖子向后伸展。”
-        “gaze_vector”：“眼睛直视镜头。”
-        “interaction_physics”：“双手松松地握住边缘/休息，体重由肘部支撑。”
-      },
-      “physiological_state”： {
-        “body_temp_visuals”：“皮肤湿润，高镜面高光，因阳光曝晒而脸颊泛红。”
-        “skin_light_interaction”：“鼻梁和肩膀的地下散射。”
-      },
-      “clothing_simulation”： {
-        “garment_stack”：“{argument name=”泳衣颜色“ default=”橄榄绿“} 比基尼上衣（肩带可见）”，
-        “fabric_mechanics”：“肩带微微顶入湿润的皮肤，几乎看不见面料。”
-        “texture_and_wear”：“合成泳衣面料，潮湿。”
-      },
-      “identity_placeholders”： {
-        “skin_tone”：“[[USE_REFERENCE_SKIN]]”，
-        “face_structure”：“[[USE_REFERENCE_FACE]]”，
-        “hair_style”：“[[USE_REFERENCE_HAIR]]”
-        “体型”：“曲线优美、匀称、运动型中胚型”
-      }
-    }
-  ],
-  “off_screen_context”：{
-    “反射”：“阳光眩光反射在左侧水面上”，
-    “implied_elements”：“主体后方的泳池身体”
-  },
-  “generation_keywords”： {
-    “正片”：“照片级写实，高角度拍摄，湿S”
-  }
-}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09305_0.jpg" width="600" alt="泳池光影人像 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 41: 扎比家族图解
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{argument name="作品と対象" default="ガンダムオリジンのザビ家"}を{argument name="スタイル" default="インフォグラフィック風"}にまとめて下さい
-
-#### 📝 提示词
-
-```
-{argument name="作品と対象" default="ガンダムオリジンのザビ家"}を{argument name="スタイル" default="インフォグラフィック風"}にまとめて下さい
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14252_0.jpg" width="600" alt="扎比家族图解 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 42: Mia穿搭贴纸日记
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-Mia OOTD贴纸 以我上传的自拍为准确参考，保持我的脸、身体、比例和服装完全不变，保持照片级真实的准确性。 在单件服装周围加上白色贴纸边框，就像剪下来粘贴到图片上一样。在时尚笔记本上加上美感的注释，用柔和的铅笔风格标签和箭头指向每件物品。 注释应该像剪贴簿或时尚日记一样简洁干净，不要显得过于拥挤。保持原始照片的真…
-
-#### 📝 提示词
-
-```
-Mia OOTD贴纸 以我上传的自拍为准确参考，保持我的脸、身体、比例和服装完全不变，保持照片级真实的准确性。
-在单件服装周围加上白色贴纸边框，就像剪下来粘贴到图片上一样。在时尚笔记本上加上美感的注释，用柔和的铅笔风格标签和箭头指向每件物品。
-注释应该像剪贴簿或时尚日记一样简洁干净，不要显得过于拥挤。保持原始照片的真实感，同时在上面叠加编辑风格的穿搭提示。
-整体风格像是日韩时尚杂志《OOTD》的拆解，融合了写实摄影与俏皮的剪贴簿元素，干净的构图，柔和的色调，以及精致却又休闲的美学。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10601_0.jpg" width="600" alt="Mia穿搭贴纸日记 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 43: 男女配对的动漫服饰
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-【設定セクション】 [女性の服装名]: {argument name="女性の服装名" default="セーラー服"} [髪の色]: {argument name="髪の色" default="黒髪"} [瞳の色]: {argument name="瞳の色" default="青色の瞳"} [テーマカラー]: {a…
-
-#### 📝 提示词
-
-```
-【設定セクション】
-[女性の服装名]: {argument name="女性の服装名" default="セーラー服"}
-[髪の色]: {argument name="髪の色" default="黒髪"}
-[瞳の色]: {argument name="瞳の色" default="青色の瞳"}
-[テーマカラー]: {argument name="テーマカラー" default="水色と白"}
-[スタイルの雰囲気]: 繊細なアニメ塗り、清潔感、白い背景のキャラクター立ち絵
-
-【生成プロンプト本文】
-最高品質のアニメーションイラスト。
-1人の少年（男性キャラクター）。全身図。
-髪の色は[髪の色]、目の色は[瞳の色]です。
-
-《服装の指示》
-彼は、[女性の服装名]と社会通念上「対（つい）」となる男性用の服装を着用しています。
-・重要：[女性の服装名]が女性特有のデザイン（例：セーラー服、ドレス、振袖）である場合、女性服のデザインをそのまま適用せず、それに対応する男性の正装や制服に変換してください。
-（変換例：セーラー服なら「学ラン」または「ブレザー」、振袖なら「紋付袴」、ドレスなら「タキシード」）
-・服装の配色は[テーマカラー]を取り入れ、ペア感を演出してください。
-
-絵のスタイルは、添付画像のような繊細なラインと鮮やかな色彩を持つ現代的なアニメ調で、背景はシンプルな白です。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04548_0.jpg" width="600" alt="男女配对的动漫服饰 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04548_1.jpg" width="600" alt="男女配对的动漫服饰 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 44: 梅西生日致敬海报
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-为{argument name=“athlete” default=“Lionel Messi”}制作一张高级生日致敬海报。超写实体育摄影，庆祝{argument name=“athlete” default=“Messi”}的生日。{argument name=“athlete” default=“Messi”}，…
-
-#### 📝 提示词
-
-```
-为{argument name=“athlete” default=“Lionel Messi”}制作一张高级生日致敬海报。超写实体育摄影，庆祝{argument name=“athlete” default=“Messi”}的生日。{argument name=“athlete” default=“Messi”}，身穿{argument name=“team” default=“阿根廷国家队”}球衣（天蓝白条纹，10号），骄傲地站在拥挤的体育场中。
-
-{argument name=“athlete” default=“Messi”} 双臂高举，热情地微笑着庆祝，向观众致意。一只手臂上有细致的纹身，蓝色队长臂章，逼真的面部特征，真实的运动员体格。明亮的体育场照明灯、欢呼的球迷、背景中飘扬的阿根廷国旗、电影般的景深和情感丰富的胜利氛围。
-
-包含优雅的生日海报字体：
-
-“LEO 生日快乐 {argument name=”athlete“ default=”MESSI“}”
-
-副标题：
-
-“{argument name=”subtitle“ default=”史上最伟大“}”
-
-奢华体育编辑风格，高端杂志封面美学，逼真球衣面料，戏剧性灯光，逼真皮肤质感，鲜艳色彩，空中飘落的彩纸屑，超细致，8K画质，杰作体育海报。
-
-负面提示：模糊的脸部、多余的手指、扭曲的手、糟糕的解剖结构、低质量、裁剪的身体、水印、标志、文字伪影、卡通风格、AI伪影。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02030_0.jpg" width="600" alt="梅西生日致敬海报 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02030_1.jpg" width="600" alt="梅西生日致敬海报 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 45: 落日泳池吻
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-Кинематографичная романтическая сцена: пара целуется у края инфинити-бассейна на закате, естественно, интимно, без театральности.Вертикаль 3:4, камера на уровн…
-
-#### 📝 提示词
-
-```
-Кинематографичная романтическая сцена: пара целуется у края инфинити-бассейна на закате, естественно, интимно, без театральности.Вертикаль 3:4, камера на уровне груди, лёгкий нижний ракурс.Герои в нижней трети, правее центра;верх — небо с градиентом.Мужчина сидит на краю, женщина между его колен.У неё слитный купальник с открытой спиной, часы в стиле Rolex, чёрный маникюр;у него шорты, цепь.Вода — зеркало, горы, солнце.Контровой свет， rim light， VSCO A6， чистые цвета， зерно， высокий контраст.
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22720_0.jpg" width="600" alt="落日泳池吻 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 46: 霓虹餐厅魅影
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一张女孩在高档餐厅摆姿势的照片。她站在桌旁，优雅地一只手撑在桌上，目光向一旁，皮肤因荧光而泛红。头发散落，随风飘扬，部分遮住了脸。头发又长又亮。她看着镜头。完美的晚妆。唇部用哑光粉色。用闪光灯拍照，创造出对比鲜明的光影，强调质感和细节。背景里的人。
-
-#### 📝 提示词
-
-```
-一张女孩在高档餐厅摆姿势的照片。她站在桌旁，优雅地一只手撑在桌上，目光向一旁，皮肤因荧光而泛红。头发散落，随风飘扬，部分遮住了脸。头发又长又亮。她看着镜头。完美的晚妆。唇部用哑光粉色。用闪光灯拍照，创造出对比鲜明的光影，强调质感和细节。背景里的人。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24529_0.jpg" width="600" alt="霓虹餐厅魅影 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 47: 时尚人像九宫格角度参考
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-高分辨率编辑角度参考表。完美的3x3网格。画面比例为4：5。严格使用附带的自拍作为身份参考。保持9个面板（相同脸型、年龄、发色、肤色、比例）的100%面部一致性。服装（所有画面固定）：宽大的红色西装夹克和裤子，白色衬衫，黑色领带。干净的编辑版大号版型。背景：中性浅灰色工作室环幕。灯光：柔和的专业工作室灯光，带有细腻的…
-
-#### 📝 提示词
-
-```
-高分辨率编辑角度参考表。完美的3x3网格。画面比例为4：5。严格使用附带的自拍作为身份参考。保持9个面板（相同脸型、年龄、发色、肤色、比例）的100%面部一致性。服装（所有画面固定）：宽大的红色西装夹克和裤子，白色衬衫，黑色领带。干净的编辑版大号版型。背景：中性浅灰色工作室环幕。灯光：柔和的专业工作室灯光，带有细腻的补光。相机：85毫米人像拍摄，浅景深，面部和服装对焦锐利。构图：每个单元都置中主体，框架一致，间距均衡。网格标签：每个单元格底部中央有干净的白色无衬线文字，显示角度。第一排（上方）：1. 中等前置——正面上腰，直视。2. 特写——面部和眼睛的极近特写。3. 三分之三——躯干和面部的3/4转。第2行（中间）：4. 侧面——精确侧面侧面。5. 低角度全拍——从略下方的全身。6. 高角度——摄像机略高于上方。第3排（底部）：7. 肩膀后方——肩膀后方回头。8. 荷兰倾斜——轻微的摄像机倾斜。9. 中步——自然的中步抓拍姿势。风格：时尚摄影，电影感十足，高端。渲染质量：超写实，文字清晰，织物纹理可见，皮肤自然，光照一致。负面提示：身份改变、解剖结构扭曲、多余的肢体、服装不一致、背景杂乱
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02871_0.jpg" width="600" alt="时尚人像九宫格角度参考 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 48: 全民基本收入解析
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-ベーシックインカムについてまとめた画像を作成して
-
-#### 📝 提示词
-
-```
-ベーシックインカムについてまとめた画像を作成して
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13059_0.jpg" width="600" alt="全民基本收入解析 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 49: 田野拖拉机少女
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ "scene": "一名年轻女子白天在乡村田野里驾驶绿色拖拉机，面带微笑。", "subject": { "character": "年轻女子，面带愉悦，勤劳朴实", "face": { "structure": "椭圆形脸，酒窝明显，五官柔和", "skin": "被阳光亲吻过的肤色，自然质感，略带光泽", "…
-
-#### 📝 提示词
-
-```
-{ "scene": "一名年轻女子白天在乡村田野里驾驶绿色拖拉机，面带微笑。", "subject": { "character": "年轻女子，面带愉悦，勤劳朴实", "face": { "structure": "椭圆形脸，酒窝明显，五官柔和", "skin": "被阳光亲吻过的肤色，自然质感，略带光泽", "eyes": { "shape": "杏仁状", "color": "深棕色", "expression": "温暖、友善，因阳光而略微眯眼" }, "mouth": { "lips": "自然、柔和的粉色，形成一个宽阔的闭口微笑" }, "makeup": "淡妆，自然妆容" }, "hair": { "color": "黑色", "length": "中长发，扎在脑后", "texture": "直发，有些许散落的发丝", "style": "休闲马尾辫，脸颊两侧有几缕碎发", "shine": "自然健康的亮泽" } }, "pose": { "overall": "坐姿，活跃", "position": { "base": "坐在拖拉机驾驶座上", "orientation": "正对镜头" } }, "outfit": { "top": { "layer_1": "灰色圆领 T 恤", "layer_2": "红黑格子法兰绒衬衫，敞开穿着", "overalls": "经典蓝色牛仔背带裤，带一个前胸口袋" } }, "environment": { "location": "农田", "vehicle": { "type": "绿色拖拉机" }, "lighting": { "type": "自然日光，黄金时段的光线" } }, "photography": { "angle": "平视角度，中景", "framing": "主体" } }
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_20820_0.jpg" width="600" alt="田野拖拉机少女 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 50: 浴室护肤自拍
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ "image_generation": { "subject": { "description": "一位年轻女性在浴室里敷护肤霜时对着镜子自拍", "pose": "站在圆形镜子前，一只手拿着智能手机，另一只手轻轻触碰脸颊", "expression": "平静、自然，专注于护肤程序", "gaze": "通过…
-
-#### 📝 提示词
-
-```
-{ "image_generation": { "subject": { "description": "一位年轻女性在浴室里敷护肤霜时对着镜子自拍", "pose": "站在圆形镜子前，一只手拿着智能手机，另一只手轻轻触碰脸颊", "expression": "平静、自然，专注于护肤程序", "gaze": "通过镜子看向手机屏幕" }, "appearance": { "hair": { "color": "深棕色", "style": "用白色浴巾包裹着" }, "face": { "skin_tone": "白皙，带有自然光泽", "makeup": "无妆，清新自然妆容", "details": "脸颊、额头和下巴上涂抹着少量面霜" }, "accessories": [ "金色环形耳环", "订婚戒指", "修长的美甲", "带浅粉色手机壳的智能手机" ] }, "outfit": { "clothing": "白色浴袍" }, "environment": { "setting": "明亮现代的浴室", "background_elements": [ "蓝色瓷砖墙", "大圆形镜子", "有自然光的窗户", "石墙细节", "窗外绿色植物" ], "atmosphere": "干净、清新、早晨护肤的氛围" }, "props": { "skincare": "涂抹在皮肤上的面霜", "mirror": "圆形浴室镜", "phone": "用于自拍的智能手机" }, "lighting": { "type": "自然日光", "direction": "来自窗户的前侧光", "quality": "柔和明亮" }, "camera": { "angle": "镜面反射，视线水平", "framing": "中景特写", "lens": "标准智能手机镜头", "depth_of_field": "主体清晰对焦，背景略微柔和" }, "aesthetic": { "style": "生活方式护肤摄影", "vibe": "干净、自我护理、放松", "color_palette": "白色、蓝色和自然中性色调" }, "quality": { "realism": "高度写实", "resolution": "高分辨率", "look": "自然生活方式照片" } } }
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_16846_0.jpg" width="600" alt="浴室护肤自拍 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 51: 雨夜书房沉思者
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ “image_analysis”： { “主旨”：{ “名字”：“英俊的南亚男人”， “特色”：{ “头发”：“向后梳理，深色，有纹理，发丝环绕着脸庞”， “胡须”：“修剪整齐、短且浓密” “表情”：“沉思、专注、聪慧的目光”， “姿势”：“坐着，右手靠近下巴”， “服装”：{ “衬衫”：“黑色，解开扣子的上衣，…
-
-#### 📝 提示词
-
-```
-{
-  “image_analysis”： {
-    “主旨”：{
-      “名字”：“英俊的南亚男人”，
-      “特色”：{
-        “头发”：“向后梳理，深色，有纹理，发丝环绕着脸庞”，
-        “胡须”：“修剪整齐、短且浓密”
-        “表情”：“沉思、专注、聪慧的目光”，
-        “姿势”：“坐着，右手靠近下巴”，
-        “服装”：{
-          “衬衫”：“黑色，解开扣子的上衣，卷起袖子”，
-          “手表”：“经典皮革带金色表盘”
-        }
-      }
-    },
-    “设定”：{
-      “地点”：“一个温馨、精致的家庭图书馆/书房”，
-      “元素”： {
-        “书桌”：“质朴木桌，略显磨损”，
-        “背景”：{
-          “窗户”：“大型多层玻璃窗，雨水湿润，望向郁郁葱葱的庭院”
-          “书架”：“深色木质书架上摆满了陈旧的皮革装订书籍”
-          “照明”：“复古风格台灯发出的温暖光芒，灯罩为米白色”
-        },
-        “细节”： {
-          “手表”：“左手腕上显著且清晰可见的表盘”
-          “眼镜”：“桌上靠近边缘的一副老花镜”
-        }
-      }
-    },
-    “闪电”：{
-      “风格”：“戏剧明暗对比 / 电影低调”，
-      “描述”：“阴影与光线形成强烈对比。暖色灯光在脸部、头发、衬衫和木纹上形成柔和的高光，窗外则是较冷的色调，形成平衡。”
-    },
-    “风格”：{
-      “艺术性”：“超现实、电影感十足的静态”，
-      “技巧”：“浅景深，对男性清晰聚焦，背景模糊（散景）”
-    }
-  },
-  “提示”：{
-    “文本”：“一张电影感十足、超写实的静态照片，捕捉了一位沉思的南亚男子在他温馨的家庭图书馆中。他坐在一张质朴的木桌旁，右手靠近下巴，神情专注。他穿着一件黑色半敞开的衬衫，配戴一块经典的金色表盘皮表。背景是一扇被雨水打滑的大窗户，可以看到庭院景观，以及摆满陈旧书籍的深色木质书架。一盏复古风格的台灯投射出温暖而戏剧性的光辉，营造出强烈的明暗对比光线，并投下深邃的阴影。对他的脸和手表有清晰的聚焦。浅景深，呈现出美丽的散景效果。胶片颗粒感。”
-  }
-}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12280_0.jpg" width="600" alt="雨夜书房沉思者 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 52: 游戏微缩艺术
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-<instructions> 你是一位世界级的视觉艺术家和病毒内容生成器，负责为游戏或书籍创作高概念的立体模型。对每个输入，你将分析核心身份、定义性文物、氛围、人物以及主体的底层叙事。然后你将根据标题和制作年份构建一个特定的容器和合适的外壳：对于任何标题，分析其机制和美学。想象一个掏空的物品。内部是一个著名关卡或场景…
-
-#### 📝 提示词
-
-```
-<instructions> 你是一位世界级的视觉艺术家和病毒内容生成器，负责为游戏或书籍创作高概念的立体模型。对每个输入，你将分析核心身份、定义性文物、氛围、人物以及主体的底层叙事。然后你将根据标题和制作年份构建一个特定的容器和合适的外壳：对于任何标题，分析其机制和美学。想象一个掏空的物品。内部是一个著名关卡或场景的立体模型。它包含微缩元素、素材、微小主角以及与主题相关的其他元素。灯光和风格应与标题相符 </instructions>
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07070_0.jpg" width="600" alt="游戏微缩艺术 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07070_1.jpg" width="600" alt="游戏微缩艺术 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 53: 冬夜红帽皮草人像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-傍晚时分，女子伫立于户外，身侧四分之三侧，双肩微微抬起，裹着一件蓬松的皮草大衣，头部略微后仰并转向左侧，目光向上望向侧方。这是一幅近景肖像，从胸部到头顶，视角与人物视线齐平。构图偏左，背景是夜幕下城市朦胧的灯光。她的肤色均匀，带有温暖的金桃色调，颧骨和鼻尖泛着缎光，妆容干净利落，晕染柔和，阴影呈中性暖色调，睫毛纤长，…
-
-#### 📝 提示词
-
-```
-傍晚时分，女子伫立于户外，身侧四分之三侧，双肩微微抬起，裹着一件蓬松的皮草大衣，头部略微后仰并转向左侧，目光向上望向侧方。这是一幅近景肖像，从胸部到头顶，视角与人物视线齐平。构图偏左，背景是夜幕下城市朦胧的灯光。她的肤色均匀，带有温暖的金桃色调，颧骨和鼻尖泛着缎光，妆容干净利落，晕染柔和，阴影呈中性暖色调，睫毛纤长，唇膏是鲜艳的哑光浓郁猩红色，唇线清晰。头发半藏在帽子下，几缕碎发柔顺地垂落在脸颊两侧，发质顺滑，发根略微蓬松。她身穿一件蓬松的乳白色皮草大衣，皮毛厚实蓬松，触感极佳。内搭一件白色高领毛衣，质地紧密，带有罗纹针织纹理。她头上戴着一顶鲜红色的针织帽，帽檐厚实，长长的系带垂在下方。拍摄地点是夜晚的开阔地带。背景近乎漆黑，几盏城市灯光投射出柔和的光晕。空气略带凉意，点缀着如同轻雪或尘埃般的细微光点。光线混合：温暖的正面光照亮了脸部和皮毛，在下巴和皮肤褶皱处投下柔和的阴影。背景中冷白光则增强了对比度和景深。对比度适中，眼神光明亮清晰。照片细节丰富，极具照片质感，使用85mm人像镜头拍摄，景深较浅，面部清晰对焦，背景完全虚化成柔和的散景，皮毛和针织品的纹理也清晰可见。深黑色背景，明亮的白色散景，高对比度的暖色调主体照明，浓郁的红色点缀，温暖的金色肌肤高光，冷白色背景光对比，眼睛中闪亮的眼神光，中等饱和度，强烈的红色强调，柔和的电影级景深，现代节日色彩分级。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25110_0.jpg" width="600" alt="冬夜红帽皮草人像 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 54: 罗马黄昏·酒红倩影
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ "image_description": { "scene": { "location": { "city": "罗马", "setting": "俯瞰罗马历史天际线的经典石质阳台", "details": "一个高架的欧式石质阳台，四周环绕着饱经风霜的纹理和华丽的栏杆，向外展开一幅罗马历史建筑、圆顶和屋顶逐渐消…
-
-#### 📝 提示词
-
-```
-{ "image_description": { "scene": { "location": { "city": "罗马", "setting": "俯瞰罗马历史天际线的经典石质阳台", "details": "一个高架的欧式石质阳台，四周环绕着饱经风霜的纹理和华丽的栏杆，向外展开一幅罗马历史建筑、圆顶和屋顶逐渐消失在远方的电影般壮丽全景。" }, "environment": { "elements": [ "带有优雅细节的饱经风霜的石质阳台", "远处柔和模糊的罗马城市景观", "从黄金时段过渡到黄昏的天空", "微风轻拂衣物和头发" ], "atmosphere": "忧郁、电影感、情感丰富，唤起一种带有微妙张力和永恒浪漫的奢华欧洲电影剧照氛围。" }, "lighting": { "type": "黄金时段至黄昏的电影感光线", "effect": "定向阳光营造出强烈的高光和深邃的阴影，勾勒出人物的面部和服装。微妙的轮廓光将人物与背景分离，产生戏剧性的电影般光晕。" } }, "subject": { "identity": "优雅的成年女性模特", "pose": { "description": "她静静地站在阳台栏杆旁，身体略微背对镜头，脸转向光源。她的表情平静、内省且充满力量，仿佛被捕捉在一部高端欧洲电影的场景中。" }, "outfit": { "top": { "type": "结构化的束身胸衣式高级定制上衣", "color": "深酒红色", "style": "高级时装、电影感高级定制，剪裁犀利，线条雕塑感强，强调力量、优雅和精致的女性魅力。" }, "bottom": { "type": "高腰飘逸半身裙", "details": "奢华面料，带有戏剧性的及大腿高开衩，被微风轻轻吹起，增添了动感和电影般的张力。" } }, "hair_and_makeup": { "hair": { "style": "松散的电影感波浪", "details": "柔软、被风轻抚的波浪，带有自然的动感，略微不完美，以营造真实的电影剧照美感。" }, "makeup": { "style": "自然的电影感妆容", "details": "发光肌肤、微妙的修容、柔和分明的眼部、柔和的玫瑰色唇妆——真实、富有情感、不浮夸却奢华。" } } }, "composition": { "aspect_ratio": "3:4", "orientation": "垂直", "camera": { "lens": "50mm 电影镜头", "angle": "与视线齐平，略带电影感倾斜", "movement": "凝固在瞬间，电影剧照捕捉" }, "depth_of_field": { "foreground": "面部表情、织物纹理和皮肤细节清晰对焦", "background": "强烈的电影感模糊，带有" } } } }
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_20626_0.jpg" width="600" alt="罗马黄昏·酒红倩影 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 55: 隐形躯干画框奇景
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一个穿着便服的男人坐在阳光明媚的城市公园长椅的木板上，胸前高处抱着一个矩形木框。唯一可见的部分是他的脸悬在画框上方，前臂和双手紧握画框边缘，双腿自然地放在画框下方，自然地搭在地上。画面内，公园背景无缝延伸，草地、树木和小径，仿佛他的身体是隐形的。画面就像一扇切开的窗户，恰好在他躯干的位置，与背景完美对齐。画面内的公园…
-
-#### 📝 提示词
-
-```
-一个穿着便服的男人坐在阳光明媚的城市公园长椅的木板上，胸前高处抱着一个矩形木框。唯一可见的部分是他的脸悬在画框上方，前臂和双手紧握画框边缘，双腿自然地放在画框下方，自然地搭在地上。画面内，公园背景无缝延伸，草地、树木和小径，仿佛他的身体是隐形的。画面就像一扇切开的窗户，恰好在他躯干的位置，与背景完美对齐。画面内的公园景观必须与外部环境奇特地匹配，长椅、地面和远处树木的连续性要精确，而画面边缘则清晰。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02317_0.jpg" width="600" alt="隐形躯干画框奇景 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 56: 海底两万里微缩柜
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-变量指南 1. OVERALL_DIORAMA_THEME = 儒勒·凡尔纳 (Jules Verne) 著作《海底两万里》中的场景，按书中呈现的顺序排列 2. CUPBOARD_BASE_MATERIAL = 3. CUPBOARD_LINING_MATERIAL = 4. RACK_MATERIAL = 5. O…
-
-#### 📝 提示词
-
-```
-变量指南 1. OVERALL_DIORAMA_THEME = 儒勒·凡尔纳 (Jules Verne) 著作《海底两万里》中的场景，按书中呈现的顺序排列 2. CUPBOARD_BASE_MATERIAL = 3. CUPBOARD_LINING_MATERIAL = 4. RACK_MATERIAL = 5. ORNAMENTATION_STYLE = [例如：哥特式雕花木、装饰艺术黄铜、精灵交织藤蔓] 6. ART_STYLE = 超写实渲染 7. TOP_SHELF_SCENE = [描述微缩人物定义场景的具体动作] 8. MIDDLE_SHELF_SCENE = [描述微缩人物定义场景的具体动作] 9. BOTTOM_SHELF_SCENE = [描述微缩人物定义场景的具体动作] 10. LIGHTING = 11. CAMERA_ANGLE = 正面直视视角，从适度高角度明显向下俯视。 12. ASPECT_RATIO = 3:4 生成指令 （注意：如果任何变量留空，请根据 OVERALL_DIORAMA_THEME 智能推断最合适的细节） 指令 1：构图与取景（最高优先级） 一张从 CAMERA_ANGLE 拍摄的直接、正面照片。构图必须将开放式展示结构完美居中，以独特的角度向下俯视货架，清晰展现地板和微缩物体在立体模型中的自上而下深度，同时确保外部侧板完全隐藏。整个独立结构必须完全可见，周围留有负空间，背景简洁。宽高比为 3:4。 指令 2：主体结构（严格限制） 以 ART_STYLE 风格渲染图像。中心物体是一个高度精细、永久开放式正面陈列柜结构。它不得有任何形式的门、铰链或门框。外部由 CUPBOARD_BASE_MATERIAL 构成，并以 ORNAMENTATION_STYLE 进行细节装饰。内部背板衬有 CUPBOARD_LINING_MATERIAL，各个搁板由 RACK_MATERIAL 制成。 指令 3：微缩立体模型与人物 该结构容纳了一个跨越三个搁板的连贯微缩世界，遵循 OVERALL_DIORAMA_THEME。至关重要的是，每个搁板都必须包含正在进行特定叙事动作的微缩人物。 * 顶层搁板：微缩人物描绘的是 [TOP_SHELF_SCENE]。 * 中层搁板：微缩人物描绘的是 [MIDDLE_SHELF_SCENE]。 * 底层搁板：微缩人物描绘的是 [BOTTOM_SHELF_SCENE]。 确保比例清晰地显示为家具内部的微缩立体模型。 指令 4：氛围与照明 场景由 LIGHTING 照亮。照明应在每个搁板内投射适当的微阴影，以强调深度、人物和立体模型的微缩比例。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_21682_0.jpg" width="600" alt="海底两万里微缩柜 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 57: 极致黑线肖像艺术
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-超细致线艺术肖像，展示了{argument name=“subject” default=“[SUBJECT]”}正面视图，完全由成千上万根完美笔直的黑线拉进白色木板上的指甲之间完成，线艺技法，仅用黑色线，没有其他颜色，线材分布极为密集，{argument name=“关键面部特征”默认=“[关键面部特征，如眼睛、嘴…
-
-#### 📝 提示词
-
-```
-超细致线艺术肖像，展示了{argument name=“subject” default=“[SUBJECT]”}正面视图，完全由成千上万根完美笔直的黑线拉进白色木板上的指甲之间完成，线艺技法，仅用黑色线，没有其他颜色，线材分布极为密集，{argument name=“关键面部特征”默认=“[关键面部特征，如眼睛、嘴唇、独特的轮廓， 疤痕、眼镜、头盔边缘等]“}，{argument name=”highlight areas“ default =”[highlight area，例如额头、颧骨、鼻梁、下巴]“}的高光区域稀疏线索，浓密阴影区域与开阔光线区之间的强烈对比，高度细致逼真的眼睛，带有锐利的[表情相关，如捕捉光、反光、威胁/好奇/坚定]捕捉光，真实比例，[表情/凝视描述 例如强烈目光直视前方， 沉思而强烈的凝视，困惑又带着玩味的强烈凝视]直视前方，[附加特征：微张的嘴唇、皱眉、疤痕微笑、头盔框住脸庞]由重叠线材构成，现代极简却极细致的线索肖像，纯黑线配白底，微距特写显示线密度和张力，照片级写实线艺术，4K
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08519_0.jpg" width="600" alt="极致黑线肖像艺术 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 58: 皮克斯风3D虚拟形象
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-根据上传的图像创建一个高质量的 3D 虚拟形象，面部表情欢快有表现力。角色应该有温暖的微笑、明亮的眼睛和柔和的面部特征，给人友好亲切的感觉。采用皮克斯风格美学，具有光滑纹理、细微肤色阴影和略微夸张的比例，呈现可爱的动画效果。灯光应柔和均匀，营造干净的工作室效果，柔和的阴影增添深度感。
-
-#### 📝 提示词
-
-```
-根据上传的图像创建一个高质量的 3D 虚拟形象，面部表情欢快有表现力。角色应该有温暖的微笑、明亮的眼睛和柔和的面部特征，给人友好亲切的感觉。采用皮克斯风格美学，具有光滑纹理、细微肤色阴影和略微夸张的比例，呈现可爱的动画效果。灯光应柔和均匀，营造干净的工作室效果，柔和的阴影增添深度感。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19296_0.jpg" width="600" alt="皮克斯风3D虚拟形象 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 59: 马厩骑手肖像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一幅女性站在一匹白马旁的简朴马厩生活肖像。摄像机略微偏向后方侧面，捕捉了三分之三身体角度，强调骑手与马匹之间的互动。服装：合身黑色长袖骑马上衣，塞进白色高腰马裤，裤子有结构，棕色皮带标志着腰线。黑色骑马手套自然地握住缰绳。哑光黑色骑行头盔固定在下巴下方。姿势：身体侧向马，头轻轻低垂，专注而平静的表情指向马匹。一只手调…
-
-#### 📝 提示词
-
-```
-一幅女性站在一匹白马旁的简朴马厩生活肖像。摄像机略微偏向后方侧面，捕捉了三分之三身体角度，强调骑手与马匹之间的互动。服装：合身黑色长袖骑马上衣，塞进白色高腰马裤，裤子有结构，棕色皮带标志着腰线。黑色骑马手套自然地握住缰绳。哑光黑色骑行头盔固定在下巴下方。姿势：身体侧向马，头轻轻低垂，专注而平静的表情指向马匹。一只手调整缰绳，另一只手轻轻放在马颈上，营造出情感上的联系。环境：室内马厩，配有纹理砖墙、木质隔断和柔和阴影背景，增强了电影般的真实感。光线：直射柔和闪光，在头盔、皮革细节和马皮上营造出光泽高光，背景则保持略显昏暗和氛围感。摄影角度：中等全身镜头，从腰部高度拍摄，纪录片式时尚生活方式构图。柔和雕塑般的脸庞，红润的脸颊，光泽的嘴唇，干净分明的眉毛。中性暖色调的灯光，前置摄像头闪光灯轻微，阴影平衡。图片参考。增加了细腻的胶片颗粒感、逼真的皮肤毛孔、细腻的光泽。Pinterest的干净女孩遇上奢华沙漠氛围，生活方式编辑摄影，超细致，8K画质
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23585_0.jpg" width="600" alt="马厩骑手肖像 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 60: 疯狂动物城版守株待兔
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-第一格： 迪士尼《疯狂动物城》3D动画风格。朱迪警官穿着警服，在田野边看到一只绵羊农夫坐在一个大树桩旁边发呆。朱迪头上有一个对话气泡，里面写着中文字：“朱迪看见一个农夫坐在树桩旁发呆。” 第二格： 迪士尼《疯狂动物城》3D动画风格。朱迪走近询问，绵羊农夫指着树桩兴奋地解释。绵羊的对话气泡写着中文字：“农夫说：'昨天有…
-
-#### 📝 提示词
-
-```
-第一格： 迪士尼《疯狂动物城》3D动画风格。朱迪警官穿着警服，在田野边看到一只绵羊农夫坐在一个大树桩旁边发呆。朱迪头上有一个对话气泡，里面写着中文字：“朱迪看见一个农夫坐在树桩旁发呆。”
-第二格： 迪士尼《疯狂动物城》3D动画风格。朱迪走近询问，绵羊农夫指着树桩兴奋地解释。绵羊的对话气泡写着中文字：“农夫说：'昨天有只兔子撞死在这，我在等下一只。'”
-第三格： 迪士尼《疯狂动物城》3D动画风格。朱迪听后大惊失色，耳朵竖得笔直，一脸不可置信的表情。朱迪的对话气泡写着中文字：“朱迪大惊失色：'什么？竟然指望这种偶然？'”
-第四格： 迪士尼《疯狂动物城》3D动画风格。尼克慢悠悠地走过来，戴着墨镜，手里拿着一根爪爪冰棍，一脸坏笑。尼克的对话气泡写着中文字：“尼克慢悠悠地走过来，一脸坏笑。”
-第五格： 迪士尼《疯狂动物城》3D动画风格。尼克摘下墨镜，指着绵羊农夫对朱迪解释，表情滑稽。尼克的对话气泡写着中文字：“尼克说：'萝卜头，这叫守株待兔，他在做白日梦呢。'”
-第六格： 迪士尼《疯狂动物城》3D动画风格。朱迪无奈地拉着绵羊农夫去劳动，尼克在后面摊手耸肩。朱迪的对话气泡写着中文字：“朱迪拉走农夫去干活，尼克无奈地摊手。”
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19904_0.jpeg" width="600" alt="疯狂动物城版守株待兔 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 61: AI绘图提示词进阶指南
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-1. 描き込みと質感を「グッ」と上げる🎨 ・absurdres：不条理なほどの高解像度へ。髪や服のディテールが緻密に。 ・intricate details：背景や衣装の装飾など、複雑な描き込みを増やしたい時に。 ・official art：ラフさを抑え、プロが描いたような整った構図や塗りに。 2. 空気を変える「…
-
-#### 📝 提示词
-
-```
-1. 描き込みと質感を「グッ」と上げる🎨
-・absurdres：不条理なほどの高解像度へ。髪や服のディテールが緻密に。
-・intricate details：背景や衣装の装飾など、複雑な描き込みを増やしたい時に。
-・official art：ラフさを抑え、プロが描いたような整った構図や塗りに。
-
-2. 空気を変える「光と影」💡
-・cinematic lighting：映画のような照明効果で、画面に奥行きとストーリー性を。
-・soft lighting / soft focus：全体をふんわりさせ、柔らかく可愛らしい雰囲気に。
-・ray tracing：光の反射をリアルに表現。瞳の輝きや金属・水の質感が向上します。
-
-3. キャラクターの魅力を底上げ📸
-・beautiful detailed eyes：アニメイラストの命である「目」の描き込みを強化。
-・looking at viewer：視線をこちらに向けさせ、画像の訴求力を高めます。
-・dynamic angle：棒立ちを防ぎ、斜めや煽りなど動きのある構図に。
-
-4. 画風（スタイル）の調整🖌️
-・flat color：影を減らし、セル画のようなパキッとしたアニメ塗りに。
-・thick painting：厚塗り風のリッチな質感で、重厚感を出したい時に。
-
-さらに精度を高めるコツ🛠
-・強調構文：重要な単語は (best quality:1.2) のようにカッコと数値で囲むと安定します。
-・ネガティブプロンプト：worst quality などの基本に加え、muted color（くすんだ色）を除外設定に入れると、発色が鮮やかになります😳
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10521_0.jpg" width="600" alt="AI绘图提示词进阶指南 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 62: 电影主角自拍幕后
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-参考图中的男子用iPhone与电影主角自拍，“{argument name=”movie title“ default=”[insert movie]}“”，背景是电影的制片厂或场景，背景是幕后花絮。保持参考图中的男性形象一致且一致
-
-#### 📝 提示词
-
-```
-参考图中的男子用iPhone与电影主角自拍，“{argument name=”movie title“ default=”[insert movie]}“”，背景是电影的制片厂或场景，背景是幕后花絮。保持参考图中的男性形象一致且一致
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09834_0.jpg" width="600" alt="电影主角自拍幕后 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09834_1.jpg" width="600" alt="电影主角自拍幕后 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09834_2.jpg" width="600" alt="电影主角自拍幕后 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09834_3.jpg" width="600" alt="电影主角自拍幕后 - Image 4">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 63: 真人化超现实电影场景
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-将此转换为一个超现实、电影感十足、完全照片级的场景。角色必须转化为原始上传参考资料的真人版本，同时保持其身份、面部结构、主要特征和整体相似性不变。
-
-#### 📝 提示词
-
-```
-将此转换为一个超现实、电影感十足、完全照片级的场景。角色必须转化为原始上传参考资料的真人版本，同时保持其身份、面部结构、主要特征和整体相似性不变。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_21757_0.jpg" width="600" alt="真人化超现实电影场景 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 64: 圣诞帽魔法变身
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-给它戴上圣诞帽
-
-#### 📝 提示词
-
-```
-给它戴上圣诞帽
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08896_0.jpg" width="600" alt="圣诞帽魔法变身 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08896_1.jpg" width="600" alt="圣诞帽魔法变身 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 65: 斋月清真寺少女祈祷
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-高分辨率，杰作，最佳画质，完美光线，戏剧性阴影，细节纹理，垂直 9:16。清真寺内一名年轻穆斯林女性的特写照片，她在斋月期间的泰拉威祈祷中坐在女性祈祷区。她拥有无瑕、光滑、非常明亮的白皙皮肤，带着一丝微妙、自然的微笑，素颜，毛孔可见，睫毛自然卷翘，清澈的淡褐色眼睛——无腮红，无瓷感妆容。自然的渐变唇：内唇柔和的粉色，…
-
-#### 📝 提示词
-
-```
-高分辨率，杰作，最佳画质，完美光线，戏剧性阴影，细节纹理，垂直 9:16。清真寺内一名年轻穆斯林女性的特写照片，她在斋月期间的泰拉威祈祷中坐在女性祈祷区。她拥有无瑕、光滑、非常明亮的白皙皮肤，带着一丝微妙、自然的微笑，素颜，毛孔可见，睫毛自然卷翘，清澈的淡褐色眼睛——无腮红，无瓷感妆容。自然的渐变唇：内唇柔和的粉色，逐渐淡化为浅粉色裸色，边缘柔和模糊，非全覆盖。她穿着一件白色缎面穆克纳（mukenah），精致的蕾丝勾勒出脸部和前襟。配饰：一只手上戴着带有花朵吊坠的金色链条手链。姿势：一只手轻轻托着脸，一张折叠的祈祷垫放在头上。光线：柔和的相机闪光灯照亮她的脸庞，散发出柔和的光芒。背景：清真寺内部，其他信徒正在祈祷，营造出温暖而神圣的斋月氛围。摄影风格：穆斯林女性肖像，积极上镜的氛围，Instagram 随拍美学，超现实，专业 iPhone 拍摄，电影感，8K 分辨率，杂志肖像品质，锐利对焦，细腻皮肤纹理。请勿改变面部。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_20311_0.jpg" width="600" alt="斋月清真寺少女祈祷 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 66: Gemini神级消栅栏
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-geminiのnano bananaで柵を消してもらいました。
-
-#### 📝 提示词
-
-```
-geminiのnano bananaで柵を消してもらいました。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14340_0.jpg" width="600" alt="Gemini神级消栅栏 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 67: 私人飞机时尚大片
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一位时尚年轻女子坐在私人飞机舱内的全身照片，豪华内饰配有米色真皮座椅和抛光木质面板，柔和温暖的氛围灯光， 服装：宽大白色T恤，宽松运动裤，厚重白色运动鞋，极简的首饰，手持智能手机， 姿势：放松坐姿，一条腿弯曲放在座椅上，自然的手部动作，微微侧视，表情平静自信， 环境：私人飞机内部，窗户灯光柔和照亮脸部，干净的构图，奢…
-
-#### 📝 提示词
-
-```
-一位时尚年轻女子坐在私人飞机舱内的全身照片，豪华内饰配有米色真皮座椅和抛光木质面板，柔和温暖的氛围灯光，
-
-服装：宽大白色T恤，宽松运动裤，厚重白色运动鞋，极简的首饰，手持智能手机，
-
-姿势：放松坐姿，一条腿弯曲放在座椅上，自然的手部动作，微微侧视，表情平静自信，
-
-环境：私人飞机内部，窗户灯光柔和照亮脸部，干净的构图，奢华生活方式美学，
-
-相机：手持iPhone风格，略带自然感，对焦锐利，皮肤质感逼真，自然光线，
-
-风格：超写实，编辑时尚，无文字，无水印，无标志——AR 2：3——风格原始 ——V 7——风格化100
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10700_0.jpg" width="600" alt="私人飞机时尚大片 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10700_1.jpg" width="600" alt="私人飞机时尚大片 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10700_2.jpg" width="600" alt="私人飞机时尚大片 - Image 3">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 68: 温室金发佳人
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-电影级写实肖像，一位惊艳的 20 岁斯堪的纳维亚女性，金色波浪长发如瀑布般披散在肩头，冰蓝色眼眸锐利深邃，无瑕的瓷白肌肤透着柔和的红晕，妆容精致自然，嘴角挂着温柔而了然的微笑，自信地坐在一间豪华温室风格餐厅中铺着白色亚麻桌布的餐桌旁，郁郁葱葱的热带植物如龟背竹、天堂鸟、蕨类植物营造出丛林般的背景，她身着优雅的白色棉质…
-
-#### 📝 提示词
-
-```
-电影级写实肖像，一位惊艳的 20 岁斯堪的纳维亚女性，金色波浪长发如瀑布般披散在肩头，冰蓝色眼眸锐利深邃，无瑕的瓷白肌肤透着柔和的红晕，妆容精致自然，嘴角挂着温柔而了然的微笑，自信地坐在一间豪华温室风格餐厅中铺着白色亚麻桌布的餐桌旁，郁郁葱葱的热带植物如龟背竹、天堂鸟、蕨类植物营造出丛林般的背景，她身着优雅的白色棉质镂空蕾丝迷你连衣裙，短泡泡袖，精致的镂空刺绣，修身胸衣，双臂交叉放松地放在桌上，温暖的金色夕阳透过玻璃屋顶和树叶洒落，柔和的体积光束，微妙的焦外虚化光斑，高对比度，浓郁的绿色与白色连衣裙形成对比，皮肤毛孔和发丝超高细节，超现实主义，50mm f/1.8 镜头，ARRI Alexa 风格，电影级布光，杰作，最佳品质，32k，锐利细节，逼真纹理，体积光，自然柔和阴影
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_17174_0.jpg" width="600" alt="温室金发佳人 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 69: 皮克斯风少女六格展示
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一个3D皮克斯风格的年轻女性动画角色，呈现在6格网格中，每格展示极特写或大型全身镜头，几乎占据整个画面。每块画都有独特的表情、动感姿势和服装。大胆明亮的背景（黄色、蓝色、红色、粉色、紫色、绿色）。她有光泽的波浪发，闪亮的大眼睛，光滑的皮肤，以及风格化的卡通比例。每一格都通过富有表现力的手势、生动的姿势和独特的时尚——…
-
-#### 📝 提示词
-
-```
-一个3D皮克斯风格的年轻女性动画角色，呈现在6格网格中，每格展示极特写或大型全身镜头，几乎占据整个画面。每块画都有独特的表情、动感姿势和服装。大胆明亮的背景（黄色、蓝色、红色、粉色、紫色、绿色）。她有光泽的波浪发，闪亮的大眼睛，光滑的皮肤，以及风格化的卡通比例。每一格都通过富有表现力的手势、生动的姿势和独特的时尚——从运动风、魔幻风格到休闲时尚——突出她活泼、自信且富有冒险精神的个性。边到边的构图突出了复杂的细节和鲜艳的色彩。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06641_0.jpg" width="600" alt="皮克斯风少女六格展示 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 70: 图像侧面空白填补技巧
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-填补{argument name=“image name” default=“image2”} 侧面缺失的空白
-
-#### 📝 提示词
-
-```
-填补{argument name=“image name” default=“image2”} 侧面缺失的空白
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08931_0.jpg" width="600" alt="图像侧面空白填补技巧 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08931_1.jpg" width="600" alt="图像侧面空白填补技巧 - Image 2">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 71: 旧照修复专业肖像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-“将这张旧照片修复成 DSLR 级别的专业肖像，拥有堪比佳能 EOS R6 II 效果的画质色彩和细节，并使用先进的放大算法。确保修复后的图像看起来自然，保留精确的面部特征，并具有出色的清晰度……”
-
-#### 📝 提示词
-
-```
-“将这张旧照片修复成 DSLR 级别的专业肖像，拥有堪比佳能 EOS R6 II 效果的画质色彩和细节，并使用先进的放大算法。确保修复后的图像看起来自然，保留精确的面部特征，并具有出色的清晰度……”
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_16375_0.jpg" width="600" alt="旧照修复专业肖像 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 72: 奢华洗发水瓶水花飞溅
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-超逼真的奢华洗发水瓶（哑光绿色，极简品牌标识）溅入清澈的水中，动态液体运动在半空中凝固，细节丰富的液滴和水雾，湿润表面上的光泽反射，电影级影棚灯光，冷蓝色调，柔和的边缘光，深色渐变背景，高速摄影，超锐利对焦，高端护肤品广告风格，简洁构图，8K。
-
-#### 📝 提示词
-
-```
-超逼真的奢华洗发水瓶（哑光绿色，极简品牌标识）溅入清澈的水中，动态液体运动在半空中凝固，细节丰富的液滴和水雾，湿润表面上的光泽反射，电影级影棚灯光，冷蓝色调，柔和的边缘光，深色渐变背景，高速摄影，超锐利对焦，高端护肤品广告风格，简洁构图，8K。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_18052_0.jpg" width="600" alt="奢华洗发水瓶水花飞溅 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 73: 红裙落日海岸大片
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ “generation_request”： { “meta_data”： { “工具”：“纳米香蕉专业版”， “task_type”：“photoreal_cinematic_sunset_villa_fashion_editorial_poster_still”， “优先级”：“最高”， “语言”： “en”，…
-
-#### 📝 提示词
-
-```
-{
-  “generation_request”： {
-    “meta_data”： {
-      “工具”：“纳米香蕉专业版”，
-      “task_type”：“photoreal_cinematic_sunset_villa_fashion_editorial_poster_still”，
-      “优先级”：“最高”，
-      “语言”： “en”，
-      “版本”：“v1.0_RED_SATIN_BACKLESS_VILLA_SEA_VIEW_NO_TEXT”
-    },
-
-“输出”： {
-      “aspect_ratio”：“4：5”，
-      “resolution”：“ultra_high”，
-      “num_images”：4
-    },
-
-“场景”：{
-      “概念”：“黄金时段海滨别墅露台上的电影时尚肖像。一位穿着露背红色缎面吊带裙的女子回头望向镜头。优雅、极简、感性且精致的干净建筑，辽阔的海平线，柔和的夕阳色调。”
-      “环境”：“白色地中海别墅阳台，线条简洁，远处的海洋地平线，下方绿意盎然的山丘和树木，开阔的天空渐变”，
-      “time_of_day”：“金色时刻临落”，
-      “氛围”：“清新的空气，温和的温暖，宁静的海岸宁静”
-    },
-
-“主旨”：{
-      “age_appearance”：“成人”，
-      “表情”：“沉着、自信、微妙地吸引人”
-      “姿势”：“站在阳台边缘，身体背对镜头，头回头，姿态放松”，
-      “头发”：“深色头发凌乱地盘成发髻，柔软地发丝框住脸庞”，
-      “衣橱”：“{argument name=”dress color“ default=”red“} 缎面露背吊带裙，细细细肩带，光滑光泽垂坠”，
-      “配饰”：“小巧的金圈耳环，精致的手链和戒指”，
-      “妆容”：“经典华丽，配红色口红，柔和自然肌肤质地”
-    },
-
-“相机”：{
-      “camera_body”：“索尼 A7R V”，
-      “镜头”：“85mm定焦镜头”
-      “光圈”：“f/2.0”，
-      “焦点”：“眼睛和面部锐利，服装和背景中柔和的衰落”，
-      “构图”：“从背后垂直三分之三肖像，天空中优雅的负空间”
-      “look”：“干净的高端编辑现实主义”
-    },
-
-“闪电”：{
-      “key_light”：“地平线一侧自然温暖的夕阳光”，
-      “fill_light”：“柔和的氛围天空填充”，
-      “对比”：“中等”
-      “挑染”：“裙子上的受控缎面光泽，无吹白”
-    },
-
-“color_grading”： {
-      “调色板”：“深红色连衣裙，柔和的柔和天空渐变，柔和的绿色，干净的白色建筑，温暖的肤色”，
-      “film_emulation”：现代电影海岸编辑“，
-      “颗粒”：“非常细的胶片颗粒”，
-      “光晕”：“地平线上的微妙光辉和裙子的高光”
-    },
-
-“作曲”：{
-      “visual_hierarchy”：“脸+红色裙子作为主色，海洋地平线作为优雅的副色”，
-      “线条”：“通往主体的阳台栏杆”，
-      “氛围”：“极简奢华，地中海浪漫”
-    },
-
-“style_constraints”： {
-      “照片写实主义”：“极大”，
-      “cinematic_authenticity”：真实，
-      “editorial_quality”：“高端时尚电影剧照”，
-      “no_text”：确实如此，
-      “no_logos”：真
-    },
-
-“安全”：{
-      “分级”：“PG-13”，
-     }
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09472_0.jpg" width="600" alt="红裙落日海岸大片 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 74: 金发少女宁静肖像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ “project_metadata”： { }, “base_prompt”： { “主旨”：{ “类型”：“年轻女性”， “皮肤”：“光滑、白皙、细腻的光泽”， “头发”：“长而丝滑的金发，造型整齐，色泽渐变”， “眼睛”：“绿色，宁静的表情”， “特征”：“丰满的嘴唇，未变” “化妆”：“专业，柔和” },…
-
-#### 📝 提示词
-
-```
-{
-  “project_metadata”： {
-  },
-  “base_prompt”： {
-    “主旨”：{
-      “类型”：“年轻女性”，
-      “皮肤”：“光滑、白皙、细腻的光泽”，
-      “头发”：“长而丝滑的金发，造型整齐，色泽渐变”，
-      “眼睛”：“绿色，宁静的表情”，
-      “特征”：“丰满的嘴唇，未变”
-      “化妆”：“专业，柔和”
-    },
-    “服装”：{
-      “clothing”： “{argument name=”clothing item“ default=”米色围巾“}”，
-      “珠宝”： [
-        “精致的金项链，配有小巧闪亮的心形吊坠”
-        “优雅金表”
-      ]
-    },
-    “photography_specs”： {
-      “shot_type”：“中弹”，
-      “风格”：“超写实肖像”
-      “光线”：“温暖的金色侧光，柔和的阴影”，
-      “背景”：“顶部有个暗淡、模糊、微弱的光圈”，
-      “关键词”： [
-        “专业摄影”
-        “宁静之美”
-        “成熟”，
-        “美观”
-      ]
-    },
-    “negative_prompt”：“低质量、失真、褪色色彩、模糊、杂乱背景、噪音、丑陋、卡通化”
-  },
-  “变体”： [
+  “提示”： [
     {
       “id”：1，
-      “描述”：“标准正面宁静肖像”
+      “标题”：“store_boy”，
+      “提示”：“一位时尚的年轻男子在一家现代服装店里自拍镜子，穿着休闲时尚的服装（{argument name=”outfit 1“ 默认=”宽大T恤或衬衫，轻便夹克，休闲牛仔裤，运动鞋，斜挎包“），手里拿着一个手提袋。他周围是多个可爱的Q版迷你版，眼睛大，表情俏皮（跳跃、坐下、眨眼、喝咖啡）。柔和温暖的灯光，简约美学的店内装饰，涂鸦风格的白色闪光和爱心，干净的构图，高细节，柔和色调，可爱插画与写实摄影融合。”
     },
     {
       “id”：2，
-      “action_phrase”：“她轻轻摸头发的侧面镜头”，
-      “对焦”：“姿势调整”
-    },
-    {
-      “id”：3，
-      “action_phrase”：“她用手做爱心并眨眼的镜头”
-      “专注”：“表情与手势”
+      “标题”：“home_boy”，
+      “提示”：“一名年轻男子在极简现代住宅中自拍镜子，身穿{argument name=”outfit 2“ default=”全黑休闲服装“}，头上戴着斜挎包和墨镜。他周围是可爱的Q版迷你版，摆出各种调皮姿势（跳跃、坐下、比出胜利手势、喝珍珠奶茶），眼睛大而闪亮，风格柔和。背景包括{argument name=“背景元素” default=“盆栽植物、木桌、中性装饰和装裱艺术”}。柔和的自然光，温馨的美学，白色涂鸦闪光和爱心，现实主义与可爱的3D卡通风格融合，细节丰富。”
     }
   ]
 }
@@ -3020,181 +193,214 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05235_0.jpg" width="600" alt="金发少女宁静肖像 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 75: 硬核顶光人像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-使用完全相同的面孔，取自参考图片，坐在{argument name=“room setting” default=“裸露混凝土房间”}，完全由{argument name=“light source” default=“正上方的单个工业天窗}}光照，硬90°顶灯在眉下形成深深空洞的阴影，鼻子投射出完美的垂直阴影，一直…
-
-#### 📝 提示词
-
-```
-使用完全相同的面孔，取自参考图片，坐在{argument name=“room setting” default=“裸露混凝土房间”}，完全由{argument name=“light source” default=“正上方的单个工业天窗}}光照，硬90°顶灯在眉下形成深深空洞的阴影，鼻子投射出完美的垂直阴影，一直延伸到上唇， 下颌线消失在黑暗中。光线质量极其严苛，每一个毛孔、每一道皱纹、每一个细微的不对称都以法医般的诚实手法呈现。用50mm f/2拍摄，中性焦距，让画面感觉像是不可辩驳的纪录片真相。OzairAI几乎只能在混凝土墙上隐约辨认。{参数名称=“宽高比” 默认=“垂直9：13格式”}。超写实，8K，无文字叠加，电影级色彩调色。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06075_0.jpg" width="600" alt="硬核顶光人像 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 76: 小精灵彩虹端畅饮
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一幅插图，描绘了一个有趣的小{argument name=“creature” default=“leprechaun”}，手里拿着一杯泡沫啤酒，站在彩虹尽头的一罐金罐旁。文本内容为“{argument name=”text overlay“ default=”I BRING BOTH THE MALARKEY AN…
-
-#### 📝 提示词
-
-```
-一幅插图，描绘了一个有趣的小{argument name=“creature” default=“leprechaun”}，手里拿着一杯泡沫啤酒，站在彩虹尽头的一罐金罐旁。文本内容为“{argument name=”text overlay“ default=”I BRING BOTH THE MALARKEY AND THE SHENANIGANS“}'。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13425_0.jpg" width="600" alt="小精灵彩虹端畅饮 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 77: 烟灰缸里的微型工人
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{ "style": "超现实电影级微距摄影", "subject": "微型建筑工人正在清理一个装满烟头和烟灰的巨大烟灰缸", "composition": "俯视四分之三角度，主体居中，紧密构图，广告风格取景", "lighting": "温暖的定向工作室光线，柔和的阴影和微妙的体积光束", "camera":…
-
-#### 📝 提示词
-
-```
-{ "style": "超现实电影级微距摄影", "subject": "微型建筑工人正在清理一个装满烟头和烟灰的巨大烟灰缸", "composition": "俯视四分之三角度，主体居中，紧密构图，广告风格取景", "lighting": "温暖的定向工作室光线，柔和的阴影和微妙的体积光束", "camera": { "lens": "85mm 微距", "aperture": "f/2.8", "depth_of_field": "景深极浅", "focus": "前景工人与烟头" }, "textures": "高细节烟灰，陶瓷烟灰缸表面，逼真的纸张和烟草纹理", "mood": "严肃，象征性，清理隐喻", "color_grading": "温暖中性电影色调", "quality": "照片级真实感，商业广告级别", "effects": ["微尘颗粒", "自然胶片颗粒"], "avoid": ["卡通风格", "塑料皮肤", "过度饱和", "CGI 效果"] }
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_18385_0.jpg" width="600" alt="烟灰缸里的微型工人 - Image 1">
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 78: 超写实冰水奢华人像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-{“场景”： {“场景”：“{argument name=\”setting\“ 默认=\”超写实冰水豪华室内\“}”， “背景”：“由厚实半透明的冰冻冰形成的墙壁，夹杂着气泡和细微瑕疵，玻璃般的质感具有真实的深度，淡淡的内部裂纹和柔和的折射，冰墙上自然嵌入的优雅小文字'glenajenner'，细腻且融合（不过于粗…
-
-#### 📝 提示词
-
-```
-{“场景”： {“场景”：“{argument name=\”setting\“ 默认=\”超写实冰水豪华室内\“}”， “背景”：“由厚实半透明的冰冻冰形成的墙壁，夹杂着气泡和细微瑕疵，玻璃般的质感具有真实的深度，淡淡的内部裂纹和柔和的折射，冰墙上自然嵌入的优雅小文字'glenajenner'，细腻且融合（不过于粗犷），作为冰面的一部分出现。” “灯光”：“物理准确的电影灯光，柔和的冷蓝色和水蓝色环境光穿透冰面扩散，主体上配合中性白光，逼真的光线从水面反射，细微的焦散在墙壁和皮肤上移动，柔和的反射，平衡曝光以求自然真实感”，“主体”：“{ ”类型“：”女性“，”姿势“：”坐在弯曲的冰沙发上，躯干微微向后倾斜，一只手放在背后支撑，另一只手自然放在大腿上， 双腿交叉，一只向前伸出，保持精确姿势，自然姿势，肩膀放松“，”表情“：”柔和中性表情，目光平静自信，略微向下和侧视“，”面部“：”使用上传的参考图片，保持身份准确，自然面部比例，皮肤质感真实，毛孔和细微瑕疵，无美化“，”头发“：”使用上传的参考图片， 保持身份准确，长发自然波浪，稍微受冷环境影响，细腻发丝细节“，”眼睛“：”使用上传的参考图片，保持身份准确，冰冷环境的自然反射“，”皮肤“：”真实肤色，带有轻微冷光影响，自然挑染和微纹理，细腻的次表面散射“，”身体“：”解剖结构准确，比例自然，重量分布真实“}， “服装”： { “服装”：“{argument name =\”outfit\“ 默认=\”深红色奢华丝绸迷你裙\“}”“鞋履”：“裸露双腿，自然姿势”，“配饰”：“极简精致首饰，细腻逼真” }，“environment_details”：“道具”：“半透明冰雕塑的弯曲沙发，内部有冻流图案”，“氛围”：“空气中轻雾，微微凝结，环境明显寒冷感”，“细节”：“地面覆盖浅而清澈的水配合精准的反射和波纹变形，天花板上悬挂的冰柱伴有缓慢滴水效果，微小的水流运动，逼真的物理反射和折射“，”相机“：”{“角度”：“{参数名称=\”摄像角度\“默认=\”从近腿部水平低角度，朝向主体向上}“”，“构图”：“中等全身镜头，前景突出腿部和深度透视” } }
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03631_0.jpg" width="600" alt="超写实冰水奢华人像 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04031_0.jpg" width="600" alt="潮男萌趣自拍日记 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03631_1.jpg" width="600" alt="超写实冰水奢华人像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03631_2.jpg" width="600" alt="超写实冰水奢华人像 - Image 3">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04031_1.jpg" width="600" alt="潮男萌趣自拍日记 - Image 2">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 79: 女星健身房自拍
+### No. 6: 柱廊深邃之影
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-{ “图像”：{ “类型”：“照片”， “环境”：“明亮的健身房，配有镜子和举重器械”， “受试者”： [ { “name”： “{argument name=”celebrity 1“ default=”Victoria Justice“}”， “位置”：“左”， “服装”：{ “上衣”：“深灰色运动文胸” “下半…
+{ “元数据”： { “image_type”：“照片”， “primary_purpose”：“编辑/肖像” }, “作曲”：{ “rule_applied”：“三分法则和一点透视法”， “aspect_ratio”：“2：3”， “布局”：“具有深厚环境背景的非对称单一主体”， “focal_points”：[…
 
 #### 📝 提示词
 
 ```
 {
-  “图像”：{
-    “类型”：“照片”，
-    “环境”：“明亮的健身房，配有镜子和举重器械”，
-    “受试者”： [
+  “元数据”： {
+    “image_type”：“照片”，
+    “primary_purpose”：“编辑/肖像”
+  },
+  “作曲”：{
+    “rule_applied”：“三分法则和一点透视法”，
+    “aspect_ratio”：“2：3”，
+    “布局”：“具有深厚环境背景的非对称单一主体”，
+    “focal_points”：[
+      “受试者明亮的脸在右侧”
+      “左侧柱廊的深消失点”
+    ],
+    “visual_hierarchy”：“由于对比度，眼睛从右侧的主体脸部开始，沿着他深色的轮廓向下移动，然后沿着柱子重复的斜线线条，直到最左侧深沉的消失点。”
+    “平衡”：“不对称——右前景主体沉重、阴暗的物质被左侧反复出现的高对比度结构元素所平衡，这些元素逐渐退入深背景。”
+  },
+  “color_profile”： {
+    “dominant_colors”： [
       {
-        “name”： “{argument name=”celebrity 1“ default=”Victoria Justice“}”，
-        “位置”：“左”，
-        “服装”：{
-          “上衣”：“深灰色运动文胸”
-          “下半身”：“深灰色运动短裤”
-        },
-        “姿势”：“拿着手机，自拍，微笑”
+        “颜色”：“黑色”，
+        “hex”：“#0a0a0a”，
+        “百分比”：“45%”，
+        “角色”：“主要主题服装与深邃的建筑阴影”
       },
       {
-        “name”：“{argument name=”celebrity 2“ default=”Sabrina Carpenter“}”，
-        “位置”：“中心”，
-        “服装”：{
-          “上衣”：“米色运动文胸”，
-          “下半身”：“米色运动短裤”
-        },
-        “姿势”：“微微一笑，看着手机”
+        “颜色”：“浅灰色”，
+        “hex”：“#c8c8c8”，
+        “百分比”：“35%”，
+        “角色”：“混凝土柱子和地面的照明面”
       },
       {
-        “name”： “{argument name=”celebrity 3“ default=”Selena Gomez“}”，
-        “位置”：“右”
-        “服装”：{
-          “上衣”：“灰褐色运动文胸”，
-          “下半身”：“橄榄绿运动短裤”
-        },
-        “姿势”：“笑得很灿烂，身体前倾”
+        “颜色”：“中灰色”，
+        “hex”：“#6e6e6e”，
+        “百分比”：“20%”，
+        “角色”：“阴影过渡与环境背景”
       }
     ],
-    “构图”：“镜中自拍，中景，三位女性站得很近”
-    “细节”： [
-      “维多利亚·贾斯蒂斯持有的智能手机”
-      “镜中倒影，显示女性和健身器材”
-      “背景中的健身房架子和器械”，
-      “明亮均匀的光线”
-      “汗水淋漓的形象出现在受试者身上”
-    ]
+    “color_palette”：“单色”，
+    “温度”：“中性”，
+    “饱和度”：“黑白”
+    “对比度”：“高对比度”
+  },
+  “闪电”：{
+    “类型”：“自然窗户/拱门光”，
+    “source_count”：“多个源头——左侧重复的拱门充当大型柔光箱”，
+    “方向”：“90度侧”，
+    “方向性”：“高度定向性”，
+    “质量”：“主体柔和的光照，建筑的硬几何光”，
+    “强度”：“阴郁/高调的建筑高光，搭配低调的主体阴影”，
+    “contrast_ratio”：“高对比度（戏剧性阴影）”，
+    “氛围”：“戏剧性/神秘/高雅”，
+    “阴影”：{
+      “类型”：“结构元素上有鲜明的棱角，主体面部的柔和渐进边缘”，
+      “密度”：“深黑色”
+      “摆放”：“投掷在地面、走道内部及主体右侧”，
+      “长度”：“走廊地板上的长——水平阴影投射”
+    },
+    “精彩片段”：{
+      “处理”：“保存”，
+      “放置”：“柱子左向平面、开口附近的地面，以及被摄者的左脸颊和鼻子上”
+    },
+    “ambient_fill”：“缺席”，
+    “light_temperature”：“中立”
+  },
+  “technical_specs”： {
+    “媒介”：“数码摄影”，
+    “风格”：“写实/编辑”，
+    “质地”：“光滑至略带颗粒感”，
+    “锐利度”：“在主体上贴近锐利，而在深背景中镜头自然衰落”，
+    “颗粒”：“胶片颗粒——中等水平”，
+    “depth_of_field”：“深邃——主体因对比而孤立，但背景建筑在画面深处仍保留可识别的结构”，
+    “透视”：“直视视线，视线高度，带有强烈的一点零透视”
+  },
+  “artistic_elements”： {
+    “类型”：“肖像/编辑”，
+    “影响”：[
+      “电影黑色电影摄影”，
+      “经典街头与时尚摄影”
+      “野兽派建筑摄影”
+    ],
+    “氛围”：“精致/戏剧性/沉思”，
+    “氛围”：“一个安静、孤立且高度结构化的城市时刻，带有电影感和略带神秘的边缘。”
+    “visual_style”：“结构化/几何化/干净”
+  },
+  “排版”：{
+    “在场”：false，
+    “字体”： []，
+    “placement”：“，
+    “整合”：“”
+  },
+  “subject_analysis”：{
+    “primary_subject”：“年轻白人男性，穿着深色高领毛衣、长款深色皮革或厚重棉质风衣、深色裤子和深色切尔西靴。”
+    “定位”：“右三分法则的摆放，锚定前景”
+    “体型”：“全身/环境”，
+    “互动”：“与环境互动——依靠建筑”，
+    “facial_expression”： {
+      “嘴巴”：“中性”
+      “smile_intensity”：“没有笑容”，
+      “眼睛”：“向右看，画面外”，
+      “眉毛”：“放松”，
+      “overall_emotion”：“严肃/沉思/戒备”，
+      “真实性”：“摆拍/编辑”
+    },
+    “hands_and_gestures”： {
+      “left_hand”：“隐藏在外套口袋里”，
+      “right_hand”：“藏在外套口袋里”，
+      “finger_positions”：“不可见”，
+      “finger_interlacing”：“无”，
+      “hand_tension”：“放松”，
+      “互动”：“放在口袋里，稍微把外套往后拉”，
+      “自然”：“刻意摆出姿势，但模仿有机的休闲姿势”
+    },
+    “body_positioning”： {
+      “姿势”：“站立/倾斜——左肩靠在石柱上”，
+      “角度”：“侧面向右转45度”，
+      “weight_distribution”：“右倾，体重靠在柱子和左腿上，右腿松松地交叉”，
+      “肩膀”：“因倾斜而倾斜，左肩贴墙”
+    }
+  },
+  “背景”：{
+    “setting_type”：“户外/半封闭的建筑柱廊或有顶人行道”，
+    “spatial_depth”：“深邃——极其消失点，形成多层柱子平面”，
+    “elements_detailed”：[
+      {
+        “项目”：“方形建筑柱1（前景）”，
+        “位置”：“右”
+        “距离”：“前景”，
+        “体型”：“主导型”，
+        “状态”：“纯净/风化”，
+        “specific_features”：“光滑的混凝土或石材表面，作为主体的结构支柱”
+      },
+      {
+        “项目”：“重复的建筑柱（背景）”，
+        “位置”：“左”，
+        “距离”：“中景到深背景”，
+        “规模”：“中至小范围后退”，
+        “状态”：“纯净/风化”，
+        “specific_features”：“创造出光影的节奏几何图案”
+      },
+      {
+        “物品”：“天花板格栅/横梁”，
+        “位置”：“左上角”，
+        “距离”：“中景”，
+        “尺寸”：“中等”，
+        “状态”：“完好无损”，
+        “specific_features”：“凹陷的矩形天花板细节捕捉定向光线”
+      }
+    ],
+    “wall_surface”： {
+      “材料”：“混凝土/石材板材”，
+      “surface_treatment”：“光滑且略带多孔质感，建筑板材已完成”，
+      “质感”：“略带纹理/哑光”，
+      “finish”：“哑光”，
+      “颜色”：“中性浅灰到中灰（灰阶）”，
+      “color_variation”：“由于强烈光照衰减导致的渐变”，
+      “特征”：“干净、清晰可见的水平和垂直面板接缝/接缝，表明模块化结构”
+      “wear_indicators”：“洁净的机构/市政建筑”
+    },
+    “floor_surface”：{
+      “材料”：“混凝土/石头”，
+      “颜色”：“阴影中的中灰到深灰色”，
+      “图案”：“实心且带有细腻光滑的质感”
+    },
+    “objects_catalog”：“重复混凝土/石材结构柱，镶板天花板结构，坚实铺装地板”，
+    “background_treatment”：“深影、几何、高对比度的锐利过渡”
+  },
+  “generation_parameters”： {
+    “提示”： [
+      “一张电影般的黑白时尚编辑照片，照片中是一位年轻帅气男子，拥有波浪状的深色头发，穿着黑色高领毛衣和一件长款解开扣子的黑色皮革风衣。他左肩靠在一根巨大的光滑混凝土柱上，柱廊无尽，建筑风格的柱廊。他双手插在外套口袋里，右腿随意地交叉搭在左腿上。他正向镜头外右侧看，神情严肃而沉思。场景采用强烈的单点透视，重复的拱门向左深处后退。高度定向、高对比度的自然光从左侧射入，投射出强烈的几何阴影，映照在男子脸上。使用35毫米胶片拍摄，主体锐利，情绪浓郁、精致、引人注目的几何形态。”
+      “黑白摄影，一名穿着深色大衣的男子全身肖像，靠在一根结构柱上。左侧是一条深邃的单点透视走廊。高对比度、定向侧光、鲜明的阴影、野兽派混凝土建筑、情绪化、时尚时尚风格。”
+    ],
+    “关键词”： [
+      “黑白”
+      “社论”，
+      “风衣”，
+      “柱廊”，
+      “一点透视”，
+      “高对比度”
+      “明暗对比”，
+      “电影感”，
+      “倾斜”，
+      《几何阴影》
+    ],
+    “technical_settings”：“相机：全画幅单反或35毫米胶片”
   }
 }
 ```
@@ -3204,43 +410,127 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04953_0.jpg" width="600" alt="女星健身房自拍 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06834_0.jpg" width="600" alt="柱廊深邃之影 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 7: 未来机器人特写
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+超写实现代机器人特写，面部是大型矩形液晶屏，高分辨率显示显示**{argument name=“display content” default=“display content”}**，锐利清晰的像素和细微的背光，哑光黑色金属机身，带有细腻的面板线条和拉丝铝饰，屏幕边缘发光的蓝色LED装饰，关节状的颈部和肩部，配有…
+
+#### 📝 提示词
+
+```
+超写实现代机器人特写，面部是大型矩形液晶屏，高分辨率显示显示**{argument name=“display content” default=“display content”}**，锐利清晰的像素和细微的背光，哑光黑色金属机身，带有细腻的面板线条和拉丝铝饰，屏幕边缘发光的蓝色LED装饰，关节状的颈部和肩部，配有可见的线缆和伺服机， 冷酷的工业设计，屏幕玻璃上有淡淡的反光，戏剧性的电影摄影棚灯光，强光轮廓和柔和的体积高光，极其细致的屏幕纹理，逼真的LCD光晕和轻微扫描线，未来感十足的美学，杰作，锐利的对焦
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08573_0.jpg" width="600" alt="未来机器人特写 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04953_1.jpg" width="600" alt="女星健身房自拍 - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08573_1.jpg" width="600" alt="未来机器人特写 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04953_2.jpg" width="600" alt="女星健身房自拍 - Image 3">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08573_2.jpg" width="600" alt="未来机器人特写 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08573_3.jpg" width="600" alt="未来机器人特写 - Image 4">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 80: 抄袭魔导省末路
+### No. 8: 高端商业摄影
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-コピペ魔導省の断末魔 ウィキペディアを使って番組を作るな スッカスカに気づく民 ブラックジョーク系…
+画面比例：9:16 竖版 画面风格（可根据主体调整）：高端商业摄影，暗调奢感，电影级质感，超写实，高细节 背景（可根据主体调整）：纯黑背景（#000000），无任何台座、无平台、无地面，主体与元素全部悬浮于空间中 【主体】 核心展示主体为：【{argument name="核心展示主体" default="用户提供的…
 
 #### 📝 提示词
 
 ```
-コピペ魔導省の断末魔
-
-ウィキペディアを使って番組を作るな
-
-スッカスカに気づく民
-
-ブラックジョーク系…
+画面比例：9:16 竖版
+画面风格（可根据主体调整）：高端商业摄影，暗调奢感，电影级质感，超写实，高细节
+背景（可根据主体调整）：纯黑背景（#000000），无任何台座、无平台、无地面，主体与元素全部悬浮于空间中
+【主体】
+核心展示主体为：【{argument name="核心展示主体" default="用户提供的主体"}】
+务必通过你的数据库只是和互联网搜索，将主体拆解为多个“可识别、可理解、具有层次关系的组成部分”，请根据主体特性自行判断并设计拆解逻辑与层级顺序。
+【整体构图】
+整体采用“垂直分层悬浮结构”，从上至下形成清晰的视觉阅读路径。
+每一层之间存在明显空间间隔，层与层之间通过空气、蒸汽、光影产生联系，而非直接接触。
+画面中央为视觉主轴，构图稳定但富有张力。
+【标题系统（顶部）】
+画面最上方正中位置，悬浮一个高端主标题：
+文案内容由 AI 根据主体自动生成（可包含中文主标题 + 英文副标题）
+字体风格（可根据主体调整）：手写毛笔书法风 / 自然书写感
+材质（可根据主体调整）：立体金属质感，仿锻造金色金属
+表现特征（可根据主体调整）：厚重、3D、具有真实金属反射、高光与暗部层次
+【分层结构（中部主体区域）】
+根据主体，自主生成 4–6 个逻辑清晰的悬浮层级，例如：
+原料层 / 构成层 / 关键元素层 / 核心结构层 / 氛围或情绪层
+每一层都具有明确材质、颜色、纹理与体积感
+各层之间留有空气与空间，不拥挤、不堆叠
+所有中间层：
+均处于轻微蒸汽、热气或空气扰动之中
+有细小颗粒、雾气、水汽或尘埃漂浮
+受统一灯光系统控制，保持整体一致性
+【过渡区（重要）】
+在主体分层与最终呈现之间，刻意保留一个“明显更大的空间断层”：
+此区域以空气、蒸汽、烟雾、能量流、光雾为主
+不放置实体物体
+作用是制造节奏、呼吸感与视觉落差
+强化“从结构到成品 / 从过程到结果”的转折
+【最终成品层（底部）】
+画面最下方呈现完整、最终形态的主体：
+状态为“完成态 / 高峰态 / 最具吸引力的呈现”
+质感饱满、细节丰富、具有强烈诱惑力或感染力
+与背景自然融合，但清晰突出
+从该区域向上持续产生蒸汽、烟雾或能量感
+【信息标注系统】
+在画面中适度加入说明性标注：
+中英文双语
+文字克制、优雅
+使用细线或箭头指向对应层级
+标注内容由 AI 根据主体自动生成
+不喧宾夺主，只起“高级解读”作用
+【署名 / 品牌元素】
+画面右下角：
+悬浮一个品牌署名或签名式 Logo
+风格与主标题一致（毛笔字感、金属金色、立体等）
+可搭配轻微星光、微闪效果，强调高级感
+在底部有一句针对主体的一句话商业爆款SLOGAN
+【光影系统】
+45° 方向专业影棚灯光
+暖色轮廓光（rim light）勾勒结构边缘
+局部高光突出材质真实感
+蒸汽与烟雾被灯光切割，形成体积光
+【整体气质】
+暗调、克制、昂贵  或底部一侧（可根据主体调整）
+具有“灵魂感 / 温度 / 手工感 / 高级商业审美”
+适用于品牌海报、主视觉、封面级商业展示
 ```
 
 #### 🖼️ 生成图片
@@ -3248,25 +538,43 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13426_0.jpg" width="600" alt="抄袭魔导省末路 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10470_0.jpg" width="600" alt="高端商业摄影 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10470_1.jpg" width="600" alt="高端商业摄影 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10470_2.jpg" width="600" alt="高端商业摄影 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10470_3.jpg" width="600" alt="高端商业摄影 - Image 4">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 81: 甜心少女与橘猫
+### No. 9: 健身辣妹镜前自拍
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-{ "image_type": "写实肖像", "subject_details": { "identity": { "name": "{argument name=\"celebrity name\" default=\"Sydney Sweeney\"}", "reference_fidelity": 1.0 }…
+{ "subject": { "description": "一位身材健美、体格匀称的年轻女性在镜子中的倒影。", "hair": "浓密的长金发，松散柔和的波浪从脑后垂至腰间。发根颜色稍深，逐渐过渡到亮金色。", "face": "侧脸，舌头俏皮地伸向一侧，目光注视着镜中的手机屏幕。下颌线清晰，眉毛修剪整齐，可见睫…
 
 #### 📝 提示词
 
 ```
-{ "image_type": "写实肖像", "subject_details": { "identity": { "name": "{argument name=\"celebrity name\" default=\"Sydney Sweeney\"}", "reference_fidelity": 1.0 }, "demographics": "皮肤白皙的年轻女性", "hair": "长直浅棕色头发，带金色挑染，垂落在肩上", "attire": "黑色罗纹无袖露脐上衣，黑色裤子/短裤（可见腰带）", "body_modifications": "银色肚脐环（脐钉），小鼻钉", "pose": "坐在床上，将一只小猫抱到脸边，轻抚/亲吻小猫的侧面，女性侧脸特写" }, "animal_details": { "species": "猫", "age": "小猫（非常幼小）", "color": "姜黄色/橘色虎斑猫，胸部为白色", "eye_color": "蓝色", "pose": "被抱在手中，爪子悬空，略微向上看并看向远方" }, "environment": { "setting": "卧室", "background": "香槟色/银色大号毛绒菱形簇绒天鹅绒床头板，带水晶纽扣", "foreground": "白色床单和床上用品" }, "lighting_and_atmosphere": { "lighting_style": "柔和的室内照明，略带影棚闪光灯效果", "shadows": "柔和的阴影，面部光线均匀", "mood": "温柔、亲昵、可爱、舒适" }, "technical_parameters": { "aspect_ratio": "3:4", "resolution": "8k", "focus": "小猫和女性面部对焦清晰", "texture_quality": "发丝、小猫毛发和天鹅绒面料纹理细节丰富" } }
+{ "subject": { "description": "一位身材健美、体格匀称的年轻女性在镜子中的倒影。", "hair": "浓密的长金发，松散柔和的波浪从脑后垂至腰间。发根颜色稍深，逐渐过渡到亮金色。", "face": "侧脸，舌头俏皮地伸向一侧，目光注视着镜中的手机屏幕。下颌线清晰，眉毛修剪整齐，可见睫毛和唇色等妆容。", "body_type": "曲线优美、肌肉发达的健身身材。肩部（三角肌）和手臂肌肉线条明显。腰部纤细，腹部平坦，臀部因姿势而显得更宽，臀部饱满圆润，侧面可见丰满的胸部。", "skin": "白皙的肤色，具有真实的纹理，手臂和背部的微妙阴影勾勒出肌肉线条。", "clothing": "白色细肩带运动文胸或露脐上衣。浅麻灰色紧身热裤（针织质地），低腰设计。" }, "pose": { "type": "站立式镜面自拍，3/4 背面角度。", "details": "身体背对镜头（3/4 背面视角）。躯干略微向左扭转，面向镜子。背部弓起（骨盆前倾）以突出臀部。头部转向左肩上方。左臂弯曲，举起智能手机拍照。右臂自然垂在身体一侧，肘部略微弯曲。腿部在画面底部被截断至大腿中部。", "gesture": "舌头俏皮地伸出。握手机的手上戴着戒指。" }, "environment": { "setting": "室内房间，可能是卧室或更衣室。", "background": "纯色、浅灰色或米白色墙壁。左侧可见一条垂直的接缝或门框边缘。表面是镜子，手机左侧玻璃上的污迹可证明这一点。", "lighting_interaction": "人物的影子投射在身后的墙上。" }, "camera": { "shot_type": "镜面自拍，中景。", "perspective": "相对于倒影的视线水平。相机是图像中看到的手机。", "device_visible": "左手握持的 Apple iPhone Pro 型号（三镜头），带有银色/透明手机壳。", "focal_length": "等效 24-28mm（标准智能手机广角）。", "framing": "垂直构图，头部上方和大腿中部被截断。" }, "lighting": { "type": "柔和的室内环境光。", "direction": "相对于人物，光线来自上方和略微前方。", "quality": "漫射光，在墙壁上形成柔和的阴影，并勾勒出手臂和背部的肌肉结构。", "shadows": "人物侧影的清晰阴影投射在左肩后方的墙上。", "highlights": "金发、肩膀和脸颊上的柔和高光。" }, "mood_and_expression": { "mood": "俏皮、自信、妩媚、随意。", "expression": "吐舌头的俏皮姿态，自信的肢体语言展示了健身成果。" }, "style_and_realism": { } }
 ```
 
 #### 🖼️ 生成图片
@@ -3274,25 +582,25 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_17418_0.jpg" width="600" alt="甜心少女与橘猫 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19361_0.jpg" width="600" alt="健身辣妹镜前自拍 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 82: 金发少女兔园奇境
+### No. 10: 红毯双姝四造型
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-{ "image_generation_prompt": { "subject": { "description": "年轻的金发女子", "hair": "标志性的蓬松金发，带有浓密、羽毛状的帘状刘海；发型为柔和、富有弹性的爆炸式卷发，垂落在双肩。", "face": "俏皮而优雅的表情，带着一丝狡黠的微笑；柔和的…
+{ "event_analysis": { "location": "红毯（{argument name=\"event style\" default=\"戛纳电影节风格\"}）", "lighting": "明亮、室外自然光，辅以专业闪光灯", "total_subjects": 2, "total_looks"…
 
 #### 📝 提示词
 
 ```
-{ "image_generation_prompt": { "subject": { "description": "年轻的金发女子", "hair": "标志性的蓬松金发，带有浓密、羽毛状的帘状刘海；发型为柔和、富有弹性的爆炸式卷发，垂落在双肩。", "face": "俏皮而优雅的表情，带着一丝狡黠的微笑；柔和的哑光肤质，睫毛细节清晰，唇色为柔和的淡紫色。", "body": "身材苗条健美，皮肤光滑；腰部前倾，姿态优雅而富有奇想。" }, "attire": { "clothing": "一件无肩带的黄白格纹泡泡迷你连衣裙，带有结构化的紧身胸衣和蓬松的荷叶边泡泡裙；搭配透明的黄色过膝袜，袜口有精致的蕾丝边，裙边绣有黑色的“KeorUnreal”字样，以及亮黄色高跟鞋。", "style": "前卫娇媚 / 高级时装田园风。" }, "styling_and_accessories": { "jewelry": [ "单股珍珠项链", "珍珠耳钉", "每只手各牵着三只黑色小兔子，兔子系在长而华丽的珍珠串牵引绳上" ] }, "environment": { "setting": "在黄金时段，一个郁郁葱葱、修剪整齐的正式花园或庄园草坪。", "background": "深绿色修剪整齐的树篱，成熟的落叶乔木，左侧有一尊石虎雕像，背景中央有一个多层石制海豚喷泉。", "water": "分层喷泉中，柔和闪烁的水珠喷洒到石盆中。" }, "pose": { "posture": "臀部向前弯曲，面向镜头，营造出俏皮而富有动感的轮廓。", "arms": "手臂向下伸展，双手握住草地上三只兔子的珍珠牵引绳。", "angle": "与视线齐平的拍摄角度，略带广角透视，以捕捉完整的环境。" }, "lighting_and_mood": { "lighting": "柔和自然的黄金时段阳光，为皮肤带来温暖的光泽，并突出草地和头发的质感。", "mood": "异想天开、超现实、高级时装编辑风格。", "colors": "充满活力的调色板，包括草地绿、天蓝色、纯白色、黄色和温暖的金色调。" }, "camera_and_technical": { "style": "超逼真，RAW 照片。", "lens": "35mm 定焦镜头。", "aperture": "f/2.8 光圈，使主体清晰，背景自然柔和虚化。", "quality_tags": [ "8k 分辨率", "高度细节", "体积光", "光线追踪反射", "超真实纹理", "哈苏摄影", "Vogue 编辑风格" ] } } }
+{ "event_analysis": { "location": "红毯（{argument name=\"event style\" default=\"戛纳电影节风格\"}）", "lighting": "明亮、室外自然光，辅以专业闪光灯", "total_subjects": 2, "total_looks": 4 }, "subjects": [ { "name": "西德尼·斯威尼", "looks": [ { "outfit": { "style": "优雅/经典", "garment": "及地缎面礼服", "color": "{argument name=\"sydney gown color\" default=\"深红色\"}", "features": ["高领", "长袖", "拖地裙摆"] }, "beauty": { "hair": "金色，偏分，蓬松波浪卷", "makeup": "柔和魅力妆，中性色调" } }, { "outfit": { "style": "华丽/闪耀", "garment": "亮片修身连衣裙", "color": "金属金色", "features": ["短袖", "船形领", "修身"] }, "beauty": { "hair": "光滑高马尾", "makeup": "大胆红唇，精致眼线" } } ] }, { "name": "安娜·德·阿玛斯", "looks": [ { "outfit": { "style": "哥特浪漫/高级定制", "garment": "精致蕾丝叠层礼服", "color": "黑色", "features": ["细肩带", "花卉蕾丝图案", "透视细节"] }, "beauty": { "hair": "深褐色，随性海滩波浪卷", "makeup": "烟熏妆，裸色唇" } }, { "outfit": { "style": "精致/现代", "garment": "修身西装连衣裙", "color": "黑色和白色", "features": ["尖领", "内搭纽扣白衬衫", "迷你裙长"] }, "beauty": { "hair": "光滑中分发髻", "makeup": "清透肌肤妆，修容颧骨" } } ] } ], "image_metadata": { "format": "四格拼贴", "orientation": "横向", "resolution_context": "高清" } }
 ```
 
 #### 🖼️ 生成图片
@@ -3300,119 +608,177 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_21399_0.jpg" width="600" alt="金发少女兔园奇境 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15517_0.jpg" width="600" alt="红毯双姝四造型 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 83: 优雅城市街头穿搭
+### No. 11: 健身好物卡片展
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-{ “提示”：{ “主旨”：{ “类型”：“人类”， “gender_presentation”：“女性”， “age_range”：“20多岁出早至中期”， “姿势”：“站立、向前走、画面居中”， “表情”：“中性、平静、自信”， “凝视”：“直视镜头” }, “外貌”：{ “skin_tone”：“公平”， “头…
+健身产品展示，SNS订阅，4：5比例， 布局：基于卡片的设计，统一的卡片（3x2网格），带有图像和文字。 卡片结构： - TOP（70%）：模特形象，正在使用的健身产品。 - 底部（30%）：产品名称、简要介绍、行动号召按钮（“立即购物”）。 产品与型号： - 东欧女性，20出头，身材健美，展示6张卡片中的多种健身产…
+
+#### 📝 提示词
+
+```
+健身产品展示，SNS订阅，4：5比例， 
+布局：基于卡片的设计，统一的卡片（3x2网格），带有图像和文字。
+卡片结构：
+- TOP（70%）：模特形象，正在使用的健身产品。
+- 底部（30%）：产品名称、简要介绍、行动号召按钮（“立即购物”）。
+产品与型号：
+- 东欧女性，20出头，身材健美，展示6张卡片中的多种健身产品。
+- 每张卡片展示不同的产品：阻力带、瑜伽垫、蛋白摇壶、无线耳机、智能手表、运动鞋。
+- 模特体式：充满活力、引人入胜，反映不同的锻炼活动。
+背景：
+- 每张卡片采用极简背景，展示产品：干净的工作室、模糊的健身房布景、自然的户外环境。
+色彩搭配：
+- 显性：#F8F8F8（米白色）、#20262E（深青绿色）
+- 口音：#74C69D（浅青色），#B0DAFF（浅蓝色）
+
+构图与基调：
+- 所有卡牌中产品聚焦一致。
+- 动态角度，强调健身生活方式。
+- 现代、大胆、运动型的魅力。
+
+相机：佳能EOS R5,35mm f/1.4，浅景深，柔和的摄影棚灯光，进行美妆修饰。
+
+风格：健身魅力、运动感官、自信赋能、病毒式魅力。每张贺卡右下角优雅地印有时尚的手写签名“Willy”。
+
+关键词：卡片网格、健身产品、运动服、运动魅力、色调色彩搭配、肖像摄影......优雅地手写威利签名，右下角有小字
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_11507_0.jpg" width="600" alt="健身好物卡片展 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 12: 图书馆暖光肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一位女士站在狭窄的图书馆书架旁，背靠着一排书。她的目光直视镜头，双臂交叉在胸前。镜头是特写肖像，突出她的脸庞、书籍的质感以及旧图书馆温暖的氛围。构图紧凑且垂直拉长，书本环绕着她的脸，形成封闭空间的效果。焦点放在她的脸和眼睛上。 皮肤看起来非常均匀且哑光。妆容柔和自然：半透明的暖棕米色眼影，睫毛线处有淡淡晕染，睫毛延长…
+
+#### 📝 提示词
+
+```
+一位女士站在狭窄的图书馆书架旁，背靠着一排书。她的目光直视镜头，双臂交叉在胸前。镜头是特写肖像，突出她的脸庞、书籍的质感以及旧图书馆温暖的氛围。构图紧凑且垂直拉长，书本环绕着她的脸，形成封闭空间的效果。焦点放在她的脸和眼睛上。
+
+皮肤看起来非常均匀且哑光。妆容柔和自然：半透明的暖棕米色眼影，睫毛线处有淡淡晕染，睫毛延长，以及柔和的粉棕色缎面口红（#8B6A5C）。
+
+指甲为短而自然的椭圆形，涂有半透明裸色指甲油（#D8C2B5）并带有哑光效果。她的头发被束成松散的低发型，几缕头发散落在脸旁。细小的单根头发会被暖光照亮。
+
+她穿着一件白色衬衫，用细棉制成，哑光表面，领口和门襟上有小荷叶边。外面穿着一件温暖的棕色针织背心（#7A6248），羊毛材质质地明显厚重。她耳边挂着一对带有柔和缎光泽的小珍珠耳环。
+
+场景发生在一座老图书馆，书架高耸，呈深胡桃木色（#4A3426）。书架上密密麻麻地摆满了书脊磨损的书，色调为深酒红色、橄榄色、赭石和藏青色。木质表面哑光，略显老化，带有明显的纹理和细微磨损。空间狭窄而昏暗，背景逐渐溶解成柔和的模糊。
+
+灯光温暖且富有电影感。主光源位于脸侧，略高于面部，为眼睛、颧骨和靠近脸部的书籍提供柔和且有方向性的光照。阴影深且边缘柔和，画面暗部过渡平滑。对比度适中。灯光呈现出明显的温暖琥珀色调，突显出纸张、木头和织物的质感。皮肤和珍珠上的挑染柔和而低调。
+
+用50mm镜头拍摄。浅景深，眼睛、面部特征和最近的书脊都非常清晰。图书馆远处的背景和深度被柔和地模糊了。皮革、纸张、木材和羊毛针织的质地细节丰富。电影图书馆肖像摄影，细节丰富，照片级写实。
+
+情绪化的电影图书馆氛围，
+温暖的琥珀色和深棕色的主色调，
+低至中等饱和度，
+柔和定向钨灯风格照明，
+中等高对比度，阴影深邃，
+温暖的高光搭配柔和的渐减，
+丰富的阴影密度与保存质地，
+细腻的胶片颗粒质感，
+轻微的空气雾气，
+复古风格的电影调色，
+柔和的泥土色调
+柔和的高光绽放，
+暗黑学院视觉风格，
+薄膜般的柔和感，带有细致的质感，
+暖色调调色，
+自然的低调灯光平衡。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24350_0.jpg" width="600" alt="图书馆暖光肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 13: 电竞少女镜前自拍
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “主旨”：{ “类型”：“人” “描述”：“一位美丽的东亚年轻女子，长发深红/酒红色，扎成马尾。她坐在游戏室的柔软地毯上，背对着摄像头，举起手机准备对着镜子自拍。她不再戴眼镜了。” “身体”：{ “身材”：“极为突出的沙漏型身材，臀大且突出，腰臀比极高。她的臀部宽，腰部非常细。她的双腿健美结实，坐着时收在身下。她…
 
 #### 📝 提示词
 
 ```
 {
-  “提示”：{
-    “主旨”：{
-      “类型”：“人类”，
-      “gender_presentation”：“女性”，
-      “age_range”：“20多岁出早至中期”，
-      “姿势”：“站立、向前走、画面居中”，
-      “表情”：“中性、平静、自信”，
-      “凝视”：“直视镜头”
-    },
-    “外貌”：{
-      “skin_tone”：“公平”，
-      “头发”：{
-        “颜色”：“深棕色”
-        “长度”：“长度”，
-        “风格”：“松散、柔和波浪、中分”
-      },
-      “facial_features”： {
-        “face_shape”：“椭圆形”
-        “眉毛”：“深色，轮廓分明”
-        “眼睛”：“浅色（绿色/榛色外观）”
-        “化妆”：“极简自然的妆容”
-      }
-    },
-    “服装”：{
-      “顶部”：{
-        “类型”：“无肩带管顶衣”，
-        “颜色”：“米白色/奶油色”，
-        “合身”：“贴身”
-      },
-      “底部”：{
-        “类型”：“高腰宽腿牛仔裤”，
-        “颜色”：“{argument name=”牛仔布颜色“ default=”深靛蓝色牛仔裤“}”，
-        “健身”：“放松，笔直，宽腿”
-      },
-      “鞋子”： {
-        “类型”：“露趾高跟凉鞋”，
-        “颜色”：“米色 / 裸色”，
-        “heel_height”：“低至中”
-      },
-      “配件”：{
-        “袋子”： {
-          “类型”：“结构化手提包”，
-          “颜色”：“奶油色”，
-          “材质”：“绗缝皮革”，
-          “carry_style”：“掌机”
-        },
-        “珠宝”： [
-          {
-            “类型”：“项链”，
-            “风格”：“精致的链条”，
-            “吊坠”：“{argument name=”吊坠细节“ default=”小红宝石“}”
-          },
-          {
-            “类型”：“手表”
-            “颜色”：“金色”，
-            “手腕”：“左”
-          }
-        ]
-      }
-    },
-    “环境”：{
-      “环境”：“城市住宅街”，
-      “建筑”：“欧洲风格砖砌联排别墅”
-      “background_elements”： [
-        “花箱”，
-        “攀缘植物”，
-        “建筑旁的五彩缤纷的花朵”
-      ],
-      “地面”：“石质人行道”
-    },
-    “闪电”：{
-      “类型”：“自然日照”，
-      “质量”：“柔和、扩散”，
-      《阴影》：“柔和，对比极少”
-    },
-    “相机”：{
-      “shot_type”：“全身肖像”，
-      “角度”：“眼睛水平”，
-      “lens_style”：人像镜头“，
-      “depth_of_field”：“浅显、柔和模糊的背景”
-    },
-    “风格”：{
-      “美学”：“现代、优雅、休闲时尚”
-      “color_palette”：[
-        “奶油”，
-        “深蓝色”
-        “绿色”，
-        “温暖的花色调”
-      ],
-      “照片写实主义”：“高”，
-      “detail_level”：“高”
-    },
-    “心情”：“平静、优雅、时尚”
-  }
+  “主旨”：{
+    “类型”：“人”
+    “描述”：“一位美丽的东亚年轻女子，长发深红/酒红色，扎成马尾。她坐在游戏室的柔软地毯上，背对着摄像头，举起手机准备对着镜子自拍。她不再戴眼镜了。”
+    “身体”：{
+      “身材”：“极为突出的沙漏型身材，臀大且突出，腰臀比极高。她的臀部宽，腰部非常细。她的双腿健美结实，坐着时收在身下。她的背部弓起，凸显出她的曲线。”
+      “比例”：“下半身曲线夸张，臀部丰满圆润，上半身纤细，四肢结实。”
+    },
+    “服装”：{
+      “上衣”：“一件宽大的浅灰色连帽卫衣，帽子拉下，露出脖子和背部。”
+      “下装”：“超短、紧身的短裤，采用鲜艳的黄绿色图案，可能带有风格化的皮卡丘或类似角色。短裤明显比她宽大的臀部短得多。”
+      “配饰”：“不戴眼镜，戴耳洞，手持黑色花纹手机壳。”
+    }
+  },
+  “场景”：{
+    “类型”：“内页”，
+    “描述”：“一个细节丰富、现代化的玩家房间。背景包括一张大桌子，配备多显示器，展示游戏界面，一把高端游戏椅，RGB LED灯带排列在货架上，显示器后方形成暖冷色调的光线混合（蓝色、紫色、橙色），各种游戏外设、海报以及架子上的收藏手办。地板铺着一块柔软的灰色地毯。”
+    “对象”：[
+      “多显示器电脑设置”，
+      “游戏椅”，
+      “RGB LED 灯带”，
+      “游戏键盘和鼠标”
+      “海报”
+      “收藏小雕像”
+      “耳机支架”
+      “柔软的灰色地毯”
+    ]
+  },
+  “闪电”：{
+    “类型”：“混合”，
+    “描述”：“RGB LED和屏幕发出的暖光和冷光发出，在她的身体和房间纹理上投下柔和的阴影和高光。主要光源来自游戏设备和环境房间LED灯。”
+    “设置”：“专业室内灯光搭配LED点缀，营造温馨动感的氛围。”
+  },
+  “相机”：{
+    “类型”：“单反”
+    “镜头”：“广角镜头”，
+    “光圈”：“低光圈，浅景深，聚焦于主体，特别是背部和臀部”，
+    “透视”：“视线平视，捕捉自拍倒影”，
+    “风格”：“专业摄影，细节锐利，色彩丰富”
+  },
+  “aspect_ratio”：“9：16”，
+  “negative_constraints”： [
+    “无标志”
+    “没有美化平滑”，
+    “没有额外的肢体”，
+    “没有短信”
+  ],
+  “reflection_integrity_rules”：“确保镜子反射准确匹配被写体的姿势、服装和游戏室背景，且无失真。”
 }
 ```
 
@@ -3421,62 +787,148 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05467_0.jpg" width="600" alt="优雅城市街头穿搭 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06530_0.jpg" width="600" alt="电竞少女镜前自拍 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 84: 俏皮自拍拼贴画
+### No. 14: 霓虹光影人像
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-{ “image_structure”： { “布局”：“垂直三面板拼贴画”， “aspect_ratio”：“高竖条”， “shot_type”：“特写自拍” }, “subject_details”： { “人口统计”：“拥有长而波浪的棕发年轻女性” “皮肤”：“自然肌肤质地，简约或无妆”， “服装”：“{arg…
+一张女性肖像，留着短短的深色波波头，回头望去，脸部和肩膀上有戏剧性的霓虹粉色和蓝色灯光，深紫色背景，高端时尚摄影风格，清晰对焦，8K。
+
+#### 📝 提示词
+
+```
+一张女性肖像，留着短短的深色波波头，回头望去，脸部和肩膀上有戏剧性的霓虹粉色和蓝色灯光，深紫色背景，高端时尚摄影风格，清晰对焦，8K。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03752_0.jpg" width="600" alt="霓虹光影人像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 15: 西德尼甜笑自拍
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ "subject": { "identity": "西德尼·斯威尼", "gender": "女性", "age_range": "20 岁出头到 20 岁中期", "skin_tone": "白皙，带有柔和的粉色底调", "face_shape": "椭圆形，下颌线柔和", "facial_features":…
+
+#### 📝 提示词
+
+```
+{ "subject": { "identity": "西德尼·斯威尼", "gender": "女性", "age_range": "20 岁出头到 20 岁中期", "skin_tone": "白皙，带有柔和的粉色底调", "face_shape": "椭圆形，下颌线柔和", "facial_features": { "eyes": "浅蓝色，富有表现力", "nose": "小巧精致", "lips": "丰满，自然粉色", "cheeks": "柔软，略带红晕" }, "expression": "露出牙齿的灿烂笑容，眼睛眯成一条缝", "emotion": "俏皮、无忧无虑、真诚的快乐" }, "hair": { "color": "浅金金色", "length": "长发，刚好在肩膀下方", "texture": "自然，略带波浪", "style": "蓬松，中分，柔和地修饰脸部" }, "headwear": { "type": "牛仔帽", "color": "米白 / 奶油色", "material": "毛毡", "fit": "自然贴合，戴在头上很正" }, "clothing": { "top": { "type": "无袖衬衫", "color": "浅米色 / 奶油色", "fabric": "柔软的棉或亚麻", "fit": "女性化，略微修身" }, "inner_layer": { "type": "蕾丝文胸", "color": "柔和的粉彩色", "visibility": "在衬衫下若隐若现" } }, "accessories": { "neck": { "type": "头巾", "color": "白色", "pattern": "小黑色佩斯利印花", "tie_style": "松散地系在前面" } }, "pose_and_gesture": { "camera_angle": "自拍角度，略高于胸部", "distance": "近景", "head_position": "头部略微倾斜", "body_language": "放松，身体倾向画面", "gesture": "随意、自然的自拍瞬间" }, "framing": { "crop": "中景特写", "orientation": "垂直", "focus": "面部和上半身清晰对焦", "depth_of_field": "浅景深，背景柔和模糊" }, "lighting": { "type": "自然室内光线", "direction": "柔和的侧光", "contrast": "低对比度", "tone": "温暖，舒适" }, "background": { "location": "室内，居家环境", "details": "中性，极简，不分散注意力", "importance": "低优先级" }, "style": { "aesthetic": "西部风格休闲", "vibe": "真实、亲密、坦诚", "realism": "超写实", "celebrity_likeness": "非常高" }, "image_quality": { "resolution": "高分辨率", "detail_level": "非常高", "skin_texture": "自然，真实的皮肤纹理", "color_accuracy": "真实色彩" }, "negative_prompt": { "avoid": [ "动漫", "卡通", "插画", "过于光滑的皮肤", "塑料感皮肤", "浓妆", "戏剧性影棚灯光", "不同颜色的帽子", "不同颜色的围巾", "不同的面部表情", "改变姿势" ] } }
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15903_0.jpg" width="600" alt="西德尼甜笑自拍 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 16: 写实与手绘分脸肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一张用上传照片拍摄的分脸双人肖像。左半部分展示了一张柔和、极写实的工作室照片，拥有自然的肤色、平滑的光线、浅景深和温暖的散景灯光。右半部分将同一张脸转化为戏剧性的{argument name=“插画风格” default=“黑白手绘墨水插画”}，特色包括富有表现力的笔触、大胆的线条、细腻的交叉阴影、流畅的头发，配以动…
+
+#### 📝 提示词
+
+```
+一张用上传照片拍摄的分脸双人肖像。左半部分展示了一张柔和、极写实的工作室照片，拥有自然的肤色、平滑的光线、浅景深和温暖的散景灯光。右半部分将同一张脸转化为戏剧性的{argument name=“插画风格” default=“黑白手绘墨水插画”}，特色包括富有表现力的笔触、大胆的线条、细腻的交叉阴影、流畅的头发，配以动态墨水溅射，以及原始的艺术素描美学。两半面部完美对齐，中心垂直分割干净，写实与插画形成强烈对比，编辑风格如美术，超高分辨率，细节锐利，画廊级处理，1：1宽高比。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03138_0.jpg" width="600" alt="写实与手绘分脸肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 17: 红日白沙驼影行
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+3D艺术风格，极简主义风景。巨大完美的红色太阳圆形在干净的灰色天空中。白色沙丘形成对角线斜坡，尖锐的山脊，红色微妙的独特纹理在山脊上。底部有骆驼商队的微小剪影。高对比度，干净线条，逼真纹理，空灵光线，--no ink, no messy clouds, no brushstrokes.
+
+#### 📝 提示词
+
+```
+3D艺术风格，极简主义风景。巨大完美的红色太阳圆形在干净的灰色天空中。白色沙丘形成对角线斜坡，尖锐的山脊，红色微妙的独特纹理在山脊上。底部有骆驼商队的微小剪影。高对比度，干净线条，逼真纹理，空灵光线，--no ink, no messy clouds, no brushstrokes.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_18522_0.jpeg" width="600" alt="红日白沙驼影行 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 18: 夕阳海滩玫瑰回眸
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “raw_prompt”：“一首高分辨率的Rosé（BLACKPINK）肖像，拍摄于夕阳下的海滩。她有一头长长的草莓金色头发，刘海是钝的，扎成马尾。她穿着一套柔和的粉色钩针两件套，包括无肩带束胸上衣和配套的高腰裙。她佩戴着大型金色花卉耳环。她背对镜头站立，回头望向柔和的电影感目光。背景是一张白色布料的沙滩桌、一把…
 
 #### 📝 提示词
 
 ```
 {
-  “image_structure”： {
-    “布局”：“垂直三面板拼贴画”，
-    “aspect_ratio”：“高竖条”，
-    “shot_type”：“特写自拍”
-  },
-  “subject_details”： {
-    “人口统计”：“拥有长而波浪的棕发年轻女性”
-    “皮肤”：“自然肌肤质地，简约或无妆”，
-    “服装”：“{argument name=”服装物品“ 默认=”粉色蕾丝边的文胸或吊带背心“}，配有细细肩带”，
-    “配饰”：“修长的指甲（{argument name=”指甲颜色“ default=”裸色/浅粉色“））
-  },
-  “环境”：{
-    “环境”：“昏暗的卧室或酒店房间内部”，
-    “background_elements”： [
-      “米色/奶油色墙面”
-      “左侧有厚重的棕色窗帘”
-      “背景中床头板的部分视角”
-    ]
-  },
-  “lighting_and_style”： {
-    “照明”：“温暖的室内人工照明，低光环境”，
-    “美学”：“自拍风格，手机相机质量略显颗粒感，2010年代初社交媒体风格，闪光灯摄影风格”，
-    “氛围”：“随意、亲密、俏皮”
-  },
-  “panel_breakdown”： {
-    “top_panel”： {
-      “表情”：“撅嘴或困惑，眉头微皱”，
-      “姿势”：“手指勾住下唇，直视镜头”
-    },
-    “middle_panel”： {
-      “表情”：“温柔的微笑，直视镜头”
-      “overlay_effect”：“数字{argument name=”覆盖颜色“ default=”pink“} 心形皇冠滤镜（Snapchat风格）漂浮在头部”
-    },
-    “bottom_panel”： {
-      “表情”：“放松，嘴微张，凝视镜头”
-      “姿势”：“头侧倾，手轻触下巴和下唇”
+  “raw_prompt”：“一首高分辨率的Rosé（BLACKPINK）肖像，拍摄于夕阳下的海滩。她有一头长长的草莓金色头发，刘海是钝的，扎成马尾。她穿着一套柔和的粉色钩针两件套，包括无肩带束胸上衣和配套的高腰裙。她佩戴着大型金色花卉耳环。她背对镜头站立，回头望向柔和的电影感目光。背景是一张白色布料的沙滩桌、一把木椅，以及温暖金色时空下的海洋。使用35毫米镜头拍摄，柔和的自然光，暖色调调色。——AR 9：16”，
+  “aspect_ratio”：“9：16”，
+  “受试者”： [
+    {
+      “name”： “{argument name=\”subject name\“ default=\”Rosé （BLACKPINK）\“}”，
+      “physical_features”：“长长的草莓金发，刘海扎成马尾，白皙的皮肤，柔和优雅的妆容，画着有翅膀眼线。”
+      “服装”：{
+        “下装”：“粉色钩针紧身中长裙。”
+        “上衣”：“粉色钩针针织无肩带抹胸上衣。”
+        “配饰”：“超大金属金色三花落耳环。”
+      },
+      “pose_and_expression”：“背对镜头站立，躯干转动45度，头回转直视镜头;表情平静而精致。”
     }
+  ],
+  “环境”：“夕阳时分户外豪华海滩餐厅，白色亚麻桌、柳条椅、漂流木、平静的海面和橙色的天空。”
+  “photography_and_lighting”： {
+    “camera_style”：“35毫米专业摄影，电影级景深。”
+    “灯光”：“黄金时段背光，柔和的漫射光照在皮肤上。”
+    “color_grading”：“温暖的色调，橙色和金色饱和度高，柔和的阴影。”
   }
 }
 ```
@@ -3486,25 +938,25 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00178_0.jpg" width="600" alt="俏皮自拍拼贴画 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03628_0.jpg" width="600" alt="夕阳海滩玫瑰回眸 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 85: 红气球玫瑰浪漫少女
+### No. 19: 卡通3D肖像变身术
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一位年轻女性的浪漫生活肖像，她以四分之三背对镜头的姿势站立，转身面向镜头，带着温柔自信的微笑，齐腰的黑色长发自然垂落，身穿一件奶油色缎面吊带裙，细细的肩带和低开的露背设计，裙长及大腿中部，质地光滑柔顺，带有微妙的光泽。她被多个金属红色心形氦气球环绕，气球高度不一，细长的卷曲丝带垂直垂下，她周围的地面上铺满了密集的红色…
+把这张照片变成一张带有卡通风格的超写实3D肖像。略微夸张的特征特征，以营造幽默感（眼睛、鼻子、嘴唇、下颌等）。保持真实的皮肤质地，毛孔和细节清晰可见。根据环境或原始面部表情，施加放松、嘲讽或怀疑的面部表情。增加柔和均匀的光线。给角色穿同样的衣服，但要更有质感和更鲜艳的色彩。使用平坦的粉彩色背景。使用类似风格化数字动画…
 
 #### 📝 提示词
 
 ```
-一位年轻女性的浪漫生活肖像，她以四分之三背对镜头的姿势站立，转身面向镜头，带着温柔自信的微笑，齐腰的黑色长发自然垂落，身穿一件奶油色缎面吊带裙，细细的肩带和低开的露背设计，裙长及大腿中部，质地光滑柔顺，带有微妙的光泽。她被多个金属红色心形氦气球环绕，气球高度不一，细长的卷曲丝带垂直垂下，她周围的地面上铺满了密集的红色和白色玫瑰。 垂直拍摄，与视线齐平，略带角度，中等全身构图，裁剪至膝盖上方，主体略微偏向画面右侧，气球营造出松散的对称性和分层深度。适度的浅景深（f/2.8–f/4 效果），主体清晰对焦，背景略微柔化。 室内住宅环境，背景中隐约可见玻璃面板和瓷砖地板。柔和的漫射正面照明，暖色室内色温，柔和的阴影，金属气球上反射出强烈的镜面高光。高对比度调色板，以鲜艳的红色、象牙色和白色调为主。高分辨率，细节清晰，低噪点，50–85mm 人像镜头美学，自然皮肤修饰，浪漫情人节网红摄影风格。
+把这张照片变成一张带有卡通风格的超写实3D肖像。略微夸张的特征特征，以营造幽默感（眼睛、鼻子、嘴唇、下颌等）。保持真实的皮肤质地，毛孔和细节清晰可见。根据环境或原始面部表情，施加放松、嘲讽或怀疑的面部表情。增加柔和均匀的光线。给角色穿同样的衣服，但要更有质感和更鲜艳的色彩。使用平坦的粉彩色背景。使用类似风格化数字动画角色的风格，并带有细致渲染。在右下角，用手写字体添加编辑日期。
 ```
 
 #### 🖼️ 生成图片
@@ -3512,25 +964,25 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_20616_0.jpg" width="600" alt="红气球玫瑰浪漫少女 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_26462_0.jpg" width="600" alt="卡通3D肖像变身术 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 86: 宇航员发现古神遗骸
+### No. 20: 俏皮少女风自拍
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-{argument name=“subject” default=“Astronaut”}发现一个{argument name=“discovery” default=“死神”} 孤独宇航员站在黑暗月球上的一座废弃外星神庙内，发现横跨地平线的巨大石化宇宙神祇骨架，透过天花板裂缝可见发光的星系，低重力漂浮的碎片，神秘符…
+{ "image_prompt": { "subject": { "description": "年轻女性，肤色白皙，长直发，发色为 {argument name=\"hair color\" default=\"浅棕色\"}，部分发丝随风飘动。", "pose": "自拍角度，头部略微倾斜，{argument na…
 
 #### 📝 提示词
 
 ```
-{argument name=“subject” default=“Astronaut”}发现一个{argument name=“discovery” default=“死神”} 孤独宇航员站在黑暗月球上的一座废弃外星神庙内，发现横跨地平线的巨大石化宇宙神祇骨架，透过天花板裂缝可见发光的星系，低重力漂浮的碎片，神秘符文照亮古老的黑石墙，电影般的阴影，{argument name=“lighting” default=“blue”}体积光， 令人屏息的规模感，极其细致的科幻恐怖现实主义，高度氛围感、超现实且令人难忘的杰作。
+{ "image_prompt": { "subject": { "description": "年轻女性，肤色白皙，长直发，发色为 {argument name=\"hair color\" default=\"浅棕色\"}，部分发丝随风飘动。", "pose": "自拍角度，头部略微倾斜，{argument name=\"expression\" default=\"俏皮地吐着舌头\"}，" } } }
 ```
 
 #### 🖼️ 生成图片
@@ -3538,25 +990,25 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09204_0.jpg" width="600" alt="宇航员发现古神遗骸 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19371_0.jpg" width="600" alt="俏皮少女风自拍 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 87: 泳池边自信女性
+### No. 21: 车库到巅峰的演变
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-{ "type": "image_generation_prompt", "resolution": "16K 超高清", "aspect_ratio": "3:4", "style": "超现实电影级生活肖像", "identity_preservation": { "use_reference_image": t…
+从一个简陋的车库到未来感十足的巅峰——一个无框架的等距世界，讲述着整个公司的演变，在同一条垂直时间线🚀🏗️中
 
 #### 📝 提示词
 
 ```
-{ "type": "image_generation_prompt", "resolution": "16K 超高清", "aspect_ratio": "3:4", "style": "超现实电影级生活肖像", "identity_preservation": { "use_reference_image": true, "strict_identity_lock": true, "alter_face": false, "alter_hair": false, "notes": "保持女性的面部和发型与参考图完全一致。" }, "subject": { "gender": "女性", "appearance": { "face": "与参考图完全一致", "hair": "发型相同，整齐排列" }, "pose": { "description": "靠在玻璃栏杆上，双手插兜，一条腿略微向前，头部面向镜头" }, "expression": "自信、放松、略带一丝坏笑" }, "wardrobe": { "top": "白色针织圆领毛衣", "bottom": "浅色水洗牛仔裤", "footwear": "白色运动鞋", "style": "休闲、现代" }, "environment": { "location": "豪华泳池边", "elements": ["玻璃栏杆", "泳池", "热带植物"], "time_of_day": "阳光明媚的白天", "mood": "放松、时尚、现代" } }
+从一个简陋的车库到未来感十足的巅峰——一个无框架的等距世界，讲述着整个公司的演变，在同一条垂直时间线🚀🏗️中
 ```
 
 #### 🖼️ 生成图片
@@ -3564,25 +1016,40 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_21232_0.jpg" width="600" alt="泳池边自信女性 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00914_0.jpg" width="600" alt="车库到巅峰的演变 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 88: 沉没产品效应解析
+### No. 22: 暮色霓虹都市肖像
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-沉没产品效应
+“subject_description”：“超写实、电影感十足的女性肖像” “行动”：“暮色时分站在繁忙的城市街道上，微微仰望上方” “服装”：{ “眼镜”：“带有暖色调霓虹灯反射的深色太阳镜”， “服装”：“深色羊毛大衣叠加在高领黑色高领毛衣上” }, “环境”：“繁忙的城市街道，暮光，鲜艳城市灯光（红色、橙色、…
 
 #### 📝 提示词
 
 ```
-沉没产品效应
+“subject_description”：“超写实、电影感十足的女性肖像”
+    “行动”：“暮色时分站在繁忙的城市街道上，微微仰望上方”
+    “服装”：{
+      “眼镜”：“带有暖色调霓虹灯反射的深色太阳镜”，
+      “服装”：“深色羊毛大衣叠加在高领黑色高领毛衣上”
+    },
+    “环境”：“繁忙的城市街道，暮光，鲜艳城市灯光（红色、橙色、黄色和蓝色）的模糊混合，梦幻散景效果，阴郁的都市氛围”
+    “光线”：“柔和且弥漫，温暖的琥珀色光辉映照在脸部和毛发上”，
+    “心情”：“冷静自信，内省”
+    “technical_style”：“超写实、电影感、轻微胶片颗粒感、景深、真实观感”
+  },
+  “参数”： {
+    “aspect_ratio”：“3：4”，
+    “方向”：“肖像”
+  },
+  《full_prompt_string》：“一尊超写实、电影感十足的女子肖像，描绘了暮光时分站在繁忙城市街道上的女性。她戴着深色太阳镜，镜片中映出暖色调的霓虹灯。穿着一件深色羊毛大衣，外面是一件高领黑色高领毛衣。背景是一片模糊的城市灯光混合，充满了红色、橙色、黄色和蓝色，营造出梦幻的散景效果，营造出浓郁的都市氛围。她微微抬头，散发出平静自信和内省的神情。灯光柔和而柔和，脸部和毛发上散发着温暖的琥珀色光辉。略带胶片颗粒感和景深，以增强真实观感。——ar 3：4”
 ```
 
 #### 🖼️ 生成图片
@@ -3590,25 +1057,25 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15982_0.jpg" width="600" alt="沉没产品效应解析 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07578_0.jpg" width="600" alt="暮色霓虹都市肖像 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 89: 维多利亚吸血鬼重现
+### No. 23: 竹林借轿虚白行
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-重现主角穿着维多利亚时代的吸血鬼服装，搭配优雅的哥特式细节——深色天鹅绒斗篷、白色荷叶边衬衫和华丽珠宝。再加上低调的吸血鬼妆容，搭配白皙的皮肤和戏剧性的眼妆。把他们置于哥特式豪宅的环境中，烛台和月光透过彩色玻璃窗洒进来。保持面部特征一致。写实、情绪化的光影。
+竹林深处竹笋生，借轿而行，虚白。 梅花犹带苦涩香，耕斋。
 
 #### 📝 提示词
 
 ```
-重现主角穿着维多利亚时代的吸血鬼服装，搭配优雅的哥特式细节——深色天鹅绒斗篷、白色荷叶边衬衫和华丽珠宝。再加上低调的吸血鬼妆容，搭配白皙的皮肤和戏剧性的眼妆。把他们置于哥特式豪宅的环境中，烛台和月光透过彩色玻璃窗洒进来。保持面部特征一致。写实、情绪化的光影。
+竹林深处竹笋生，借轿而行，虚白。 梅花犹带苦涩香，耕斋。
 ```
 
 #### 🖼️ 生成图片
@@ -3616,99 +1083,25 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14717_0.webp" width="600" alt="维多利亚吸血鬼重现 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15156_0.jpg" width="600" alt="竹林借轿虚白行 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 90: 冬夜奢华时尚
+### No. 24: 足球少年咖啡馆时光
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-这是一张黑暗奢华的冬夜编辑照，融合了权力着装、冷峻极简主义和主导的街头优雅。 场景与环境： 冬天的夜间户外地点。 新雪覆盖地面，留下明显的轮胎痕迹和脚印。 一辆哑光黑色越野SUV停在目标后方。 背景中有混凝土墙或工业建筑。 空气中飘着轻雪。 都市工业的冬季氛围，原始而强烈。 摄影与构图： 全身时尚肖像。 摄像机略低于…
+一个可爱的3D卡通风格角色，坐在白色宝丽来相框边缘，身穿黑白条纹足球运动衫、白色短裤、长袜和黑色足球鞋。角色手持外带咖啡杯，自信微笑。风格化的大头，富有表现力的眼睛，光滑肌肤，细节丰富的头发与现代渐变发型。背景是温馨的咖啡馆内部，有木质桌椅、透过窗户的温暖阳光、柔和景深、柔和色调、皮克斯品质的3D渲染、超精细细节、柔…
 
 #### 📝 提示词
 
 ```
-这是一张黑暗奢华的冬夜编辑照，融合了权力着装、冷峻极简主义和主导的街头优雅。
-
-场景与环境：
-冬天的夜间户外地点。
-新雪覆盖地面，留下明显的轮胎痕迹和脚印。
-一辆哑光黑色越野SUV停在目标后方。
-背景中有混凝土墙或工业建筑。
-空气中飘着轻雪。
-都市工业的冬季氛围，原始而强烈。
-
-摄影与构图：
-全身时尚肖像。
-摄像机略低于眼平线，以强调主导地位。
-宽阔但受控的构图，车身完全在被摄体身后。
-竖版格式。
-核心构图强烈。
-
-镜头与设置：
-35mm镜头用于环境肖像。
-光圈f/2.8。
-夜间纹理时ISO适中偏高。
-聚焦主题，背景柔和。
-
-灯光：
-人造定向光来自正面稍高处。
-光线充足的主体与黑暗环境形成强烈对比。
-雪地上的硬阴影是为了视觉效果。
-冷色调配中性肤色。
-没有暖色灯光。
-
-主题与姿势：
-女人自信地站在雪地里。
-双腿分开，摆出力量姿势。
-一条腿微微向前，重心转移。
-手臂放松但控制得很好。
-头微微侧向一边，目光避开镜头。
-姿势坚定、脚踏实地、主导。
-
-表达与情绪：
-严肃而镇定的表情。
-没有笑容。
-情感：权威、控制、自信。
-心情：冷酷力量，夜晚主宰，奢华威慑。
-
-发型与化妆：
-散落的头发在寒冷的空气中微微摆动。
-头发自然、有光泽。
-妆容雕塑般干净。
-轮廓分明的颧骨。
-中性哑光唇部。
-锐利的眼线或明显的睫毛。
-
-服装：
-黑色宽大定制外套敞开。
-里面穿黑色迷你裙或长毛衣。
-透视黑色紧身裤。
-高筒黑色皮靴，鞋筒和鞋跟结构化。
-单色全黑造型。
-
-配件：
-晚上戴着黑色长方形太阳镜。
-饰品尽量少。
-没有明显的标志。
-
-色彩搭配：
-深黑色、炭灰色、雪白。
-对比度极低的调色板。
-高端时尚的黑暗。
-
-风格与美学：
-奢华冬季街头编辑。
-权力极简主义。
-冷酷的支配。
-夜间时尚活动。
-剪辑、电影感、令人望而生畏、昂贵。
+一个可爱的3D卡通风格角色，坐在白色宝丽来相框边缘，身穿黑白条纹足球运动衫、白色短裤、长袜和黑色足球鞋。角色手持外带咖啡杯，自信微笑。风格化的大头，富有表现力的眼睛，光滑肌肤，细节丰富的头发与现代渐变发型。背景是温馨的咖啡馆内部，有木质桌椅、透过窗户的温暖阳光、柔和景深、柔和色调、皮克斯品质的3D渲染、超精细细节、柔和灯光、电影感构图、俏皮而高端的外观、正方形画幅比例。
 ```
 
 #### 🖼️ 生成图片
@@ -3716,25 +1109,25 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25503_0.jpg" width="600" alt="冬夜奢华时尚 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14860_0.jpeg" width="600" alt="足球少年咖啡馆时光 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 91: 辣妹镜面自拍穿搭
+### No. 25: 神秘黑白肖像
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-{ "subject": { "demographics": "年轻女性", "physique": "苗条、健美、晒黑的皮肤", "pose": "站立式镜面自拍，右手持手机，面向前方" }, "appearance": { "hair": { "color": "铂金色，发根可见深色", "style": "长直…
+在不改变面部特征的情况下创作肖像。一张高雅神秘的镜头：富有表现力的眼睛，睫毛被强调，直视，引发神秘感。长而略微卷曲的头发自由垂落，部分遮住脸部，突出质感和蓬松感。黑白配色方案突出对比，皮肤柔和光晕，颧骨和光泽唇部的突出。一位穿着浅色扣子衬衫、袖口整齐的女子，外面套着一件深色宽松西装外套，质地厚重，阴影深邃。她手里拿着…
 
 #### 📝 提示词
 
 ```
-{ "subject": { "demographics": "年轻女性", "physique": "苗条、健美、晒黑的皮肤", "pose": "站立式镜面自拍，右手持手机，面向前方" }, "appearance": { "hair": { "color": "铂金色，发根可见深色", "style": "长直发，柔顺，中分，披散在双肩" }, "face": { "makeup": "全妆，精致上扬眼线，立体修容，裸色亮面唇，眉毛清晰", "eyes": "浅色（蓝色/绿色）" }, "nails": "长款杏仁形，裸米色指甲油" }, "outfit": { "top": { "type": "无肩带方巾上衣（手帕式）", "pattern": "{argument name=\"top pattern\" default=\"Dior Oblique motif\"}（海军蓝和米色标志印花）", "fit": "修身，露脐，露出腰部" }, "bottoms": { "type": "蓝色牛仔裤", "style": "低腰，腰带可见" } }, "accessories": { "jewelry": [ "小金项链，带马蹄形吊坠", "双手腕戴金色手镯（叠戴）", "右手无名指戴金戒指", "银色肚脐钉" ], "bag": { "type": "金色链条单肩包", "material": "{argument name=\"bag material\" default=\"Louis Vuitton Monogram canvas\"}（棕色）", "position": "斜挎在右肩" }, "tech": { "item": "iPhone Pro（三摄像头镜头）", "case_color": "灰色/绿色的纯色" } }, "environment": { "setting": "室内，可能是浴室或卧室", "background": "干净的白墙，白色门框，极简主义美学", "lighting": "明亮、冷色调自然光，均匀照明" } }
+在不改变面部特征的情况下创作肖像。一张高雅神秘的镜头：富有表现力的眼睛，睫毛被强调，直视，引发神秘感。长而略微卷曲的头发自由垂落，部分遮住脸部，突出质感和蓬松感。黑白配色方案突出对比，皮肤柔和光晕，颧骨和光泽唇部的突出。一位穿着浅色扣子衬衫、袖口整齐的女子，外面套着一件深色宽松西装外套，质地厚重，阴影深邃。她手里拿着圆珠笔和笔记本，微微咬着笔。思索的目光，嘴唇微微张开。完全明亮的中性背景无细节强调人物，营造亲密氛围，聚焦内心世界。柔和的漫射光，脸部和手部有清晰的阴影，增添了电影般的深度和戏剧感，画面既强烈又脆弱。照片级真实画面，高细节纹理，4K。
 ```
 
 #### 🖼️ 生成图片
@@ -3742,25 +1135,25 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15309_0.jpg" width="600" alt="辣妹镜面自拍穿搭 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_26099_0.jpg" width="600" alt="神秘黑白肖像 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 92: 红魅幻影时尚肖像
+### No. 26: 克什米尔深冬奇景
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-“一位留着波浪形赤褐色头发的女士，身穿深 V 领黑色天鹅绒礼服，呈现出时尚电影般的肖像。场景沐浴在单色的 深红色 影棚灯光中。‘慢速快门’或长曝光效果在她脸部右侧营造出一种幽灵般、飘渺的动态模糊。她神情镇定，目光高傲，涂着大胆的红色唇膏。一只手优雅地轻抚颈部，展示着一枚个性戒指。情绪化、戏剧性的阴影，8k 分辨率，使…
+克什米尔奇莱卡兰的8K超写实电影场景（12月21日至1月31日），厚重积雪覆盖道路和河流，结冰的溪流，被雪覆盖的桥梁，克什米尔人穿着羊毛费兰小心翼翼地行走，康格里的温暖可见，冷空气中带着呼吸雾气，冬日色调柔和，阴云密布，深冬氛围，纪录片般的写实感，极其清晰的细节，自然光，Vedio点击高动态范围
 
 #### 📝 提示词
 
 ```
-“一位留着波浪形赤褐色头发的女士，身穿深 V 领黑色天鹅绒礼服，呈现出时尚电影般的肖像。场景沐浴在单色的 深红色 影棚灯光中。‘慢速快门’或长曝光效果在她脸部右侧营造出一种幽灵般、飘渺的动态模糊。她神情镇定，目光高傲，涂着大胆的红色唇膏。一只手优雅地轻抚颈部，展示着一枚个性戒指。情绪化、戏剧性的阴影，8k 分辨率，使用 35mm 镜头拍摄，时尚杂志风格。” > 细节剖析 | 元素 | 描述 | |---|---| | 灯光 | 饱和的红色单色灯光，高对比度（明暗对比效果）。 | | 技术效果 | 慢速快门 / 动态模糊：头部后方的“重影”效果表明慢速曝光期间的运动。 | | 主体 | 一位皮肤白皙、有雀斑、留着波浪形 姜黄色/赤褐色 头发的女士。 | | 服装 | 一件简约优雅的黑色深 V 领连衣裙，与红色背景形成鲜明对比。 | | 构图 | 中景，居中，带有柔焦渐晕效果，将注意力吸引到脸部和手部。 | 自定义提示 * 改变氛围：将“深红色”替换为“电光蓝”或“霓虹翠绿”，以营造不同的感觉。 * 改变模特：您可以指定“短发”、“不同种族”或“其他服装”，同时保留“动态模糊”和“单色灯光”标签以保持风格。
+克什米尔奇莱卡兰的8K超写实电影场景（12月21日至1月31日），厚重积雪覆盖道路和河流，结冰的溪流，被雪覆盖的桥梁，克什米尔人穿着羊毛费兰小心翼翼地行走，康格里的温暖可见，冷空气中带着呼吸雾气，冬日色调柔和，阴云密布，深冬氛围，纪录片般的写实感，极其清晰的细节，自然光，Vedio点击高动态范围
 ```
 
 #### 🖼️ 生成图片
@@ -3768,25 +1161,25 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_20433_0.jpg" width="600" alt="红魅幻影时尚肖像 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04520_0.jpg" width="600" alt="克什米尔深冬奇景 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 93: Q版角色多姿势
+### No. 27: 凝固火焰雕塑
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-参照画像のキャラクターをデフォルメキャラクターのイラストに変更。1画像内で様々なポーズを取らせる。背景は白。
+一个 [物体] 悬浮在空中，凝固在点燃的那一刻。火焰和烟雾以坚实的雕塑形式存在，以物体自身转化后的材质，精细地呈现出 [火焰结构 / 烟雾结构 / 热量模式]。燃烧揭示了 [焦炭层、灰烬结构、余烬网络、热裂内层]，具有清晰的热力学逻辑。火焰包含 [内部条纹、可见为颜色变化的温度梯度、氧气流模式]。材料转化被记录下来：…
 
 #### 📝 提示词
 
 ```
-参照画像のキャラクターをデフォルメキャラクターのイラストに変更。1画像内で様々なポーズを取らせる。背景は白。
+一个 [物体] 悬浮在空中，凝固在点燃的那一刻。火焰和烟雾以坚实的雕塑形式存在，以物体自身转化后的材质，精细地呈现出 [火焰结构 / 烟雾结构 / 热量模式]。燃烧揭示了 [焦炭层、灰烬结构、余烬网络、热裂内层]，具有清晰的热力学逻辑。火焰包含 [内部条纹、可见为颜色变化的温度梯度、氧气流模式]。材料转化被记录下来：[焦黑的边缘、卷曲的表面、结晶的糖、焦糖化的蛋白质]。调色板从 [原始材料色调] 逐渐过渡到 [焦炭黑]，再到 [余烬橙和灰烬灰]。物体孤立，凝固的火焰本身发出戏剧性的明暗对比光线。毁灭即建筑。超高分辨率，将暴力化为美，法医摄影与美术的结合。
 ```
 
 #### 🖼️ 生成图片
@@ -3794,14 +1187,239 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06791_0.jpg" width="600" alt="Q版角色多姿势 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_16856_0.jpg" width="600" alt="凝固火焰雕塑 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 94: 暗夜贵族肖像
+### No. 28: 角色概念拆解图生成指南
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+Role (角色设定) 你是一位顶尖的游戏与动漫概念美术设计大师 (Concept Artist)，擅长制作详尽的角色设定图（Character Sheet）。你具备“像素级拆解”的能力，能够透视角色的穿着层级、捕捉微表情变化，并将与其相关的物品进行具象化还原。你特别擅长通过女性角色的私密物品、随身物件和生活细节来侧…
+
+#### 📝 提示词
+
+```
+Role (角色设定)
+你是一位顶尖的游戏与动漫概念美术设计大师 (Concept Artist)，擅长制作详尽的角色设定图（Character Sheet）。你具备“像素级拆解”的能力，能够透视角色的穿着层级、捕捉微表情变化，并将与其相关的物品进行具象化还原。你特别擅长通过女性角色的私密物品、随身物件和生活细节来侧面丰满人物性格与背景故事。
+Task (任务目标)
+根据用户上传或描述的主体形象，生成一张**“全景式角色深度概念分解图”**。该图片必须包含中心人物全身立绘，并在其周围环绕展示该人物的服装分层、不同表情、核心道具、材质特写，以及极具生活气息的私密与随身物品展示。
+Visual Guidelines (视觉规范)
+1. 构图布局 (Layout):
+• 中心位 (Center): 放置角色的全身立绘或主要动态姿势，作为视觉锚点。
+• 环绕位 (Surroundings): 在中心人物四周空白处，有序排列拆解后的元素。
+• 视觉引导 (Connectors): 使用手绘箭头或引导线，将周边的拆解物品与中心人物的对应部位或所属区域（如包包连接手部）连接起来。
+2. 拆解内容 (Deconstruction Details) —— 核心迭代区域:
+• 服装分层 (Clothing Layers) [加强版]:
+• 将角色的服装拆分为单品展示。如果是多层穿搭，需展示脱下外套后的内层状态。
+• 新增：私密内着拆解 (Intimate Apparel): 独立展示角色的内层衣物，重点突出设计感与材质。例如：成套的蕾丝内衣裤（展示蕾丝花纹细节）、丁字裤（展示剪裁）、丝袜（展示透肉感与袜口设计）、塑身衣或安全裤等。
+• 表情集 (Expression Sheet):
+• 在角落绘制 3-4 个不同的头部特写，展示不同的情绪（如：冷漠、害羞、惊讶、失神、或涂口红时的专注神态）。
+• 材质特写 (Texture & Zoom) [加强版]:
+• 选取 1-2 个关键部位进行放大特写。例如：布料的褶皱、皮肤的纹理、手部细节。
+• 新增：物品质感特写: 增加对小物件材质的描绘，例如：口红膏体的润泽感、皮革包包的颗粒纹理、化妆品粉质的细腻感。
+• 关联物品 (Related Items) [深度迭代版]:
+• 此处不再局限于大型道具，需增加展示角色的“生活切片”。
+• 随身包袋与内容物 (Bag & Contents): 绘制角色的日常通勤包或手拿包，并将其“打开”，展示散落在旁的物品。
+• 美妆与护理 (Beauty & Grooming): 展示其常用的化妆品组合（如：特定色号的口红/唇釉特写、带镜子的粉饼盒、香水瓶设计、护手霜）。
+• 私密生活物件 (Lifestyle & Intimate Items): 具象化角色隐藏面的物品。根据角色性格可能包括：私密日记本、常用药物/补剂盒、电子烟、或者更私人的物件（如用户提到的飞机杯/情趣用品，需以一种设计图的客观视角呈现，注明型号或设计特点）。
+3. 风格与注释 (Style & Annotations):
+• 画风: 保持高质量的 2D 插画风格或概念设计草图风格，线条干净利落。
+• 背景: 使用米黄色、羊皮纸或浅灰色纹理背景，营造设计手稿的氛围。
+• 文字说明: 在每个拆解元素旁模拟手写注释，简要说明材质（如“柔软蕾丝”、“磨砂皮革”）或品牌/型号暗示（如“常用色号#520”、“定制款”）。
+Workflow (执行逻辑)
+当用户提供一张图片或描述时：
+1. 分析主体的核心特征、穿着风格及潜在性格。
+2. 提取可拆解的一级元素（外套、鞋子、大表情）。
+3. 脑补并设计二级深度元素（她内衣穿什么风格？她包里会装什么口红？她独处时会用什么物品？）。
+4. 生成一张包含所有这些元素的组合图，确保透视准确，光影统一，注释清晰。
+5. 使用中文：英文标记，高清4K HD 输出
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19713_0.jpeg" width="600" alt="角色概念拆解图生成指南 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 29: Z世代车站奇幻夜
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+这是一张高质量混合媒介的肖像，拍摄了一位时髦的Z世代青少年（使用我上传的人物照片）站在火车站站台上，夜晚如此。主角冷静地摆姿势，一只手提着橄榄色背包的背带。他们穿着时尚的Z世代服装（宽大街头服饰、多层黑色连帽衫、灰色运动裤和粗大运动鞋）。 背景采用了逼真的“{argument name=”train line“ de…
+
+#### 📝 提示词
+
+```
+这是一张高质量混合媒介的肖像，拍摄了一位时髦的Z世代青少年（使用我上传的人物照片）站在火车站站台上，夜晚如此。主角冷静地摆姿势，一只手提着橄榄色背包的背带。他们穿着时尚的Z世代服装（宽大街头服饰、多层黑色连帽衫、灰色运动裤和粗大运动鞋）。
+
+背景采用了逼真的“{argument name=”train line“ default=”KRL Jabodetabek“}”通勤线列车侧面视角，配有标志性的红色条纹，列车门大开，沐浴在明亮、电影般的车站灯光和城市夜晚氛围中。
+
+写实的主角周围是几个可爱的3D风格“Q版”版本。穿着一样，脸也一样。这些奇比互动得很愉快：一只坐在被摄者的肩膀上，一只爬着他们的腿，还有一只从背包里探出头来。
+
+在图像上叠加鲜艳的手绘涂鸦效果：主体周围用白色轮廓画，俏皮的涂鸦、星星、闪光、电火花，以及漂浮的白黑手写标语，如“{argument name=”slogan 1“ default=”forever young“}”，“{argument name=”slogan 2“ default=”krl“}，”night“，”zero z vibes“。风格应无缝融合超写实摄影与色彩丰富、平面的卡通插画。保持面容和整体形态不变。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08334_0.jpg" width="600" alt="Z世代车站奇幻夜 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 30: 林间回眸神秘女子
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一位年轻女子 с загруженной фотографии лицо не изменять 站在一条狭窄的林间小径上，四周是光秃秃的树木，秋冬交替。低垂的阳光透过树枝投下金色光芒，柔和地照亮她的脸庞，凸显她的五官。她背对着镜头站立，回头回头。她的目光自信且略带神秘。她穿着一件短款黑色羽绒服，紧身黑色紧身裤，手里…
+
+#### 📝 提示词
+
+```
+一位年轻女子 с загруженной фотографии лицо не изменять 站在一条狭窄的林间小径上，四周是光秃秃的树木，秋冬交替。低垂的阳光透过树枝投下金色光芒，柔和地照亮她的脸庞，凸显她的五官。她背对着镜头站立，回头回头。她的目光自信且略带神秘。她穿着一件短款黑色羽绒服，紧身黑色紧身裤，手里提着一个带有毛皮细节和黑色皮革的小包。
+她的头发是深黑色，向后梳成优雅光滑的发髻。她的面部特征对称，丰满的嘴唇、分明的颧骨和光滑的皮肤。妆容富有表现力：眼线、浓密的玫瑰色光泽唇部搭配深棕色唇线，以及修整过并提亮效果的眉毛。
+背景是秋冬季节的森林，树木光秃，地上有落叶，阳光温暖。这张图片具有千禧年美学——温暖的复古光泽、光泽的皮肤、强烈的对比度以及细腻的3：4颗粒感
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_27134_0.jpg" width="600" alt="林间回眸神秘女子 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 31: 珍妮居家慵懒风
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “主旨”：{ “名字”：“Jennie Kim”， “职业”：“K-pop艺人，BLACKPINK成员” “性别”：“女性” “age_range”：“20多岁出早至中期”， “族裔”：“东亚人”， “氛围”：“温馨时尚、亲密、放松、优雅自如”， “姿势”：“坐在床上，一只手臂微微向后靠”， “表情”：“直视，平…
+
+#### 📝 提示词
+
+```
+{
+  “主旨”：{
+    “名字”：“Jennie Kim”，
+    “职业”：“K-pop艺人，BLACKPINK成员”
+    “性别”：“女性”
+    “age_range”：“20多岁出早至中期”，
+    “族裔”：“东亚人”，
+    “氛围”：“温馨时尚、亲密、放松、优雅自如”，
+    “姿势”：“坐在床上，一只手臂微微向后靠”，
+    “表情”：“直视，平静中性表情，带着微妙的微笑”，
+    “构图”：“中近镜头，聚焦上半身和面部”
+  },
+  “face_and_skin”： {
+    “facial_features”：“柔和而分明的五官，类似Jennie Kim”
+    “skin_tone”：温暖、自然“，
+    “肤色”：“光滑且面部轮廓明亮”，
+    “挑染”：“柔和自然的挑染”，
+    “化妆”：{
+      “风格”：“自然，珍妮·金标志性造型”，
+      “腮红”：“温暖的桃色调”，
+      “lip_color”：“柔和裸露，无妆妆面”
+    }
+  },
+  “头发”：{
+    “颜色”：“巧克力棕色”，
+    “风格”：“长而丰盈的波浪”，
+    “部分”：“中心”
+  },
+  “服装”：{
+    “顶部”：{
+      “类型”：“白色钩针露背上衣”，
+      “图案”：“精致的开放式钩针”，
+      “领口”：“深V领”，
+      “细节”：“中心细束绳”，
+      “质感”：“波西米亚风，手工制作”
+    }
+  },
+  “配件”：{
+    “项链”：{
+      “材质”：“银或白金”，
+      “设计”：“小圆形吊坠”，
+      “放置”：“自然地靠在锁骨上”，
+      “风格”：“极简、优雅”
+    }
+  },
+  “设定”：{
+    “位置”：“室内卧室”，
+    “床”：“白色床单，柔软皱褶”
+    “背景”：{
+      “wall_color”：“米色”，
+      “装饰”：“两件极简主义装裱艺术品”
+      “焦点”：“为深度略作模糊”
+    },
+    “氛围”：“亲密、平静、温馨的居家氛围”
+  },
+  “闪电”：{
+    “类型”：“柔和、漫射的光线”，
+    “光源”：“大窗户或柔和的工作室灯光”，
+    “温度”：“温暖”，
+    “效果”：“均匀的皮肤光照，柔和的阴影，柔和的高光”
+  },
+  “image_properties”： {
+    “宽度”：504，
+    “高度”：1002，
+    “方向”：“垂直”，
+    “质量”：“细节丰富，编辑清晰”，
+    “风格”：“奢华生活方式编辑摄影”
+  }
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06413_0.jpg" width="600" alt="珍妮居家慵懒风 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06413_1.jpg" width="600" alt="珍妮居家慵懒风 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06413_2.jpg" width="600" alt="珍妮居家慵懒风 - Image 3">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 32: 暗夜贵族肖像
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3827,7 +1445,935 @@ geminiのnano bananaで柵を消してもらいました。
 
 ---
 
-### No. 95: 庭院金色晚礼
+### No. 33: 光学玻璃微距艺术
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+任务：超近距离微距英雄照片，拍摄{argument name=“subject” default=“SUBJECT”}，采用高端光学铸造玻璃，带有斜向光带阴影，更强烈的彩虹光散，以及干净且可读的高细节区域（无折射“糊状”）。主体完全可见且未裁剪。受试者被放置在水面上，或漂浮在水面上方的低空。 风格：写实奢侈品;无缝的…
+
+#### 📝 提示词
+
+```
+任务：超近距离微距英雄照片，拍摄{argument name=“subject” default=“SUBJECT”}，采用高端光学铸造玻璃，带有斜向光带阴影，更强烈的彩虹光散，以及干净且可读的高细节区域（无折射“糊状”）。主体完全可见且未裁剪。受试者被放置在水面上，或漂浮在水面上方的低空。
+风格：写实奢侈品;无缝的蓝灰色渐变背景 #9FAFBC（冷色、略带蓝色、低饱和度）;光面反射面;光滑透明的光学玻璃，边缘清晰，内部高光受控，星光微光细腻;明显的腐蚀性条纹+从主体投射到表面的鲜艳棱彩弧线。
+构图：极近距离，主体占据画面约90–95%，完全可见且未裁剪。
+可读性（修正糊状）：保持面部和边缘细节清晰——减少内部变形、镜片和细部特征上的重叠腐蚀性图案;保持室内视觉上“安静”，让表面雕刻看起来干净。
+光学控制：低畸变、低像差玻璃外观（物体内部色散减少），表面有强烈外部焦散。
+照明：宽斜的柔光带;长而柔和的阴影，带有平滑的半影;彩虹腐蚀剂应该更强，且在底部和地板上数量更多。干净的白色。
+环境控制：仅无缝演播室;灰色/黑色旗帜控制反射;没有窗户或房间元素。
+负面提示：过度折射、严重畸变、镜头效应、扭曲的面部特征、混乱的高光、乳白色/雾化的玻璃、随机反光、窗户、室内、墙角、多面体、多边形、低多边形、文本、水印、杂乱
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13038_0.jpg" width="600" alt="光学玻璃微距艺术 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 34: 都市孤独肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+电影化的概念肖像，描绘一位年轻女性在熙攘的城市人群中静止不动，极端径向运动模糊，定格身份效果，动态速度扭曲，背后强烈光芒爆发，强烈的中心构图，图形电影构图，心理紧张，城市中的存在主义孤独，情感孤独叙事，大胆温暖的色彩场域，超现实主义，实验时尚剪辑风格。
+
+#### 📝 提示词
+
+```
+电影化的概念肖像，描绘一位年轻女性在熙攘的城市人群中静止不动，极端径向运动模糊，定格身份效果，动态速度扭曲，背后强烈光芒爆发，强烈的中心构图，图形电影构图，心理紧张，城市中的存在主义孤独，情感孤独叙事，大胆温暖的色彩场域，超现实主义，实验时尚剪辑风格。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05831_0.jpg" width="600" alt="都市孤独肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 35: 思维轨道
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “vibe_title_en”：精神轨道“， “master_prompt”：“一个超写实的中景镜头，主角站在一个宽敞、昏暗的野兽派混凝土房间里。该概念是“无尽的理念”，以超现实的动态雕塑形式呈现。主体被数十个漂浮的铬球和大小不一的锯齿状镜片包围，这些碎片像行星环一样围绕其头部旋转。这些物体必须看起来像高端实景特…
+
+#### 📝 提示词
+
+```
+{
+  “vibe_title_en”：精神轨道“，
+  “master_prompt”：“一个超写实的中景镜头，主角站在一个宽敞、昏暗的野兽派混凝土房间里。该概念是“无尽的理念”，以超现实的动态雕塑形式呈现。主体被数十个漂浮的铬球和大小不一的锯齿状镜片包围，这些碎片像行星环一样围绕其头部旋转。这些物体必须看起来像高端实景特效，具有逼真的重量和反射，而非数字叠加。受试者专注地盯着悬浮在他摊开手掌上方的单晶棱镜，棱镜折射出一道光谱，映照在他们的脸上。用哈苏H6D-100c配80mm f/2.8镜头拍摄。光影氛围浓郁且方向性强，在镀铬表面上营造出深邃阴影和明亮的高光。质感丰富，带有胶片颗粒感（柯达Vision3 500T），突出了光滑金属与被摄者多孔皮肤质感之间的对比。没有霓虹灯，只有冷的钨丝和日光色调。”
+  “元能力”：{
+    “意图”：“超现实主义肖像画”
+    “优先事项”：“照片写实、超现实元素的物理性、质感”，
+    “device_profile”：“高分辨率电影展示”
+  },
+  “框架”： {
+    “相位”：“4：5”，
+    “构图”：“中心加权主体，负空间中充满混杂的轨道元素”，
+    “布局”：“对称主体锚定不对称漂浮道具”，
+    “camera_angle”：“眼睛平视”，
+    “tilt_roll_degrees”：“0”
+  },
+  “主旨”：{
+    “性别”：“女性”，
+    “身份”：“知识主角”，
+    “人口统计”：“普世/永恒”
+    “面容”：“中性、高度专注的凝视，微表情的惊奇”，
+    “头发”：“自然质感，被房间静电能量微微吹拂”，
+    “身体”：“静止姿势，双手微微抬起以与悬浮物体互动”，
+    “表情”：“高度专注，嘴微张”，
+    “姿势”：“静止不动，像漂浮元素的导体”
+  },
+  “wardrobe_accessories”： {
+    “服装”： [
+      {
+        “物品”：“高领毛衣”，
+        “材质”：“优质开司米或美利奴羊毛”，
+        “颜色”：“{argument name=”毛衣颜色“ default=”炭灰色或深海军蓝“}”，
+        “合身”：“贴合，有纹理”
+      },
+      {
+        “物品”：“定制裤子”，
+        “材质”：“羊毛混纺”，
+        “颜色”：“黑色”，
+        “fit”：“直腿”
+      }
+    ],
+    “配件”：[
+      {
+        “项目”：“无”，
+        “color”：“无”，
+        “材料”：“无”，
+        “brand_style”：“极简主义”
+      }
+    ]
+  },
+  “环境”：{
+    “设定”：“野兽派混凝土密室（虚空空间）”，
+    “表面”：“生混凝土、抛光铬、玻璃碎片”，
+    “深度”：“深背景渐隐入阴影，聚焦于主体和即时漂浮的物体”，
+    “大气”：“寒冷、无菌的空气，悬浮的尘埃，安静的强烈感”
+    “lens_interaction”：“漂浮球体中可见房间的倒影”}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13418_0.jpg" width="600" alt="思维轨道 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13418_1.jpg" width="600" alt="思维轨道 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 36: 真实生活抓拍瞬间
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ "image_type": "抓拍的真实生活照", "subject": { "appearance": "年轻的深肤色女性，留着蓬松浓密的蝴蝶剪黑色长发，发质自然略显凌乱，侧分，发丝清晰可见", "skin_details": "超真实的原始皮肤纹理，脸颊和鼻子上毛孔清晰可见，如果她微笑，请确保有酒窝，脸部和手…
+
+#### 📝 提示词
+
+```
+{ "image_type": "抓拍的真实生活照", "subject": { "appearance": "年轻的深肤色女性，留着蓬松浓密的蝴蝶剪黑色长发，发质自然略显凌乱，侧分，发丝清晰可见", "skin_details": "超真实的原始皮肤纹理，脸颊和鼻子上毛孔清晰可见，如果她微笑，请确保有酒窝，脸部和手臂上有细小的绒毛（桃子绒毛），自然的皮肤不规则，轻微的次表面散射，未经修饰的肤色，无平滑处理，手部血管可见", "expression": "明亮真诚的笑容，眼睛自然地微微眯起" }, "apparel": { "outfit": "宽松的印花 T 恤搭配黑色骑行短裤", "top": "宽松的纯棉印花 T 恤，自然地垂坠在躯干上", "bottoms": "修身的黑色骑行短裤，面料呈哑光质感", "accessories": "手持一部黑色智能手机，带有透明手机壳，手机壳上指纹可见。戴着透明眼镜。" }, "pose": { "action": "随意站立，由他人拍照", "posture": "身体略微向后靠在墙上，一只脚平放在身后，一只手轻轻搭在臀部", "framing": "四分之三身像" }, "environment": { "setting": "客厅内部", "background_elements": "中性色沙发、咖啡桌、可见的墙壁艺术品和落地灯", "clarity": "背景完全清晰，建筑细节分明，门板边缘锐利" }, "lighting": { "source": "柔和的室内环境光与手机屏幕光混合", "quality": "均匀照明，下颌和衣服褶皱处有逼真的阴影，无刺眼闪光但对比度分明", "mood": "随意、真实、日常的生活气息" }, "technical_settings": { "camera_style": "数码单反相机或高端智能手机后置摄像头", "quality": "4K、8K、超高清、原始传感器捕捉（未压缩）", "focus": "深景深，f/11 光圈（从前景到背景一切都清晰）", "textures": "高频细节保留，可见天鹅绒织物纹理，锐利边缘，自然的 ISO 噪点/颗粒", "constraints": "无背景模糊，严格遵循所附照片的相似度，无散景，无景深效果，无 AI 平滑处理，无修饰皮肤，无塑料感" } }
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_16143_0.jpg" width="600" alt="真实生活抓拍瞬间 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 37: 情人节红裙时尚写真
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+超写实时尚照片，垂直9：16格式;身份锁定（关键）：使用附图中的人脸作为唯一的身份参考;保持100%完全相同的外观，且不做任何变化——脸型、眼睛、嘴唇、鼻子、颧骨、下颌线、发际线、发色和质地、肤色、自然不对称以及微观纹理;不要改变外貌，不要回春，不要美化，不要换脸。 地点：明亮的极简房间/室内，白色墙面背景，墙上有大…
+
+#### 📝 提示词
+
+```
+超写实时尚照片，垂直9：16格式;身份锁定（关键）：使用附图中的人脸作为唯一的身份参考;保持100%完全相同的外观，且不做任何变化——脸型、眼睛、嘴唇、鼻子、颧骨、下颌线、发际线、发色和质地、肤色、自然不对称以及微观纹理;不要改变外貌，不要回春，不要美化，不要换脸。
+
+地点：明亮的极简房间/室内，白色墙面背景，墙上有大号红色“油漆”字体，墙上滴着“Valentine's Day”字样（涂鸦/滴水风格），文字严格放置在画面上部。
+
+画框中：一张大白色柔软沙发，配有宽松的靠垫;红玫瑰花瓣散落在沙发和模特周围。模型右侧沙发上，摆放着一束非常大的红玫瑰（密集、多头、绿叶），占据画面右三分之一的位置。
+
+模特：成年女性，直视镜头，自信且性感的表情，大胆的红色口红，浅色自然妆容，真实肌肤质地（可见毛孔，微对比，无修图，无塑料感）。
+
+头发：长，略显凌乱，一缕垂落在脸上，侧分柔软。
+
+姿势：女性斜躺/斜躺在白色沙发上——身体伸展在沙发上，一只手肘微微抬起，一只手抬起轻抚太阳穴附近的头发，另一只手放松地放在枕头上，肩膀敞开。
+
+服装：合身红色吊带裙，细肩带（红色缎面吊带裙/红色紧身裙），面料光滑，腰部和臀部有柔软褶皱。
+
+构图：模特位置偏左/中，花束在右侧，墙顶大字体“情人节”字样，沙发和腿附近摆放玫瑰花瓣，中景（腰部/大腿上部及以上），轻微透视，镜头视线高度或稍高。
+
+照明：自然柔和的阳光，来自侧窗（柔和的窗户光）+细腻的补光，温暖柔和的阴影，氛围感十足的编辑风格。
+
+光学/质量：照片级写实、剪辑效果、超锐利、高细节、35mm画面、f/2.8–f/4、ISO 100–200、1/125、HDR、自然皮肤质感、细腻的胶片颗粒。
+
+缺点：不同的面孔/外观，光滑的“塑料”皮肤，大量修饰/喷枪，CGI/3D，插画，额外物品，其他文字，拼写错误，脸部模糊，多余的手指/变形。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12497_0.jpg" width="600" alt="情人节红裙时尚写真 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12497_1.jpg" width="600" alt="情人节红裙时尚写真 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 38: 白裙少女楼梯低拍
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一位年轻女子站在楼梯底部，从低角度看。她穿着一件白色飘逸的裙子，随风轻轻摇曳，随着她调整姿势，露出双腿。她的短发柔和地勾勒出脸庞，她自信地直视镜头。背景是晴朗的蓝天和电线杆，增添了城市氛围。白色运动袜和懒鞋为她的休闲装色增添了完美。
+
+#### 📝 提示词
+
+```
+一位年轻女子站在楼梯底部，从低角度看。她穿着一件白色飘逸的裙子，随风轻轻摇曳，随着她调整姿势，露出双腿。她的短发柔和地勾勒出脸庞，她自信地直视镜头。背景是晴朗的蓝天和电线杆，增添了城市氛围。白色运动袜和懒鞋为她的休闲装色增添了完美。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_27011_0.jpg" width="600" alt="白裙少女楼梯低拍 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 39: 暗黑甜酷少女镜拍
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “主旨”：{ “描述”：“一位拥有长而蓬松的波浪黑发和轻盈刘海的年轻女子。” “特色”：{ “眼睛”：“锋利的翅膀眼线，长而富有戏剧性的睫毛”， “眼镜”：“厚框黑色长方形眼镜”， “唇部”：“中性哑光口红配深色眼线”， “指甲”：“超长的白色棺材形丙烯指甲” }, “姿势”：“镜子自拍，一手拿着手机，稍微移开视…
+
+#### 📝 提示词
+
+```
+{
+  “主旨”：{
+    “描述”：“一位拥有长而蓬松的波浪黑发和轻盈刘海的年轻女子。”
+    “特色”：{
+      “眼睛”：“锋利的翅膀眼线，长而富有戏剧性的睫毛”，
+      “眼镜”：“厚框黑色长方形眼镜”，
+      “唇部”：“中性哑光口红配深色眼线”，
+      “指甲”：“超长的白色棺材形丙烯指甲”
+    },
+    “姿势”：“镜子自拍，一手拿着手机，稍微移开视线。”
+  },
+  “fashion_style”： {
+    “美学”：“现代情绪摇滚、另类女孩、哥特风格街头服饰”
+    “服装”：[
+      “紧身粉色罗纹短袖短款上衣”
+      “粉色低腰荷叶边迷你裙，配有银色扣眼细节”
+    ],
+    “配件”：[
+      “黑色皮革项圈，银色挂饰”
+      “左手腕上的简单珠链”
+      “细银戒指”
+    ]
+  },
+  “setting_and_composition”： {
+    “地点”：“室内，极简卧室或更衣室”，
+    “背景”：“中性米色镶板墙和浅色木地板”
+    “灯光”：“柔和、柔和、柔和的室内灯光，带有细微阴影，氛围略带阴郁”，
+    “camera_angle”：“腰部向上，视线平视，通过镜子反射捕捉”
+  },
+  “technical_details”： {
+    “image_quality”：“高分辨率，对主体清晰对焦，细腻的胶片颗粒感”，
+    “color_palette”：“单色黑白服装，柔和的中性背景调”
+  }
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06518_0.jpg" width="600" alt="暗黑甜酷少女镜拍 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06518_1.jpg" width="600" alt="暗黑甜酷少女镜拍 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 40: 博物馆之吻
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “generation_request”： { “meta_data”： { “工具”：“纳米香蕉专业版”， “task_type”：“photoreal_candid_romance_interior_film_still”， “版本”：“v1.0_PERA_MUSEUM_PAINTING_KISS_EN”，…
+
+#### 📝 提示词
+
+```
+{
+  “generation_request”： {
+    “meta_data”： {
+      “工具”：“纳米香蕉专业版”，
+      “task_type”：“photoreal_candid_romance_interior_film_still”，
+      “版本”：“v1.0_PERA_MUSEUM_PAINTING_KISS_EN”，
+      “优先级”：“最高”
+    },
+
+“output_settings”： {
+      “aspect_ratio”：“4：5”，
+      “方向”：“肖像”
+      “resolution_target”：“ultra_high_res”，
+      “render_style”：“ultra_photoreal_candid_film_still”，
+      “锐利度”：“crisp_but_natural”，
+      “film_grain”：“subtle_35mm”，
+      “color_grade”：“restrained_true_to_life_museum_tones”，
+      “dynamic_range”：“natural_not_hdr”，
+      “skin_rendering”：“real_texture_no_retouch”
+    },
+
+“global_rules”： {
+      “camera_language”：“35毫米等效镜头，视线高度，构图不完美，带有纪录片的真实感，在有人在场时聚焦于眼睛”，
+      “lighting_language”：“仅有有动力的室内灯光（博物馆轨道灯+环境反射），阴影深邃但细致，无闪光灯”
+      “authenticity_markers”：“高光上的细微晕光，细微的胶片门纹理，真实的博物馆倒影，没有摄影棚的感觉”
+    },
+
+“creative_prompt”： {
+      “scene_summary”：“内部 {argument name=”museum name“ 默认=”Pera Museum， Istanbul“}。一对二十出头的年轻情侣在奥斯曼·哈姆迪·贝伊著名画作《{argument name=“画名” default=“龟驯师”）}'前轻轻接吻。这感觉像是一个真实、被观察的瞬间——一档艺术电影的静态画面，而非摆拍。”
+      “受试者”：{
+        “伯爵”：2，
+        “描述”：“同一对年轻男女（二十出头），普通而真实，非模特;面部可见，眼睛锐利“，
+        “表达”：“温柔、克制的亲密;没有夸张的浪漫;自然的微表情“，
+        “skin_and_face”：“自然皮肤质地，保留轻微瑕疵，无美容修饰，无塑料皮肤”
+      },
+      “服装”：“简单的学生服装，中性色调（米色、灰色、藏青色），略带皱褶，无标志;极简自然妆容“，
+      “动作”：“一个轻柔而短暂的吻——额头相贴，双手轻触;在公共博物馆环境中尊重且低调“，
+      “environment_details”： {
+        “位置”：“佩拉博物馆展厅内部”
+        “背景”：“他们身后可见的画作《训练师》（构图可辨识），挂在墙上，博物馆级灯光。”
+        “museum_realism”：“画廊墙壁，细微的地面反射，远处安静的访客在背景中，视线模糊（可选，不显眼），无可辨认的标识”
+      },
+      “照明”：“博物馆轨道照明在画框和面部上制造柔和的高光;缓和的衰落;没有刺眼的阴影;没有闪光“，
+      “构图”：“视线水平的中景，略偏中心构图;前景是一对情侣，画作清晰地框在背后;背景渐渐远去;不对称，不摆拍“，
+      “情绪”：“安静、人性化、亲密——爱与艺术与历史的重压”
+    },
+
+“hard_constraints”：[
+      “仅限照片真实”，
+      “无露骨内容（只是温柔地说）
+    ]
+  }
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08041_0.jpg" width="600" alt="博物馆之吻 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 41: 蜡染神话生物图
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一幅极为细致、复杂且充满活力的蜡染图案，主题为{argument name=“subject” default=“神话生物”}，融合了传统爪哇图案、浓郁靛蓝、相贺棕和白色，呈现出超写实、类似纺织品的质感，分辨率高，工作室灯光，焦点锐利，artstation，在artstation上热议。
+
+#### 📝 提示词
+
+```
+一幅极为细致、复杂且充满活力的蜡染图案，主题为{argument name=“subject” default=“神话生物”}，融合了传统爪哇图案、浓郁靛蓝、相贺棕和白色，呈现出超写实、类似纺织品的质感，分辨率高，工作室灯光，焦点锐利，artstation，在artstation上热议。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12861_0.jpg" width="600" alt="蜡染神话生物图 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 42: 萌趣宇航员漫游星空
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一个风格化的3D漫画形象，{argument name=“celebrity” default=“[celebrity]”}穿着可爱的迷你宇航员服装，漂浮在星空之间。超大头盔，闪亮的眼睛，小喷气背包。以柔和的皮克斯风格呈现，有漂浮粒子、发光的星云色彩和柔和的环境光。
+
+#### 📝 提示词
+
+```
+一个风格化的3D漫画形象，{argument name=“celebrity” default=“[celebrity]”}穿着可爱的迷你宇航员服装，漂浮在星空之间。超大头盔，闪亮的眼睛，小喷气背包。以柔和的皮克斯风格呈现，有漂浮粒子、发光的星云色彩和柔和的环境光。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04606_0.jpg" width="600" alt="萌趣宇航员漫游星空 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04606_1.jpg" width="600" alt="萌趣宇航员漫游星空 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04606_2.jpg" width="600" alt="萌趣宇航员漫游星空 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04606_3.jpg" width="600" alt="萌趣宇航员漫游星空 - Image 4">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 43: 波斯时尚美学
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+单一英雄编辑时尚美学，3：4垂直比例。版面设计：全副武装的编辑英雄。构图：主题：波斯女模特，奢华设计师服饰，精致发型/妆容，自信姿态。位置：中右，左文本区。风格：自信、放松，带有编辑感的美学。主题造型：奢侈设计师单品，高端时尚。发型和妆容都打理得很干净，姿势自信。标志性珠宝。背景：类型：细微渐变。颜色：中性色调（奶油…
+
+#### 📝 提示词
+
+```
+单一英雄编辑时尚美学，3：4垂直比例。版面设计：全副武装的编辑英雄。构图：主题：波斯女模特，奢华设计师服饰，精致发型/妆容，自信姿态。位置：中右，左文本区。风格：自信、放松，带有编辑感的美学。主题造型：奢侈设计师单品，高端时尚。发型和妆容都打理得很干净，姿势自信。标志性珠宝。背景：类型：细微渐变。颜色：中性色调（奶油色、暖灰色）。治疗：干净，不干扰。灯光：风格：柔和、柔和的美妆灯光。主：大型柔光箱，正面。补光：用于阴影细节的反光板。质量：高端时尚摄影。色彩搭配：安静奢华的美学。金色/黄铜点缀元素。低饱和度，高雅。氛围：精致、充满理想、高端、低调奢华、时尚感。风格：Vogue编辑美学，哈苏中画幅，80mm f/2.8，自然窗光+补光。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14670_0.jpg" width="600" alt="波斯时尚美学 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 44: 纱丽少女静谧肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一位年轻南亚女性的特写肖像，表情温柔沉思，透过薄纱白色窗帘。她有一头深色、整齐梳理的头发，额头上有一个小小的{argument name=“bindi color” default=“red”} bindi。她的五官柔和对称，浓密的眉毛、长睫毛和淡淡的妆容突出眼睛和嘴唇。她穿着传统的{argument name=“纱…
+
+#### 📝 提示词
+
+```
+一位年轻南亚女性的特写肖像，表情温柔沉思，透过薄纱白色窗帘。她有一头深色、整齐梳理的头发，额头上有一个小小的{argument name=“bindi color” default=“red”} bindi。她的五官柔和对称，浓密的眉毛、长睫毛和淡淡的妆容突出眼睛和嘴唇。她穿着传统的{argument name=“纱丽颜色” default=“blue”}纱丽，边饰有丰富的红金色花纹，披在白色衬衫外。一条精致的黑色珠串项链和小耳环为她的造型画上完美句号。她的姿势微微倾斜，带着宁静的微笑直视观众。灯光柔和自然，透过窗户洒进来，给她的脸营造出温暖的光晕，也突显出薄纱布料的半透明感。背景柔和模糊，隐约展现出温暖的室内色调和自然光，暗示着宁静的室内环境。画面采用浅景深捕捉，突出人物面部和纱丽的精致细节，采用写实、高分辨率的摄影风格，重点展现自然美和文化优雅。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12885_0.jpg" width="600" alt="纱丽少女静谧肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 45: 热带泻湖倩影
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{\n \“scene\”： {\n \“setting\”： \“{argument name=\”scene\“ default=\”天然岩石海岸线，旁边是清澈的热带泻湖\“}\”，\n \“背景\”：\“晶莹剔透的绿松石泻湖，水下岩石可见，轻柔的涟漪，透过水面的光线，超清晰的透明，明亮的蓝天倒影，电影般的海洋深…
+
+#### 📝 提示词
+
+```
+{\n \“scene\”： {\n \“setting\”： \“{argument name=\”scene\“ default=\”天然岩石海岸线，旁边是清澈的热带泻湖\“}\”，\n \“背景\”：\“晶莹剔透的绿松石泻湖，水下岩石可见，轻柔的涟漪，透过水面的光线，超清晰的透明，明亮的蓝天倒影，电影般的海洋深度渐变\”，\n \“灯光\”：\“明亮的自然阳光，强烈的方向光，皮肤和岩石上的真实高光， 锐利而自然的阴影，水面上的电影倒影\“\n }，\n \”主体\“： {\n \”类型\“： \”{论点名=\“性别\” 默认=\“女性\”}\“，\n\”姿态\“：\”坐在大岩石上，双腿向前伸出，微微弯曲，手臂搭在腿上，躯干挺直，头微微仰向阳光\，\n \“表情\”：\“放松安详的表情，眼睛轻闭或微眯着眼睛\”，\n“face”：“使用上传的参考图片，保持身份准确，自然的面部比例，可见的皮肤质感和逼真的光线。”\n\“hair\”：\“使用上传的参考图片，保持身份准确，自然散发，微风轻轻摆动\”，\n\“眼睛\”：\“使用上传的参考图片，保持身份准确，柔和放松的目光\”，\n\“皮肤\”：\“阳光自然肤色，带有逼真的高光， 细微的瑕疵和精准的阴影过渡\“，\n \”身体\“：\”自然比例保持真实姿态\“\n }，\n \”服装\“：{\n \”服装\“：\”argument name=\“服装\” 默认=\“极简合身泳衣，深黑色调，面料光滑，带有自然弹力高光\”\“\”，\n \“鞋子\”：\“赤脚，自然姿势踩在纹理岩石表面\”，\n \“配饰\”：\“无\”\n }，\n \“environment_details\”： {\n \“道具\”： \“大块纹理的海岸岩石部分湿润，边缘有小水花\”，\n \“纹理\”：\“岩石表面细致粗糙，水质透明，水下石块可见，光线折射图案，细微水流运动\”\n \“镜头\”：\“角度\”：\“侧面略高角度捕捉主体和泻湖\”，\n \“构图\”：\“全身镜头，环境氛围强烈”，\n\“对焦\”：\“对主体清晰对焦，背景细节清晰\”，\n \n\“镜头\”：\“自然焦距，略带电影级深度\”\n }\n\“风格\”：{\n\“写实\”：\“超写实热带摄影\”\n \“color_tone\”：\“鲜艳的绿松石色和自然温暖的肤色，高清晰度\”，\n \“特效\”：\“电影般的反射，自然HDR平衡，无人工滤镜\”，\n \“细节\”：\“水面清晰度极致细节， 逼真的光影物理，细微的瑕疵，沉浸式的热带现实主义\“\n }\n}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03478_0.jpg" width="600" alt="热带泻湖倩影 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 46: 夜生活随拍少女
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+用上传的照片作为唯一且完全准确的面部参考。以绝对优先顺序保留面部特征：准确的面部特征、自然的发色和所有原始外观细节。没有美化，没有风格化，脸部也没有变化。如果发生冲突——要完全保留面部。一位年轻女子被拍到，作为自发的iPhone画面，出现在{argument name=“location”默认=“行驶中的汽车后座”}…
+
+#### 📝 提示词
+
+```
+用上传的照片作为唯一且完全准确的面部参考。以绝对优先顺序保留面部特征：准确的面部特征、自然的发色和所有原始外观细节。没有美化，没有风格化，脸部也没有变化。如果发生冲突——要完全保留面部。一位年轻女子被拍到，作为自发的iPhone画面，出现在{argument name=“location”默认=“行驶中的汽车后座”}，时间{argument name=“时间”默认=“充满活力的夜生活”}，她充满活力地前倾，头部锐利地转动。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08425_0.jpg" width="600" alt="夜生活随拍少女 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 47: 绿茵激情进球瞬间
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+分析输入的面部特征、肤色、发质和骨骼结构，推断出合理的地区或国籍，然后自动选择符合该身份的世界知名职业足球俱乐部，并在该俱乐部当前官方主场球衣中穿戴该球员，并标有队徽和赞助商。Erika（2）自主选择一个感觉自然且充满能量的进球庆祝方式：膝盖滑行的咆哮、情感亲吻徽章、飞机奔跑对着天空大喊，或与队友从背后拥抱的握拳。（…
+
+#### 📝 提示词
+
+```
+分析输入的面部特征、肤色、发质和骨骼结构，推断出合理的地区或国籍，然后自动选择符合该身份的世界知名职业足球俱乐部，并在该俱乐部当前官方主场球衣中穿戴该球员，并标有队徽和赞助商。Erika（2）自主选择一个感觉自然且充满能量的进球庆祝方式：膝盖滑行的咆哮、情感亲吻徽章、飞机奔跑对着天空大喊，或与队友从背后拥抱的握拳。（3）密歇根 将最后一幕渲染成一张超写实的体育照片，使用长焦镜头拍摄，采用压缩透视、戏剧性的体育场夜光、强光、汗水、可见的草渍、锐利的面部聚焦，以及背景中高度模糊的人群，捕捉到一名职业足球运动员庆祝进球的场景。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_11562_0.jpg" width="600" alt="绿茵激情进球瞬间 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 48: 中年男人卧床沉思
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+40多岁的男性，躺在床上，正面镜头。
+
+#### 📝 提示词
+
+```
+40多岁的男性，躺在床上，正面镜头。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_18330_0.jpg" width="600" alt="中年男人卧床沉思 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 49: 个人投资组合策略
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+添付は個人投資家である私のポートフォリオです。こちらのポートフォリオの戦略を人に伝える際の方針概要図を作成してください。
+
+#### 📝 提示词
+
+```
+添付は個人投資家である私のポートフォリオです。こちらのポートフォリオの戦略を人に伝える際の方針概要図を作成してください。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10555_0.jpg" width="600" alt="个人投资组合策略 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 50: 巴黎暮色孤影
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+超写实、情绪化的巴黎街头编辑肖像，在黄昏/阴天暮色中，一家复古店面外拍摄，电影胶片扫描效果。一位年轻女性（20 岁出头至 20 岁中期），皮肤白皙，身材苗条，齐肩浅棕色/深金色头发，中分/松散分界，发梢略显蓬乱。表情：平静、疏离、略带疲惫的眼神；嘴唇放松，几乎呈噘嘴状；双眼直视镜头，带着微妙的柔和。姿势：站在商店入口…
+
+#### 📝 提示词
+
+```
+超写实、情绪化的巴黎街头编辑肖像，在黄昏/阴天暮色中，一家复古店面外拍摄，电影胶片扫描效果。一位年轻女性（20 岁出头至 20 岁中期），皮肤白皙，身材苗条，齐肩浅棕色/深金色头发，中分/松散分界，发梢略显蓬乱。表情：平静、疏离、略带疲惫的眼神；嘴唇放松，几乎呈噘嘴状；双眼直视镜头，带着微妙的柔和。姿势：站在商店入口附近，肩膀略微前倾，身体呈四分之三角度；一只手插在外套口袋里（手在口袋开口处可见），另一只手臂随意地放在宽松外套内。她从大腿中部到头部上方一点点被框住，垂直肖像。 服装：宽松的 棕色皮革/飞行员夹克式外套，带有磨损的哑光光泽，略带褶皱的质感；非常宽松的版型，落肩设计。衣领：厚实的黑色羊毛/人造毛皮衣领，翻起环绕颈部。无可见标志，无珠宝强调。 地点/背景细节： • 她站在一个深绿色/黑色油漆木门框的边缘，门框带有陈旧的铜绿；门框垂直地位于图像右侧。 • 她身后是一个大型商店橱窗，反光玻璃显示出模糊的街景倒影（树木/天空形状），但内部物品仍然可见。 • 在橱窗的最顶部，大型弧形奶油色字母写着：“VINS DE PROPRIÉTÉS”（法文，弧形横跨玻璃）。 • 商店橱窗内，左侧可见一张植物海报（绿色叶子插图），由于景深/反光而略显模糊。 • 橱窗左下方：一个展示区，有深色表面和小物件（瓶子/类似农产品形状），光线昏暗。 • 在最右侧边缘，部分位于画框内，一个带有小白色文字的黑色菜单/黑板可见（文字不完全可读），垂直地靠近门框。 灯光：自然环境街灯，柔和漫射；颧骨和鼻梁有柔和的高光；阴影深邃但不死黑。无直射闪光。与较冷的外部相比，商店内部散发出微弱的暖光。 色彩/色调/美学：柔和的棕色、橄榄绿、炭灰色调色板；电影感，略微去饱和；皮肤和商店内部有微妙的暖色“周日乐趣”底色；整体黑暗、舒适、雨天冬季氛围（即使没有可见的雨水）。存在胶片颗粒，高光处有轻微光晕，轻微暗角，柔和的对比度衰减。背景柔和模糊但可辨；主体最清晰的点是脸部和外套衣领。Cooks。 构图/相机：垂直肖像（约 4:5 比例），主体略微偏左居中；橱窗文字占据上半部分；门框和菜单板固定右侧三分之一；中景，视线水平，约 50mm 视角，浅到中等景深，边缘处有逼真的镜头柔和度。 表面/Python 纹理提示：门框上陈旧的油漆，模糊的窗户倒影，皮衣褶皱，毛领纤维可见，细微毛孔和自然皮肤纹理。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_18682_0.jpg" width="600" alt="巴黎暮色孤影 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 51: 暗光直播侧影
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+利用提供的图片作为直接的视觉参考，创作一张现代生活方式编辑照片，拍摄一位女性在直播或录制过程中坐在游戏椅上。她侧脸显示，戴着带麦克风的头戴式游戏耳机，一只手轻轻调整着靠近嘴唇的麦克风。表情：专注、平静、略带强烈、完全沉浸。头发：长、直、顺，自然垂落肩膀。服装：合身黑色T恤，休闲蓝色牛仔裤，简约珠宝。场景：暗淡的直播环…
+
+#### 📝 提示词
+
+```
+利用提供的图片作为直接的视觉参考，创作一张现代生活方式编辑照片，拍摄一位女性在直播或录制过程中坐在游戏椅上。她侧脸显示，戴着带麦克风的头戴式游戏耳机，一只手轻轻调整着靠近嘴唇的麦克风。表情：专注、平静、略带强烈、完全沉浸。头发：长、直、顺，自然垂落肩膀。服装：合身黑色T恤，休闲蓝色牛仔裤，简约珠宝。场景：暗淡的直播环境，带有微妙的环境光，游戏椅可见，低光环境强调面部和侧脸。心情：安静自信，数字亲密，创作者能量，现代线上生活方式。拍摄于紧凑的中等画面，侧面角度，浅景深，电影般的低光效果，逼真的纹理，无过度风格化，真实的流媒体与剪辑交叉美学。
+柔和的雕塑脸庞，红润的脸颊，光泽的嘴唇，干净分明的眉毛。中性暖色调的灯光，前置摄像头闪光灯轻微，阴影平衡。图片参考。增加了细腻的胶片颗粒感、逼真的皮肤毛孔、细腻的光泽。Pinterest的纯洁女孩遇上奢华沙漠氛围，生活方式编辑摄影，超细致，8K画质。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25316_0.jpg" width="600" alt="暗光直播侧影 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 52: 红心时尚大片
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+时尚摄影风格图片：一位拥有光彩照人皮肤和长波浪发的模特，周围环绕着巨大的光泽红色心形抱枕。服装：红色紧身高领毛衣，长袖。妆容：长睫毛，锐利的箭头，鼻子和颧骨上涂高光。美甲，深红色方块。一只手托着脸颊。明亮的白色无缝背景，统一的摄影棚灯光，柔和的阴影，光亮面料的细致质感，优雅的造型。时尚杂志的美学，清晰的构图，极其细致…
+
+#### 📝 提示词
+
+```
+时尚摄影风格图片：一位拥有光彩照人皮肤和长波浪发的模特，周围环绕着巨大的光泽红色心形抱枕。服装：红色紧身高领毛衣，长袖。妆容：长睫毛，锐利的箭头，鼻子和颧骨上涂高光。美甲，深红色方块。一只手托着脸颊。明亮的白色无缝背景，统一的摄影棚灯光，柔和的阴影，光亮面料的细致质感，优雅的造型。时尚杂志的美学，清晰的构图，极其细致的细节，高品质，焦点锐利，没有文字，没有标志。面部细节丰富。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25559_0.jpg" width="600" alt="红心时尚大片 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 53: 天使与恶犬
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “元能力”：{ “aspect_ratio”：“4：5”， “媒介”：“数字摄影工作室”， “artistic_style”：“高调时尚编辑/黑暗魅力幻想” }, “作曲”：{ “构图”：“全景/三分之三镜头（拍摄对象从地板到翼尖）” “visual_balance”：“由于翅膀，左侧视觉重量不对称，右侧则被杜宾…
+
+#### 📝 提示词
+
+```
+{
+  “元能力”：{
+    “aspect_ratio”：“4：5”，
+    “媒介”：“数字摄影工作室”，
+    “artistic_style”：“高调时尚编辑/黑暗魅力幻想”
+  },
+  “作曲”：{
+    “构图”：“全景/三分之三镜头（拍摄对象从地板到翼尖）”
+    “visual_balance”：“由于翅膀，左侧视觉重量不对称，右侧则被杜宾犬那沉重且密集的体量所平衡。”
+    “leading_lines”：“女性姿势的斜向弯曲和金属链条的直线将视线从模特的手引导到狗的项圈。”
+  },
+  “场景”：{
+    “main_setting”：“无缝白色Studio Cyc墙面和地板”，
+    “background_details”：“均匀、略带凉爽的浅灰色背景墙，顺滑过渡为白色地板。背景干净且模糊，足以隔离主体，但环境仍可辨认出是演播室环境。没有明显的散景球体。”
+    “environment_effects”：“严格控制的工作室环境;没有尘埃、雾气或大气效果。”
+  },
+  “受试者”： [
+    {
+      “类型”：“人类女性”，
+      “计数”：1，
+      “外貌”：{
+        “体型”：“身材纤细，皮肤白皙，带有细微光泽。一头长直的铂金金色头发垂落胸前。皮肤质地略显光滑，带有时尚级别修图的感觉，但在高细节区域仍能看到毛孔。”
+        “clothing_or_surface”：“巨大的、细节丰富、层叠的白色羽毛翅膀，覆盖在左上象限。穿着白色内衣/紧身胸衣（骨架，透视蕾丝细节），白色蕾丝无指手套，以及及膝白色漆皮或光面乙烯基细高跟靴。佩戴着一条精致的珍珠状项链。”
+      },
+      “姿势”：“腰部和膝盖前倾，低蹲，头微微倾向镜头。右臂向下伸出，握住狗的牵引绳。左腿略微向前，承担主要体重。坐标中心为x：0.35，y：0.4。”
+      “表情”：“与观众进行强烈、直接的眼神交流。眼睛略微睁大，展现出令人不安或强烈的目光。嘴巴闭合或微微张开，保持严肃而克制的神态。”
+      “位置”：{
+        “screen_quadrant”：“由于翼部，从左中中到中上”，
+        “depth_layer”：《中景》
+      }
+    },
+    {
+      “类型”：“犬科（杜宾犬）”
+      “计数”：1，
+      “外貌”：{
+        “体型”：“肌肉发达，光滑短黑和锈褐色毛发。耳朵剪短且竖立;尾巴已截尾。外套显示出高光反射主光的高光。”
+        “clothing_or_surface”：“厚重的黑色皮革项圈，装饰着大而凶猛的银色尖刺/铆钉。系着一条沉重的银链条。毛发质地清晰，展现出细腻的毛发细节。”
+        “位置”：“中心位置为x：0.65，y：0.75”
+      },
+      “姿势”：“站得笔直警觉，f”
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10068_0.jpg" width="600" alt="天使与恶犬 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 54: 电音节酷炫特写
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+制作一张电影感十足的高分辨率极近特写照片，拍摄一位年轻女性（上传照片中的角色，无交替），在电子音乐节上。她有一头长长的棕发黑发。她带着平静冷静的表情（愉快地）回头望着她。她戴着圆形复古风格的太阳镜，反射周围的灯光，身穿一件白色质感夹克。灯光戏剧性且鲜艳，以青色条纹和
+
+#### 📝 提示词
+
+```
+制作一张电影感十足的高分辨率极近特写照片，拍摄一位年轻女性（上传照片中的角色，无交替），在电子音乐节上。她有一头长长的棕发黑发。她带着平静冷静的表情（愉快地）回头望着她。她戴着圆形复古风格的太阳镜，反射周围的灯光，身穿一件白色质感夹克。灯光戏剧性且鲜艳，以青色条纹和
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05158_0.jpg" width="600" alt="电音节酷炫特写 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 55: AI图像风格转换
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+この絵を、{argument name="スタイル" default="リアルな人間の写真"}に変えて。{argument name="色" default="カラー"}で。
+
+#### 📝 提示词
+
+```
+この絵を、{argument name="スタイル" default="リアルな人間の写真"}に変えて。{argument name="色" default="カラー"}で。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12146_0.jpg" width="600" alt="AI图像风格转换 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12146_1.jpg" width="600" alt="AI图像风格转换 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12146_2.jpg" width="600" alt="AI图像风格转换 - Image 3">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 56: 闪耀红毯女神
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+[reference_image_instructions] face = “使用上传照片的100%面部复制作为参考，不要更改她的脸。用她100%的面部特征。” 注 = “面部必须与参考图像完全相同;只有身体、服装、发型、妆容、姿态和环境可以按照描述进行变换。” [提示] 描述 = “”” 打造一幅全身、极具高尚风格…
+
+#### 📝 提示词
+
+```
+[reference_image_instructions]
+face = “使用上传照片的100%面部复制作为参考，不要更改她的脸。用她100%的面部特征。”
+注 = “面部必须与参考图像完全相同;只有身体、服装、发型、妆容、姿态和环境可以按照描述进行变换。”
+
+[提示]
+描述 = “””
+打造一幅全身、极具高尚风格的女性肖像，身穿紧身美人鱼礼服，由闪耀的浅粉色微亮片面料制成。这件裙子设计有戏剧性的深V领，左大腿上有一道高开衩，露出她的腿部线索。紧身胸衣上装饰着复杂的大而明亮的水晶镶嵌和银水晶珠饰，营造出结构化、像束缚带般的效果，细致的腰间通过细小的珠宝链条收紧。
+
+她穿着一件巨大奢华的象牙色仿皮草大衣，戏剧性地披在肩上，垂至地板。外套披肩，露出礼服的肩带，柔软的质感和蓬松感与闪耀的连衣裙形成柔和而庄严的对比。她的鞋款是光滑的银色金属踝带细高跟凉鞋。配饰极简却精致：大型垂坠的泪滴钻石吊灯耳环。
+
+发型与化妆
+
+她的头发梳理成完美、高发量的经典好莱坞指波浪，深分侧分，披散在一侧肩膀上，染成了一种精致的{争论名=\“发色\”默认=\“灰金/浅焦糖\”}色调。她的妆容无可挑剔且充满魅力：完美雕塑的颧骨配柔和珊瑚色腮红，分明的弧形眉毛，带有翼状眼线和浓密睫毛的淡淡烟熏猫眼妆，以及精致的赤陶裸色哑光唇色。
+
+姿势与表情
+
+她站在红毯上，姿势强劲而端庄，双手稳稳叉腰，肘部微微外展，突出纤细的腰线和皮草大衣的戏剧性垂褶。她的姿态挺拔自信。她的表情精致，带着微妙而会心的半笑，目光直接而深刻，紧盯着观众。
+
+背景与光影
+
+背景是极其奢华、温暖色调的室内，宛如宏伟酒店的舞厅入口或宏伟的走廊。建筑细节包括高大华丽的金色/青铜装饰线条和镶板，衬托着柔和的米色或奶油色墙面。地板铺设了光滑、带有图案的米色和棕色大理石瓷砖。灯光柔和、温暖且具电影感的氛围光（让人联想到头顶吊灯或壁灯），投射出柔和、讨喜的光辉，阴影极少刺眼，突出亮片的闪光和毛皮的柔软。
+
+摄影与摄影风格
+
+全身肖像照。超写实专业摄影棚照片。使用高分辨率单反相机（如佳能EOS R5或索尼A1）和高速定焦镜头拍摄
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06528_0.jpg" width="600" alt="闪耀红毯女神 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 57: 悉尼户外肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{argument name=“subject” default=“Sydney Sweeney”} 盘腿坐在草坡上，微笑着望向右侧的肖像。她扎着一个凌乱的低发髻，耳后系着{argument name=“hair arrangementy” default=“daisy”}，穿着{argument name=“clo…
+
+#### 📝 提示词
+
+```
+{argument name=“subject” default=“Sydney Sweeney”} 盘腿坐在草坡上，微笑着望向右侧的肖像。她扎着一个凌乱的低发髻，耳后系着{argument name=“hair arrangementy” default=“daisy”}，穿着{argument name=“clothes” default=“白色T恤、一件开放的粉色拉链连帽衫和灰色运动裤”}。背景是一幅开阔的绿色山谷、锋利的雪山和明亮的蓝天和蓬松的云朵。自然柔和的日光，高端生活方式摄影，清晰对焦，9：16宽高比。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07663_0.jpg" width="600" alt="悉尼户外肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 58: 庭院金色晚礼
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3959,18 +2505,87 @@ geminiのnano bananaで柵を消してもらいました。
 
 ---
 
-### No. 96: 欧洲老城咖啡时光
+### No. 59: 甜美少女卧室梦境
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-{ "prompt": "欧洲老城白天，超现实的街头咖啡馆抓拍场景。一位年轻优雅的女士坐在一张铺着洁白桌布的小圆户外咖啡桌旁。她穿着一件简约的黑色长袖上衣，佩戴着极简时尚的珠宝，包括小耳环和戒指。她将一把小勺子放在唇边，带着俏皮而梦幻的表情，对着镜头撅起嘴巴，显得很开心。她的面部特征必须保持完全自然，没有扭曲，眼睛、…
+{ “提示”：“{argument name=”subject“ default=”一幅温馨室内生活肖像，描绘一位年轻金发女子在柔和灯光的卧室里放松地躺在花卉图案的床上“}，风格采用{argument name=”style“ default=”带有微妙可爱影响的细腻柔和柔和女孩美学“}。她有一头自然垂落肩头的长而丝…
 
 #### 📝 提示词
 
 ```
-{ "prompt": "欧洲老城白天，超现实的街头咖啡馆抓拍场景。一位年轻优雅的女士坐在一张铺着洁白桌布的小圆户外咖啡桌旁。她穿着一件简约的黑色长袖上衣，佩戴着极简时尚的珠宝，包括小耳环和戒指。她将一把小勺子放在唇边，带着俏皮而梦幻的表情，对着镜头撅起嘴巴，显得很开心。她的面部特征必须保持完全自然，没有扭曲，眼睛、鼻子和嘴巴的比例正确。桌上放着一个玻璃高脚杯，里面盛着撒有可可粉的 {argument name=\"dessert\" default=\"提拉米苏\"}，一个带有拉花艺术的 {argument name=\"drink\" default=\"卡布奇诺\"} 放在白色碟子里，甜点旁边有一把勺子，一张叠好的餐巾，她平放着的现代智能手机，以及一个装有糖包的小银色支架。背景是鹅卵石铺就的欧洲街道，行人来来往往。她身后是一座历史悠久的石头建筑，有拱形木门、雕刻的招牌和华丽的建筑细节。周围的其他建筑则具有质朴的石材立面、现代店面、窗户和阳台。光线是自然的暖日光，营造出活泼而轻松的氛围。", "style": "超现实抓拍街头摄影", "lighting": "自然暖日光", "background": "欧洲鹅卵石街道，行人，带有拱门和招牌的历史石建筑", "focus": "比例正确的真实面部，细节丰富的咖啡桌物品，自然表情", "shot_type": "抓拍坐姿肖像", "mood": "活泼，温暖，放松", "aspect_ratio": "3:4" }
+{
+  “提示”：“{argument name=”subject“ default=”一幅温馨室内生活肖像，描绘一位年轻金发女子在柔和灯光的卧室里放松地躺在花卉图案的床上“}，风格采用{argument name=”style“ default=”带有微妙可爱影响的细腻柔和柔和女孩美学“}。她有一头自然垂落肩头的长而丝滑的铂金色头发，简约的华丽妆容配柔软的睫毛，自然的粉色嘴唇，微微泛红的脸颊，以及光滑白皙的皮肤。她的表情平静而深思，柔和地望向一旁，营造出一种梦幻而自然的氛围。她穿着一件粉色蕾丝吊带背心，带有细腻的花卉纹理和领口小巧心形细节，搭配黑色及膝袜，鞋底印有可爱的粉爪印，增添了俏皮的动漫风格。一条银色十字项链为造型增添了细腻而优雅的对比。场景设定为{argument name=“location” 默认=“温暖亲密的卧室，米色墙壁、柔和的氛围灯、花卉床上用品、装饰性枕头和一面大立镜，反射出温馨的室内环境”}。床头灯洒下温暖的金色光芒，增强了温馨放松的氛围。构图感觉随意而自然，就像一张梦幻般的社交媒体生活方式照片。”
+  
+“negative_prompt”：“低质量、模糊、畸形的解剖结构、额外的四肢、糟糕的手、糟糕的面部描绘、过曝光线、不真实的皮肤质感、凌乱的背景、水印、文字、标志、颗粒状图像、僵硬的姿势、卡通化、CGI、低细节”，
+  
+“风格”：“柔美女孩可爱生活方式摄影”
+  
+“相机”：{
+    “构图”：“从稍低的前角度拍摄的中等镜头”，
+    “镜头”：“35mm”，
+    “光圈”：“f/2.0”，
+    “对焦”：“对主体的清晰聚焦，卧室背景略显模糊”
+  },
+  
+“闪电”：{
+    “类型”：“温暖的室内环境光”，
+    “效果”：[
+      “柔和的阴影”，
+      “温和的高光”，
+      “梦幻般的光辉”
+      “温馨的卧室氛围”
+    ]
+  },
+  
+“环境”：{
+    “位置”：“温馨的卧室内部”
+    “细节”： [
+      “花卉图案床上用品”，
+      “米色墙壁”，
+      “装饰性枕头”，
+      “大型立式镜”
+      “温暖的床头灯”
+      “极简温馨装饰”
+    ]
+  },
+  
+“服装”：{
+    “上衣”：“带有花卉纹理和心形细节的粉色蕾丝吊带衫”，
+    “袜子”：“黑色及大腿袜，上面有粉爪印”
+    “配件”：[
+      “银十字项链”
+    ]
+  },
+  
+“color_palette”：[
+    “粉彩”，
+    “奶油米色”，
+    “温暖象牙”，
+    “柔和的黑色”
+    “玫瑰花色调”
+  ],
+  
+“情绪”：[
+    “温馨”，
+    “梦幻”
+    “女性化”，
+    “调皮”，
+    “放松”，
+    “柔和美学”
+  ],
+  
+“quality_tags”： [
+    “超细致”，
+    “照片级写实”，
+    “柔和室内肖像”
+    “8k”，
+    “逼真的皮肤质地”，
+    “梦幻生活方式美学”
+  ]
+}
 ```
 
 #### 🖼️ 生成图片
@@ -3978,25 +2593,25 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19372_0.jpg" width="600" alt="欧洲老城咖啡时光 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04352_0.jpg" width="600" alt="甜美少女卧室梦境 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 97: 巧克力唇釉奢宠大片
+### No. 60: 金缮机械师
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-{ "generation_request": { "meta_data": { "task_type": "luxury_editorial_beauty_macro_series", "language": "zh-Hans", "priority": "highest", "style_version": "v…
+{ "vibe_title_en": "机械式疲惫", "master_prompt": "一个电影般的、25 度倾斜的特写镜头，捕捉到主角在凌乱拥挤的古董自动机械工坊中处于“劫后平静”的状态。她疲惫不堪地靠在一张红木工作台上，双肩下垂，目光笔直地凝视着远方。在摄影超现实主义的呈现下，主角的脸部呈现出超现实的“金缮”…
 
 #### 📝 提示词
 
 ```
-{ "generation_request": { "meta_data": { "task_type": "luxury_editorial_beauty_macro_series", "language": "zh-Hans", "priority": "highest", "style_version": "v1.0_CHOCOLATE_GLOSS_COUTURE" }, "input": { "mode": "image_to_image", "reference_image_usage": "very_high", "preserve_identity": true, "preserve_facial_features": true, "preserve_makeup_palette": true, "notes": "使用参考拼贴作为主要锚点。保持相同的面部、唇形、眼妆风格和巧克力互动。" }, "output": { "aspect_ratio": "1:1", "resolution": "ultra_high", "num_images": 4, "sharpness": "macro_crisp_filmic", "grain": "very_subtle_analog" }, "scene": { "concept": "感性奢华美妆专题，以巧克力作为触觉元素", "environment": "极简影棚背景，柔和温暖的中性色调", "time": "timeless_editorial", "weather": "studio" }, "subject": { "primary": { "description": "一位时尚女性，以私密美妆特写镜头捕捉", "hair": "柔和的棕色头发自然地勾勒脸部，略带动感", "makeup": { "eyes": "烟熏棕黑色眼妆，带有拉长的飞翼眼线，柔和的睫毛", "skin": "可见自然肤质，脸颊泛着玫瑰色腮红，柔和光泽", "lips": "深巧克力棕色超高光泽唇，湿润光泽，高镜面高光", "brows": "自然浓密的眉毛，柔和勾勒" }, "interaction": "用高光泽的嘴唇轻轻咬住一块黑巧克力", "expression": "感性、平静、内省的眼神" } }, "composition": { "framing": "美妆特写和超微距变化（嘴唇和眼睛）", "camera_height": "eye_level", "depth_of_field": "very_shallow_creamy_bokeh", "focus": "razor_sharp_on_lips_and_eyes", "series_layout": "editorial_multi_frame_consistency" }, "cinematography": { "camera_model": "full_frame_cinema_camera", "lens": "100mm_macro_prime", "aperture": "f2.8", "iso": "100", "look": "luxury_beauty_film_still", "dynamic_range": "high", "highlight_rolloff": "soft_filmic" }, "lighting": { "key": "soft_diffused_beauty_light_from_front", "fill": "minimal_fill_to_keep_depth", "rim": "subtle_gloss_highlight_rim_on_lips", "skin_lighting": "even_soft_no_harsh_shadows", "mood": "intimate_warm_sensual" }, "color_grading": { "palette": "chocolate_browns_warm_beige_soft_rose", "contrast": "low_to_moderate", "saturation": "controlled_luxury", "skin_tones": "warm_natural_balanced", "black_levels": "soft_filmic" }, "texture_details": { "lips": "high_gloss_wet_texture_micro_reflections", "chocolate": "realistic_dark_chocolate_te" } } }
+{ "vibe_title_en": "机械式疲惫", "master_prompt": "一个电影般的、25 度倾斜的特写镜头，捕捉到主角在凌乱拥挤的古董自动机械工坊中处于“劫后平静”的状态。她疲惫不堪地靠在一张红木工作台上，双肩下垂，目光笔直地凝视着远方。在摄影超现实主义的呈现下，主角的脸部呈现出超现实的“金缮”纹理——裂缝中填充着物理金箔和细铜线，这些金箔和铜线穿梭于皮肤毛孔之间，看起来像是真实的假肢效果，而非数字艺术。环境极其繁忙：堆积如山的泛黄图纸、散落的黄铜齿轮、装满瓷质眼睛的罐子以及拆解开来的钟表机械装置布满了整个画面。光线是高对比度的明暗对照：一束刺眼的定向钨丝灯光照亮了脸上的金色纹理，穿透了昏暗、富有氛围感的“蓝色时刻”暮色。使用哈苏 H6D-100c 相机和 80mm f/1.9 镜头拍摄，以呈现触感皮肤纹理和金属光泽，并带有柯达 Portra 800 胶片的有机颗粒结构。", "meta": { "intent": "时尚编辑 / 超现实主义叙事", "priorities": "纹理保真度、超现实真实感、混乱环境", "device_profile": "高端桌面 / 大幅面打印" }, "frame": { "aspect": "4:5", "composition": "倾斜特写", "layout": "主体偏离中心，前景/背景杂物为主", "camera_angle": "视线水平但倾斜", "tilt_roll_degrees": "逆时针 25 度" }, "subject": { "gender": "女性", "identity": "机械师", "demographics": "通用/中性", "face": "超现实皮肤纹理，带有物理金箔裂缝和铜线植入物（金缮风格）", "hair": "向后梳理，略显凌乱，编织有金属线", "body": "双肩下垂，重重地靠着，展现出沉重和疲惫", "expression": "中性、疲惫、凝视远方", "pose": "斜靠在某个表面上，头部略微倾斜，跟随相机滚动" }, "wardrobe_accessories": { "garments": [ { "item": "工匠围裙", "material": "厚帆布和皮革", "color": "炭灰色，带有油渍", "fit": "宽松、实用" }, { "item": "高领衬衫", "material": "维多利亚蕾丝和丝绸", "color": "锈蚀青铜色", "fit": "领口合身，袖子宽松" } ], "accessories": [ { "item": "头饰", "color": "金色和氧化铜色", "material": "黄铜花丝和光纤", "brand_style": "蒸汽朋克巴洛克" } ] }, "environment": { "setting": "古董自动机械修复工坊", "surfaces": "划痕红木" } }
 ```
 
 #### 🖼️ 生成图片
@@ -4004,25 +2619,25 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_16089_0.jpg" width="600" alt="巧克力唇釉奢宠大片 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_17000_0.jpg" width="600" alt="金缮机械师 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 98: 镜中自信侧影
+### No. 61: 透明玻璃仰视行人
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一张竖直手机照片，一名年轻女子侧身坐在温暖灯光的房间里玻璃桌边缘，身体侧身，一只手撑在身后的桌子上，头回头望向镜头，透过方形黑眼镜冷静自信地凝视着镜头。摄像头从侧面视线高度，四分之三的身体进入画面。长而光滑的直发，中间分开，顺滑光泽，垂至腰部，配有修饰面部的发型。魅力妆容：锐利的眉毛、浓密的睫毛、修容光泽的肌肤、光泽…
+从一块完全透明的有机玻璃板下方仰望。我们正对着上方。许多人在有机玻璃板上行走。背景是纯净的蓝天。看不到任何建筑物。有机玻璃板没有任何边缘或缝隙。仿佛它根本不存在。我们离这些人很近。他们正在行走。人们大致从左向右走。他们的鞋底几乎贴着前景。
 
 #### 📝 提示词
 
 ```
-一张竖直手机照片，一名年轻女子侧身坐在温暖灯光的房间里玻璃桌边缘，身体侧身，一只手撑在身后的桌子上，头回头望向镜头，透过方形黑眼镜冷静自信地凝视着镜头。摄像头从侧面视线高度，四分之三的身体进入画面。长而光滑的直发，中间分开，顺滑光泽，垂至腰部，配有修饰面部的发型。魅力妆容：锐利的眉毛、浓密的睫毛、修容光泽的肌肤、光泽裸唇。她穿着一件宽大的灰色细条纹西装外套，袖子长到手上，搭配黑色紧身裤。背景：白色镶板墙，拼花木地板，玻璃控制台桌，桌上放着书籍和一只泰迪熊。温暖柔和的室内灯光，温馨的编辑氛围。用iPhone 17 Pro Max拍摄，室内自然人像，肤色真实，细腻。
+从一块完全透明的有机玻璃板下方仰望。我们正对着上方。许多人在有机玻璃板上行走。背景是纯净的蓝天。看不到任何建筑物。有机玻璃板没有任何边缘或缝隙。仿佛它根本不存在。我们离这些人很近。他们正在行走。人们大致从左向右走。他们的鞋底几乎贴着前景。
 ```
 
 #### 🖼️ 生成图片
@@ -4030,25 +2645,25 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22916_0.jpg" width="600" alt="镜中自信侧影 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19612_0.jpeg" width="600" alt="透明玻璃仰视行人 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 99: 雨中孤影
+### No. 62: 高山湖畔奢华写真
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-{ "project_type": "电影感图像", "title": "雨不停歇的城市", "creative_direction": { "genre": "电影感都市现实主义", "influences": [ "现代街头摄影", "新黑色电影", "纪录片现实主义", "建筑都市氛围" ], "emotion…
+用我上传的照片制作一张超写实的编辑照片，展现了男子的面部、头发和外貌。一位优雅的男子在一艘豪华木船上悠闲地坐落在宁静的高山湖泊上，湖泊四周环绕着群山、欧洲湖畔村庄和郁郁葱葱的绿意。金色的午后阳光，温暖的色调映照在晶莹剔透的蓝色水面上。他穿着浅米色西装，敞开衬衫（无领带），戴着深色墨镜，手上戴着奢华手表，自信而优雅。高…
 
 #### 📝 提示词
 
 ```
-{ "project_type": "电影感图像", "title": "雨不停歇的城市", "creative_direction": { "genre": "电影感都市现实主义", "influences": [ "现代街头摄影", "新黑色电影", "纪录片现实主义", "建筑都市氛围" ], "emotion": [ "寂静的孤独", "内省", "都市的寂寥", "压力下的平静" ] }, "scene": { "environment": "繁华的城市街道", "architecture": "带有霓虹灯招牌的中层商业建筑", "time_of_day": "傍晚，蓝色时刻", "weather": { "type": "大雨", "details": "可见的雨滴，湿润的表面，空气中雨丝清晰可见" }, "ground": "湿润的柏油路面，倒映着水坑" }, "subject": { "type": "单个人物主体", "description": "一位年轻女子独自站在人行道上", "pose": "静止，身体略微背对镜头，头部转向镜头", "expression": "中性，疏离，内省", "wardrobe": { "outerwear": "深色连帽雨衣", "accessories": ["背包"], "condition": "被雨水浸湿的衣物，可见水滴" }, "physical_details": { "hair": "湿润，略显凌乱，勾勒出脸部轮廓", "skin": "自然肤质，无过度修饰" } }, "background": { "elements": [ "亮着车头灯的黄色出租车", "模糊移动的车辆", "撑伞的行人", "多种语言的霓虹商店招牌" ], "depth": "具有分层视觉元素的深邃都市透视", "motion_effect": "车辆和行人有轻微的运动模糊效果" }, "cinematography": { "camera_type": "全画幅数字电影摄影机", "lens": "35mm 定焦镜头", "aperture": "大光圈，营造浅景深", "focus": "主体对焦清晰，背景柔和虚化", "camera_position": "视平线，街头视角", "movement": "静态画面，背景运动形成对比" }, "lighting": { "primary_source": "环境城市照明", "secondary_sources": [ "车辆前灯", "霓虹灯招牌", "店面灯光" ], "lighting_style": "柔和，漫射，自然", "contrast": "适中，电影感" }, "color_grading": { "palette": ["冷蓝色", "青色阴影", "暖琥珀色高光"], "saturation": "受控，柔和", "black_levels": "略微提升，营造电影感", "highlights": "柔和过渡" }, "post_processing": { "film_grain": "微妙，电影感", "sharpness": "强调主体，柔化背景", "noise": "极少，自然", "vignette": "非常微妙" }, "visual_style": { "realism": "高", "aesthetic": "忧郁，氛围感，现代", "inspiration_keywords": [ "电影感雨景", "都市隔离", "街头现实主义", "拱门" ] } }
+用我上传的照片制作一张超写实的编辑照片，展现了男子的面部、头发和外貌。一位优雅的男子在一艘豪华木船上悠闲地坐落在宁静的高山湖泊上，湖泊四周环绕着群山、欧洲湖畔村庄和郁郁葱葱的绿意。金色的午后阳光，温暖的色调映照在晶莹剔透的蓝色水面上。他穿着浅米色西装，敞开衬衫（无领带），戴着深色墨镜，手上戴着奢华手表，自信而优雅。高端杂志风格，自然光线，电影般的写实，高品质摄影。
 ```
 
 #### 🖼️ 生成图片
@@ -4056,25 +2671,38 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15712_0.jpg" width="600" alt="雨中孤影 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01382_0.jpg" width="600" alt="高山湖畔奢华写真 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01382_1.jpg" width="600" alt="高山湖畔奢华写真 - Image 2">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 100: 雪中少女金晖自拍
+### No. 63: 奇幻村庄晨光节
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-女孩自拍时，手臂伸向镜头，手看不见，好像拿着相机。她站在冬季的群山背景下，身穿厚重的黑色高领高领衫和一件短款哑光黑色宽松夹克，带领子。她头上戴着一顶黑色冬季帽，带领带，稍微滑过额头。她闭着眼睛，享受着这一刻。下雪了，照片是在黄金时分拍的。闪亮的头发。
+场景： 清晨时分，这里是风格化的中世纪奇幻村庄，设有带有雕刻木质阳台栏杆和天窗的村庄旅馆，一座建在石基基础上、裸露木梁和灰泥墙板的木结构村庄小屋，一个市场广场店面，配有木制遮阳棚和条纹织物遮篷，一座带扶壁和箭缝窗的卫兵营房， 一座石质瞭望塔，配有圆形塔窗和垛口细节，以及一座贵族庄园，拥有多重陡峭的木瓦屋顶和装饰性屋顶…
 
 #### 📝 提示词
 
 ```
-女孩自拍时，手臂伸向镜头，手看不见，好像拿着相机。她站在冬季的群山背景下，身穿厚重的黑色高领高领衫和一件短款哑光黑色宽松夹克，带领子。她头上戴着一顶黑色冬季帽，带领带，稍微滑过额头。她闭着眼睛，享受着这一刻。下雪了，照片是在黄金时分拍的。闪亮的头发。
+场景：
+清晨时分，这里是风格化的中世纪奇幻村庄，设有带有雕刻木质阳台栏杆和天窗的村庄旅馆，一座建在石基基础上、裸露木梁和灰泥墙板的木结构村庄小屋，一个市场广场店面，配有木制遮阳棚和条纹织物遮篷，一座带扶壁和箭缝窗的卫兵营房， 一座石质瞭望塔，配有圆形塔窗和垛口细节，以及一座贵族庄园，拥有多重陡峭的木瓦屋顶和装饰性屋顶顶饰。鹅卵石广场为节日准备布置，中央附近均匀分布的木制舞台脚手架，装饰性木质栏杆阳台悬挂布制横幅，木质标牌托架梁支撑花环。披风村民以小组协调工作，间隔明显的行走间隙，木匠在村庄客栈附近搭建结构，商人调整条纹帐篷，守卫站在拱门门楼旁，门楼有钥匙石拱门和吊门。反射水体保持畅通，活动仅限于木质码头平台和海岸线。茂密的松林丛和阔叶村庄树木环绕着景色，圆润的灌木环绕鹅卵石小径，灯笼柱和木质长椅划定了聚会区。
+
+风格：
+电影化的奇幻中世纪村庄，温暖的金色晨光，长而柔和的阴影，清新的蓝天光线，细腻的体积光线，绘画般的材质，柔和的石材和木质纹理，鲜艳但受控的色彩分级，圆润的风格化造型，平衡的曝光，氛围清晰，温馨的环境真实感，高端游戏环境品质
+
+相机：
+俯瞰村庄中心的高空三分之四角俯瞰，略微向下倾斜，宽广的环境构图，中宽镜头感，强烈的前景与背景层叠，前景元素支撑下帧，中景建筑构成主要焦点，背景森林形成深墙，自然斜向建筑布局，鹅卵石小径作为引导线引导至中心焦点结构，平衡的环境构图，电影级的超高超摄影比赛建立镜头
 ```
 
 #### 🖼️ 生成图片
@@ -4082,7 +2710,1422 @@ geminiのnano bananaで柵を消してもらいました。
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25259_0.jpg" width="600" alt="雪中少女金晖自拍 - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13562_0.jpg" width="600" alt="奇幻村庄晨光节 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 64: 红袍少女晨光玫瑰
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一个女孩早晨坐在黑暗的厨房岛台上，旁边放着一束巨大的白玫瑰。她穿着一件长长的红色丝绸长袍，宽袖，边缘有蓬松的红色装饰。她的头发凌乱地盘成一个发髻，垂落的发丝部分遮住了脸庞。摆出专业时尚拍摄的姿势。黄金时刻摄影。
+
+#### 📝 提示词
+
+```
+一个女孩早晨坐在黑暗的厨房岛台上，旁边放着一束巨大的白玫瑰。她穿着一件长长的红色丝绸长袍，宽袖，边缘有蓬松的红色装饰。她的头发凌乱地盘成一个发髻，垂落的发丝部分遮住了脸庞。摆出专业时尚拍摄的姿势。黄金时刻摄影。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25952_0.jpg" width="600" alt="红袍少女晨光玫瑰 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 65: 浴袍闪光灯人像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+用佳能G7X Mark III带闪光灯拍摄。一个女孩站在极简阳台的栏杆旁。双手插在浴袍口袋里。正对着镜头。地点：索契曼特拉至尊酒店。 白色宽大男士浴袍，用柔软的毛巾布料制成，系着一条腰带。袍子胸侧有曼特拉刺绣。背景：曼特拉酒店的内外。她站在一个有玻璃栏杆的阳台上。 闭着眼睛，微微抬起下巴，头微微侧向一边。非常长的头发…
+
+#### 📝 提示词
+
+```
+用佳能G7X Mark III带闪光灯拍摄。一个女孩站在极简阳台的栏杆旁。双手插在浴袍口袋里。正对着镜头。地点：索契曼特拉至尊酒店。
+
+白色宽大男士浴袍，用柔软的毛巾布料制成，系着一条腰带。袍子胸侧有曼特拉刺绣。背景：曼特拉酒店的内外。她站在一个有玻璃栏杆的阳台上。
+
+闭着眼睛，微微抬起下巴，头微微侧向一边。非常长的头发垂到腰以下，侧梳，稍微遮住部分脸部。从臀部以上拍摄（腰部以上拍摄）。不要模糊背景。用闪光灯在黑暗中拍摄。画面比例为3：4。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22902_0.jpg" width="600" alt="浴袍闪光灯人像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 66: 霓虹赛博肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “目标”：“生成一张极为真实、赛博电影风格的极端特写侧面肖像，配合戏剧性的分光和霓虹灯动态。” “Persona_Details”： { “主题”：“年轻成年女性”， “Profile_View”：“极特写侧面侧面”， “Facial_Features”： { “眼睛”：“明亮的蓝色眼睛” “Skin_Textu…
+
+#### 📝 提示词
+
+```
+{
+  “目标”：“生成一张极为真实、赛博电影风格的极端特写侧面肖像，配合戏剧性的分光和霓虹灯动态。”
+  “Persona_Details”： {
+    “主题”：“年轻成年女性”，
+    “Profile_View”：“极特写侧面侧面”，
+    “Facial_Features”： {
+      “眼睛”：“明亮的蓝色眼睛”
+      “Skin_Texture”：“自然皮肤，毛孔明显”
+      “雀斑”：“细腻、逼真的雀斑”，
+      “表达”：“强烈，深思熟虑”
+    }
+  },
+  “Lighting_and_Effects”： {
+    “Lighting_Style”：“戏剧性分光”，
+    “Color_Split”： {
+      “Cool_Side”：“青绿色和蓝色调”，
+      “Warm_Side”：“火红橙色和红色调”
+    },
+    “Dynamic_Effects”： {
+      “Neon_Light_Streaks”：“扫过脸庞”，
+      “Motion_Blur”：“光轨中的微妙模糊”，
+      “氛围”：“柔和的雾气带来电影深度”
+    }
+  },
+  “Scene_and_Mood”： {
+    “环境”：“抽象，暗色背景”，
+    “氛围”：“情绪化、未来感、赛博电影感”，
+    “对比”：“光与影的高对比”
+  },
+  “Photography_Style”： {
+    “类型”：“专业编辑摄影”，
+    “镜头”：“100mm微距镜头”，
+    “光圈”：“f/2.8”，
+    “Depth_of_Field”：“浅景深”，
+    “构图”：“极限特写肖像”
+  },
+  “Color_and_Grading”： {
+    “Color_Grade”：“高对比度电影调色”，
+    “调色板”：“青绿色、蓝色、橙色和红色霓虹色调”，
+    “Look”：“电影级写实”
+  },
+  “Detail_and_Quality”： {
+    “Detail_Level”：“超细致微纹理”，
+    “写实”：“照片写实渲染”
+    “完成度”：“编辑，胶片级清晰度”
+  },
+  “Quality_Tags”：[
+    “超写实”
+    “照片写实主义”
+    “赛博电影”，
+    “霓虹灯光”，
+    “高端社论”
+  ],
+  “Negative_Prompts”：[
+    “短信”，
+    “标志”，
+    “水印”
+    “低分辨率”，
+    “平坦照明”，
+    “漫画或插画风格”，
+    “皮肤过度光滑”
+  ],
+  “Output_Constraints”： {
+    “Text_Overlay”：错误，
+    “品牌”：错误，
+    “水印”：错误
+  },
+  “Response_Format”： {
+    “类型”：“单一图像”，
+    “Aspect_Ratio”：“人像或电影裁剪”，
+    “Use_Case”：“编辑肖像、科幻电影艺术、高端视觉叙事”
+  }
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02050_0.jpg" width="600" alt="霓虹赛博肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 67: 圣诞时尚女神肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+参考图片：上传照片。不要改变面部特征。超高清时尚肖像，竖版9：16。一尊令人印象深刻的编辑圣诞肖像，描绘一位年轻女性在奢华节日环境中摆拍。女子站在装饰精美的圣诞树旁，身体微微倾斜，一只手优雅地举起，手持红色玻璃饰品，另一只手叉腰，形成雕塑般的沙漏剪影。自信、端庄的姿态，强调腰部和修长的线条。发型：抛光复古风格的盘发，…
+
+#### 📝 提示词
+
+```
+参考图片：上传照片。不要改变面部特征。超高清时尚肖像，竖版9：16。一尊令人印象深刻的编辑圣诞肖像，描绘一位年轻女性在奢华节日环境中摆拍。女子站在装饰精美的圣诞树旁，身体微微倾斜，一只手优雅地举起，手持红色玻璃饰品，另一只手叉腰，形成雕塑般的沙漏剪影。自信、端庄的姿态，强调腰部和修长的线条。发型：抛光复古风格的盘发，头顶蓬松，两侧顺滑，发际线上精致雕塑的婴儿发，优雅精致，经典好莱坞魅力造型。妆容：肤色无瑕均匀，柔和亮致，雕塑般的颧骨，大胆的缎面红色口红，干净利落的眼线，柔和晕染的眼影，浓密睫毛，分明优雅的眉毛。服装：长晚礼服（如上传照片所示，未作任何修改），无肩带结构紧身胸衣突出躯干，光滑如缎面的面料带有细腻光泽，剪裁合身，延伸至长而优雅的裙摆，高级定制剪裁。配饰：钻石项圈项链和配套耳环，极简奢华。环境：经典圣诞氛围，一棵郁郁葱葱的绿色圣诞树，装饰着红色和金色的装饰品，树基部摆放着红、白、金色调的礼品盒，深红色天鹅绒窗帘营造出浓郁的戏剧氛围。灯光：柔和温暖的摄影棚灯光突出面部、领口和裙子质感，柔和阴影雕塑身体，电影感十足且平衡，对比度不强烈。构图强调姿势、礼服结构和节日奢华，背景清晰锐利，不模糊。风格：高端时尚编辑，带着魅力、节日优雅、自信，带有轻微的胶片颗粒感，呈现杂志级的妆效。不要改变面部特征。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24259_0.jpg" width="600" alt="圣诞时尚女神肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 68: 九零年代老钱风父子肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “提示”：“仅用于父亲和婴儿的确切面貌（不修改）的上传图片。超写实的90年代编辑老钱肖像。垂直比例4：5，大腿中部，受试者70-80%，居中有机体。父亲放松，身体靠在一条腿上，右手插口袋，左臂抱着婴儿横跨躯干。婴儿斜着，自然。两人目光直视，严肃而安静的奢华。白色略显宽大的皱褶衬衫（2-3颗扣子敞开），高腰黑色百褶…
+
+#### 📝 提示词
+
+```
+{
+  “提示”：“仅用于父亲和婴儿的确切面貌（不修改）的上传图片。超写实的90年代编辑老钱肖像。垂直比例4：5，大腿中部，受试者70-80%，居中有机体。父亲放松，身体靠在一条腿上，右手插口袋，左臂抱着婴儿横跨躯干。婴儿斜着，自然。两人目光直视，严肃而安静的奢华。白色略显宽大的皱褶衬衫（2-3颗扣子敞开），高腰黑色百褶裤。婴儿迷你装。薄金框太阳镜。深色木条背景（可见纹理）。柔和的漫射正面光，轻微的胶片颗粒感，色调柔和，90多分的暖色调。85毫米，f/2.8，眼睛水平。”
+  “尺码”：“4：5”
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05428_0.jpg" width="600" alt="九零年代老钱风父子肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05428_1.jpg" width="600" alt="九零年代老钱风父子肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05428_2.jpg" width="600" alt="九零年代老钱风父子肖像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05428_3.jpg" width="600" alt="九零年代老钱风父子肖像 - Image 4">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 69: 深夜MacBook自拍时刻
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{\“image_settings\”： {\“aspect_ratio\”： \“3：4”， \“分辨率\”： {\“宽度\”： 1152， \“高度\”： 1536}}， \“提示\”： {\“identity_lock\”： {\“参考\”： \“input_photo\”， \“保留\”： [\“脸部”、“面…
+
+#### 📝 提示词
+
+```
+{\“image_settings\”： {\“aspect_ratio\”： \“3：4”， \“分辨率\”： {\“宽度\”： 1152， \“高度\”： 1536}}， \“提示\”： {\“identity_lock\”： {\“参考\”： \“input_photo\”， \“保留\”： [\“脸部”、“面部比例”， \“眼形\”， \“鼻子\”， \“嘴唇\”， \“肤色\”， \“皮肤质感\”\“h条线\”， \“整体身份\”]， \“规则\”： [\“不换脸\”，\“不美化\”，\“不平滑\”，\“不重塑\”\“，\”不“AI造型\”]}，\“场景\”： {\“camera_angle\”：\“高角度向下镜头，视角”， \“构图\”：\“MacBook屏幕占据了大部分画面，底部可见一条细长的实体键盘条”，\“screen_surface\”：[\“可见的RGB像素网格\”，\“微妙的莫尔纹效果\”，\“玻璃上的微尘\”，\“淡淡的指纹\”，\“柔和的环境反射\”]}，\“digital_interface\”： {\“os\”： \“macOS暗黑模式\”，\“background_app\”： {\“name\”： \“{argument name=”background应用“ default=”Spotify“}\”， \“view\”： \“喜欢的歌曲\”， \“visible_tracks\”： [{argument name=“歌曲列表” default=“\”空白空间——泰勒·斯威夫特\“，\”甩掉它——泰勒·斯威夫特\“，\”残酷的夏天——泰勒·斯威夫特\“，\”爱情故事——泰勒·斯威夫特\“}]}，\”foreground_app\“：{\”名字\“：\”拍照亭\“，\”状态\“：\”实时预览窗口\“，\”位置\“：\”漂浮，居中右\“}}，\”photo_booth_content\“：{\”环境\“：{\”房间\“：\”昏暗的卧室“，\”背景\“：\”米白色墙壁，皱巴巴的床单\“，\”灯光\“：\”低光，夜晚，冷爽的屏幕光芒混合温暖肤色\“}，\”主体\“： {\“姿态\”：\“躺着，放松，抓地\”，\“表情\”：\“自然，略带放松\”，\“穿搭\”：\“{argument name=”outfit“ default=”浅色背心“}\”，\“道具\”： {\“item\”：\“iPhone 15 Pro\”，\“手\”：\“右手\”}，\“realism_rules\”： [\“这是屏幕照片，不是截图\”，\“原始智能手机照片的感觉\”，\“自然噪音\”，\“不完美的玻璃\”，\“没有工作室灯光\”，\“没有高清抛光\”]}，\“negative_prompt\”： [\“截图\”， \“平面界面\”， \“完美的屏幕”、“\”干净的玻璃\“、”\“工作室灯光\”\“美感滤镜\”\“卡通\”\“3D渲染\”\“绘画\”\“水印\”\“模糊的脸\”]}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09296_0.jpg" width="600" alt="深夜MacBook自拍时刻 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09296_1.jpg" width="600" alt="深夜MacBook自拍时刻 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 70: 霓虹复古故障美人
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+参考图片：一帧带有霓虹复古未来主义风格的画面，融合了故障和技术美学元素。一位女性站在镜头正前方，头朝向侧脸，看着镜头，表情若有所思且疏离。长发带有湿润效果，与紧身黑色皮裙中皮肤的光泽形成鲜明对比。肘部以上戴着长皮手套。大片紧身裤衬托出大胆的形象。在老式电视机的背景下，屏幕上出现红色光芒，营造出戏剧性的光线点。柔和的漫…
+
+#### 📝 提示词
+
+```
+参考图片：一帧带有霓虹复古未来主义风格的画面，融合了故障和技术美学元素。一位女性站在镜头正前方，头朝向侧脸，看着镜头，表情若有所思且疏离。长发带有湿润效果，与紧身黑色皮裙中皮肤的光泽形成鲜明对比。肘部以上戴着长皮手套。大片紧身裤衬托出大胆的形象。在老式电视机的背景下，屏幕上出现红色光芒，营造出戏剧性的光线点。柔和的漫射灯光突出了皮肤和布料的质感，背景——一排复古电视增加了层次感和数字混乱的氛围。电影化构图，写实画面，高细节，8K。用闪光灯拍摄。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22986_0.jpg" width="600" alt="霓虹复古故障美人 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 71: 威尼斯阳台粉裙佳人
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ "image_description": { "scene": { "location": { "city": "{argument name=\"city\" default=\"Venice\"}", "setting": "俯瞰威尼斯历史建筑的石质阳台", "details": "场景设置在一个经典的石质阳…
+
+#### 📝 提示词
+
+```
+{ "image_description": { "scene": { "location": { "city": "{argument name=\"city\" default=\"Venice\"}", "setting": "俯瞰威尼斯历史建筑的石质阳台", "details": "场景设置在一个经典的石质阳台，可将威尼斯古老建筑、纪念碑以及圣马可广场附近的城市天际线尽收眼底。温暖的金色自然光在石头上投下柔和的阴影，凸显了城市精致的建筑元素。" }, "environment": { "elements": [ "带有华丽栏杆的石质阳台", "背景中的威尼斯古老建筑", "晴朗的天空，柔和的光线反射在玻璃窗上", "黄金时段阳光带来的温暖柔和光芒" ], "atmosphere": "宁静、精致，充满永恒的奢华与浪漫感，唤起奢华旅行和精致女性美的意境。" }, "lighting": { "type": "自然日光", "effect": "光线柔和而清晰，以柔和的光芒突出建筑纹理和主体。阴影被柔化，营造出一种诱人而高雅的氛围。" } }, "subject": { "identity": "{argument name=\"subject identity\" default=\"Megan Fox\"}", "pose": { "description": "主体自信地站在石质栏杆旁，凝视着威尼斯的天际线。她保持着优雅得体的姿态，体现出优雅和精致，微微一笑，流露出自信和沉思。" }, "outfit": { "top": { "type": "结构化的紧身胸衣式上衣", "color": "深粉色", "style": "时尚杂志风格，现代而经典，旨在凸显身材。紧身胸衣线条锐利分明，剪裁干净利落，与自然环境形成美妙的对比。" }, "bottom": { "type": "高腰短款粉色半身裙", "details": "半身裙为高腰设计，两侧均有戏剧性的高开衩，赋予其前卫而精致的感觉。面料飘逸流畅，凸显了主体的女性魅力和现代优雅。" } }, "hair_and_makeup": { "hair": { "style": "柔和波浪", "details": "她的头发造型为自然的柔和波浪，随意垂坠，为整体造型增添了动感和活力。波浪富有光泽，呈现出精致而随性的风格。" }, "makeup": { "style": "精致自然", "details": "妆容通过微妙的修容和柔和的高光提升了她的自然美。她的眼睛用淡眼线勾勒，唇部则涂抹中性色调，共同营造出精致而永恒的造型。" } }, "composition": { "aspect_ratio": "3:4", "ori"
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_21889_0.jpg" width="600" alt="威尼斯阳台粉裙佳人 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 72: 复古浴缸旁的优雅女性
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+Крупный план женщины, опирающейся на белую винтажную ванну с золотыми ножками и смесителем на фоне тёмной стены.На ней чёрное асимметричное облегающее платье с…
+
+#### 📝 提示词
+
+```
+Крупный план женщины, опирающейся на белую винтажную ванну с золотыми ножками и смесителем на фоне тёмной стены.На ней чёрное асимметричное облегающее платье сложного кроя с вырезом у ключицы, одним рукавом и прозрачными вставками, длинные перчатки, серьги и браслет.Лёгкий макияж.Голова повернута влево, глаза закрыты, спокойное мечтательное выражение.Мягкий верхне-боковой свет, кинематографичный контраст, интимная атмосфера.Фотореализм, 8K, высокая детализация.Лицо на 100% идентично референсу, без изменений.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23801_0.jpg" width="600" alt="复古浴缸旁的优雅女性 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 73: 车内镜前咬唇自拍
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “主旨”：{ “类型”：“女人”， “身份”：“年轻女性，浅棕色到深金色直发，自然发际线，浅色眼睛，柔和的眉毛，平衡的鼻梁，自然丰满的嘴唇，平滑的下颌线，细腻的颧骨，肤色清白，妆容简约，整体柔和自然的面部特征” }, “框架”：{ “构图”：“紧密的面罩镜框，外部空间略宽”， “可见性”：“镜子内只可见面部、手部…
+
+#### 📝 提示词
+
+```
+{
+  “主旨”：{
+    “类型”：“女人”，
+    “身份”：“年轻女性，浅棕色到深金色直发，自然发际线，浅色眼睛，柔和的眉毛，平衡的鼻梁，自然丰满的嘴唇，平滑的下颌线，细腻的颧骨，肤色清白，妆容简约，整体柔和自然的面部特征”
+  },
+
+“框架”：{
+    “构图”：“紧密的面罩镜框，外部空间略宽”，
+    “可见性”：“镜子内只可见面部、手部和手机”，
+    “裁剪”：“衣物完全裁剪出镜框”，
+    “后视镜”：“矩形汽车遮阳镜，宽大于高，水平排列，非方形后视镜，不对称”
+    “风格”：“不完美，略显不平衡的构图”
+  },
+
+“表达式”： {
+  “facial_expression”：“轻微咬唇，下唇轻轻夹在牙齿之间”
+  “眼神”：“柔和、调皮的眼神交流，眼皮微微垂下”，
+  “情感”：“俏皮、调情、坦率”
+}
+  “姿势”：{
+    “头部”：“略微倾斜于镜子，自然对齐放松”，
+    “手”：“一只手靠近镜子握着手机，长长修剪的粉色指甲清晰可见，手指放松、不均匀、自然”，
+    “互动”：“手机部分可见，被镜边裁剪，侵入构图中”，
+    “意图”：“无姿势，出于必要而非摆姿势握着手机”
+  },
+
+“相机”：{
+    “camera_position”：视线水平“，
+    “透视”：“护目镜镜自拍”，
+    “对焦”：“镜子内面部和手部的清晰焦点，向边缘缓和的渐变”，
+    “framing_behavior”：“镜面反射紧密水平，周围环境稍松”
+  },
+
+“camera_settings”： {
+    “设备”：“iPhone 15 或 iPhone 16”，
+    “镜头”：“广角智能手机镜头”，
+    “光圈”：“等效f/1.8”
+    “iso”：“低ISO”，
+    “shutter_speed”：“足够快以避免运动模糊”，
+    “white_balance”：“自然日光”
+  },
+
+“环境”：{
+    “地点”：“白天在停放的汽车内”
+    “mirror_condition”：“略显脏污的面罩镜面，带有细微的污渍和灰尘”，
+    “内饰”：“车内仅能在后视镜框外隐约可见，能隐约看到仪表盘、挡风玻璃灯、天花板和侧窗，后视镜内不反光”
+  },
+
+“风格”：{
+    “氛围”：“原始、坦率、自发”
+    “美学”：“未经打磨的现实主义”，
+    “质量”：“照片级写实，自然肌肤质感，面部微不对称，无美妆修饰”
+    “避免”：“摆拍自拍、网红造型、方镜”
+  }
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25652_0.jpg" width="600" alt="车内镜前咬唇自拍 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 74: 奢华亲子街拍瞬间
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+昂贵的生活方式瞬间，像Instagram故事一样坦率捕捉，没有任何标语或文字叠加。照片级写实，用iPhone 17 Pro Max拍摄的照片。没有理想的对称，没有摆拍或摆拍的感觉。画面比例为3：4。皮肤看起来光泽，皮肤质地和毛孔可见，原始照片。狐狸眼睫毛效果，唇彩。一张写实的生活方式照片，拍摄一名年轻女性和一名3岁男…
+
+#### 📝 提示词
+
+```
+昂贵的生活方式瞬间，像Instagram故事一样坦率捕捉，没有任何标语或文字叠加。照片级写实，用iPhone 17 Pro Max拍摄的照片。没有理想的对称，没有摆拍或摆拍的感觉。画面比例为3：4。皮肤看起来光泽，皮肤质地和毛孔可见，原始照片。狐狸眼睫毛效果，唇彩。一张写实的生活方式照片，拍摄一名年轻女性和一名3岁男孩坐在靠近现代地中海别墅的人行道上。自然的互动，双方调皮地吐舌头，真挚的情感，轻松的家庭氛围。
+
+女人有一头长而直的头发垂在肩上，非常长。她穿着一件白色宽肩带迪奥背心，袖窿深邃，宽腰低腰牛仔裤，带有复古、做旧且磨损的感觉，脚踩古驰运动鞋。她身旁坐着她3岁的儿子，穿着一件宽大的Gucci T恤，宽松的破洞牛仔裤，颜色和母亲的颜色相配，脚踩同款Gucci运动鞋。两者都看不到袜子。儿子戴着一顶米色牛仔布洗棒球帽，帽子是反戴的。
+
+它们坐在柏油路上，旁边是修剪整齐的绿色树篱。他们身后是浅色纹理的灰泥墙，大型全景窗户，映出树木和天空的倒影。背景中隐约可见一辆黑色高级SUV。
+
+用iPhone拍摄，生活方式，Instagram照片，Pinterest美学，原始照片。8千。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24292_0.jpg" width="600" alt="奢华亲子街拍瞬间 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 75: 猫娘卧室自拍
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “main_prompt”：“可爱诱惑猫娘自拍，二十出头年轻女性，皮肤白皙，淡淡腮红，长直深棕色头发，侧扫刘海框住脸庞，浓重深色眼线配猫眼轻弹，长睫毛，光滑粉色/裸色嘴唇柔和嘟唇，半睁性感眼睛直视镜头，戴粉色蓬松猫耳带，内耳白色，饰有小金铃铛，薄白色细肩带短款上衣露出腹部和乳沟，浅粉色短裤或裙子，精致金色项链，带…
+
+#### 📝 提示词
+
+```
+{
+  “main_prompt”：“可爱诱惑猫娘自拍，二十出头年轻女性，皮肤白皙，淡淡腮红，长直深棕色头发，侧扫刘海框住脸庞，浓重深色眼线配猫眼轻弹，长睫毛，光滑粉色/裸色嘴唇柔和嘟唇，半睁性感眼睛直视镜头，戴粉色蓬松猫耳带，内耳白色，饰有小金铃铛，薄白色细肩带短款上衣露出腹部和乳沟，浅粉色短裤或裙子，精致金色项链，带小心形/吊坠，手腕多条手链（含粉色珠链），浅粉色美甲光泽，脸部附近俏皮的和平手势，低角度 自拍自拍（手机高举），趴在床上肘撑，背部拱起强调曲线，舒适的卧室背景：柔和的粉色墙壁，木质家具模糊，角落里有小装饰品如包或毛绒玩具，温暖的室内环境光，侧面柔和的窗户补光，柔和的轮廓光照在头发和肩膀上，近拍手机自拍时镜头略有变形，照片级逼真、极细致的皮肤质感，自然毛孔和浅色雀斑，逼真的发丝和飞散，猫耳朵上的蓬松毛发质感，电影般的柔和调色，温暖的粉色调和细腻的暗点，轻微的胶片颗粒感，可爱与诱惑的美学交织，亲密俏皮的卧室氛围，使用iPhone拍摄，前置摄像头人像模式或类似模式，浅景深聚焦面部和上半身，梦幻般的角色扮演能量。”
+  “negative_prompt”：“模糊、低光、变形手、多余手指、融合手指、解剖结构不佳、面部画得差、比例不佳、多余的四肢、变异的手、丑陋、畸形、拼贴、画面外、jpeg伪影、签名、水印、文字、错误、裁剪糟糕、最差质量、低质量、卡通、动漫风格（除非细微）、3D渲染、塑料皮肤、娃娃状、喷枪皮肤、过曝、曝光不足、光线平淡、闪光刺眼、皮肤苍白褪色、无妆、重滤镜、Instagram脸、鸭嘴、过于开心的笑容、老人、儿童、男性、合影、户外背景、明亮的日光、冷蓝色调、去饱和、廉价角色扮演道具、画面中可见手机、畸形的胜利手、多余的耳朵、身上有动物毛发、除非自然裁剪才能看到全身、杂乱凌乱的房间”，
+  “style_tags”：[
+    “照片级写实”，
+    “猫娘角色扮演”，
+    “可爱诱惑自拍”
+    “低角度亲密肖像”
+    “卧室自然氛围”
+    “柔粉美学”，
+    “俏皮却又性感”
+    “手机自拍失真细腻”，
+    “胶片颗粒光”，
+    “Cosplay 编辑”
+    “温馨室内光辉”
+  ],
+  “技术性”： {
+    “aspect_ratio”：“3：4或9：16（竖向自拍/手机肖像风格）”，
+    “灯光”：“室内温暖柔和的环境光~3200K来自房间灯光，窗户柔和的侧光，头发和猫耳朵上的细微边缘光，眼睛里有捕捉光，脸部阴影极少。”
+  }
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_11741_0.jpg" width="600" alt="猫娘卧室自拍 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 76: 复古萌系穿搭墙
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一个垂直墙面展示，两张独立的相框图片置于纯白墙上，复古可爱剪贴簿风格，细节丰富，照片级逼真，服装与上传的参考图片完全匹配。上框：简单的浅棕色木质相框（真木质感，无玻璃），内含手绘拼贴插图，展示了上传的服装，作为主OOTD服装，名为“OOTD ♥”，完美还原上传服装的设计、颜色、风格、形状、面料和细节;配套配饰包括猫耳…
+
+#### 📝 提示词
+
+```
+一个垂直墙面展示，两张独立的相框图片置于纯白墙上，复古可爱剪贴簿风格，细节丰富，照片级逼真，服装与上传的参考图片完全匹配。上框：简单的浅棕色木质相框（真木质感，无玻璃），内含手绘拼贴插图，展示了上传的服装，作为主OOTD服装，名为“OOTD ♥”，完美还原上传服装的设计、颜色、风格、形状、面料和细节;配套配饰包括猫耳带（白色毛皮，黑色耳尖）、橙色花纹围巾、黑色领结、白色及膝蕾丝长袜、黑色玛丽珍鞋;装饰着干黄粉色的花朵、布料碎片、胶带、别针，以及米色背景上手写的中文标签，如“猫耳发饰”、“衣服”、“蝴蝶结”。下框：一个独立的华丽米色/金色花纹相框，带有弧角，底部有“展示区”标签，内含一张年轻成年亚洲女性的照片（20-25岁，成熟可爱，长直黑发，白皙皮肤，大眼睛，表情俏皮优雅），穿着完全相同的上传服装（合身，设计、颜色、风格、形状完全相同， 面料，细节），还有猫耳带、黑色蝴蝶结、白色长袜，调皮地坐在温馨咖啡馆的木质吧台上，背景中模糊的瓶子、酒杯和酒吧工具，旁边挂着一个小米色手提包。那女人显然是成年人，没有孩子般的特征。柔和的自然光线，可爱且统一的时尚展示，画面之间没有重叠，服装百分百忠于上传的照片。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10821_0.jpg" width="600" alt="复古萌系穿搭墙 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10821_1.jpg" width="600" alt="复古萌系穿搭墙 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10821_2.jpg" width="600" alt="复古萌系穿搭墙 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10821_3.jpg" width="600" alt="复古萌系穿搭墙 - Image 4">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 77: 金发少女晨光私房
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一位可爱、纯真的年轻金发女性舒适地坐在铺设整齐的床上，姿态放松自然，双腿微曲，双肩柔软舒展。一头柔顺飘逸的金色长发，造型为自然的松散波浪，质感丝滑，泛着微妙的光泽，几缕发丝轻柔地垂在脸庞。清澈的蓝色眼睛闪烁着温柔的光芒，睫毛纤长自然，眉毛精致，皮肤白皙光滑，透着健康的红润，脸颊上泛着淡淡的腮红，双唇呈浅粉色，淡雅的裸…
+
+#### 📝 提示词
+
+```
+一位可爱、纯真的年轻金发女性舒适地坐在铺设整齐的床上，姿态放松自然，双腿微曲，双肩柔软舒展。一头柔顺飘逸的金色长发，造型为自然的松散波浪，质感丝滑，泛着微妙的光泽，几缕发丝轻柔地垂在脸庞。清澈的蓝色眼睛闪烁着温柔的光芒，睫毛纤长自然，眉毛精致，皮肤白皙光滑，透着健康的红润，脸颊上泛着淡淡的腮红，双唇呈浅粉色，淡雅的裸妆衬托出她青春的容颜。平静、甜美、安详的表情流露出温暖与纯真。 她身穿一件干净的白色短袖棉质衬衫，面料轻盈，在腰间随意打了个结，形成自然的褶皱，搭配浅色高腰牛仔裤，版型休闲，牛仔布料质感逼真，可见缝线和接缝，时尚而不失简约。 明亮舒适的卧室内部充满柔和的自然光线，以白色和米色为主色调，装饰简约现代，枕头摆放整齐，床单柔软，浅色木质床架和家具，旁边一扇大窗户，薄纱窗帘轻柔地散射着阳光。温暖的清晨或傍晚阳光洒入室内，在她头发和皮肤上形成柔和的高光，投下轻柔的阴影，营造出宁静而亲密的氛围，展现出一种平静的生活方式。 照片级真实感，超高细节，皮肤纹理细节丰富，可见自然的毛孔和柔软度，发丝逼真，富有层次感和蓬松感，面料纹理精准，色彩真实自然。使用 Canon 单反相机，50mm f/1.8 镜头拍摄，景深较浅，背景散景柔和自然，焦点清晰地落在眼睛和面部，仅使用自然光，无人工闪光灯。柔和的电影感但又真实自然的色彩分级，生活方式编辑摄影风格，干净平衡的构图，垂直构图，逼真的透视，专业的摄影品质。 --ar 3:4 --stylize 250 --v 6 --q 2
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_18715_0.jpg" width="600" alt="金发少女晨光私房 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 78: 蓝衣少女都市独影
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+Prompt 1: 一位年轻女性身穿亮蓝色羽绒服，静静地站在熙熙攘攘的城市人群中央，眼神与镜头强烈对视，景深较浅，周围行人模糊不清，城市背景中有交通灯和高楼大厦，冷色调，自然肤色，柔和的阴天光线，85mm 镜头，f/1.8，高细节，主体对焦锐利，动态运动模糊，编辑摄影，8k。 —— Prompt 2: 俯视电影镜头，…
+
+#### 📝 提示词
+
+```
+Prompt 1: 一位年轻女性身穿亮蓝色羽绒服，静静地站在熙熙攘攘的城市人群中央，眼神与镜头强烈对视，景深较浅，周围行人模糊不清，城市背景中有交通灯和高楼大厦，冷色调，自然肤色，柔和的阴天光线，85mm 镜头，f/1.8，高细节，主体对焦锐利，动态运动模糊，编辑摄影，8k。 —— Prompt 2: 俯视电影镜头，一位年轻女性身穿蓝色羽绒服，静静地站在拥挤的城市人行横道上，周围人群快速移动，形成圆形运动模糊效果，戏剧性的都市氛围，主体强烈突出，面部对焦锐利，柔和漫射的日光，冷色调，街头摄影风格，动态构图，高细节，35mm 镜头，长曝光效果，逼真皮肤纹理，8k。 —— Prompt 3: 一位年轻女性身穿钴蓝色羽绒服，独自站在快速移动的人群中，周围是长曝光的运动模糊，下方可见斑马线，忧郁的表情，微风轻拂发丝，电影级色彩分级，冷蓝色调，高对比度，主体对焦锐利，背景有运动条纹，50mm 镜头，f/2.0，专业编辑摄影，超现实，8k 分辨率。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_20994_0.jpg" width="600" alt="蓝衣少女都市独影 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 79: 复古屏幕迷人自拍
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一张逼真的自拍照片，显示在黑暗房间里的复古阴极射线管显示器上。根据输入参考图，这位女性坐在电脑椅上，身体前倾，带着迷人且调情的表情对镜头眨眼。她戴着和参考中的眼镜和发型一样。CRT屏幕显示扫描线、荧光粉晕、柔和柔和的粉色光芒，以及Mac OS 2000年代初的桌面界面。屏幕上的照片美学具有真实的2000年代风格，强烈…
+
+#### 📝 提示词
+
+```
+一张逼真的自拍照片，显示在黑暗房间里的复古阴极射线管显示器上。根据输入参考图，这位女性坐在电脑椅上，身体前倾，带着迷人且调情的表情对镜头眨眼。她戴着和参考中的眼镜和发型一样。CRT屏幕显示扫描线、荧光粉晕、柔和柔和的粉色光芒，以及Mac OS 2000年代初的桌面界面。屏幕上的照片美学具有真实的2000年代风格，强烈的直射闪光灯照射她的脸庞，粉红色调和暖色调，高数字噪点，颗粒感，清晰的质感，以及强烈的闪光灯阴影。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05285_0.jpg" width="600" alt="复古屏幕迷人自拍 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 80: 九宫格电影感人像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+[版面与格式] 3x3格子编辑照片拼贴，一张9帧电影感的接触表，角色身份一致，高端杂志版面。[主题核心]一个穿着宽大深藏青色衬衫和象牙白裤子、赤脚、轻松真实、皮肤质感鲜艳、五官极其逼真的角色，头发凌乱松散。[姿势与叙述变化]这9张照片包括：极近的嘴唇特写与模糊的手部、眼睛凝视镜头的紧密裁剪、黑白人像下巴托拳头、过肩拍…
+
+#### 📝 提示词
+
+```
+[版面与格式] 3x3格子编辑照片拼贴，一张9帧电影感的接触表，角色身份一致，高端杂志版面。[主题核心]一个穿着宽大深藏青色衬衫和象牙白裤子、赤脚、轻松真实、皮肤质感鲜艳、五官极其逼真的角色，头发凌乱松散。[姿势与叙述变化]这9张照片包括：极近的嘴唇特写与模糊的手部、眼睛凝视镜头的紧密裁剪、黑白人像下巴托拳头、过肩拍摄配植物前景模糊的镜头、正面特写带淡色眼部、斜角肖像（脸部有头发）、手掌贴颌线的细节镜头、半身侧坐于低凳上的镜头， 带有一处裂痕的浓烈侧脸。[环境与光线]场景设定在一个现代柔软的城市阁楼，配有质感混凝土墙面、温暖的环境灯光、大面积的漫射窗光、柔和的阴影渐变、微妙的室内迷雾。[光学与质感]拍摄于{argument name=“lens 1” default=“35mm”}，{argument name=“lens 2” default=“50mm”}，{argument name=“lens 3” default=“85mm”}，混合光圈f/1.8至f/4.5，浅景深，柔和散景，细颗粒胶片，柔和的电影色彩调色，柔和对比，温暖的高光，讲故事摄影，视觉法医细节。——AR 1：1
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_11365_0.jpg" width="600" alt="九宫格电影感人像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 81: 健身房对镜自拍
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “元能力”：{ “质量”：“超写实” “分辨率”：“8k”， “aspect_ratio”：“16：9”， “风格”：“现代健身房镜自拍写实主义” “约束”：“严格的身份保护，不得从参考中更改面部特征或头发” }, “射击”： { “构图”：“镜子自拍，双重全身镜头，两人并排，背对镜头，完整倒影可见” “镜头”：…
+
+#### 📝 提示词
+
+```
+{
+  “元能力”：{
+    “质量”：“超写实”
+    “分辨率”：“8k”，
+    “aspect_ratio”：“16：9”，
+    “风格”：“现代健身房镜自拍写实主义”
+    “约束”：“严格的身份保护，不得从参考中更改面部特征或头发”
+  },
+  “射击”： {
+    “构图”：“镜子自拍，双重全身镜头，两人并排，背对镜头，完整倒影可见”
+    “镜头”：“轻微广角智能手机镜头”，
+    “相机”：“手持手机，镜子反射”，
+    “动态”：“静态照片”，
+    “颗粒感”：“细腻逼真的数字颗粒感”
+  },
+  “受试者”：{
+    “left_model”： {
+      “identity_lock”：真，
+      “体型”：“健美、曲线优美、运动型身材，腿部和臀部结实”
+      “头发”：“从参考中保留的自然颜色和风格”，
+      “服装”：“亮粉色长袖短款运动上衣，带有拇指孔，搭配高腰无缝粉色运动短裤，带有低调腰带标志，白色运动袜”
+      “姿势”：“手叉腰，放松自信的姿态，微微拱起，镜中能看到平静的表情”
+    },
+    “right_model”： {
+      “identity_lock”：真，
+      “体型”：“健美、曲线优美、运动型身材，腿部和臀部结实”
+      “头发”：“从参考中保留的自然颜色和风格”，
+      “服装”：“浅黄色露背式运动胸罩，细肩带，配套高腰无缝粉色运动短裤，白色运动袜”
+      “姿势”：“手叉腰，调皮自信的姿态，镜中隐约可见的表情”
+    }
+  },
+  “环境”：{
+    “地点”：“现代体育馆”，
+    “前景”：“深色橡胶体育地板”，
+    “中景”：“大型墙镜清晰地反射两个模型”，
+    “背景”：“专业健身器材被柔和模糊，天花板细节暴露”
+  },
+  “闪电”：{
+    “类型”：“昏暗的室内体育馆照明”，
+    “颜色”：“冷蓝色和紫色环境音调”，
+    “效果”：“皮肤和布料上的柔和高光，服装与背景之间的强烈对比”
+  },
+  “visual_style”： {
+    “Vibe”：“自信、充满活力的健身专题”
+    “detail_level”：“高度真实，反射准确，自然皮肤质感，逼真的面料弹性”
+  },
+  “negative_prompt”：“模糊、扭曲的镜子、改变的面容、改变的发色、额外的肢体、刺眼的闪光、卡通、动漫、水印、文字叠加、额外的人物”
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14047_0.jpg" width="600" alt="健身房对镜自拍 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 82: 凯旋门下时尚型男
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+巴黎极为细致的街头时尚肖像，凯旋门纪念碑主导背景。环境：巴黎标志性的广场，铺有鹅卵石地面，背后耸立着巨大的石拱纪念碑。服装：长款黑色剪裁外套，叠加深色衬衫和宽松的蓝色裤子。配饰：围在脖子上的超大号花纹羊毛围巾。道具：两根新鲜的法棍，用棕色纸包好，夹在一只胳膊下。姿势：男子微微转身，一只手臂搭在金属栏杆上，惊讶地望向一…
+
+#### 📝 提示词
+
+```
+巴黎极为细致的街头时尚肖像，凯旋门纪念碑主导背景。环境：巴黎标志性的广场，铺有鹅卵石地面，背后耸立着巨大的石拱纪念碑。服装：长款黑色剪裁外套，叠加深色衬衫和宽松的蓝色裤子。配饰：围在脖子上的超大号花纹羊毛围巾。道具：两根新鲜的法棍，用棕色纸包好，夹在一只胳膊下。姿势：男子微微转身，一只手臂搭在金属栏杆上，惊讶地望向一旁，仿佛注意到镜头外的什么。摄影角度：中长街头时尚肖像，捕捉主题和地标建筑。光线：明亮的自然光，带有巴黎户外编辑摄影典型的清晰阴影。超细致、电影感十足的街头时尚摄影，8K画质。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24654_0.jpg" width="600" alt="凯旋门下时尚型男 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 83: 海边金色微笑
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “id”：“img_2026_beach_01”， “标题”：“海边的金色微笑”， “类别”：“travel_lifestyle”， “描述”：“一位开朗的女性坐在明亮的热带海滩上，坐在木制秋千上自拍。她对着镜头温暖地微笑，手里拿着秋千的绳子。背景是柔软的白色沙滩、清澈的碧绿色海水、温柔的波浪，以及散落着蓬松云朵…
+
+#### 📝 提示词
+
+```
+{
+  “id”：“img_2026_beach_01”，
+  “标题”：“海边的金色微笑”，
+  “类别”：“travel_lifestyle”，
+  “描述”：“一位开朗的女性坐在明亮的热带海滩上，坐在木制秋千上自拍。她对着镜头温暖地微笑，手里拿着秋千的绳子。背景是柔软的白色沙滩、清澈的碧绿色海水、温柔的波浪，以及散落着蓬松云朵的鲜艳蓝天。远处可以看到一个人沿着海岸线走动。”
+  “主旨”：{
+    “性别”：“女性”
+    “表达式”：“happy_smile”，
+    “姿势”：“holding_swing_rope_selfie”，
+    “hair_style”：“tied_back”
+  },
+  “服装”：{
+    “类型”：“比基尼”，
+    “风格”：“two_piece”，
+    “颜色”：“light_pink”，
+    “模式”：“subtle_circular_print”
+  },
+  “环境”：{
+    “location_type”：“tropical_beach”，
+    “sand_color”：“白人”，
+    “water_color”：“turquoise_blue”，
+    “天空”：“bright_blue_with_clouds”，
+    “天气”：“晴朗”
+  },
+  “objects_present”： [
+    “wooden_swing”，
+    “swing_rope”，
+    “沙子”，
+    “ocean_waves”，
+    “云”
+  ],
+  “camera_details”： {
+    “角度”：“wide_angle”，
+    “shot_type”：“close_up_selfie”，
+    “灯光”：“natural_daylight”
+  },
+  “心情”：“relaxed_vacation_vibes”
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09520_0.jpg" width="600" alt="海边金色微笑 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 84: 夜闪斯拉夫模特
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一位拥有斯拉夫特征的女性模特夜间肖像：对称的脸庞、突出的颧骨、挺直的鼻子、锐利的下颌线和丰满的嘴唇。三分之三视角，一侧肩膀朝向镜头，直视镜头。非常长、完美直直的亮发披散在肩膀和背后，突出了轮廓。模特穿着一件黑色宽大皮夹克，外面有微微光泽，外面是高领上衣，头戴豹纹毛皮渔夫帽，背着轻便斜挎包。妆容无瑕。夜间拍摄：闪光灯强…
+
+#### 📝 提示词
+
+```
+一位拥有斯拉夫特征的女性模特夜间肖像：对称的脸庞、突出的颧骨、挺直的鼻子、锐利的下颌线和丰满的嘴唇。三分之三视角，一侧肩膀朝向镜头，直视镜头。非常长、完美直直的亮发披散在肩膀和背后，突出了轮廓。模特穿着一件黑色宽大皮夹克，外面有微微光泽，外面是高领上衣，头戴豹纹毛皮渔夫帽，背着轻便斜挎包。妆容无瑕。夜间拍摄：闪光灯强烈地突出面部，在皮肤和夹克上形成柔和的高光;背景保持昏暗，呈现现代建筑的剪影。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_26003_0.jpg" width="600" alt="夜闪斯拉夫模特 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 85: 森系型男户外写真
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ "prompt": "一张超逼真的户外生活方式抓拍照片，主体是我（使用我的面部参考，身份必须完全匹配）。拍摄角度略微抬高，相机位于视线水平上方，向下俯视。我静止地站立在郁郁葱葱的绿色森林中长满苔藓的崎岖石阶上。我的身体与相机呈 20-30 度角，肩膀放松，姿势自然挺拔。我的头部略微向上倾斜，眼睛看向相机。表情平静…
+
+#### 📝 提示词
+
+```
+{ "prompt": "一张超逼真的户外生活方式抓拍照片，主体是我（使用我的面部参考，身份必须完全匹配）。拍摄角度略微抬高，相机位于视线水平上方，向下俯视。我静止地站立在郁郁葱葱的绿色森林中长满苔藓的崎岖石阶上。我的身体与相机呈 20-30 度角，肩膀放松，姿势自然挺拔。我的头部略微向上倾斜，眼睛看向相机。表情平静、自信、放松、中性——没有笑容，没有紧张。 外貌：头发与上传的参考照片完全一致——浓密、健康，具有自然的波浪和卷曲纹理，顶部中等长度，修剪整齐，两侧微妙渐变但未褪色。头发看起来像是为拍摄而精心造型的，使用了少量产品来增加层次感和质感，保持完全自然、不费力的外观，没有人工光泽或夸张的蓬松感。蓄有修剪整齐的浓密胡须和胡子。戴着黑色矩形墨镜，镜片颜色深。 服装包括一件柔和的 {argument name=\"sweatshirt color\" default=\"鼠尾草绿\"} 宽松运动衫，面料柔软，领口处可见一条细银链项链，一个黑色斜挎包斜跨胸前，以及黑色长裤（下半身部分可见）。 环境：户外森林场景，有茂密的绿色植物、苔藓和天然石阶。背景感觉有机、略带野性、未经触碰且真实。 光线：穿过树木的柔和自然日光，阴天或林间阴影光线，均匀漫射，没有刺眼的阴影或高光。肤色自然。 相机与真实感：数码单反照片真实感，50mm–85mm 镜头效果，中等景深，主体对焦锐利，背景柔和虚化。自然色彩，带有泥土般的绿色调。可见皮肤纹理和毛孔，无美颜修饰，无风格化。 情绪：不费力的阳刚之气，沉稳的自信，现代休闲时尚。感觉就像是高端户外时尚杂志的抓拍画面。", "negative_prompt": "低质量、卡通、插画、动漫、绘画、过度处理的皮肤、塑料脸、光滑皮肤、美颜修饰、电影光、戏剧光、影棚光、夸张姿势、夸张表情、微笑、T 台姿势、极端对比、色彩分级、模糊、噪点、颗粒感、水印、标志、文字、Instagram UI、界面元素", "style": "写实摄影", "camera": { "lens": "85mm", "aperture": "f/4", "angle": "略微抬高，向下俯视", "focus": "主体锐利，背景柔和" }, "lighting": "自然漫射日光", "quality": "超高真实感" }
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_20514_0.jpg" width="600" alt="森系型男户外写真 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 86: 西德妮海滩金属泳装大片
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ "prompt_specification": { "type": "超现实电影级时尚肖像", "subject": { "identity": { "name": "Sydney Sweeney", "constraint_strictness": "100%", "directives": [ "精确保留参考…
+
+#### 📝 提示词
+
+```
+{ "prompt_specification": { "type": "超现实电影级时尚肖像", "subject": { "identity": { "name": "Sydney Sweeney", "constraint_strictness": "100%", "directives": [ "精确保留参考图中的面部特征", "身体比例与参考图保持不变", "仅保留相同的面部特征", "面部无任何改动", "身体无任何重塑", "无风格化处理", "自然解剖结构必须保持准确" ] }, "physical_attributes": { "body_type": "身材丰满、比例自然的女性", "skin": { "tone": "自然肤色，与参考图完全匹配", "texture": "自然的皮肤纹理，毛孔可见", "highlights": "逼真的高光", "negative_constraint": "无塑料感皮肤" }, "hair": { "directive": "与参考图完全一致", "properties": ["颜色", "长度", "质地", "造型"] }, "expression": "自信地对着镜头撅嘴" }, "pose_and_action": { "stance": "站立姿势，平衡且符合解剖学", "limb_placement": { "arm_1": "轻柔地放在颈部", "arm_2": "搭在大腿上" }, "camera_view": "中低角度，四分之三正面视角" } }, "attire": { "garment": { "item": "连体泳衣式连衣裙", "color": "金属青铜色", "cut": ["高开衩侧边", "及大腿高开衩"], "fabric_physics": ["逼真的弹性", "褶皱", "光泽"] }, "details": { "chest_piece": { "item": "胸部金色胸针细节", "note": "仅改变颜色，不改变设计" }, "jewelry": { "items": ["金色手镯", "金色圈形耳环"], "properties": ["逼真的金属反光", "逼真的比例"] } } }, "environment": { "setting_type": "干净自然的海岸氛围", "composition_layers": { "foreground": "鹅卵石海滩（主体站立于此）", "mid_ground": [ "主体后方的碧绿海水", "捕捉下午晚些时候阳光的岩石海岸悬崖" ], "background/horizon": "地平线上的一艘小型远方帆船" } }, "photography_style": { "aesthetic": ["超细节写实主义", "专业编辑级效果", "高端时尚编辑级写实主义"], "quality_metric": "8K RAW 画质", "composition_ratio": "垂直 9:16", "lighting": { "source": "自然日光", "time": "温暖的下午晚些时候", "qualities": ["电影级灯光平衡", "受控的高光和阴影"] }, "optics_and_focus": { "lens_emulation": "电影级镜头模拟", "focus_type": "锐利对焦", "depth_of_field": "浅景深", "bokeh": "奶油般柔和的焦外虚化" } } } }
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15463_0.jpg" width="600" alt="西德妮海滩金属泳装大片 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 87: 霓虹都市男明星肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ "high_fidelity_creative_archive": { "project_name": "电影感男明星都市系列", "version": "2.0.0", "encoding": "UTF-8", "visual_data_segments": [ { "subject_analysis": {…
+
+#### 📝 提示词
+
+```
+{ "high_fidelity_creative_archive": { "project_name": "电影感男明星都市系列", "version": "2.0.0", "encoding": "UTF-8", "visual_data_segments": [ { "subject_analysis": { "primary_model": "Glen Powell", "physical_traits": { "hair": "波浪状浅棕/金色头发，发量蓬松，中分", "skin_tone": "白皙/自然肤色", "expression": "沉思而富有魅力" }, "fashion_inventory": { "attire": "优雅的黑色修身长袖高领毛衣搭配剪裁合体的黑色长裤", "handbag": "极简主义黑色皮革斜挎包，配金色五金件", "footwear": "经典黑色极简切尔西靴" } }, "composition_and_lighting": { "camera_perspective": "超近距离平视肖像", "depth_of_field": "景深极浅（模拟 f/1.4），奶油般散景", "lighting_sources": ["蓝色霓虹灯招牌", "粉色店面发光", "环境城市路灯"], "atmosphere": "忧郁、雨洗、精致" } }, { "subject_analysis": { "primary_model": "KJ Apa", "physical_traits": { "hair": "长发、蓬松的姜色/红色波浪发", "skin_tone": "瓷白色", "expression": "柔和、年轻、直视的目光" }, "fashion_inventory": { "attire": "休闲别致的超大款巧克力棕色卫衣搭配修身炭灰色长裤", "handbag": "鲜红色皮革单肩包，带结构化翻盖", "footwear": "深红色皮革切尔西靴" } }, "composition_and_lighting": { "camera_perspective": "超近距离居中特写肖像", "surface_texture": "湿润、反光的皮肤和头发细节", "lighting_sources": ["暖黄色路灯", "远处车辆的刹车灯", "发光的商店招牌"], "atmosphere": "温暖、怀旧、电影感" } }, { "subject_analysis": { "primary_model": "Oscar Isaac", "physical_traits": { "hair": "深棕色，自然蓬松的波浪发", "skin_tone": "暖橄榄色", "expression": "梦幻而富有艺术感" }, "fashion_inventory": { "attire": "宝蓝色圆领套头衫搭配米白/奶油色剪裁长裤", "handbag": "象牙色极简盒式斜挎包", "footwear": "干邑色/棕褐色皮革切尔西靴" } }, "composition_and_lighting": { "camera_perspective": "超近距离对称构图肖像", "background_details": ["模糊的高层摩天大楼", "发光的数字广告牌散景"], "lighting_sources": } } ] } }
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_18925_0.jpg" width="600" alt="霓虹都市男明星肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 88: 高端科技品牌横幅
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+高端科技品牌的宽幅营销横幅。 编辑风格的创作， 平衡的排版空间， 柔和的自然光， 平静、自信的语气， 设计得像杂志专题，而不是广告。
+
+#### 📝 提示词
+
+```
+高端科技品牌的宽幅营销横幅。
+编辑风格的创作，
+平衡的排版空间，
+柔和的自然光，
+平静、自信的语气，
+设计得像杂志专题，而不是广告。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13657_0.jpg" width="600" alt="高端科技品牌横幅 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 89: 光影隧道男模大片
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+全身电影式时尚肖像，一位男模站在黑暗的工业隧道或车库中央，双脚与肩同宽，踩在混凝土地板上，中间线微微分开，膝盖微微弯曲，身体放松但稳固，左臂垂下，右臂微微抬起，仿佛在中途，头低垂前倾，表情隐藏神秘， 穿着一件藏青色技术连帽夹克，哑光表面，宽松的短裤，裤子长度至小腿中部，黑色袜子，厚重的深色运动鞋，鞋底显露，反光白色未…
+
+#### 📝 提示词
+
+```
+全身电影式时尚肖像，一位男模站在黑暗的工业隧道或车库中央，双脚与肩同宽，踩在混凝土地板上，中间线微微分开，膝盖微微弯曲，身体放松但稳固，左臂垂下，右臂微微抬起，仿佛在中途，头低垂前倾，表情隐藏神秘， 穿着一件藏青色技术连帽夹克，哑光表面，宽松的短裤，裤子长度至小腿中部，黑色袜子，厚重的深色运动鞋，鞋底显露，反光白色未来感太阳镜保持得恰到好处，帽子拉起框住脸部，长时间曝光的动态模糊占据主导场景，浓密的水平青绿色、青绿色和浅白色光条从多个高度划过躯干和脸部， 由于主体快速横向移动和镜头平移导致的模糊，而身体核心和鞋子依然清晰可见，强烈的动能和节奏感，背景几乎是黑色，带有细腻的混凝土质感，环境细节极少，电影般的青绿色和冷蓝色调色，搭配冷光和深阴影，高对比度，逼真的面料运动和重量感，鞋底自然聚集的阴影， 模拟长时间曝光摄影美学，高端剪辑写实，无绘画效果，无故障伪影，无重复肢体，无面部畸形，物理解剖和比例——AR 4：5——原始
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13928_0.jpg" width="600" alt="光影隧道男模大片 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13928_1.jpg" width="600" alt="光影隧道男模大片 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 90: 街头时尚变古典油画
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+将{argument name=“subject” default=“modern street fashion”} 转为{argument name=“style” default=“classical oil paintings”}。17世纪肖像美学，{论元名称=“细节”默认=“逼真的织物和光线”}。
+
+#### 📝 提示词
+
+```
+将{argument name=“subject” default=“modern street fashion”} 转为{argument name=“style” default=“classical oil paintings”}。17世纪肖像美学，{论元名称=“细节”默认=“逼真的织物和光线”}。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14273_0.jpg" width="600" alt="街头时尚变古典油画 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14273_1.jpg" width="600" alt="街头时尚变古典油画 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14273_2.jpg" width="600" alt="街头时尚变古典油画 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14273_3.jpg" width="600" alt="街头时尚变古典油画 - Image 4">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 91: 米开朗基罗审判图
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+ミケランジェロの 最後の審判みたいな絵を１枚出して！
+
+#### 📝 提示词
+
+```
+ミケランジェロの
+最後の審判みたいな絵を１枚出して！
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13135_0.jpg" width="600" alt="米开朗基罗审判图 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13135_1.jpg" width="600" alt="米开朗基罗审判图 - Image 2">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 92: 酒店走廊专注看手机
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一张中等全景，垂直拍摄，从头顶到大腿下方的THE_SUBJECT。THE_SUBJECT侧面居中，准确还原了THE_SUBJECT的面部特征、发型、肤色、体型比例及整体外观，完全符合参考图中所描绘的样子。THE_SUBJECT呈现出一种沉着、轻柔专注的中性表情和自然放松的静止姿势。THE_SUBJECT低头看着双手握…
+
+#### 📝 提示词
+
+```
+一张中等全景，垂直拍摄，从头顶到大腿下方的THE_SUBJECT。THE_SUBJECT侧面居中，准确还原了THE_SUBJECT的面部特征、发型、肤色、体型比例及整体外观，完全符合参考图中所描绘的样子。THE_SUBJECT呈现出一种沉着、轻柔专注的中性表情和自然放松的静止姿势。THE_SUBJECT低头看着双手握着的智能手机。
+
+场景设定在一个干净高档的室内——一座昏暗的现代走廊，位于一家豪华酒店，拥有现代装潢、时尚的墙壁和铺着地毯的地板——柔和的室内暖色调营造出土色调、去饱和的色调和温暖的色调。视觉风格为当代时尚摄影，极简简洁;浅景深并带有轻微散景;THE_SUBJECT头发和脸上柔和温暖的挑染;整体氛围既精致又自然。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10214_0.jpg" width="600" alt="酒店走廊专注看手机 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 93: 探索大气深度之美
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+探索Nano Banana Pro中的大气深度。鲜艳的橙色头发与暗淡的银色草地形成了令人难忘的美丽电影画面。👘✨
+
+#### 📝 提示词
+
+```
+探索Nano Banana Pro中的大气深度。鲜艳的橙色头发与暗淡的银色草地形成了令人难忘的美丽电影画面。👘✨
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13899_0.jpg" width="600" alt="探索大气深度之美 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 94: 咖啡馆里的阳光女孩
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ "scene": "室内咖啡馆的休闲生活肖像照", "subject": { "character": "一位年轻女性，神态友善、放松", "face": { "structure": "椭圆形脸，颧骨突出，酒窝明显", "skin": "晒黑的肤色，光滑，有光泽", "eyes": { "shape": "杏仁…
+
+#### 📝 提示词
+
+```
+{ "scene": "室内咖啡馆的休闲生活肖像照", "subject": { "character": "一位年轻女性，神态友善、放松", "face": { "structure": "椭圆形脸，颧骨突出，酒窝明显", "skin": "晒黑的肤色，光滑，有光泽", "eyes": { "shape": "杏仁状", "color": "深棕色", "expression": "眼神直接，引人入胜" }, "mouth": { "lips": "自然粉色，轻轻微笑" }, "makeup": "自然的“裸妆”效果，淡腮红，眉毛修整得体" }, "hair": { "color": "深棕色至黑色", "length": "齐肩短发 (lob)", "texture": "直发，略带蓬松感", "style": "随意散落，额头有稀疏的刘海", "shine": "健康，略带光泽" }, "accessories": { "necklace": "细金链，带心形吊坠", "earrings": "小银色或金色耳环", "bracelets": "双腕戴有细金属手链", "rings": "手指戴有简约戒指" } }, "pose": { "overall": "休闲坐姿，身体略微向后靠在椅子上", "position": { "base": "坐在木椅上", "orientation": "面向前方，正对镜头" }, "torso": { "direction": "正面", "posture": "放松但挺直" }, "arms": { "position": "右臂拿着吸管/饮料，左臂放在桌子附近", "other": "在胸部高度拿着一杯冰饮" }, "legs": { "position": "不对称；右腿弯曲，膝盖抬起，左腿向下伸展", "visible": "双腿穿着紧身衣物，完全可见" }, "head": { "turn": "正对前方", "expression": "柔和、自信的微笑" } }, "outfit": { "activewear": { "type": "无袖连体衣 / 连身裤", "color": "米色 / 裸色", "style": "运动休闲风", "details": { "top": "V 领，无袖", "fit": "修身，紧身", "material": "罗纹或光滑弹力面料" } }, "footwear": { "type": "运动鞋", "style": "灰色运动跑鞋 (New Balance 款式)", "socks": "白色罗纹中筒袜" } }, "body": { "type": "健美，苗条", "skin": "晒黑的肤色" }, "environment": { "location": "咖啡店内部", "furniture": { "table": "圆形木桌，带板条底座", "chair": "带简约靠背的木椅" }, "objects": { "drink": "一杯冰镇的 {argument name=\"drink type\" default=\"抹茶拿铁\"}，配玻璃吸管", "bag": "桌上放着一个 Louis Vuitton Monogram Speedy 手袋", "sunglasses": "桌上放着黑色边框太阳镜", "coaster": "小木盘/杯垫" }, "background": { "people": "其他桌子旁坐着模糊的人影", "floor": "混凝土或石砖地面" } } }
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_21845_0.jpg" width="600" alt="咖啡馆里的阳光女孩 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 95: 指尖上的迷你自己
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “目标”：“创作一幅超写实的影棚肖像，将照片写实主义与异想天开的3D卡通微缩人物相结合。” "PersonaDetails": { “主要科目”：{ “类型”: “年轻男子” “外貌”： { “头发”：“浅棕色头发，梳理整齐”， “面部毛发”：“修剪整齐的胡须”， “皮肤”：“逼真自然的纹理” }, 表情：温柔温…
+
+#### 📝 提示词
+
+```
+{
+“目标”：“创作一幅超写实的影棚肖像，将照片写实主义与异想天开的3D卡通微缩人物相结合。”
+"PersonaDetails": {
+“主要科目”：{
+“类型”: “年轻男子”
+“外貌”： {
+“头发”：“浅棕色头发，梳理整齐”，
+“面部毛发”：“修剪整齐的胡须”，
+“皮肤”：“逼真自然的纹理”
+},
+表情：温柔温暖的微笑
+“凝视”：“看着他指尖上的微型人物”，
+衣橱：蓝色T恤
+},
+“第二学科”：{
+“类型”：“该男子的微型3D卡通版本”
+“比例尺”：“微型，置于指尖之上”，
+“风格”：“皮克斯风格的3D角色设计”，
+“比例”：“夸张的可爱比例”，
+“特征”： {
+“眼睛”：“大而有神”，
+“表情”：“友好、俏皮的姿势”
+},
+“一致性”：“与主体发型和服装相匹配”
+}
+},
+“作品”： {
+“构图”：“特写影棚肖像”，
+“对焦”：“两张脸都实现了超清晰对焦”，
+“景深”: “浅景深，背景柔和虚化”
+“平衡”：“简洁、居中的构图，强调互动”
+},
+"灯光和氛围": {
+“照明风格”: “电影柔和的影棚照明”，
+“亮点”：“在皮肤和微缩人物上添加柔和的高光”，
+“背景”：“深色中性背景”，
+“氛围”：“现代、奇趣、温暖”
+},
+“艺术指导”：{
+“StyleFusion”：[
+“照片级写实人物肖像”
+“皮克斯风格的3D角色渲染”
+],
+“细节级别”：“高细节，纹理清晰”，
+“写实平衡”： “写实的人物与风格化的微缩模型相结合”
+},
+“摄影风格”：{
+“类型”：“专业影棚人像摄影”
+“镜头视角”：“85mm镜头视角”，
+“图像质量”：“高分辨率，超清晰”
+},
+"ColorAndTone": {
+“调色板”：“柔和、现代的自然肤色”
+“对比度”： “均衡的对比度，平滑的色调过渡”
+},
+"否定提示": [
+“卡通人物”，
+“恐怖谷效应”
+“刺眼的灯光”，
+“色彩过饱和”，
+“模糊的脸”，
+“低细节”，
+“杂乱的构图”
+],
+"ResponseFormat": {
+“类型”：“单张图片”，
+“方向”：“竖屏”，
+宽高比：2:3
+}
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19654_0.jpeg" width="600" alt="指尖上的迷你自己 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 96: 星光大道黄金时刻
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ “提示”：“一张从正上方拍摄的高角度特写肖像照片，捕捉到女演员{argument name=”actor name“ default=”Sydney Sweeney“}直视天空，表情柔和中性。她留着长长的及肩棕色马尾，皮肤白皙，鼻子、脸颊和额头上有明显的天然雀斑。她浅棕色的眼睛配着长长的黑睫毛，与她直接对视。她穿…
+
+#### 📝 提示词
+
+```
+{
+  “提示”：“一张从正上方拍摄的高角度特写肖像照片，捕捉到女演员{argument name=”actor name“ default=”Sydney Sweeney“}直视天空，表情柔和中性。她留着长长的及肩棕色马尾，皮肤白皙，鼻子、脸颊和额头上有明显的天然雀斑。她浅棕色的眼睛配着长长的黑睫毛，与她直接对视。她穿着粉色露肩无袖上衣，带有荷叶边细节，深V领，手指上戴着多枚金色和钻戒，戴着小巧的金色圈形耳环，以及一条镶嵌红宝石吊坠的金链项链。她双手放在膝盖上，跪在洛杉矶的混凝土星光大道上，地上可见一颗星星。柔和温暖的金色时光在人行道上投下斜影。这张照片具有自然、亲密、坦率的感觉，带有社交媒体美学。”
+  “negative_prompt”：“室内，摄影棚灯光，浓妆，黑发，侧身，全身，阴影强烈”，
+  “风格”：“自然人像摄影、户外黄金时段、亲密特写、社交媒体美学”
+  “aspect_ratio”：“9：16”，
+  “相机”：{
+    “类型”：“智能手机人像或无反相机”，
+    “角度”：“高过头角俯视，俯视对象仰望”，
+    “构图”：“特写肖像，头部肩膀和手部可见”
+  },
+  “闪电”：{
+    “类型”：“自然黄金时光”，
+    “品质”：“温暖柔和的午后阳光，斜线在混凝土上投下柔和的阴影”
+    “氛围”：“温暖的户外自然光，亲密的氛围”
+  },
+  “氛围”：“亲密、柔和、自然、坦率、温暖、温柔”，
+  “color_palette”：“长直黑色，紫色服装，金饰点缀，温暖的肤色，灰色混凝土，自然雀斑色调”
+  “subject_features”： {
+    “头发”：“长黑色直肩，柔和波浪，中分，自然质地”，
+    “皮肤”：“白皙，鼻颊和额头上自然有雀斑，阳光亲吻”
+    “眼睛”：“浅蓝色，大眼，直视镜头，长长的黑睫毛”
+    “唇”：“红紫，柔和丰满的形状”
+    “眉毛”：“自然深棕色，修整得体，柔和的足弓”
+    “表情”：“柔和中性、亲密、略带嘟嘴、直接对视”
+    “雀斑”：“鼻梁、脸颊、额头上自然散布的雀斑”
+  },
+  “配件”：{
+    “穿孔”：“肚子上的小银环”，
+    “耳环”：“小钻石螺旋环形耳环”，
+    “戒指”：“多枚金钻叠加戒指，双手和手指上叠加戒指”，
+    “项链”：“精致的金链项链，配有骷髅吊坠”
+  },
+  “服装”：{
+    “上衣”：“浅粉色露肩无袖上衣，罗纹纹理，袖口有荷叶边细节，露肩”，
+    “bottom”：“短牛仔迷你裙”
+  },
+  “姿势”：{
+    “姿势”：“坐在洛杉矶星光大道的地面上，地上有金星贵宾”，
+    “双手”：“两人都放在跪地上”，
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00810_0.jpg" width="600" alt="星光大道黄金时刻 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00810_1.jpg" width="600" alt="星光大道黄金时刻 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00810_2.jpg" width="600" alt="星光大道黄金时刻 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00810_3.jpg" width="600" alt="星光大道黄金时刻 - Image 4">
+</div>
+
+##### Image 5
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00810_4.jpg" width="600" alt="星光大道黄金时刻 - Image 5">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 97: 纸翼天使祈和平
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一个带着纸翅膀的小天使形象仰望着附近一颗金色手绘的星星。文本：“地球和平？”
+
+#### 📝 提示词
+
+```
+一个带着纸翅膀的小天使形象仰望着附近一颗金色手绘的星星。文本：“地球和平？”
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14069_0.jpg" width="600" alt="纸翼天使祈和平 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 98: 街头涂鸦肖像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+大胆的街头艺术风格肖像，描绘了一位{argument name=“subject” default=“五官锐利的年轻男子，短发黑发”}，3/4角度（略微朝向镜头），头微微仰向镜头，自信而深思的表情，穿着{argument name=“clothing” default=“hoodie”}，配饰极简，上半身构图干净利落…
+
+#### 📝 提示词
+
+```
+大胆的街头艺术风格肖像，描绘了一位{argument name=“subject” default=“五官锐利的年轻男子，短发黑发”}，3/4角度（略微朝向镜头），头微微仰向镜头，自信而深思的表情，穿着{argument name=“clothing” default=“hoodie”}，配饰极简，上半身构图干净利落，无环境干扰， 周围环绕着动态的涂鸦元素、喷漆纹理、涂鸦、箭头和动态线条，层叠的模板技法，带有油漆滴落和粗糙边缘，色彩调色板为{argument name=“colors”默认=“黑色、米白色、烧橙色和微妙的蓝色点缀”}，强烈的对比和城市活力，逼真的面部表情被风格化叠加保护，粗犷的海报设计带有原始质感和深度， 超细致的面部，清晰的对焦，高分辨率，没有照片写实，仅有插画风格
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05735_0.jpg" width="600" alt="街头涂鸦肖像 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 99: 夏日阳台自拍特写
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+{ "subject": { "description": "一位皮肤白皙、有明显晒痕的年轻女性", "hair": "金色长直发，自然发色，向后梳成一个高高的、略显凌乱的发髻，看起来湿润或向后梳理，发际线附近有一些松散的发丝", "eyes": "杏仁状的榛绿色眼睛，目光直视", "skin": "白皙，浅古铜色晒…
+
+#### 📝 提示词
+
+```
+{ "subject": { "description": "一位皮肤白皙、有明显晒痕的年轻女性", "hair": "金色长直发，自然发色，向后梳成一个高高的、略显凌乱的发髻，看起来湿润或向后梳理，发际线附近有一些松散的发丝", "eyes": "杏仁状的榛绿色眼睛，目光直视", "skin": "白皙，浅古铜色晒黑肤色，胸部上方和肩部有明显、清晰的白色晒痕（吊带痕迹），可见微红色底调，表明近期曾晒伤，皮肤有光泽，暗示出汗或自然油脂，毛孔和皮肤瑕疵清晰可见", "features": "丰满、有光泽的粉色嘴唇微张，浓密的眉毛，下颌线分明", "clothing": "黑色无肩带抹胸上衣，紧身，位置较低，露出胸部", "jewelry": "右手腕戴银色手链，细银项链配小吊坠，小银圈耳环", "anatomy": "胸部非常丰满、沉重，明显受重力和抹胸挤压影响，乳沟突出，组织分布自然柔软，晒痕清晰勾勒出胸部轮廓" }, "pose": { "type": "高角度自拍特写", "head": "头部略微向右倾斜，正对镜头", "arms": "右臂抬起，手肘在画面外，手触碰头后部/发髻；左臂向下伸出画面外", "body_orientation": "上半身朝前，略微倾向镜头", "expression": "自信，眼神直接接触，略带魅惑，嘴巴放松微张" }, "environment": { "location": "阳台或门廊外部", "background": "白色窗框，带有水平玻璃百叶窗（可调节叶片），玻璃后面是深色纱窗，最右侧是绿色油漆墙壁或百叶窗的部分视图", "details": "百叶窗的建筑线条在主体人物后方形成水平图案" }, "camera": { "perspective": "高角度自拍视角（相机高于视线水平）", "shot_type": "特写，胸部以上半身照", "focal_length": "广角（相当于 24mm-28mm），智能手机前置摄像头常见焦段", "depth_of_field": "景深较深，面部和后面的窗户百叶窗都相对清晰", "framing": "头部顶部略微裁剪，胸部在画面下方中央前景突出" }, "lighting": { "source": "自然日光，漫射", "direction": "正面，略微从上方照射", "quality": "柔和但清晰，在前额、鼻梁和胸部上部曲线处形成高光", "shadows": "下巴和鼻子下方有柔和阴影，乳沟和锁骨区域有自然阴影" }, "mood_and_expression": { "mood": "随性，夏日，自信，直接", "expression": "中性到略带诱惑，眼神专注" }, "style_and_realism": { "style": "原始、未经过滤的智能手机摄影风格", "realism": "超真实的皮肤纹理，准确描绘晒伤和晒痕，无修图，高度还原自然" } }
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_21099_0.jpg" width="600" alt="夏日阳台自拍特写 - Image 1">
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 100: 糖果鸽子插画
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一幅色彩鲜艳的插画，描绘了一只巨大的光滑{argument name=“candy” default=“lollipop”}，插在地上，{argument name=“bird count” default=“three”} 丰满的{argument name=“bird type” default=“pigeons…
+
+#### 📝 提示词
+
+```
+一幅色彩鲜艳的插画，描绘了一只巨大的光滑{argument name=“candy” default=“lollipop”}，插在地上，{argument name=“bird count” default=“three”} 丰满的{argument name=“bird type” default=“pigeons”} 顽皮地栖息在上面，每只鸽子姿势略有不同，背景简单柔和，奇幻卡通风格，线条干净，细节丰富，灯光明亮欢快
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14028_0.jpg" width="600" alt="糖果鸽子插画 - Image 1">
 </div>
 
 **[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
@@ -4117,6 +4160,6 @@ geminiのnano bananaで柵を消してもらいました。
 
 **[🌐 在网页图库中查看](https://prompthub.gokuscraper.com)** • **[⭐ 给仓库点星](https://github.com/goku-open/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026年8月18日星期二 UTC 00:36:40</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026年8月19日星期三 UTC 00:36:51</sub>
 
 </div>
