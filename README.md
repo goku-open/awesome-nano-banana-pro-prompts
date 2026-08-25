@@ -50,25 +50,25 @@ Contains 26,657+ Nano Banana Pro prompts and generated images, suitable for batc
 | Metric | Count |
 |--------|-------|
 | 📝 Total Prompts | **26657** |
-| 🔄 Last Updated | **Monday, August 24, 2026 at 12:38:33 AM UTC** |
+| 🔄 Last Updated | **Tuesday, August 25, 2026 at 12:37:52 AM UTC** |
 
 </div>
 
 ---
 ## 📋 All Prompts
 
-### No. 1: Cinematic Family Breakfast ASMR
+### No. 1: Icy Borjomi Premium Commercial Shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A cinematic scene of enjoying breakfast with parents at the breakfast table. Her adorable expression as she cracks a crispy toast and smiles happily, or the he…
+A hyper-realistic commercial product photo shows a chilled transparent glass mineral water bottle labeled "Borjomi 1890," vertically centered inside a narrow i…
 
 #### 📝 Prompt
 
 ```
-A cinematic scene of enjoying breakfast with parents at the breakfast table. Her adorable expression as she cracks a crispy toast and smiles happily, or the heartwarming moment of toasting with a mug. The sounds of chairs, chewing, and the pleasant sound of cups ringing echo.
+A hyper-realistic commercial product photo shows a chilled transparent glass mineral water bottle labeled "Borjomi 1890," vertically centered inside a narrow ice cave carved from dense snow. The water bottle is partially embedded and surrounded by shattered ice blocks and powdery frost with irregular crystalline textures. The glass surface is covered with fine condensation droplets and a slight frost haze, while the cap is metallic teal with a soft mirror highlight. Clear labels printed in white, red, green, and dark blue fonts and badges. Light streams from above, cold and directional, creating sharp highlights on the ice edge and casting soft shadows through the snow cracks. The background is completely filled with cold textures, presenting pale blue, white, and gray tones, with no visible horizon. The composition is compact and symmetrical, with the water bottle occupying most of the image, presenting macro-level details. The depth of field is relatively shallow, giving it an ultra-clean studio realism, creating an aesthetic effect reminiscent of a cool, refreshing high-end beverage commercial. It offers high contrast, photo-level realism, and cinematic clarity.
 ```
 
 #### 🖼️ Generated Images
@@ -76,35 +76,70 @@ A cinematic scene of enjoying breakfast with parents at the breakfast table. Her
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08548_0.jpg" width="600" alt="Cinematic Family Breakfast ASMR - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_16852_0.jpg" width="600" alt="Icy Borjomi Premium Commercial Shot - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 2: Upscale Nightlife Fashion Collage
+### No. 2: Cozy Autumn Bedroom Fashion Look
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-{ "scene\_type": "nightlife\_lifestyle", "setting": { "location": "outdoor restaurant or lounge patio", "time": "night", "environment": "urban, intimate, upsca…
+{ "subject": { "person": { "pose": "Lying prone on a bed, propped up on elbows, chin resting on one hand with a finger touching the lower lip", "clothing": [ {…
 
 #### 📝 Prompt
 
 ```
-{ "scene\_type": "nightlife\_lifestyle", "setting": { "location": "outdoor restaurant or lounge patio", "time": "night", "environment": "urban, intimate, upscale", "lighting": "warm ambient lighting from patio heaters and string lights" }, "composition": { "format": "four-image collage", "layout": "2x2 grid", "continuity": "same subject, outfit, and location across all frames" }, "subject": { "type": "person in the reference image", "appearance": { "hair": { "color": "blonde", "length": "long", "style": "loose, softly waved" } }, "clothing": { "outerwear": "black leather jacket", "top": "black cut-out crop top", "bottom": "black fitted mini skirt" }, "expressions": [ "confident", "relaxed", "contemplative", "posed" ], "poses": [ "standing with wine glass", "seated holding wine glass", "leaning with hands near waist", "resting chin on hand" ] }, "objects": [ { "type": "wine\_glass", "content": "{argument name="drink color" default="red wine"}", "held": true }, { "type": "patio\_heater", "description": "tall outdoor gas heater emitting warm light" }, { "type": "met" 
-
-First, define the scene as a nighttime outdoor restaurant or lounge patio. The environment should feel urban, intimate, and premium. Use warm ambient lighting such as patio heaters and string lights to create a cozy yet luxurious night atmosphere.
-
-Next, make sure visual continuity is locked. Use the same subject, outfit, and location in all images. This consistency is what gives the final collage a professional, editorial feel.
-
-Style the subject in a full black nightlife outfit. A black leather jacket paired with a black cut-out crop top and a fitted black mini skirt works perfectly for a confident and modern look. The hair should be long, blonde, loose, and softly waved to maintain an effortless nightlife vibe.
-
-Across the four frames, vary the subject’s expressions and poses. One image can show the subject standing confidently while holding a glass of red wine. Another can be seated and relaxed with the wine glass in hand. A third pose can involve leaning slightly with hands near the waist for a composed look. The final frame can be more contemplative, with the subject resting their chin on their hand.
-
-When generated correctly, Nano Banana Pro will produce a high-end nightlife photo collage that feels cinematic, stylish, and social-media ready, suitable for fashion editorials, lifestyle branding, and premium AI visuals. Share your nightlife photo collages below!
+{
+  "subject": {
+    "person": {
+      "pose": "Lying prone on a bed, propped up on elbows, chin resting on one hand with a finger touching the lower lip",
+      "clothing": [
+        {
+          "item": "Oversized ribbed knit sweater",
+          "color": "{argument name="sweater color" default="Cream/Off-white"}",
+          "texture": "Vertical ribbed pattern"
+        },
+        {
+          "item": "Tight-fitting athletic shorts",
+          "color": "Dark brown"
+        },
+        {
+          "item": "Socks",
+          "color": "White"
+        }
+      ]
+    }
+  },
+  "setting": {
+    "location": "Bedroom",
+    "background_elements": [
+      {
+        "object": "Bed",
+        "details": "White comforter with soft wrinkles"
+      },
+      {
+        "object": "Closet doors",
+        "color": "Dark charcoal grey",
+        "type": "Sliding doors with circular silver handles"
+      },
+      {
+        "object": "Laundry",
+        "details": "Pile of folded or bunched clothes (jeans, white shirts, dark fabrics) sitting on the bed in the background"
+      }
+    ],
+    "lighting": "Natural, soft daylight coming from the side, creating gentle shadows on the face and clothing"
+  },
+  "composition": {
+    "angle": "Low-angle, close-up perspective",
+    "focus": "Sharp focus on the subject's face with a shallow depth of field blurring the background",
+    "orientation": "Vertical"
+  }
+}
 ```
 
 #### 🖼️ Generated Images
@@ -112,33 +147,28 @@ When generated correctly, Nano Banana Pro will produce a high-end nightlife phot
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13681_0.jpg" width="600" alt="Upscale Nightlife Fashion Collage - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10123_0.jpg" width="600" alt="Cozy Autumn Bedroom Fashion Look - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 3: Fanta Grape Splash
+### No. 3: Magical Midnight Garden
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-1️⃣ Fanta Grape Splash Prompt: High-energy commercial product photography of a purple soda can bursting open with fresh grapes exploding out, juicy grape splas…
+Scene: A magical garden at midnight with winding stone paths, climbing roses and tall hedges, a marble fountain softly lit by moonlight, small glowing insects…
 
 #### 📝 Prompt
 
 ```
-1️⃣ Fanta Grape Splash
-Prompt:
-High-energy commercial product photography of a purple soda can bursting open with fresh grapes exploding out, juicy grape splash and droplets frozen in motion, vibrant purple liquid splashing around the can, glossy grape textures, green grape leaf attached to the bunch, dramatic glowing purple background with sparkling particles, cinematic lighting, condensation on the can, ultra-detailed fruit textures, dynamic beverage advertisement style, 8K.
-2️⃣ Coca-Cola Peach Explosion
-Prompt:
-Cinematic beverage advertisement showing a red soda can torn open with fresh peaches and peach slices bursting out, bright juicy splash of peach soda, floating fruit pieces and droplets, glossy peach skin texture, green leaves around the fruit, glowing orange-red background with dramatic lighting, condensation on the can, high-energy splash effect, ultra-detailed commercial product photography, 8K.
-3️⃣ Sprite Lemon Splash
-Prompt:
-Refreshing soda advertisement featuring a green soda can ripped open with fresh lemons and lemon slices bursting out, fizzy lemon soda splashing dynamically around the can, bright yellow citrus juice droplets, mint leaves floating around, vibrant yellow-green gradient background, dramatic lighting and sparkling bubbles, condensation on the can, ultra-realistic beverage photography, high-energy splash effect, 8K.
+Scene:
+A magical garden at midnight with winding stone paths, climbing roses and tall hedges, a marble fountain softly lit by moonlight, small glowing insects drifting lazily through the air, and delicate night-blooming flowers opening beneath the calm silver sky.
+Style:
+Fantasy hand-drawn watercolor illustration style. Traditional watercolor rendering with visible pigment splashes, fluid paint diffusion, and softly blended tonal transitions. Delicate hand-illustrated linework with expressive drawn detailing and organic sketch-like contours. Soft, gentle color palette emphasizing airy tones and subtle saturation rather than strong contrast. Painterly layered watercolor textures combined with illustrative fantasy art aesthetics. Decorative, richly illustrated environments with numerous small background details integrated into the composition. Elegant full illustration treatment prioritizing handcrafted visual charm, artistic softness, and classic storybook-inspired fantasy rendering.
 ```
 
 #### 🖼️ Generated Images
@@ -146,51 +176,300 @@ Refreshing soda advertisement featuring a green soda can ripped open with fresh 
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07377_0.jpg" width="600" alt="Fanta Grape Splash - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13225_0.jpg" width="600" alt="Magical Midnight Garden - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 4: Wind-Kissed Portrait: Motion and Grace
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "type": "image_generation_prompt", "output_goal": "Create a cinematic close portrait where wind-driven hair and flowing fabric actively shape the moment. The…
+
+#### 📝 Prompt
+
+```
+{
+  "type": "image_generation_prompt",
+  "output_goal": "Create a cinematic close portrait where wind-driven hair and flowing fabric actively shape the moment. The scene must feel alive, captured mid-motion, with the face and hair as the emotional center.",
+  "subject": {
+    "face": "refined facial structure, sharp clarity, expressive eyes looking toward the viewer",
+    "expression": "soft yet intense, aware, present",
+    "skin": "natural tone with realistic texture, no artificial smoothing"
+  },
+  "hair": {
+    "style": "loose, natural hair",
+    "motion": "strong directional wind pushing hair forward and sideways",
+    "detail": "individual strands clearly visible, crossing near the eyes, cheek, and lips",
+    "priority": "hair flow must dominate the foreground and interact with the face"
+  },
+  "wardrobe": {
+    "dress": "{argument name="dress color" default="light blue"} embroidered gown with delicate floral details",
+    "dupatta": "sheer fabric sweeping across the frame",
+    "motion": "fabric pulled in the same wind direction as the hair, layered and dynamic"
+  },
+  "pose": {
+    "body": "mid-turn, graceful twist",
+    "head": "turned toward camera, close and intimate"
+  },
+  "environment": {
+    "setting": "elegant architectural exterior",
+    "background": "softly blurred, unobtrusive"
+  },
+  "lighting": {
+    "type": "natural daylight",
+    "quality": "soft cinematic highlights emphasizing hair strands and facial contours"
+  },
+  "camera": {
+    "framing": "tight mid-shot to close portrait",
+    "distance": "subject very close to camera",
+    "depth_of_field": "shallow, creamy separation"
+  },
+  "style": "cinematic poetic realism with dominant motion",
+  "negative_prompt": "calm hair, floating hair, static strands, distant framing, stiff pose, beauty filters, HDR, anime look"
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07785_0.jpg" width="600" alt="Wind-Kissed Portrait: Motion and Grace - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 5: Cozy Sunlit Portrait in Red Hoodie
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Ultra-realistic natural light portrait of a young woman with long wavy chestnut-brown hair, soft blue eyes, light natural makeup, and fair skin with subtle nat…
+
+#### 📝 Prompt
+
+```
+Ultra-realistic natural light portrait of a young woman with long wavy chestnut-brown hair, soft blue eyes, light natural makeup, and fair skin with subtle natural texture. She is wearing a bright red oversized hoodie slightly off one shoulder and small silver drop earrings. Gentle smile, relaxed expression, slight head tilt. Indoor setting with soft daylight coming from a window on the right, cozy modern bedroom background with patterned wallpaper and light curtains softly blurred. Warm neutral tones, shallow depth of field, 50mm lens, high detail skin texture, cinematic soft lighting, photorealistic, 4K resolution.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02047_0.jpg" width="600" alt="Cozy Sunlit Portrait in Red Hoodie - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 6: Emma Myers Beach Sunscreen Moment
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "subject": { "name": "Emma Myers", "occupation": "American actress", "notable_role": "Enid Sinclair from the Netflix series Wednesday", "pose": "Standing, ap…
+
+#### 📝 Prompt
+
+```
+{ "subject": { "name": "Emma Myers", "occupation": "American actress", "notable_role": "Enid Sinclair from the Netflix series Wednesday", "pose": "Standing, applying sunscreen on her forearm", "expression": "Unisex, calm", "hair": { "color": "Dark", "length": "Short", "style": "Disheveled, slightly damp, beach vibe" }, "attire": { "top": "Floral bikini top with pink, yellow, and green tones", "bottom": "Pure blue bikini bottoms" }, "skin": { "tone": "Bright white", "texture": "Realistic, visible pores and fine details", "highlights" : "My collarbone, shoulders, and cheekbones feel moist with a subtle sweat bead glow," "reacts_to_light": "Cinematic lighting" }, "action": "Applying sunscreen with a white bottle and blue cap; A thin sunscreen mark can be seen on the forearm" }, "environment": { "location": "Beach", "time_of_day": "Noon", "background": "Blue waves, soft blur (bokeh effect)", "lighting": "Bright, natural sunlight, high contrast" }, "composition": { "focus": "Centered subject, soft background blur", " mood": "Real, natural, casual summer moments", "orientation": "Vertical/Portrait", "dimensions": "512x1024 pixels", "aspect_ratio": "1:2" }, "style": { "realism": "Cinematic-grade, preserving natural skin texture", "energy": "Relaxed, intimate moments (contrasting with her 'wolf-like' character on screen)" } }
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15188_0.jpg" width="600" alt="Emma Myers Beach Sunscreen Moment - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 7: Bronze Swimsuit Coastal Fashion Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "prompt_specification": { "type": "Ultra-realistic cinematic fashion portrait", "subject": { "identity": { "name": "Billie Eilish", "constraint_strictness":…
+
+#### 📝 Prompt
+
+```
+{
+  "prompt_specification": {
+    "type": "Ultra-realistic cinematic fashion portrait",
+    "subject": {
+      "identity": {
+        "name": "Billie Eilish",
+        "constraint_strictness": "100%",
+        "directives": [
+          "Preserve exact facial identity from reference",
+          "Unchanged body proportions from reference",
+          "Same facial features only",
+          "No face alteration",
+          "No body reshaping",
+          "No stylization",
+          "Natural anatomy must remain accurate"
+        ]
+      },
+      "physical_attributes": {
+        "body_type": "Curvy woman with natural proportions",
+        "skin": {
+          "tone": "Natural, matching the reference",
+          "texture": "Natural skin texture with visible pores",
+          "highlights": "Realistic highlights",
+          "negative_constraint": "No plastic skin"
+        },
+        "hair": {
+          "directive": "Blonde, shoulder-length layered hair with bangs",
+          "properties": ["color", "length", "texture", "styling"]
+        },
+        "expression": "Soft, subtle, and relaxed smile looking directly at the camera"
+      },
+      "pose_and_action": {
+        "stance": "Standing facing forward, posture balanced and anatomically correct",
+        "limb_placement": {
+          "arm_1": "bent with hand resting confidently on her hip/waist",
+          "arm_2": "resting straight and naturally down by her side"
+        },
+        "camera_view": "Medium front-facing view"
+      }
+    },
+    "attire": {
+      "garment": {
+        "item": "One-piece swimsuit dress",
+        "color": "Metallic bronze",
+        "cut": ["high-cut sides", "thigh-high slit"],
+        "fabric_physics": ["realistic stretch", "folds", "sheen"]
+      },
+      "details": {
+        "chest_piece": {
+          "item": "Gold brooch detail gathering the fabric at the waist",
+          "note": "color change only, no design alteration"
+        },
+        "jewelry": {
+          "items": ["Gold bangles on wrists", "gold hoop earrings", "subtle rings"],
+          "properties": ["realistic metallic reflections", "realistic scale"]
+        }
+      }
+    },
+    "environment": {
+      "setting_type": "Clean natural coastal atmosphere",
+      "composition_layers": {
+        "foreground": "Pebbled beach (subject standing here)",
+        "mid_ground": [
+          "turquoise sea behind the subject",
+          "rocky coastal cliffs catching late afternoon light"
+        ],
+        "background/horizon": "small distant sailboat on the horizon"
+      }
+    },
+    "photography_style": {
+      "aesthetic": ["Hyper-detailed photorealism", "professional editorial finish", "high-end fashion editorial realism"],
+      "quality_metric": "8K RAW quality",
+      "composition_ratio": "Vertical 3:4",
+      "lighting": {
+        "source": "Natural daylight",
+        "time": "Warm late afternoon",
+        "qualities": ["cinematic lighting balance", "contr"
+      }
+    }
+  }
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03513_0.jpg" width="600" alt="Bronze Swimsuit Coastal Fashion Portrait - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07377_1.jpg" width="600" alt="Fanta Grape Splash - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07377_2.jpg" width="600" alt="Fanta Grape Splash - Image 3">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03513_1.jpg" width="600" alt="Bronze Swimsuit Coastal Fashion Portrait - Image 2">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 4: Summer Beach Bikini Golden Hour
+### No. 8: Sunlit Disco Vibes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-"A medium shot of a young woman with sun-kissed, glowing skin and wet, slicked-back dark hair. In one version, she is holding a translucent yellow spray bottle…
+{ "id": "img_001", "title": "Sunlit Disco Vibes", "category": "Fashion Photography", "description": "A stylish young woman with fair skin and red hair tied in…
 
 #### 📝 Prompt
 
 ```
-"A medium shot of a young woman with sun-kissed, glowing skin and wet, slicked-back dark hair. In one version, she is holding a translucent yellow spray bottle in one hand while grasping her damp hair with the other; in the second, she is looking directly at the camera with a playful expression, biting her lip.
-Attire & Accessories:
-
-Swimwear: A triangle bikini top featuring a blue, teal, and green paisley pattern with a delicate white crochet ruffled trim. A small silver coin-style pendant hangs from the center of the bikini.
-
-Jewelry: A classic strand of white pearls, medium-sized gold hoop earrings, and a tiny heart tattoo visible on her inner right arm.
- 
-Eyewear: Small, vintage-style thin-frame oval sunglasses with dark lenses.
-Setting & Lighting:
- 
-Environment: Standing in the clear, shallow turquoise water of a calm ocean.
- 
-Lighting: The warm, soft "golden hour" light of a sunset, creating a natural glow on the skin and reflecting off the ripples in the water.
- 
-Vibe: A casual, candid summer beach aesthetic with a "90s-inspired" fashion feel.
+{
+  "id": "img_001",
+  "title": "Sunlit Disco Vibes",
+  "category": "Fashion Photography",
+  "description": "A stylish young woman with fair skin and red hair tied in a high ponytail is kneeling on a concrete surface while holding a reflective silver disco ball. She is dressed in a red swimsuit with white trim and white sneakers. The vibrant green backdrop behind her creates a bold color contrast with her outfit. Bright natural sunlight casts defined shadows on the ground, enhancing the dramatic and modern aesthetic of the image.",
+  "subject": {
+    "gender": "female",
+    "hair_color": "red",
+    "hairstyle": "high ponytail",
+    "accessories": ["sunglasses"],
+    "outfit": {
+      "type": "swimsuit",
+      "color": "red",
+      "details": "white trim",
+      "footwear": "white sneakers"
+    }
+  },
+  "environment": {
+    "location_type": "outdoor",
+    "floor": "concrete",
+    "background": "bright green wall",
+    "props": ["silver disco ball"]
+  },
+  "lighting": {
+    "type": "natural sunlight",
+    "intensity": "bright",
+    "shadow_effect": "sharp and defined"
+  },
+  "composition": {
+    "camera_angle": "slightly elevated",
+    "focus": "subject and reflective disco ball",
+    "style": "modern, vibrant, high-contrast"
+  },
+  "mood": [
+    "confident",
+    "energetic",
+    "stylish",
+    "summer vibe",
+    "bold"
+  ],
+  "color_palette": {
+    "primary": "red",
+    "secondary": "green",
+    "accent": "silver",
+    "neutral": "white"
+  },
+  "resolution_type": "high quality digital photograph"
+}
 ```
 
 #### 🖼️ Generated Images
@@ -198,45 +477,380 @@ Vibe: A casual, candid summer beach aesthetic with a "90s-inspired" fashion feel
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08622_0.jpg" width="600" alt="Summer Beach Bikini Golden Hour - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09973_0.jpg" width="600" alt="Sunlit Disco Vibes - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08622_1.jpg" width="600" alt="Summer Beach Bikini Golden Hour - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09973_1.jpg" width="600" alt="Sunlit Disco Vibes - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 9: Confident Woman in Hangar with Cash-Filled Sports Car
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Ultra-realistic cinematic photo of a confident stylish woman standing inside a massive industrial aircraft hangar. Behind her is a white luxury sports car with…
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic photo of a confident stylish woman standing inside a massive industrial aircraft hangar. Behind her is a white luxury sports car with its trunk open, overflowing with stacks of cash that spill onto the concrete floor in a dramatic pile. A few bills float in the air as if caught by a breeze.
+The woman stands calmly beside the car with a powerful, confident pose, wearing dark sunglasses, a stylish {argument name="jacket color" default="green"} oversized jacket or sweater, wide-leg denim jeans, and boots, minimal jewelry, modern fashion look.
+Lighting is soft cinematic warehouse lighting with cool tones and subtle reflections on the polished floor. Background shows the huge metal hangar doors and industrial structure.
+Shot in high-end editorial photography style, ultra-realistic, 8K, shallow depth of field, dramatic composition, luxury lifestyle aesthetic, sharp details, cinematic color grading.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06828_0.jpg" width="600" alt="Confident Woman in Hangar with Cash-Filled Sports Car - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06828_1.jpg" width="600" alt="Confident Woman in Hangar with Cash-Filled Sports Car - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 10: Rose Selfie Romantic Elegance
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Reference image: conceptual variant. Recreate pose, framing, lighting, and overall mood as close as possible. A soft, elegant fashion selfie with romantic edit…
+
+#### 📝 Prompt
+
+```
+Reference image: conceptual variant. Recreate pose, framing, lighting, and overall mood as close as possible.
+
+A soft, elegant fashion selfie with romantic editorial aesthetics.
+
+Camera & framing:
+Vertical portrait format.
+Selfie.
+Front-facing camera.
+Camera held slightly above chest level.
+Arm visible at frame edge.
+Natural selfie perspective with minimal distortion.
+Upper-body framing: head, shoulders, upper torso.
+Close to medium distance.
+
+Pose & body language:
+Body angled slightly sideways.
+Shoulder subtly raised.
+Head gently tilted.
+Relaxed posture.
+Soft, feminine pose.
+
+Expression & gaze:
+Eyes looking directly at camera.
+Calm, confident gaze.
+Lips softly closed or slightly parted.
+Neutral, composed expression.
+Delicate, poised mood.
+
+Outfit:
+White halter-neck dress with black polka dots.
+Deep side cut exposing side torso.
+Light, flowing fabric.
+Smooth satin or silk texture.
+Elegant, minimal styling.
+
+Accessories:
+Pearl drop earrings.
+Minimal necklace.
+Dark manicure visible on fingers.
+No excessive jewelry.
+
+Hair:
+Side-parted.
+Natural volume at crown.
+Soft, smooth texture.
+Hair falling over one shoulder.
+
+Prop:
+Large bouquet of pale pink roses.
+Wrapped in white paper.
+Bouquet held close to body.
+Flowers occupy significant part of the frame.
+Soft pastel tones.
+
+Background & environment:
+Minimal indoor setting.
+Neutral beige and warm-toned walls.
+Vertical textured wall panel visible.
+Clean, modern interior.
+No clutter.
+
+Lighting:
+Soft indoor lighting.
+Warm neutral tones.
+Even illumination on face.
+No harsh shadows.
+No flash.
+Skin tones natural and smooth.
+
+Details & realism:
+Visible skin texture.
+Natural makeup finish.
+No heavy retouching.
+No beauty filter look.
+Subtle highlights on skin.
+Fabric texture clearly visible.
+
+Mood & aesthetic:
+Soft luxury.
+Romantic elegance.
+Gentle femininity.
+Pinterest / editorial selfie style.
+Calm, refined, intimate.
+
+Quality:
+Ultra-realistic photography.
+High resolution.
+Sharp focus on face.
+Clean depth of field.
+No cinematic effects.
+No stylization overlays.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23008_0.jpg" width="600" alt="Rose Selfie Romantic Elegance - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 11: Stylish Girl in Cozy Cafe
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Девушка сидит в кофейни стильной за столиком круглым Кресло велюровое темное Одета в голубом джемпере с замком до груди укороченный, обтягивающие белые леггинс…
+
+#### 📝 Prompt
+
+```
+Девушка сидит в кофейни стильной за столиком круглым 
+Кресло велюровое темное 
+Одета в голубом джемпере с замком до груди укороченный, обтягивающие белые леггинсы подчеркивают ее тело 
+На глазах черные тонкие очки с черными линзами 
+Волосы обьемные волны 
+Макияж с сиянием 
+Смотрит в сторону 
+Естественная поза 
+Освещение с затемнением
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23148_0.jpg" width="600" alt="Stylish Girl in Cozy Cafe - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 12: Woman Playing Chess with Panther
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Pose: woman playing chess across from a black panther seated by the table. Clothes: deep burgundy satin dress with plunging neckline, structured shoulders. Acc…
+
+#### 📝 Prompt
+
+```
+Pose: woman playing chess across from a black panther seated by the table. Clothes: deep burgundy satin dress with plunging neckline, structured shoulders. Accessories: diamond choker on the panther, metallic chess set. Background: minimalist studio, neutral tones. Lighting: clean cinematic light with reflective highlights. Mood: seductive power, elegance, mystery.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_26803_0.jpg" width="600" alt="Woman Playing Chess with Panther - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 13: Miniature Girl in Art Studio
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "subject": "A young girl with a cheerful smile sitting at a rustic wooden desk in an artist's studio. She wears a patterned wool sweater over a denim shirt."…
+
+#### 📝 Prompt
+
+```
+{
+  "subject": "A young girl with a cheerful smile sitting at a rustic wooden desk in an artist's studio. She wears a patterned wool sweater over a denim shirt.",
+  "illusion_effect": "A 3D miniature clay-like figurine of the same girl, wearing identical clothing, stands upright on a sketchbook on the desk, creating a 'pop-out' or 'living toy' effect.",
+  "environment": "Art studio filled with bookshelves, framed classical portraits, canvases, paint palettes, brushes in jars, and a metal desk lamp.",
+  "lighting": "Natural window light from the left side creating soft shadows; warm indoor ambient glow from the desk lamp.",
+  "camera_specs": {
+    "shot_type": "Eye-level medium shot",
+    "lens": "35mm",
+    "depth_of_field": "Shallow, with a soft blur on the background bookshelves",
+    "aesthetic": "Cinematic, cozy, high-detail texture"
+  },
+  "color_palette": "Earth tones, warm browns, muted blues, and vintage cream."
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07777_0.jpg" width="600" alt="Miniature Girl in Art Studio - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 14: Golden Hour Glow with Vibrant Red Hair
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+photorealistic portrait of a beautiful young woman in her early 20s with long, voluminous, wavy vibrant red hair cascading down her back and over her shoulders…
+
+#### 📝 Prompt
+
+```
+photorealistic portrait of a beautiful young woman in her early 20s with long, voluminous, wavy vibrant red hair cascading down her back and over her shoulders, fair smooth skin with subtle natural glow, bright blue eyes, soft friendly smile with closed lips, standing casually on a concrete sidewalk. She is posing confidently with her right arm raised and hand gently touching her hair, left arm relaxed by her side with fingers slightly curled. She wears a tight white strapless tube crop top that exposes her toned midriff and navel, paired with high-waisted light-wash blue denim shorts featuring distressed rips and frayed raw hems, showing her long smooth legs. She has a delicate silver ball-chain necklace with large bold capital letters spelling 'SADIE' centered on her chest, and multiple stacked pearl and gold beaded bracelets on her right wrist. Background shows a modern commercial building with large reflective glass windows, green ivy climbing the dark wall, lush green bushes in the foreground, a yellow fire hydrant to the right, and a parking lot with cars visible in the distance. Natural daylight, soft golden hour lighting with gentle shadows, highly detailed realistic skin texture, sharp focus, professional fashion photography style, 8k resolution, cinematic composition, vibrant colors, no text or watermarks
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03054_0.jpg" width="600" alt="Golden Hour Glow with Vibrant Red Hair - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 15: Golden Hour Cozy Indoor Selfie
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "task": "influencer_generation", "subject_reference": "Use the person provided in the input portrait", "scene_description": "A spontaneous, close-up selfie t…
+
+#### 📝 Prompt
+
+```
+{   "task": "influencer_generation",   "subject_reference": "Use the person provided in the input portrait",   "scene_description": "A spontaneous, close-up selfie taken indoors during the golden hour. The subject is sitting casually on the floor of a cozy, slightly messy apartment living space. They are wearing an oversized, comfortable knit sweater or hoodie. The expression is relaxed and authentic, looking directly into the lens.",   "style": {     "aesthetic": "Casual Snapshot, Accidental Renaissance, Low-Fidelity",     "lighting": "Strong directional light source creating dramatic shadows and highlights ('Duvarda Güneş'). Mixed natural light with soft, warm interior ambient light.",     "color_palette": "Warm, golden tones dominating the highlights; deep, slightly desaturated shadows.",     "post_processing": "Soft contrast, slightly crushed blacks, zero sharpening. Subtle color shifts simulating raw phone sensor output."   },   "composition": {     "perspective": "Close-up Selfie Mode (Front Facing Camera perspective). The subject's arm is extended toward the camera, creating a slightly distorted, wide-angle look.",     "framing": "Medium close-up, focused primarily on the face and upper torso.",     "gaze": "Direct eye contact with the camera lens.",     "focus": "Shallow depth of field, sharp focus on the subject's eyes, rapid fall-off into soft background blur (Portrait Mode simulation)."   },   "technical": {     "camera_simulation": "iPhone 15 Pro, Front Facing Camera simulation.",     "lens_characteristics": "Wide-angle lens distortion (24mm equivalent), subtle edge softness.",     "artifacts": "Visible digital noise and grain, especially in shadow areas. Slight chromatic aberration near high-contrast edges. Subtle, imperfect lens flare caused by the direct sunbeam.",     "key_constraint": "DO NOT show a phone device in the subject's hands or within the frame."   },   "environment": {     "setting": "Indoor apartment, bedroom or living room corner.",     "background_details": "Lived-in and imperfect. Background clutter includes a stack of books, a half-finished drink on a side table, and soft, worn textiles (blanket or rug). A strong, angular beam of golden sunlight strikes the textured wall behind the subject."   } }
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23907_0.jpg" width="600" alt="Golden Hour Cozy Indoor Selfie - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 16: Rainy Streets and Underwater Cathedral Visions
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Old streets are pouring rain, streetlights are dim, neon signs distorted by the water's reflection, and a person stands in the center of the frame holding a tr…
+
+#### 📝 Prompt
+
+```
+Old streets are pouring rain, streetlights are dim, neon signs distorted by the water's reflection, and a person stands in the center of the frame holding a transparent umbrella, his face unseen. The depth of field is shallow and cinematic, with 8K, grainy texture, and a touch of cool blue-green tones.
+
+The ancient cathedral is completely submerged underwater, sunlight penetrates the surface, volumes of light filled with floating particles, stained glass windows cast colorful patterns on the stone floor, thousands of tiny bubbles rise, and divers dressed in sleek costumes
+
+Convert the design draft into a physical drawing.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00350_0.jpg" width="600" alt="Rainy Streets and Underwater Cathedral Visions - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00350_1.jpg" width="600" alt="Rainy Streets and Underwater Cathedral Visions - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08622_2.jpg" width="600" alt="Summer Beach Bikini Golden Hour - Image 3">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00350_2.jpg" width="600" alt="Rainy Streets and Underwater Cathedral Visions - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08622_3.jpg" width="600" alt="Summer Beach Bikini Golden Hour - Image 4">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00350_3.jpg" width="600" alt="Rainy Streets and Underwater Cathedral Visions - Image 4">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 5: Mysterious Gray Wall Portrait
+### No. 17: Romantic Garden Gazebo Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Gray Backdrop, Over-the-Shoulder Ultra-realistic over-the-shoulder editorial portrait on a cool gray wall (#bdccd4). Expression: subtle intrigue, lips slightly…
+Do not change facial features. A young woman sits in an openwork forged gazebo in a garden, romantic and elegant atmosphere. Long hair with soft waves to the s…
 
 #### 📝 Prompt
 
 ```
-Gray Backdrop, Over-the-Shoulder
-Ultra-realistic over-the-shoulder editorial portrait on a cool gray wall (#bdccd4). Expression: subtle intrigue, lips slightly parted. Hair: braids wrapped into low braided bun, neckline exposed. Makeup: matte finish, sharp wing eyeliner, peach gloss. Outfit: black backless dress, minimalist cut. Shot with 50 mm lens at eye level.
-Lighting: harsh directional beam, black shadow #000000) geometry across wall.
+Do not change facial features. A young woman sits in an openwork forged gazebo in a garden, romantic and elegant atmosphere. Long hair with soft waves to the shoulders, natural shine. Natural makeup: defined eyebrows, light mascara, natural glossy lips. Jewelry: small stud earrings. Clothing: light blue fitted dress with puffy short sleeves, square neckline, center front zipper, soft draped skirt, delicate embroidery on the skirt. Accessories: a small bouquet of pale pink and white flowers (gypsophila) with a light pink ribbon; a thin bracelet. Pose: relaxed, leaning slightly forward; one hand rests on the gazebo, the other holds the bouquet. Expression: pensive, looking away, a slight half-smile. Background: well-kept garden, greenery and rose bushes, tiled paths; in the distance, a gazebo and green hills/mountains. Lighting: soft warm daylight, no harsh shadows. Composition: model in the center, background slightly blurred (shallow depth of field), photorealism, high detail.
 ```
 
 #### 🖼️ Generated Images
@@ -244,25 +858,31 @@ Lighting: harsh directional beam, black shadow #000000) geometry across wall.
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24278_0.jpg" width="600" alt="Mysterious Gray Wall Portrait - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23840_0.jpg" width="600" alt="Romantic Garden Gazebo Portrait - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 6: Window Light Jersey Portrait
+### No. 18: Dragon Ball Bikini Girl Poolside
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-{ "image_type": "photograph", "genre": "casual portrait", "composition": { "framing": "close-up, chest-up portrait", "angle": "slightly tilted, camera held abo…
+A realistic smartphone-style photo of a 19-year-old Caucasian blonde girl with plain, straight shoulder-length hair. She has fair porcelain skin with cool pink…
 
 #### 📝 Prompt
 
 ```
-{ "image_type": "photograph", "genre": "casual portrait", "composition": { "framing": "close-up, chest-up portrait", "angle": "slightly tilted, camera held above eye level and angled downward", "orientation": "portrait with diagonal tilt", "subject_placement": "subject positioned slightly off-center, face occupying left-middle area", "crop": "tight crop with partial arm visible in foreground" }, "subject": { "count": 1, "gender_presentation": "{argument name="gender presentation" default="female-presenting"}", "age_range": "young adult", "facial_features": { "skin_tone": "light, neutral-warm", "complexion": "clear, smooth with natural texture", "eyes": "light green/gray, almond-shaped", "eyebrows": "medium thickness, natural shape", "nose": "straight, small to medium", "lips": "natural pink, closed-mouth slight smile" }, "hair": { "color": "dark brown", "length": "long", "style": "straight, tucked behind ear on one side", "part": "slight side part" }, "expression": "soft, relaxed, friendly", "gaze": "looking directly into camera", "accessories": [ "small silver stud earrings" ], "clothing": { "type": "sports jersey", "fit": "loose athletic fit", "color": "{argument name="jersey color" default="white with black accents"}", "details": [ "black collar trim", "black logos and text", "shield-style emblem on chest", "large curved black graphic text" ] } }, "lighting": { "type": "natural light", "direction": "side/front light from window", "quality": "soft, diffused", "shadows": "minimal, gentle", "highlights": "subtle skin highlights on cheek and forehead" }, "color_palette": { "dominant_colors": [ "white", "soft gray", "black" ], "accent_colors": [ "natural skin tones", "brown hair" ], "overall_tone": "neutral, clean, airy" }, "background": { "setting": "indoor", "elements": [ "sheer white curtains", "window frame partially visible" ], "depth_of_field": "moderate, background slightly soft but recognizable", "style": "minimalist, uncluttered" }, "technical_details": { "camera_type": "DSLR", "focal_length_equivalent": "wide-angle selfie lens", "resolution": "high", "sharpness": "sharp focus on face", "noise": "minimal", "white_balance": "neutral" }, "artistic_style": { "aesthetic": "clean, natural, lifestyle", "retouching": "very minimal, natural skin texture preserved", "mood": "calm, approachable, casual" }, "typography": { "presence": true, "location": "on jersey", "style": "bold sans-serif sports branding", "color": "black", "readability": "partially visible due to crop" } }
+A realistic smartphone-style photo of a 19-year-old Caucasian blonde girl with plain, straight shoulder-length hair. She has fair porcelain skin with cool pink undertones, light hazel/grey-green eyes with winged eyeliner, full lips with mauve lipstick, and a confident, slightly sultry expression making direct eye contact.
+
+She has a curvy hourglass figure and a large colorful {argument name="tattoo subject" default="Dragon Ball Z (Goku family)"} tattoo on the front of her left thigh. She is wearing a two-piece string bikini inspired by Dragon Ball Z: split orange and blue colors, triangle top with a kanji symbol on the orange side, and matching side-tie bottoms.
+
+She is sitting relaxed on a patio chair, leaning back slightly with knees bent. The setting is an outdoor backyard poolside with grey paving tiles, a concrete block wall, a glimpse of a swimming pool, black patio furniture, and black slide sandals near the pool. Green trees rise above the wall and power lines cross a bright pale blue sky.
+
+Natural midday daylight, bright and slightly harsh with soft shadows, casual summer mood, sharp focus on the subject.
 ```
 
 #### 🖼️ Generated Images
@@ -270,102 +890,66 @@ Lighting: harsh directional beam, black shadow #000000) geometry across wall.
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02039_0.jpg" width="600" alt="Window Light Jersey Portrait - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05578_0.jpg" width="600" alt="Dragon Ball Bikini Girl Poolside - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 7: Realistic Style Recreation
+### No. 19: Sunlit Beach Beauty Back View
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-This image has been recreated in a realistic style
-
-#### 📝 Prompt
-
-```
-This image has been recreated in a realistic style
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_17501_0.jpg" width="600" alt="Realistic Style Recreation - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 8: Romantic Opulence Red Dress
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "image_metadata": { "title": "Romantic Opulence", "subject_identity": "{argument name="subject name" default="Ana de Armas"}", "aspect_ratio": "3:4", "aesthe…
+{ "subject": { "description": "Young woman with long, blonde, slightly wavy hair cascading down her back. She has a fit, athletic physique with a slender waist…
 
 #### 📝 Prompt
 
 ```
 {
-  "image_metadata": {
-    "title": "Romantic Opulence",
-    "subject_identity": "{argument name="subject name" default="Ana de Armas"}",
-    "aspect_ratio": "3:4",
-    "aesthetic_category": "Curated Luxury / Theatrical Romance"
-  },
-  "visual_composition": {
-    "subject_pose": {
-      "body_position": "Seated/leaning forward",
-      "head_orientation": "Turned back toward camera",
-      "interaction": "Breaking the fourth wall / direct eye contact",
-      "expression": "Playful, confident, knowing engagement"
-    },
-    "wardrobe_details": {
-      "garment": {
-        "type": "{argument name="garment type" default="Red dress"}",
-        "color_profile": "Vibrant / Passionate",
-        "construction": "Open back, gathered fabric at waist and hips",
-        "texture": "Fluid, elegant movement"
-      },
-      "adornments": {
-        "material": "Delicate gold chain jewelry",
-        "placement": "Draped across shoulders and spine",
-        "visual_style": "Ceremonial, architectural"
-      }
-    },
-    "environmental_props": {
-      "primary_prop": "Round luxury box of red roses",
-      "floral_characteristics": "Tight, repetitive forms; dense arrangement",
-      "symbolic_weight": ["Desire", "Devotion", "Abundance"]
-    }
-  },
-  "thematic_analysis": {
-    "psychological_layers": {
-      "vulnerability": "Exposed by the open-back design",
-      "agency": "Reframed as power through controlled posture and gaze",
-      "intent": "Intentional luxury rather than accidental beauty"
-    },
-    "visual_contrasts": [
-      {
-        "element_a": "Organic fluidity (fabric and skin)",
-        "element_b": "Geometric repetition (roses and chains)"
-      }
-    ]
-  },
-  "artistic_direction": {
-    "lighting": "Softly defined, highlighting contours of the back and jewelry",
-    "styling": "Neat hair, polished makeup",
-    "audience_role": "Observer-turned-participant"
-  }
+"subject": {
+"description": "Young woman with long, blonde, slightly wavy hair cascading down her back. She has a fit, athletic physique with a slender waist and prominent, curvy glutes. Her skin is tanned with visible texture.",
+"attire": {
+"top": "Brown, short-sleeved ribbed crop top with a raw, slightly distressed hem, fitting tightly across the upper back and shoulders.",
+"bottom": "Dark brown or black string bikini thong bottoms with side ties, positioned to accentuate the hips and glutes.",
+"accessories": "Holding a white rectangular sunscreen bottle in her right hand against her right hip/upper thigh area. Partially visible black boots at the bottom edge of the frame."
+},
+"anatomy": {
+"proportions": "Physically accurate representation of the reference, maintaining the exact scale of the hips and glutes relative to the waist and shoulders. No reduction in volume or curve intensity.",
+"skin": "Realistic skin texture with natural imperfections, moles, and response to sunlight. No artificial smoothing."
 }
+},
+"pose": {
+"type": "Standing 3/4 rear view",
+"details": "Subject is standing with her back to the camera, turned slightly to her right. Her head is turned over her right shoulder, looking downwards towards the sand. Her spine is slightly arched. Her right arm is extended down, with her hand resting on her right outer thigh/glute holding the bottle. Her left arm hangs naturally by her side. Legs are standing straight.",
+"angle": "Rear-side profile view showing the curve of the spine and the projection of the glutes."
+},
+"environment": {
+"location": "Sunny sandy beach.",
+"background": "A clear horizon line separating the deep blue ocean from the bright blue sky. The sky contains wispy, thin white cirrus clouds. The sand is golden-beige and textured with footprints.",
+"context": "Daytime beach setting, open air."
+},
+"camera": {
+"shot_type": "Medium shot (from knees/thighs up to top of head).",
+"angle": "Eye-level or slightly low angle relative to the subject's hips.",
+"focus": "Sharp focus on the subject, with the background ocean and sky remaining relatively clear but secondary to the figure.",
+"perspective": "Natural perspective, no wide-angle distortion."
+},
+"lighting": {
+"source": "Natural bright sunlight (golden hour or mid-day sun).",
+"direction": "Sunlight coming from the front-right of the subject, casting shadows behind her and highlighting the contours of her back, arms, and glutes.",
+"quality": "Hard, direct light creating high contrast and distinct shadows on the sand."
+},
+"mood_and_expression": {
+"mood": "Relaxed, candid, summery.",
+"expression": "Neutral, gazing downward, unposed or caught in a moment of preparation (applying sunscreen)."
+},
+"style_and_realism": {
+"style": "Photorealistic, candid photography.",
+"rendering": "High fidelity, 8k resolution, raw photo style.",
+"texture": "Emphasis on the fabric of the ribbed top, the smoothness of the plastic bottle, the grain of the sand, and the ski
 ```
 
 #### 🖼️ Generated Images
@@ -373,37 +957,152 @@ This image has been recreated in a realistic style
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00586_0.jpg" width="600" alt="Romantic Opulence Red Dress - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04759_0.jpg" width="600" alt="Sunlit Beach Beauty Back View - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 20: Mirror Poise
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A high-end fashion mirror selfie captured in a minimalist designer interior, focused on quiet confidence, sculptural silhouettes, and understated sensuality. S…
+
+#### 📝 Prompt
+
+```
+A high-end fashion mirror selfie captured in a minimalist designer interior, focused on quiet confidence, sculptural silhouettes, and understated sensuality.
+
+Scene & environment:
+Modern minimalist interior with warm wooden wall panels.
+Soft natural daylight coming from the side, no harsh shadows.
+Neutral palette: warm wood, cream, beige, muted tones.
+Curved sculptural white armchair in the background, adding softness and balance.
+Clean floor, no clutter, editorial showroom atmosphere.
+Space feels calm, expensive, and intentional.
+
+Camera & framing:
+Mirror selfie.
+Vertical format.
+Camera held at chest-to-face level, slightly angled.
+Medium-full body framing, from head to upper thighs.
+Lens simulation: 50mm smartphone portrait look.
+Natural perspective, no distortion.
+High clarity, fashion editorial sharpness.
+
+Subject & pose:
+Woman stands relaxed yet confident.
+Weight shifted onto one hip, subtle S-curve in the body.
+One arm raised holding the phone, elbow relaxed.
+Other arm down holding a small structured handbag.
+Shoulders open, posture elongated.
+Expression neutral, composed, controlled.
+Gaze directed at phone screen through sunglasses.
+
+Outfit:
+Textured ivory knit cardigan with deep V neckline.
+Soft sculptural shape, slightly flared sleeves.
+Worn open with a minimal fastening at the waist, revealing skin subtly.
+Relaxed straight-leg denim jeans in a washed blue tone.
+High-waisted fit with natural fading.
+Outfit feels effortless, expensive, and wearable.
+No excessive styling — focus on cut and texture.
+
+Accessories & details:
+Rectangular brown-tinted sunglasses with slim frame.
+Small structured handbag in dark leather.
+Minimal jewelry, understated and refined.
+Neutral manicure.
+Hair worn loose, smooth, with soft natural volume.
+
+Lighting & color:
+Natural daylight only.
+Soft highlights on knit texture and hair.
+Gentle shadows defining body shape.
+Color palette: ivory, warm wood, denim blue, soft brown.
+Balanced contrast, clean whites without overexposure.
+
+Style & mood:
+Luxury casual editorial.
+Quiet power, self-assurance.
+Sexy through simplicity, not performance.
+Feels like a private moment in a designer apartment.
+Modern, confident, timeless.
+Instagram-worthy but magazine-level.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25530_0.jpg" width="600" alt="Mirror Poise - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 21: Blueprint to Living Architecture
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Epic 3D scene: a massive architectural blueprint of [{argument name="building type" default="BUILDING/STRUCTURE"}] pinned to a drafting table, its ink lines ri…
+
+#### 📝 Prompt
+
+```
+Epic 3D scene: a massive architectural blueprint of [{argument name="building type" default="BUILDING/STRUCTURE"}] pinned to a drafting table, its ink lines rising off the paper into fully realized construction. Blue lines become steel beams mid-weld, floor plans inflate into furnished rooms, elevation drawings push outward into facades with working windows. Construction phases coexist simultaneously: foundation being poured in one corner while the penthouse is already inhabited in another. Tiny workers, cranes, and scaffolding swarm the rising structure. The flat drawing and the living building merge at impossible angles. Technical annotations float as dimensional signage. Architect's coffee cup sits at the edge, casting shadow across unbuilt sections. Extreme scale contrast, construction dust catching afternoon light, 8K, photorealistic.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01151_0.jpg" width="600" alt="Blueprint to Living Architecture - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00586_1.jpg" width="600" alt="Romantic Opulence Red Dress - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01151_1.jpg" width="600" alt="Blueprint to Living Architecture - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00586_2.jpg" width="600" alt="Romantic Opulence Red Dress - Image 3">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01151_2.jpg" width="600" alt="Blueprint to Living Architecture - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01151_3.jpg" width="600" alt="Blueprint to Living Architecture - Image 4">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 9: Turkish Food Map Art
+### No. 22: Muscular Man Sleeping Peacefully On Sofa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-create a map of the Türkiye where every city is made out of its most famous food (cities should actually look like they are made of the food, not a picture of…
+{ "image_generation_prompt": { "subject": { "demographics": "Handsome man, mid-20s, muscular, with a 'messy cool' aesthetic. ", "hair": "Short hair, messy hair…
 
 #### 📝 Prompt
 
 ```
-create a map of the Türkiye where every city is made out of its most famous food (cities should actually look like they are made of the food, not a picture of the food). Check carefully to make sure each city is right.
+{ "image_generation_prompt": { "subject": { "demographics": "Handsome man, mid-20s, muscular, with a 'messy cool' aesthetic. ", "hair": "Short hair, messy haircut, chestnut brown, strands naturally falling over the forehead, looking effortlessly handsome." , "face": "A deeply relaxed sleeping expression, with a relaxed chin slightly apart, indicating deep sleep and loud snoring, with a faint stubble (five-o'clock shadow)." , "body_details": "Bare-chested, thickly furred, muscular chest and abdomen with distinct lines (chest and abs visible), thick arm muscles, hands placed naturally; Due to relaxation, the veins on the forearm are slightly visible. "Clothing": "A soft gray knit blanket is draped casually from below the waist, forming soft pleats that hug the hip line." , "accessories": { "wrist": "Minimalist, worn-out leather bracelet." "neck": "A simple, understated silver necklace with a matte finish (not overly shiny or reflective), naturally conforming to chest hair and skin." } }, "pose": { "type": "Snapshot / Intimate Close-up." "Sleeping soundly on the sofa, body deeply buried in the cushion, head slightly tilted back, leaning against a white ordinary pillow firmly supported by the armrest, one hand casually resting on the abdomen, the other arm beside the body." "framing": "Close-ups above the waist, 4:3 aspect ratio, focusing on the torso, neck, and slightly open mouth to fill the frame." }, "camera_specifications": { "camera": "High-end full-frame mirrorless cameras (e.g., Sony A7R V or Canon R5)." "angle": "Low angle, shot slightly upward from chest height to emphasize the neck and jawline." , "view": "Frontal view, level with the torso, creates an intimate and immersive perspective." , "lens": "35mm prime lens, f/1.8 aperture, offers a natural field of view and soft, shallow depth of field blur." }, "environment": { "location": "Bachelor's living room, morning." "foreground": "A distressed Cognac-colored leather sofa (looks worn but expensive/vintage), a flat white pillow with a simple cotton texture." , "background": "A soft, blurred background shows a window with white sheer curtains." , "atmosphere": "A lazy Sunday morning, peaceful." }, "lighting": { "source": "Soft, diffused natural morning light streams in from the side (window)." "Characteristics": "Soft shading highlights the muscle lines of the chest and abs, warm color temperature, and no harsh contrast." }, "technical_quality": { "resolution": "4K Ultra HD." , "style": "Cinematic life photography, soft-focus backgrounds (bokeh), skin and fabric with high texture detail." , "film_stock": "Kodak Portra 400 Style (Warm, Natural Skin Tone)." } } }
 ```
 
 #### 🖼️ Generated Images
@@ -411,109 +1110,98 @@ create a map of the Türkiye where every city is made out of its most famous foo
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13382_0.jpg" width="600" alt="Turkish Food Map Art - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_20808_0.jpg" width="600" alt="Muscular Man Sleeping Peacefully On Sofa - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 10: Monochrome Flash Portrait on iPhone
+### No. 23: Powder Blue Gym Goddess
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Черно-белая фотография (monochrome), высококонтрастный lifestyle portrait, кадр по бедра. Shot on iPhone 16 Pro, жесткая встроенная вспышка (direct flash), no…
-
-#### 📝 Prompt
-
-```
-Черно-белая фотография (monochrome), высококонтрастный lifestyle portrait, кадр по бедра. Shot on iPhone 16 Pro, жесткая встроенная вспышка (direct flash), no HDR, no beauty filter. Девушка радостно улыбается на фоне светлой стены. Волосы распущенные, небрежно растрепаны, пробор на правую сторону. Стоит вполоборота, обеими руками придерживает шлевку джинсов. Взгляд в камеру. Одета в черный топ на тонких бретелях и плотные джинсы с широким кожаным чёрным ремнем и массивной металлической пряжкой. Вспышка отбрасывает на стену резкую тень силуэта. Живая кожа, поры, текстура губ и зубов при улыбке, peach fuzz, фактура джинсовой ткани (denim weave), царапины на пряжке, крупное пленочное зерно (film grain), no AI smoothing.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24328_0.jpg" width="600" alt="Monochrome Flash Portrait on iPhone - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 11: Night Market Besties Stroll
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "project_specifications": { "format": "{argument name="format" default="Single Image"}", "aspect_ratio": "{argument name="aspect ratio" default="9:16"}", "ae…
+{ "generation_request": { "meta_data": { "tool": "NanoBanana Pro", "task_type": "photoreal_fitness_lifestyle_portrait", "language": "en", "priority": "highest"…
 
 #### 📝 Prompt
 
 ```
 {
-  "project_specifications": {
-    "format": "{argument name="format" default="Single Image"}",
-    "aspect_ratio": "{argument name="aspect ratio" default="9:16"}",
-    "aesthetic_style": "{argument name="aesthetic style" default="Candid, High-Quality Smartphone Night Photography"}",
-    "rendering_engine_hints": {
-      "realism_level": "{argument name="realism level" default="Ultra-photorealistic"}",
-      "texture_quality": "{argument name="texture quality" default="High (modern smartphone)"}",
-      "lighting_simulation": "{argument name="lighting simulation" default="Warm, soft string lights, mixed artificial night lighting, natural skin glow"}"
-    }
-  },
-  "global_assets": {
-    "subject_definition": {
-      "identity": "{argument name="identity" default="Two cute young women with long, dark, glossy hair walking together arm-in-arm, with radiant, glowing skin"}",
-      "wardrobe": {
-        "outfit_left": "{argument name="outfit left" default="Brown leopard print spaghetti strap midi dress, delicate gold necklace, dewy makeup"}",
-        "outfit_right": "{argument name="outfit right" default="Blue denim jacket over a red top, blue denim mini-skirt, radiant, healthy skin"}"
-      },
-      "pose_and_action": {
-        "stance": "{argument name="stance" default="Walking closely together. The woman on the left is smiling warmly at a smartphone she holds in both hands. The woman on the right is looking forward with a sweet, genuine smile, her arm linked through the other's."}",
-        "expression": "{argument name="expression" default="Left: Happy, focused on phone. Right: Cute, mildly smiling, content."}"
-      }
-    },
-    "environment_definition": {
-      "location": "{argument name="location" default="Bustling outdoor night market or patio"}",
-      "background_elements": [
-        "{argument name="element 1" default="Numerous strands of warm, twinkling bulb string lights hanging overhead, creating a festive glow and soft bokeh"}",
-        "{argument name="element 2" default="Blurred crowd of diverse people enjoying the night"}",
-        "{argument name="element 3" default="Patio tables and chairs with warm golden light"}",
-        "{argument name="element 4" default="Trees with fairy lights"}",
-        "{argument name="element 5" default="Market umbrellas"}",
-        "{argument name="element 6" default="Other colored lights (blue, red) in the distance creating depth"}"
-      ],
-      "atmosphere": "{argument name="atmosphere" default="Lively, warm, enchanting, nighttime, social"}"
-    }
-  },
-  "panel_architecture": [
-    {
-      "position": "{argument name="position" default="Full Frame"}",
-      "shot_type": "{argument name="shot type" default="Medium Shot, Handheld"}",
-      "composition": {
-        "angle": "{argument name="angle" default="Eye-level"}",
-        "framing": "{argument name="framing" default="Captures the two women from the waist up as they walk through the scene, with natural light fall-off"}",
-        "focus": "{argument name="focus" default="Sharp on the two women, highlighting their glowing complexions, with a softly blurred background"}"
-      }
-    }
-  ],
-  "negative_constraints": {
-    "avoid": [
-      "{argument name="avoid 1" default="text overlays"}",
-      "{argument name="avoid 2" default="watermarks"}",
-      "{argument name="avoid 3" default="logos (except on phone)"}",
-      "{argument name="avoid 4" default="studio lighting"}",
-      "{argument name="avoid 5" default="oversaturated colors"}",
-      "{argument name="avoid 6" default="heavy makeup"}",
-      "{argument name="avoid 7" default="artificial highlights"}"
-    ]
-  }
-}
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "photoreal_fitness_lifestyle_portrait",
+      "language": "en",
+      "priority": "highest",
+      "version": "v1.0_POWDER_BLUE_GYM_HEADPHONES"
+    },
+
+    "input": {
+      "mode": "image_to_image",
+      "reference_image_usage": "very_high",
+      "preserve_identity": true,
+      "preserve_facial_features": true,
+      "preserve_pose": true
+    },
+
+    "output_settings": {
+      "aspect_ratio": "{argument name="aspect ratio" default="1:1"}",
+      "orientation": "square",
+      "resolution_target": "ultra_high_res",
+      "num_images": 1,
+      "render_style": "ultra_photoreal_fitness_lifestyle",
+      "sharpness": "clean_natural_crisp",
+      "grain": "none",
+      "color_grade": "soft_clean_modern",
+      "dynamic_range": "natural_not_hdr",
+      "skin_rendering": "real_texture_no_retouch"
+    },
+
+    "scene": {
+      "environment": "modern gym floor with minimal workout equipment",
+      "lighting": "soft clean indoor gym lighting with natural highlights on skin and fabric, no harsh flash",
+      "mood": "fresh, calm, feminine, modern fitness lifestyle"
+    },
+
+    "subject": {
+      "description": "same elegant athletic woman from the reference, realistic facial proportions, soft peaceful expression",
+      "skin": "natural luminous skin texture",
+      "hair": "sleek dark hair pulled back neatly, same styling as the reference",
+      "makeup": "minimal clean beauty makeup, soft natural glow, subtle lashes, natural pink-nude lips",
+      "expression": "eyes closed, gentle soft smile, relaxed post-workout calm"
+    },
+
+    "wardrobe": {
+      "outfit": "light powder blue fitted athletic set",
+      "top": "light powder blue sports bra with smooth matte fabric and thin straps",
+      "bottom": "matching light powder blue high-waisted leggings in matte performance fabric",
+      "fabric": "soft matte athletic material, sculpting but realistic, no latex shine"
+    },
+
+    "accessories": {
+      "headphones": "light blue Apple-style over-ear headphones with sleek matte finish",
+      "mat": "matching light blue workout mat with matte texture",
+      "equipment": "single dumbbell on the mat, realistic gym accessory"
+    },
+
+    "pose": {
+      "position": "lying on the workout mat in the same pose as the reference",
+      "details": "one arm lifted naturally toward the camera, one arm relaxed beside the body, torso slightly angled, calm post-workout pose",
+      "anatomy": "perfect shoulders, arms, hands, torso, waist, and legs with realistic proportions"
+    },
+
+    "camera": {
+      "lens": "35mm lifestyle overhead shot",
+      "angle": "top-down selfie-like angle",
+      "framing": "upper body and waist emphasized, workout mat and dumbbell visible",
+      "focus_priority": "face, headphones, outfit texture, and natural body lines"
+    },
+
+    "quality_control": {
+      "identity_consistency": "maximum",
+      "anatomy_accuracy": "maximum",
 ```
 
 #### 🖼️ Generated Images
@@ -521,37 +1209,25 @@ create a map of the Türkiye where every city is made out of its most famous foo
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12208_0.jpg" width="600" alt="Night Market Besties Stroll - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06710_0.jpg" width="600" alt="Powder Blue Gym Goddess - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 12: Face Identity Digital Illustration Remake
+### No. 24: Demonic Ambush at Midnight
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-{ "input_type": "image_to_image", "target_image": "{argument name="target image" default="UPLOAD_IMAGE_HERE"}", "prompt": "Create a completely new illustrated…
+The output image is a 2x2 four-panel storyboard. Video style: 2000s Japanese anime OVA style Background: Late night city streets. Between abandoned roads and s…
 
 #### 📝 Prompt
 
 ```
-{
-  "input_type": "image_to_image",
-  "target_image": "{argument name="target image" default="UPLOAD_IMAGE_HERE"}",
-  "prompt": "Create a completely new illustrated scene using the target image only for facial identity reference. Preserve the same face, skin tone, and identity accurately, but change everything else. Generate a new pose, different body posture, new camera angle, and a fresh composition. Replace the background entirely with a new location and environment of your choice, such as an aesthetic urban street, nature landscape, café, rooftop, or artistic setting. Apply a modern digital illustration style with clean lines, smooth shading, soft gradients, and a polished artistic look (not painting, not watercolor). Clothing, colors, mood, and lighting should be redesigned creatively while keeping the face recognizable and natural. The final result should look like a newly illustrated artwork, not a modified version of the original image.",
-  "identity_strength": 0.9,
-  "style_strength": 0.8,
-  "allow_pose_change": true,
-  "allow_background_change": true,
-  "allow_scene_change": true,
-  "preserve_face_only": true,
-  "quality": "4K",
-  "negative_prompt": "same pose, same background, same location, painting texture, watercolor, oil paint, anime, cartoon exaggeration, distorted face, extra limbs, blur, low detail"
-}
+The output image is a 2x2 four-panel storyboard. Video style: 2000s Japanese anime OVA style Background: Late night city streets. Between abandoned roads and skyscrapers. The black liquid splashed by the huge monster stuck to the asphalt and walls. Dust flew, sparks flew. Character 1: A high school girl with long black hair. Wearing a sailor uniform. He carried a Japanese sword at his waist, with the scabbard hanging from his waist. She cautiously looked around, striking a low pose. Character 2: A high school girl with a golden bob hairstyle. Wearing a suit jacket uniform. Standing behind your companions, always ready to use your abilities with one hand. Her expression was tense. Enemy Presence: Black liquid gathers and transforms into a humanoid entity with fibrous, linear textures. Its face is blurred, its limbs are unusually slender, and it crawls awkwardly on the ground and walls. Storyboard 1: Close-up of the ground. Filled with black liquid. Dust flew, sparks flew. Storyboard 2: Medium shot. The humanoid foreign object rose from the black liquid and awkwardly began to stand. Linear shadows hang down, dragging across the ground. Storyboard 3: Low-angle wide-angle lens. Multiple foreign objects appeared one after another from the road and walls, surrounding the girls. The cityscape emphasizes the feeling of being encircled. Storyboard 4: Filming from behind the girls. In front of them was a group of approaching black humanoid creatures. The black-haired girl's hand rested on the sheath, and the blonde girl prepared to activate her power. The composition emphasizes the tense atmosphere on the eve of battle.
 ```
 
 #### 🖼️ Generated Images
@@ -559,74 +1235,30 @@ create a map of the Türkiye where every city is made out of its most famous foo
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12947_0.jpg" width="600" alt="Face Identity Digital Illustration Remake - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_17752_0.jpg" width="600" alt="Demonic Ambush at Midnight - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 13: Neon Pool Night Seduction
+### No. 25: Woman Kissing Stone Statue
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Reference image: conceptual variant. Recreate pose, composition, lighting, mood, and environment as closely as possible. A cinematic nightlife bar portrait of…
+Reference image: uploaded photo Background: indoor art gallery or museum, stone statue of a woman with classical features. Outfit: long black leather trench co…
 
 #### 📝 Prompt
 
 ```
-Reference image: conceptual variant. Recreate pose, composition, lighting, mood, and environment as closely as possible.
-
-A cinematic nightlife bar portrait of a woman leaning over a pool table in a sensual, dynamic pose. She is positioned diagonally across the green felt billiard table, torso angled forward, hips resting lightly on the table edge. One arm stretches forward across the table surface, fingers extended near the cue ball, while the other hand holds a pool cue, creating a strong diagonal line through the frame.
-
-Pose:
-Body elongated and arched gracefully.
-One knee bent and resting on the table edge.
-Shoulders slightly twisted, emphasizing curves.
-Head tilted to the side, neck elongated.
-Gaze directed downward and sideways, soft and seductive, not looking into the camera.
-
-Outfit:
-White fitted sleeveless tank top with a deep neckline.
-High-waisted light blue denim jeans, slightly loose, casual fit.
-Brown leather belt with metal buckle.
-Large gold hoop earrings.
-Minimal accessories, focus on silhouette and movement.
-
-Hair & makeup:
-Hair worn loose, flowing naturally over one shoulder.
-Makeup soft glam: warm bronzed skin, subtle shimmer on eyelids, glossy lips.
-Natural but polished editorial look.
-
-Environment:
-Dimly lit bar interior with a vintage, cozy atmosphere.
-Colorful neon lights and multicolored string lights in the background.
-Wooden ceiling and walls, cluttered bar decor.
-Arcade machines and bar signage softly blurred in the background.
-Television screens glowing faintly, adding ambient light.
-Green billiard table felt vibrant and textured.
-
-Lighting:
-Mixed lighting sources: warm tungsten bar lights combined with colorful neon highlights.
-Soft glow on skin, gentle highlights on shoulders and arms.
-Background bokeh with saturated reds, purples, yellows, and blues.
-Low-light cinematic contrast, nightlife mood.
-
-Props & details:
-Pool cue angled across the frame.
-Billiard balls scattered naturally on the table.
-Smartphone resting on the table edge.
-Visible chalk dust and felt texture for realism.
-
-Camera & style:
-Medium-wide shot capturing full upper body and pool table.
-Slightly tilted angle for dynamic composition.
-Shallow depth of field, subject in sharp focus, background softly blurred.
-High-end lifestyle photography.
-Ultra-realistic, cinematic bar editorial style.
-8K detail, realistic skin texture, fabric, and lighting.
+Reference image: uploaded photo
+Background: indoor art gallery or museum, stone statue of a woman with classical features.
+Outfit: long black leather trench coat, minimal accessories, loose wavy hair cascading down the back.
+Pose: crouching and kissing the statue’s lips, intimate gesture frozen in time.
+Lighting: muted natural light with soft brown undertones, moody and romantic.
+Mood: poetic intimacy, art and passion intertwined, soft surrealism.
 ```
 
 #### 🖼️ Generated Images
@@ -634,25 +1266,50 @@ Ultra-realistic, cinematic bar editorial style.
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23255_0.jpg" width="600" alt="Neon Pool Night Seduction - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_26963_0.jpg" width="600" alt="Woman Kissing Stone Statue - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 14: Surreal Alien in Windswept Desert
+### No. 26: Vintage Yearbook Print Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-a surreal, abstracted alien figure stands in a vast, windswept desert beside its gleaming flying saucer, rendered in the energetic, gestural, and fragmented pa…
+(3:4). A raw, high-definition photograph of a physical printed portrait taken with an iPhone 17 Pro. NO ARTIFICIAL BOKEH. Everything is SHARP and in focus, cap…
 
 #### 📝 Prompt
 
 ```
-a surreal, abstracted alien figure stands in a vast, windswept desert beside its gleaming flying saucer, rendered in the energetic, gestural, and fragmented painterly style of Cecily Brown, with swirling brushstrokes, partially dissolved forms, and a rich, chaotic composition of sandy ochres, muted greens, and unexpected flashes of vivid color, the horizon shimmering with heat and the scene oscillating between figuration and abstraction
+(3:4). A raw, high-definition photograph of a physical printed portrait taken with an iPhone 17 Pro. NO ARTIFICIAL BOKEH. Everything is SHARP and in focus, capturing the physical textural reality of the paper grain and the ink-on-page in high resolution.
+
+Subject & Identity Locking:
+
+Identity: Strictly preserve the exact face and unique features of the woman in Image 1 (Selfie).
+Bio-Fidelity: Render high-fidelity "TrueLens" skin physics as captured through high-end printed ink: visible micro-pores, natural "satin-finish" glow muted by paper texture, and fine peach fuzz along the jawline.
+Expression: A perfectly aligned, symmetrical head-and-shoulders yearbook-style pose. Neutral but confident expression with a magnetic, "main character" gaze looking directly into the lens.
+Silhouette Calibration: Despite the formal school tailoring, amplify the dominant structural bust volume and the aggressive hourglass structural tapering at the waist. Ensure the fit of the uniform highlights a high-impact, fit physique.
+Outfit & Material Realism:
+
+Clothing: A dark navy blue structured blazer with white piping, a crisp white collared shirt, and a dark navy striped silk tie.
+Tension: The blazer and shirt show extreme material tension and a vacuum-tight fit, creating realistic physical interaction and "tension lines" that highlight her fit, symmetrical upper silhouette and anatomical depth.
+The Printed Aesthetic (Hardware Emulation):
+
+Surface Texture: The image features an authentic semi-gloss paper sheen with thin, realistic diagonal lamination glares reflecting off the ink surface across the cheeks and chest.
+Ink Physics: Visible ink-absorption softening at the edges (not digital blur), fine paper grain texture, and a gentle warm undertone typical of vintage magazine archives. It looks like a scanned physical object.
+Lighting & Composition:
+
+Lighting: Direct frontal harsh studio flash (ID style). Even exposure with bright, sharp eye catchlights and minimal shadows, creating a flat but clean professional portrait look.
+Background (SHARP): A flat, textured cool-blue studio backdrop, showing realistic ink-on-paper depth.
+Creative "Pinterest" Text Overlay:
+
+Center-aligned below the portrait in an ink-printed bold serif font: "{argument name="main text" default="MOST LIKELY TO..."}"
+Below in smaller, elegant italic subtext: "{argument name="subtext" default="“Be the reason you check your phone every 5 minutes.”"}"
+The text features slightly imperfect ink bleeding and natural letter-spacing, mimicking an authentic high-end physical printing process.
+Quality: Raw scan/photo-of-print aesthetic, high dynamic range, visible paper fiber and digital ISO noise in the shadows, 8k resolution, looks physically touchable.
 ```
 
 #### 🖼️ Generated Images
@@ -660,25 +1317,25 @@ a surreal, abstracted alien figure stands in a vast, windswept desert beside its
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13427_0.jpg" width="600" alt="Surreal Alien in Windswept Desert - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12986_0.jpg" width="600" alt="Vintage Yearbook Print Portrait - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 15: Ginger Girl and Fluffy Puppy
+### No. 27: Hyperrealistic Alpine Meadow Smartphone Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-{ &quot;prompt&quot;: { &quot;subject&quot;: { &quot;person&quot;: { &quot;gender&quot;: &quot;female&quot;, &quot;age_group&quot;: &quot;young&quot;, &quot;ha…
+Create a stylish hyperrealistic poster featuring a vibrant, scene with soft lighting and saturated colors. The main subject is a [{argument name="device" defau…
 
 #### 📝 Prompt
 
 ```
-{ &quot;prompt&quot;: { &quot;subject&quot;: { &quot;person&quot;: { &quot;gender&quot;: &quot;female&quot;, &quot;age_group&quot;: &quot;young&quot;, &quot;hair&quot;: { &quot;color&quot;: &quot;vibrant red-orange (ginger yellow)&quot;, &quot;style&quot;: &quot;long, straight, casual, slightly messy hair&quot;, &quot;texture&quot;: &quot;silky, with a few stray hairs visible due to flash&quot; }, &quot;face&quot;: { &quot;shape&quot;: &quot;heart-shaped face, soft, rounded cheeks, delicate jawline&quot;, &quot;skin&quot;: &quot;fair skin, highly refined natural skin texture, visible pores, small hairs, natural blemishes, slightly glossy under flash&quot;, &quot;eyes&quot;: { &quot;color&quot;: &quot;deep, expressive blue&quot;, &quot;shape&quot;: &quot;large eyes, heavy eyelids, slightly droopy almond-shaped (doe eyes)&quot;, &quot;makeup&quot;: &quot;minimalist, natural eyelashes&quot; }, &quot;nose&quot;: &quot;small, delicate, slightly upturned button nose&quot;, &quot;lips&quot;: &quot;full, plump, pouty lips, glossy soft pink, with a slight smile&quot;, &quot;expression&quot;: &quot;Warm, happy, and interacting closely with the camera&quot; } }, &quot;animal&quot;: { &quot;species&quot;: &quot;dog&quot;, &quot;breed&quot;: &quot;Pomeranian puppy&quot;, &quot;color&quot;: &quot;cream/white&quot;, &quot;texture&quot;: &quot;Extremely fluffy and soft fur, illuminated by the flash&quot;, &quot;pose&quot;: &quot;Close to the subject&#39;s cheek&quot;, &quot;expression&quot;: &quot;calm and cute&quot; } }, &quot;environment&quot;: { &quot;setting&quot;: &quot;Bedroom interior&quot;, &quot;background&quot;: { &quot;elements&quot;: [ &quot;Disheveled bed covered with white sheets&quot;, &quot;Gray textured cushions&quot;, &quot;White headboard&quot;, &quot;Warm-glowing bedside lamp in the background&quot; ], &quot;depth_of_field&quot;: &quot;Dark background due to flash decay, casually messy&quot; } }, &quot;lighting&quot;: { &quot;type&quot;: &quot;Direct on-camera flash/hard flash&quot;, &quot;quality&quot;: &quot;Blinding, high-contrast direct light on the face, bright specular highlights on the forehead and cheeks, hard shadows behind the subject&quot;, &quot;mood&quot;: &quot;Candid shots, amateur snapshots, vibrant, realistic&quot; }, &quot;technical_specifications&quot;: { &quot;resolution&quot;: &quot;4K Ultra HD&quot;, &quot;aspect_ratio&quot;: &quot;9:16&quot;, &quot;style&quot;: &quot;Unedited raw photos, authentic amateur photography, zero filters, visible digital noise/grain, high-fidelity texture&quot;, &quot;camera_settings&quot;: &quot;High ISO, fast shutter speed, sharp facial feature focus, cool flash white balance&quot; } } }
+Create a stylish hyperrealistic poster featuring a vibrant, scene with soft lighting and saturated colors. The main subject is a [{argument name="device" default="I phone air"} ] adorned with the [{argument name="logo" default="iphone"}] logo and name, positioned centrally in a blooming alpine meadow. Lush vines and delicate morning glory flowers intricately wrap around the object, as if nature is reclaiming it. The background showcases snow-capped mountains under a cinematic sky. Use a dynamic angle with a shallow depth of field, focusing sharply on the object while blending soft mist and atmospheric haze. The lighting should be sunny contrasting against cool mountain shadows. The color palette combines rich greens, deep blues, and warm tones. Render the scene in a photorealistic DSLR style, with polished details and a cinematic vignette for a high-end editorial look.
 ```
 
 #### 🖼️ Generated Images
@@ -686,174 +1343,166 @@ a surreal, abstracted alien figure stands in a vast, windswept desert beside its
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_17294_0.jpg" width="600" alt="Ginger Girl and Fluffy Puppy - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 16: Tiny Workers Maintaining Luxury Icons
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "prompt_details": { "subjects": [ "Classic red horizontal Coca-Cola can", "Chanel No. 5 perfume bottle" ], "setting": "Golden mirrored tray placed on a vinta…
-
-#### 📝 Prompt
-
-```
-{ "prompt_details": { "subjects": [ "Classic red horizontal Coca-Cola can", "Chanel No. 5 perfume bottle" ], "setting": "Golden mirrored tray placed on a vintage dining table", "characters": "Dozens of tiny workers dressed in standard work clothes and protective gear", "actions": [ "Polishing the Coca-Cola logo and Chanel label", "Scraping off rust and repainting the silver top of the can" , "Clean condensate droplets," "Check crystal perfume caps," "Use pipettes to draw aromatic liquids and seal the edges" ], "environment_details": [ "Scaffold towers lined up on the surface like rocket assemblies", "Miniature ladders and supply carts", "Rising fragrant mist"], "lighting_and_style": [ "Warm vintage restaurant lighting blended with soft, elegant golden tones", "Cinematic tilt-shift macro focus", " Surreal charm and industrial detail" ], "aspect_ratio": "--ar 3:4" }, "combined_prompt": "A wide-angle, cinematic tilt-shift macro perspective, with a classic red Coca-Cola can placed horizontally and an elegant bottle of Chanel No. 5 perfume placed side by side on a golden mirrored tray, set on a vintage dining table. Dozens of miniature workers, some in denim work clothes, others in white protective suits, crowded around these two objects. Precision scaffolding towers are arranged on the surfaces of two items like rocket assemblies, equipped with miniature ladders and supply carts. Workers are busy polishing the Coca-Cola logo, scraping off rust, wiping off condensation droplets, while others check crystal perfume caps, draw golden aromatic liquids with pipettes, and polish Chanel labels, with faint fragrant mist rising into the air. The setting is perfectly illuminated by warm vintage restaurant lighting and soft, elegant golden tones, with light reflected on metal, glass, and condensed water droplets, highlighting a surreal fusion of high-end charm and miniature industrial details -- AR 3:4" }
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_18366_0.jpg" width="600" alt="Tiny Workers Maintaining Luxury Icons - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 17: Professional Corporate Flowchart Conversion
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Convert this hand-drawn whiteboard sketch into a professional corporate flowchart suitable for a business presentation. Style Guide : Use a minimalist 'McKinse…
-
-#### 📝 Prompt
-
-```
-Convert this hand-drawn whiteboard sketch into a professional corporate flowchart suitable for a business presentation. Style Guide : Use a minimalist 'McKinsey-style' aesthetic : clean lines, ample whitespace, and a sophisticated blue-and-gray color palette. Structure : Automatically align all boxes and diamonds to a strict grid . Connect them with straight, orthogonal arrows (90-degree angles only, no curvy lines). Text : Transcribe the handwritten labels into a clear, bold Sans-Serif font (like Arial or Roboto). Output : High-resolution vector-style image on a pure white background.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22352_0.jpg" width="600" alt="Professional Corporate Flowchart Conversion - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 18: Cinematic Fashion Watercolor Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Use the uploaded image as reference, A blend of high-end illustrative realism with delicate ink lines and soft watercolor strokes. Highly detailed depictions o…
-
-#### 📝 Prompt
-
-```
-Use the uploaded image as reference, A blend of high-end illustrative realism with delicate ink lines and soft watercolor strokes. Highly detailed depictions of faces with porcelain skin texture, delicate blush, and expressive sparkling eyes. Dynamic compositions of close-up portraits. Crisp white negative space backgrounds overlaid with architectural outlines, geometric construction grids, and technical drawing elements. Flowing strands of hair and fabric edges dissolve into abstract, transparent shards of color and paint splatters. A soft pastel palette (soft blues, warm yellows, pale pinks, light grays) with controlled saturation. An elegant balance between precise sketch lines and loose, atmospheric paint effects. A cinematic editorial illustration aesthetic with a modern fashion art feel, dreamy yet sharp, minimalist yet rich in detail. High-resolution, vertical portrait, 4k quality.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_11140_0.jpg" width="600" alt="Cinematic Fashion Watercolor Portrait - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09051_0.jpg" width="600" alt="Hyperrealistic Alpine Meadow Smartphone Poster - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_11140_1.jpg" width="600" alt="Cinematic Fashion Watercolor Portrait - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09051_1.jpg" width="600" alt="Hyperrealistic Alpine Meadow Smartphone Poster - Image 2">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 19: Nightlife Baddie Car Portrait
+### No. 28: AI Lighting Control Demo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-{ "prompt_type": "Ultra Photorealistic Nightlife Portrait", "subject": { "demographics": "Young female with a 'baddie' / influencer aesthetic", "appearance": {…
+Nano Banana Pro generates beautiful images even if you leave it to us, but if you specify the lighting details, it will generate images accordingly. You can sp…
+
+#### 📝 Prompt
+
+```
+Nano Banana Pro generates beautiful images even if you leave it to us, but if you specify the lighting details, it will generate images accordingly. You can specify compositions and topics, and since you seem to be learning a lot, it's highly versatile.
+Left: {argument name="Lighting specification" default="No specification"}
+Right: {argument name="Writing specification" default="Specification"}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10290_0.jpg" width="600" alt="AI Lighting Control Demo - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10290_1.jpg" width="600" alt="AI Lighting Control Demo - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 29: High Fidelity Fitness Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+[Header] (9:16) Raw high-fidelity photograph, iPhone 17 Pro sensor simulation, professional studio lighting, zero bokeh, SHARP focus from the foreground lavend…
+
+#### 📝 Prompt
+
+```
+[Header] (9:16)
+Raw high-fidelity photograph, iPhone 17 Pro sensor simulation, professional studio lighting, zero bokeh, SHARP focus from the foreground lavender mat to the background topographic wall panels, f/8 aperture for absolute structural depth, subtle digital grain.
+
+[Subject & Identity Locking]
+Identity: Absolute preservation of Image A’s specific facial geometry, emphasizing the almond eye shape, high lip volume, and defined chin structure.
+Hair Physics: The hair must exhibit high-definition strand separation, cascading naturally down the back and over the shoulders, reflecting the warm amber backlighting.
+Bio-Fidelity: Detailed skin physics including micro-pores, satin-finish hydration, and visible fine vellus hair along the jawline. Precise anatomical rendering of the hands resting on the furniture.
+Expression: Magnetic presence; a self-assured, wide smile with high-saturation ruby-red lipstick, directed toward the camera lens.
+[Outfit & Physicality]
+Technical Description: High-impact technical marl-grey performance-wear set.
+Upper Geometry: Long-sleeved compression-fit cropped top with a minimalist crew-neck architecture.
+Lower Geometry: Matching high-waisted performance leggings featuring technical shaded textile architecture (contouring lines) that emphasize the gluteal proportions and lower-body silhouette.
+Surface Physics: High-tensile material-to-skin surface compression. The fabric must exhibit realistic physical tension lines and micro-knit textures, specifically where it contours the gluteal proportions and proximal limb geometry.
+Physicality: Confident self-assured kneeling pose with extreme torso torsion (S-curve). High-fidelity rendering of the anatomical waist-to-hip ratio and symmetrical muscle-to-skin interaction.
+[Pose & Composition]
+Geometry: High-impact torsion pose. The subject is kneeling on her left knee on a {argument name="mat color" default="lavender"} technical foam mat, leaning her upper body against a neutral-toned bouclé-textured sofa.
+Framing: Medium full-shot. The composition is angled to highlight the posterior silhouette and the athletic-to-lean transition characteristic of Image A.
+Anatomy: Realistic shoulder-joint displacement as she leans; zero AI distortion in the spinal curve.
+[Environment & Lighting]
+Atmosphere: Modern minimalist fitness studio or high-end domestic gym.
+Interior Details: Lavender-colored technical foam yoga mat on a light-oak hardwood floor. The background features a large topographic abstract wall panel with 3D-contoured textures.
+Lighting: Dual-source lighting configuration. A cool-toned front light ensures clarity on the face and textile texture, while a warm amber-to-pink LED backlight creates a glow along the topographic wall and the subject’s silhouette.
+Background Integrity: All background architectural elements must remain in sharp focus with zero artificial blurring to maintain a professional photographic aesthetic.
+[Failure Prevention Rule]
+Co
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_11459_0.jpg" width="600" alt="High Fidelity Fitness Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 30: Quiet Moment Remembered
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "concept": "a quiet moment that feels remembered rather than photographed", "subject": { "type": "young man", "age": "early 20s", "presence": "subtle, almost…
 
 #### 📝 Prompt
 
 ```
 {
-  "prompt_type": "Ultra Photorealistic Nightlife Portrait",
+  "concept": "a quiet moment that feels remembered rather than photographed",
   "subject": {
-    "demographics": "Young female with a 'baddie' / influencer aesthetic",
-    "appearance": {
-      "skin": "Fair complexion, smooth texture with realistic skin pores and subtle highlights",
-      "hair": "Long, straight platinum blonde hair with distinct {argument name="hair highlight color" default="hot pink"} face-framing highlights (money pieces)",
-      "face": "Symmetrical features, sharp jawline",
-      "makeup": "Soft glam look, winged eyeliner, sculpted brows, nude glossy lips with specular highlights"
-    },
-    "pose": {
-      "body_position": "Sitting in the backseat of a car, slightly angled to the right",
-      "hands": "Resting naturally on the car seat and lap",
-      "gaze": "Direct eye contact with the camera, confident and alluring expression"
-    }
+    "type": "young man",
+    "age": "early 20s",
+    "presence": "subtle, almost unnoticed within the frame",
+    "expression": "emotion held back, eyes suggesting unfinished thoughts",
+    "skin_tone": "natural muted tone with real-life unevenness",
+    "features": "unposed face, relaxed posture, human imperfections preserved"
   },
-  "fashion": {
-    "outfit_type": "Matching white faux-fur co-ord set",
-    "garments": [
-      {
-        "item": "Cropped jacket/top",
-        "details": "Long sleeves, fluffy white faux fur texture, collared neckline, silver zipper partially zipped"
-      },
-      {
-        "item": "Mini skirt",
-        "details": "Matching fluffy white faux fur, high-waisted, fitted"
-      }
+  "scene": {
+    "environment": "abandoned outdoor bus stop near a dried riverbed",
+    "location": "cracked concrete shelter, faded signage, tall wild grass reclaiming the area",
+    "props": "old bench, weathered backpack, torn paper timetable",
+    "time_of_day": "late evening just before blue hour fades",
+    "weather": "still air, faint dust particles floating"
+  },
+  "composition": {
+    "style": "5-image narrative grid, non-linear storytelling",
+    "shots": [
+      "extreme close-up of fingers resting on the bench, shallow focus",
+      "reflection of the subject in a scratched metal surface, face partially distorted",
+      "medium shot from behind, subject seated and slightly slouched",
+      "side profile framed through tall grass in the foreground",
+      "wide static shot where the subject appears small, almost dissolving into space"
     ],
-    "styling_details": "Exposed midriff showing toned stomach, minimal jewelry (delicate necklace)",
-    "fabric_texture": "High-detail plush fur rendering, realistic fabric softness"
-  },
-  "environment": {
-    "location": "Luxury vehicle interior (backseat)",
-    "foreground_elements": "Black leather car seats with visible stitching and texture, car door panel",
-    "background_elements": "Car window showing a dark night scene",
-    "ambiance": "Nightlife, exclusive, transit to an event"
+    "camera_angles": "observational, imperfect, slightly off-center",
+    "framing": "intentional imbalance, negative space dominating the frame"
   },
   "lighting": {
-    "type": "Direct Flash Photography / Paparazzi Style",
-    "characteristics": [
-      "High contrast",
-      "Subject brightly illuminated",
-      "Dark fall-off in the background",
-      "Hard shadows behind the subject against the seat",
-      "Reflective catchlights in eyes"
-    ],
-    "environment_lighting": "Subtle bokeh of yellow and white streetlights visible through the rear window"
+    "type": "natural residual daylight",
+    "quality": "soft, fading, low-energy light",
+    "color_temperature": "cool desaturated blues with hints of warm decay",
+    "shadows": "subtle, undefined, realistic"
+  },
+  "visual_style": {
+    "mood": "nostalgic, suspended, emotionally restrained",
+    "color_grading": "washed-out tones with gentle color separation",
+    "contrast": "very low, almost flat",
+    "film_look": "experimental indie film / memory archive aesthetic",
+    "realism": "raw, anti-gloss, intentionally imperfect"
   },
   "camera_settings": {
-    "style": "Flash portrait",
-    "focal_length": "35mm (capturing subject and car interior context)",
-    "aperture": "f/4.0 (sharp subject focus)",
-    "shutter_speed": "1/125s",
-    "iso": "400",
-    "composition": "Medium shot, eye-level, centered subject"
+    "lens": "40mm–58mm documentary-style lens",
+    "depth_of_field": "selective focus, occasionally soft",
+    "focus": "priority on atmosphere over sharpness"
   },
-  "technical_specifications": {
-    "quality_tags": [
-      "8k resolution",
-      "Raw photo",
-      "Hyper-realistic skin texture",
-      "Ray tracing",
-      "Unreal Engine 5 render style",
-      "Detailed fur simulation",
-      "Flash photography aesthetic"
-    ]
+  "quality": {
+    "resolution": "4K",
+    "detail": "natural textures, visible wear, realistic surfaces",
+    "noise": "organic grain resembling scanned film",
+    "artifacts": "none, no AI distortions"
   }
 }
 ```
@@ -863,25 +1512,27 @@ Use the uploaded image as reference, A blend of high-end illustrative realism wi
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03646_0.jpg" width="600" alt="Nightlife Baddie Car Portrait - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03003_0.jpg" width="600" alt="Quiet Moment Remembered - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 20: Tropical Beach Fashion Portrait
+### No. 31: Cinematic Night City Triptych Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-use image1 exactly as the main indetity anchor { "prompt": "A photorealistic fashion portrait of a young blonde woman lounging in a tropical beach cabana, wear…
+use the uploaded photo as the exact identity reference. keep the same person, same face, same facial features, same proportions and natural expression, create…
 
 #### 📝 Prompt
 
 ```
-use image1 exactly as the main indetity anchor { "prompt": "A photorealistic fashion portrait of a young blonde woman lounging in a tropical beach cabana, wearing a soft pastel yellow off-shoulder ruffled crop top with sheer long sleeves and a matching flowing maxi skirt. Sun-dappled natural light filters through palm leaves, creating soft shadow patterns across her skin and outfit. Luxury resort setting with white draped cabanas, palm trees, woven straw accessories, and a serene island atmosphere. Editorial vacation fashion photography, high detail, warm golden tones, realistic skin texture, shallow depth of field, elegant summer aesthetic.", "negative_prompt": "blurry, low resolution, distorted anatomy, extra fingers, malformed hands, unrealistic face, oversaturated colors, cartoon, anime, CGI, watermark, text, logo, bad proportions", "size": "1024x1792", "style": "photorealistic", "camera": { "angle": "fashion editorial portrait", "lens": "85mm", "aperture": "f/2.0" }, "lighting": "natural sunlight with palm leaf shadows", "composition": "vertical portrait, centered subject, luxury resort editorial framing" }
+use the uploaded photo as the exact identity reference. keep the same person, same face, same facial features, same proportions and natural expression, create a photorealistic cinematic triptych portrait (three-frame composition in one image).
+
+scene: night city, bridge over a busy road, moving cars, glowing street lights, evening sky, city skyline in the background. atmosphere: freedom, motion, youth, urban romance, feeling of wind and road. frame 1 (top): wide cinematic shot - the person standing on a bridge above a busy road, slight motion blur from head movement, city lights and cars below, strong urban night mood. frame 2 (middle): medium shot person leaning on the bridge railing, looking up at the sky, relaxed confident pose, cars and headlights glowing behind. frame 3 (bottom): close-up emotional portrait wind in hair, city lights in bokeh behind, thoughtful and dreamy expression. style: real photography, cinematic lifestyle portrait, urban fashion photography. lighting, natural city night lighting, street lamps, car headlights, soft glow on skin. camera: full-frame dslr, 85mm lens look, shallow depth of field. color grading: warm city lights mixed with cool blue night tones, film-style mood. ultra photorealistic, natural skin texture, real candid moment, no illustration, no cgi, no plastic skin, no text, no logos, no watermark.
 ```
 
 #### 🖼️ Generated Images
@@ -889,33 +1540,25 @@ use image1 exactly as the main indetity anchor { "prompt": "A photorealistic fas
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13471_0.jpg" width="600" alt="Tropical Beach Fashion Portrait - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05483_0.jpg" width="600" alt="Cinematic Night City Triptych Portrait - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 21: Strawberry Sparkling Water Ad
+### No. 32: Vibrant Red Dress Caricature Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Start on a soft pastel pink background, empty and still. A silver aluminum can labeled “life by colis – Sparkling Strawberry – Certified Organic” slowly fades…
+Create A vibrant, digital caricature-style illustration of a smiling woman [ use the uploaded photo as reference] with light red dress. The art style features…
 
 #### 📝 Prompt
 
 ```
-Start on a soft pastel pink background, empty and still. A silver aluminum can labeled “life by colis – Sparkling Strawberry – Certified Organic” slowly fades into view, standing slightly tilted, covered in realistic condensation droplets. Ambient studio lighting is soft and premium.
-
-Suddenly, a fresh strawberry drops from above in slow motion and strikes the top of the can. On impact, the strawberry bursts through the opening, releasing a vivid red strawberry juice splash that erupts outward in a frozen, sculptural arc. Tiny strawberry fragments and juice droplets scatter naturally through the air.
-
-As the splash expands, green strawberry leaves drift into frame, gently rotating and settling around the can. The liquid splash remains suspended mid-air, glossy and highly detailed, emphasizing freshness and energy.
-
-Camera movement is slow, cinematic, and smooth, with a subtle push-in toward the can. Lighting highlights the metallic texture , water droplets, and juicy translucency of the splash. Depth of field remains shallow with the background clean and uncluttered.
-
-End on a hero frame matching a luxury beverage advertisement dynamic yet elegant, hyper-realistic, high contrast, crisp details, no camera shake, no extra elements added.
+Create A vibrant, digital caricature-style illustration of a smiling woman [ use the uploaded photo as reference] with light red dress. The art style features bold black outlines, expressive facial features, and a clean white background with playful red accent marks around her head to convey high energy and joy. Vertical portrait, 4K. High resolution.
 ```
 
 #### 🖼️ Generated Images
@@ -923,35 +1566,37 @@ End on a hero frame matching a luxury beverage advertisement dynamic yet elegant
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01924_0.jpg" width="600" alt="Strawberry Sparkling Water Ad - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_11115_0.jpg" width="600" alt="Vibrant Red Dress Caricature Portrait - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 22: High End Watercolor Fashion Portrait
+### No. 33: Frost Fairy Winter Gaze
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-{ "input_type": "image_to_image", "target_image": "UPLOAD_IMAGE_HERE", "prompt": "Use the uploaded reference image to preserve the woman’s exact facial identit…
+Face: An open and refined face of a girl with a light frost-kissed blush. Her fair, clear skin conveys a sense of freshness and cold. Her hair is slightly tous…
 
 #### 📝 Prompt
 
 ```
-{
-  "input_type": "image_to_image",
-  "target_image": "UPLOAD_IMAGE_HERE",
-  "prompt": "Use the uploaded reference image to preserve the woman’s exact facial identity, proportions, and skin tone with zero alteration. Transform the scene into a high-end watercolor-style Western fashion editorial portrait that feels minimalist, sensual, and powerful. Depict a young South Asian woman in her early 20s with a light brown complexion and a curvy, confident silhouette. Her natural curly dark hair flows freely with a soft, organic watercolor texture. Makeup appears editorial-clean in watercolor form: luminous skin washes, delicately sculpted cheekbones, softly diffused smoky eyes, and muted glossy lips rendered through gentle pigment layering. She wears a nude, champagne, or sand-toned satin or silk Western couture ensemble, interpreted through translucent watercolor washes and fluid brushwork—elegant, tasteful, and refined. Pose shows strong Western editorial confidence: weight shifted onto one leg, hips relaxed, one arm resting lightly, chin subtly lifted, expression calm, self-assured, and dominant through presence. Background is a solid monochrome watercolor wash in warm taupe, muted beige, or soft stone grey, with no props or distractions. Lighting is translated into watercolor through soft tonal transitions, gentle highlights on cheekbones and collarbones, and smooth shadow gradients. Overall mood is Western luxury, restrained sensuality, confidence, and modern femininity, rendered as a refined watercolor fashion illustration, not photorealistic and not digital.",
-  "style": "high-end watercolor fashion illustration",
-  "preserve_identity": true,
-  "preserve_face": true,
-  "style_strength": 0.8,
-  "quality": "16K",
-  "negative_prompt": "photorealistic, oil painting, acrylic texture, digital illustration, harsh outlines, cartoon style, anime, explicit content, exaggerated anatomy, cluttered background"
-}
+Face: An open and refined face of a girl with a light frost-kissed blush. Her fair, clear skin conveys a sense of freshness and cold. Her hair is slightly tousled and pulled back, with strands covered in frost, enhancing the winter effect.
+
+Outfit: The shoulders and décolleté area are covered with a layer of frost and snow crystals, as if she has just stepped out into the cold. A black knitted dress, one shoulder slightly exposed. The key accent is a wreath made of branches with bright red berries, partially covered with frost and snow.
+
+Pose: The pose is calm and graceful. The girl looks directly into the camera; her gaze is mysterious and engaging, creating a sense of direct connection with the viewer.
+
+Background: The background is blurred, rendered in cool bluish-gray tones reminiscent of a snowy forest or winter haze. There are no bright accents, supporting the feeling of a frosty fairy tale.
+
+Lighting: Soft, natural lighting typical of an overcast winter day. The light reflects off the snow crystals on her skin and on the berries, creating a gentle magical glow.
+
+Mood: The atmosphere of a winter fairy tale, magical and slightly mystical. It feels as if an ice fairy from an enchanted forest is looking at you.
+
+Camera: The camera is focused on the girl, using a shallow depth of field. The face, wreath, and frost on the skin are sharply detailed, while the background is softly blurred.
 ```
 
 #### 🖼️ Generated Images
@@ -959,25 +1604,31 @@ End on a hero frame matching a luxury beverage advertisement dynamic yet elegant
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12487_0.jpg" width="600" alt="High End Watercolor Fashion Portrait - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24139_0.jpg" width="600" alt="Frost Fairy Winter Gaze - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 23: Dong Yuhui Paper Art Figure
+### No. 34: Cinematic Girl in White Flowers
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-On the wooden desk sits a playful handmade paper artwork: a hand-drawn cartoon [Dong Yuhui] is cut from paper and folded into a three-dimensional standing mini…
+Экстремально крупный план лица. Девушка сидит в кустах цветов белых мелких и прижимая к себе ветку от дерева с этими цветами Вокруг много цветов Одета в нежно…
 
 #### 📝 Prompt
 
 ```
-On the wooden desk sits a playful handmade paper artwork: a hand-drawn cartoon [Dong Yuhui] is cut from paper and folded into a three-dimensional standing minifigure. [Dong Yuhui] [Clasp fists in congratulations]. On the paper beside it, not only is there that blank silhouette, but also a handwritten phrase: [Walking with Hui, living up to youth]. Aspect ratio: 1080 x 1080
+Экстремально крупный план лица. Девушка сидит в кустах цветов белых мелких и прижимая к себе ветку от дерева с этими цветами 
+Вокруг много цветов 
+Одета в нежно зелёный корсет с вышитыми зелёными цветами 
+На шее шифоновый нежно зелёный шарф завязан в бантик и развивается на ветру
+На переднем плане сбоку частично цветы размытые не в фокусе для движения  Волосы объемные  длинные блестящие частично падают на лицо Кинематографический эффект с добавлением зерна. Ногти френч
+Кожа идеальная подсвечена 
+Не меняй черты лица
 ```
 
 #### 🖼️ Generated Images
@@ -985,25 +1636,25 @@ On the wooden desk sits a playful handmade paper artwork: a hand-drawn cartoon [
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19454_0.jpg" width="600" alt="Dong Yuhui Paper Art Figure - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22958_0.jpg" width="600" alt="Cinematic Girl in White Flowers - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 24: Snowy Evening Fur Elegance
+### No. 35: Stillness Amid Blurred Crowds
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Using my photo, create a photo of a young woman with very long wavy hair standing against a modern city building made of dark marble, decorated with garlands.…
+An Alpine-style woman in her early twenties, dressed in black minimalist clothing, stands still and stares into the camera, her head turned toward the center o…
 
 #### 📝 Prompt
 
 ```
-Using my photo, create a photo of a young woman with very long wavy hair standing against a modern city building made of dark marble, decorated with garlands. She is wearing a voluminous, fluffy natural fur coat in gray. The girl looks at the camera over her shoulder, snowflakes are visible in her hair. Soft snow is falling. In the background, snow-covered steps, a city street, and high-rise buildings in a misty haze are visible, also decorated with garlands, creating a New Year's atmosphere. The lighting is natural and cold, an evening winter day. Cinematic look, high detail, realism, winter city aesthetics. Do not change the face.
+An Alpine-style woman in her early twenties, dressed in black minimalist clothing, stands still and stares into the camera, her head turned toward the center of the frame, surrounded by blurred silhouettes of crowds. Her expression was calm and resolute. The background is clean, bright, and slightly abstract, emphasizing the contrast between the blurred movement and the static imagery. Editorial style, cinematic composition, pure art photography, soft magazine texture, high resolution. --ar 4:5
 ```
 
 #### 🖼️ Generated Images
@@ -1011,25 +1662,32 @@ Using my photo, create a photo of a young woman with very long wavy hair standin
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_26047_0.jpg" width="600" alt="Snowy Evening Fur Elegance - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15000_0.jpg" width="600" alt="Stillness Amid Blurred Crowds - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 25: Skyfall Smile From Above
+### No. 36: Water Dragon VS Fire Dragon Battle
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Create an aerial image merging with the sky above latitude 35.658807120369914, 139.74540071108495. Make the designated figure appear to have fallen from that p…
+Zhuge Liang and Kongming (human) VS Sima Yi Zhongda ファイナルファンタジーXみたいな Water Dragon VS Fire Dragon Truly an unparalleled chaotic dance Filling the screen Knock o…
 
 #### 📝 Prompt
 
 ```
-Create an aerial image merging with the sky above latitude 35.658807120369914, 139.74540071108495. Make the designated figure appear to have fallen from that position and blend into the image. A person with a smile and looking very happy. An ordinary everyday photo taken with a low-resolution disposable camera. A rough photo taken by a Japanese high school student.
+Zhuge Liang and Kongming (human) VS Sima Yi Zhongda
+ファイナルファンタジーXみたいな
+Water Dragon VS Fire Dragon
+　
+Truly an unparalleled chaotic dance
+
+Filling the screen
+Knock out the weak characters as much as you can!
 ```
 
 #### 🖼️ Generated Images
@@ -1037,40 +1695,20 @@ Create an aerial image merging with the sky above latitude 35.658807120369914, 1
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19889_0.jpeg" width="600" alt="Skyfall Smile From Above - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13885_0.jpg" width="600" alt="Water Dragon VS Fire Dragon Battle - Image 1">
 </div>
 
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 26: Pier Night Flash Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-(9:16) Original high-fidelity photo, high-angle medium shot. iPhone 17 Pro analog, 24mm wide-angle, f/2.8, sharp subject focus, realistic digital graininess. S…
-
-#### 📝 Prompt
-
-```
-(9:16) Original high-fidelity photo, high-angle medium shot. iPhone 17 Pro analog, 24mm wide-angle, f/2.8, sharp subject focus, realistic digital graininess. Scene: The subject occupies about 65% of the frame in a crouching/kneeling position. Above, 40% is the pitch-black night sky and the dim water surface of the pier; The lower 20% is a textured stone brick floor. The camera is positioned about 1.5 meters above the main body, tilted downward. Identity Locking: Inheriting all facial features from the selfies provided (face shape, bone structure, eyes, nose, lips, skin tone, hair). Photogenic enhancement: Naturally clear skin with preserved texture, even skin tone, subtle glow, delicate jawline shading, soft nose highlighter, soft cheekbone highlighter, enhanced iris eye light, natural lash parting, groomed eyebrows, pearl-white teeth, salon-grade hairstyle for smooth strands. Biofidelity includes micropores, moist T-zones, and fine hairs. Expression: a contemplative, neutral expression. Gaze about 45° to the front right of the lens. Lips slightly parted, eyebrows relaxed, head slightly tilted to the right. Hairstyle: Carry over the hair color/texture from selfies. Long, smooth straight hair, part in the middle, hanging behind the shoulders. Strong flash highlights create a sense of separation in the hair. Makeup: bright pink lip gloss, sheer base makeup, black eyeliner lifted, defined lashes, soft blush. Accessories: Fine gold chain necklace with a small heart pendant; On the left shoulder, a silver shoulder strap with crystal inlay; Wear a gold bracelet/watch on the left wrist. Clothing: Light gray ribbed knit off-shoulder mini dress, long sleeve. White floral lace tights. Dark stone slab gray suede over-the-knee boots. Realistic fabric tension, elbow/waist pleats; Delicate lace interacts with the skin. A clear S-shaped silhouette enhances the geometry of the waist, hips, and legs. Posture: Tilt your torso and hips to the right about 45°. The head turns further to the right, looking out of the frame. Squat low on the stone pavement, arms naturally relaxed forward, finger joints natural. Atmosphere: The melancholic aesthetics of urban nightscapes. Color palette: Slate gray, optical white, agate black, light gold. Lighting: The camera emits a glaring direct flash (about 6500K), with bright skin highlights and deep shadows. High-contrast flash photography effects. Setting: Nighttime dock/waterfront—dark water surface with vertical pier light reflections, a blurred white yacht in the center left, and large textured gray stone bricks underfoot. Sharp main body shadows fixed on the ground.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
+##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_18228_0.jpg" width="600" alt="Pier Night Flash Portrait - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13885_1.jpg" width="600" alt="Water Dragon VS Fire Dragon Battle - Image 2">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 27: Crimson Elegance in Grand Museum
+### No. 37: Crimson Elegance in Grand Museum
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1121,18 +1759,37 @@ Create an aerial image merging with the sky above latitude 35.658807120369914, 1
 
 ---
 
-### No. 28: Stylish Man Street Fashion Editorial
+### No. 38: Studio Activewear Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A stylish {argument name="subject" default="young man"} stands centrally poised facing the camera in a confident, neutral stance with his weight subtly shifted…
+Aspect ratio: 4:5 Scenario description: Overall Scene: A high-resolution, unedited original photograph depicting a woman in a dynamic pose against a pure white…
 
 #### 📝 Prompt
 
 ```
-A stylish {argument name="subject" default="young man"} stands centrally poised facing the camera in a confident, neutral stance with his weight subtly shifted, his face framed by a neatly trimmed beard and wavy dark brown hair styled with a slightly wet look. His relaxed eyes are concealed behind dark aviator sunglasses, exuding a casual yet sophisticated elegance without a smile. He is dressed in a textured {argument name="shirt style" default="rust-brown short-sleeve linen shirt"} with the top buttons undone and cuffs gently rolled, tucked into high-waisted navy blue pleated trousers secured by a woven belt, accessorized seamlessly with a watch on his left wrist. His relaxed right hand hangs naturally at thigh level, fingers curled effortlessly around the handles of a grey paper shopping bag, while his left hand rests casually inside his front left trouser pocket with his thumb and fingers subtly tucked into the opening. Behind him, the deep spatial depth of an outdoor {argument name="location" default="European city street"} unfolds, isolating the medium-scaled subject against a beautifully blurred vintage building facade in the midground. The smooth, matte warm beige and tan plaster walls reveal a subtle color gradient, elegant architectural molding, dark arched wooden doors, and metal window grilles, anchored by a weathered dark metal classic street bollard on the right and a solid dark gray asphalt concrete floor below. Deeper in the blurred background to the left, a thriving pedestrian wearing a tan and mustard top with dark pants is captured looking down at a phone. The scene is bathed in warm, golden, soft diffused natural daylight from a single source above, casting soft, gradual gray shadows under his collar, his chin, and within the rich folds of his linen shirt, while preserving delicate specular highlights on his forehead, the tip of his nose, and the shoulders of his shirt. The complementary medium-contrast color palette of rust brown, warm beige, navy blue, and dark charcoal creates an inviting, highly stylized urban menswear moment accompanied by ambient fill light. Captured straight-on as a realistic digital street photograph using an 85mm lens at a wide aperture with a 1/500s shutter speed and ISO 100, the tack-sharp, grain-free focus on the subject contrasts beautifully with the shallow depth of field and bokeh of the background. The aesthetic strongly mirrors Pitti Uomo and men's fashion editorial street style, finished with warm earthy color grading, subtle contrast enhancement, and pristine skin tone preservation, all perfectly framed in a 2:3 aspect ratio.
+Aspect ratio: 4:5
+Scenario description:
+Overall Scene: A high-resolution, unedited original photograph depicting a woman in a dynamic pose against a pure white seamless studio background. The lighting in the setting is even, using soft studio lighting. The entire image is clearly focused, with no background blur or depth of field effects; the subject and background show equally clear detail.
+Main Body:
+Character: A young woman with brown curly shoulder-length hair.
+Posture: Sit on the floor with your right arm supporting yourself backward. Left leg bent, feet on the floor. Straighten your right leg and lift it upward. She looked straight into the camera, smiling.
+Clothing: Gray short-sleeved jumpsuit with buttons on the front. Dark charcoal gray, with visible fabric texture. White mid-calf socks rolled above the ankle, with visible knit texture. Chunky sneakers, gray-white New Balance style dad sneakers with distinct soles and patchwork. The shoes are clearly focused on both feet (one on the floor, the other lifted).
+Distinctive feature: a delicate small tattoo on the inner right forearm near the wrist.
+Environment:
+Floor: Clean, smooth white studio flooring.
+Background: Seamless, pure white studio walls extending from the floor.
+Technical Specifications:
+Camera: Sony A7R IV full-frame mirrorless camera.
+Lens: Sony FE 50mm f/1.8 lens.
+Settings: aperture f/11 (for deep depth of field and overall scene sharpness), shutter speed 1/250 sec (for freezing pose), ISO 100 (for low noise).
+Lighting: Two large softboxes (main and fill light) and a background reflector provide even, clean light with minimal and distinct shadows.
+Focus: Sharply focus on the subject's face, extending to the feet and background.
+Color profile: natural, unedited original colors.
+Image quality: 4K resolution, HD photography, clean and uncompressed original file feel, high color fidelity, natural film grain (minimized at ISO 100).
+Post-processing instructions: Do not use artificial background blur (blur) or excessive smoothing. The depth of field should be relatively wide, determined by the f/11 aperture setting. The textures of the bodysuits, socks, sneakers, skin, and hair should be highly detailed and clear. The white background should remain uniform and bright white, without blurring.
 ```
 
 #### 🖼️ Generated Images
@@ -1140,69 +1797,31 @@ A stylish {argument name="subject" default="young man"} stands centrally poised 
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09564_0.jpg" width="600" alt="Stylish Man Street Fashion Editorial - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 29: Character Family Photo Creator
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create family photos by imagining the family structure and home environment of the characters and people in the reference images.
-
-#### 📝 Prompt
-
-```
-Create family photos by imagining the family structure and home environment of the characters and people in the reference images.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01138_0.jpg" width="600" alt="Character Family Photo Creator - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_18532_0.jpg" width="600" alt="Studio Activewear Fashion Portrait - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01138_1.jpg" width="600" alt="Character Family Photo Creator - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01138_2.jpg" width="600" alt="Character Family Photo Creator - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01138_3.jpg" width="600" alt="Character Family Photo Creator - Image 4">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_18532_1.jpg" width="600" alt="Studio Activewear Fashion Portrait - Image 2">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 30: Chibi Biker Golden Sunset Ride
+### No. 39: Gold Afterparty Surreal Glamour
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Ultra-realistic, cinematic vertical 9:16 shot of Gugo Gaga, a small chibi-style character with short black hair and gray eyes, wearing a {argument name="charac…
+{ "version": "1.0", "aspect_ratio": "3:4", "subject": { "identity": "Ana de Armas", "fidelity": "Precise facial preservation, highly detailed skin texture", "e…
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic, cinematic vertical 9:16 shot of Gugo Gaga, a small chibi-style character with short black hair and gray eyes, wearing a {argument name="character outfit" default="plush penguin onesie"} with a giant zipper detail at the neck. The character is in an extremely happy, joyful mood with eyes closed and a wide, laughing mouth. Gugo Gaga is sitting on a {argument name="vehicle" default="vintage teal and chrome cruiser motorcycle"} parked on a {argument name="setting" default="winding coastal highway"}. The lighting is soft golden hour sunset, casting a warm glow over the scene with a blurred ocean and mountain background. 8k resolution, highly detailed textures on the plush fabric and polished chrome, commercial photography style.
+{ "version": "1.0", "aspect_ratio": "3:4", "subject": { "identity": "Ana de Armas", "fidelity": "Precise facial preservation, highly detailed skin texture", "expression": { "eyes": "Half-closed eyes, tired but sharp", "mouth": "Slightly parted lips, slightly smudged red lipstick", " gaze": "lazy, confident, the fatigue after the party", "mood": "decadent, surreal charm, beautiful discomfort" }, "pose": { "position": "half-sitting on the white marble bathroom sink", "body_language": "elegantly arched back, chest leaning forward, one arm supporting backward, palm flat on the marble", "legs": "one leg raised, knee bent, foot on the edge of the sink; The other leg hangs down, toes lightly touching the ground", "hands": "Free hand casually resting on the raised knee" } }, "wardrobe_accessories": { "clothing": "Tight gold metallic mini dress with iridescent purple accents, sweetheart neckline, reflective sequin texture, sliding up to reveal upper thigh", "jewelry": [ "Long draped gold earrings", "Layered beaded bracelet", "Elegant luxury watch"], " footwear": "Barefoot" }, "environment": { "setting": "Luxurious bathroom at 3:00 AM", "materials": "White marble countertop, gold finish installation", "key_elements": "Behind the main body is a large floor mirror reflecting multiple reflections on the back and sides", "props": "Scattered champagne glasses, decadent party remnants" }, "lighting_ style": { "aesthetic": "Guy Bourdin's Surrealism Combined with Y2K Millennial Flash Style", "key_light": "Direct Exposure In-Camera Flash (High-Intensity, Y2K Style)", "accent_lights": { "camera_left": "{argument name=\"accent color 1\" default=\" Hot pink and magenta\"} Floodlight", "camera_right": "{argument name=\"accent color 2\" default=\"Electric cyan and blue\"} Contour light" }, "effects": "High-saturation light and shadow play on marble, mirror reflections create a voyeuristic tension, and subtle halos appear in sequin highlights" }, " technical_specs": { "camera": "35mm film aesthetics", "lens": "35mm wide-angle lens, f/2.8 aperture", "angle": "Slightly low angle to emphasize height and dominance", "focus": "Sharp focus on eyes and dress texture", "film_stock_simulation": { "contrast": "High contrast", "grain." ": "Fine film grain", "color_grading": "Strong, saturated, fashionable magazine style" } } }
 ```
 
 #### 🖼️ Generated Images
@@ -1210,25 +1829,25 @@ Ultra-realistic, cinematic vertical 9:16 shot of Gugo Gaga, a small chibi-style 
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09507_0.jpg" width="600" alt="Chibi Biker Golden Sunset Ride - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14856_0.jpg" width="600" alt="Gold Afterparty Surreal Glamour - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 31: Detective's Obsessive Noir Evidence Board
+### No. 40: Lavender Dream Macro Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A detective's evidence board investigating {argument name="subject or mystery" default="[SUBJECT/MYSTERY]"}. Cork surface covered with pinned items: polaroid p…
+Ultra-realistic macro portrait of a woman in a lavender field. Close-up of the face framed by lavender branches; several blossoms softly touch the cheek and te…
 
 #### 📝 Prompt
 
 ```
-A detective's evidence board investigating {argument name="subject or mystery" default="[SUBJECT/MYSTERY]"}. Cork surface covered with pinned items: polaroid photographs with handwritten dates, a street map with circled locations, newspaper clippings with highlighted passages, sticky notes with theories and question marks, and printed documents with redacted black bars. Red string connects related evidence across the board, creating a web of connections. Thumbtacks in primary colors. A single bare bulb casts dramatic shadows. Coffee ring stains on some papers. The atmosphere is obsessive, late-night, noir—someone has been piecing this together for months. A few pins have fallen, suggesting frantic recent activity.
+Ultra-realistic macro portrait of a woman in a lavender field. Close-up of the face framed by lavender branches; several blossoms softly touch the cheek and temple, with one branch tucked in the hair. Focus is sharp on the eye and nearest flowers. The eye is clear with long eyelash extensions and a violet reflection; skin has a natural texture with a light glow and visible vellus hairs. Lavender is botanically precise, background is softly blurred. Warm golden morning light, soft shadows, highlights in the eyes and on petals. The background is a blurred lavender field with a gradient of purple and silver tones. Atmosphere is delicate, poetic, and cinematic. 90mm macro, f/3.2, ISO 100, 6K, natural light.
 ```
 
 #### 🖼️ Generated Images
@@ -1236,76 +1855,25 @@ A detective's evidence board investigating {argument name="subject or mystery" d
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00506_0.jpg" width="600" alt="Detective's Obsessive Noir Evidence Board - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00506_1.jpg" width="600" alt="Detective's Obsessive Noir Evidence Board - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00506_2.jpg" width="600" alt="Detective's Obsessive Noir Evidence Board - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00506_3.jpg" width="600" alt="Detective's Obsessive Noir Evidence Board - Image 4">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23876_0.jpg" width="600" alt="Lavender Dream Macro Portrait - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 32: Resort Western Chic
+### No. 41: Pink Wall Street Fashion Shoot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Use the face in the photo (identity reference). Create an image. Ultra-detailed, ultra-realistic, high-fashion editorial. Concept A warm, minimalist luxury-hom…
+Create a 4:5 medium shot of a woman with long dark hair and dark sunglasses posing against a solid, vibrant pink textured wall. She wears a white corset-style…
 
 #### 📝 Prompt
 
 ```
-Use the face in the photo (identity reference). Create an image. Ultra-detailed, ultra-realistic, high-fashion editorial.
-Concept
-A warm, minimalist luxury-home interior editorial with a confident “resort meets western” vibe. The subject is posed in a relaxed, seductive fashion look—clean composition, natural warmth, and polished magazine styling.
-Composition & Pose
-Full-body, vertical frame (9:16).
-Subject sits sideways on a thick concrete kitchen island/countertop.
-One leg bent up on the counter, the other leg extended downward.
-Torso angled slightly toward camera, shoulders relaxed.
-Head tilted slightly, resting on one hand (elbow on raised knee).
-Expression: calm, sultry, bored-luxury gaze, eyes looking directly at camera.
-Hands and fingers posed softly (no tension), elegant wrist angle.
-Wardrobe & Styling
-Outfit: white triangle two-piece with thin straps and tie-side bottoms (minimal, sleek, not patterned).
-Center detail: small gold ring/connector at the bikini top center.
-Footwear: tall knee-high to mid-knee brown leather boots, equestrian/Western style.
-Multiple straps + metal buckles, slightly structured shafts, low heel.
-Jewelry: bold gold statement necklace (chunky round elements), gold bracelet/bangle, subtle gold accents (no silver).
-Hat: A high-fashion Western cowboy hat in deep espresso or rich chocolate felt, perfectly matching the tone of the leather boots. Structured crown with a sharp center crease and sculpted side dents. Wide, dramatic curved brim with a subtle upward lift at the sides for a powerful silhouette. Smooth matte felt texture (luxury quality, not rustic). Finished with a sleek dark leather hatband that subtly echoes the boot straps — minimal metallic detailing in brushed gold to match the jewelry. The hat sits slightly tilted forward, casting a soft shadow over the eyes for a bold, editorial, confident mood.
-Hair
-Long, sleek, dark brown/espresso hair.
-Smooth, glossy finish with a soft side part.
-Hair falls over shoulders naturally, minimal flyaways, refined editorial polish.
-Korean Makeup (matching this vibe) + Long Lashes
-Skin: semi-matte “clean Korean glam” base, smooth but realistic skin texture (no plastic), soft bronzed warmth.
-Brows: straight-to-soft-arched Korean brow, natural fullness, tidy edges.
-Eyes:
-Soft brown gradient shadow with subtle contour at outer corners (no harsh smoky).
-Thin, sharp brown eyeliner with a tiny lifted wing (fox-eye hint but still Korean).
-Very long, wispy lashes (doll-like length, separated, curled; emphasize outer corners).
-Lower lash: light definition + subtle aegyo-sal highlight (natural, not cartoon).
-Cheeks: muted peach-beige blush placed high (sun-kissed but refined).
-Lips: glossy gradient lip in warm rosy nude / peachy rose (hydrated, slightly overlined softly).
-Highlight: controlled glow on cheekbones and nose bridge (no glitter, no oily shine).
-Environment (Luxury Minimalist Kitchen
+Create a 4:5 medium shot of a woman with long dark hair and dark sunglasses posing against a solid, vibrant pink textured wall. She wears a white corset-style top with black floral patterns and lace trim, paired with black shorts. An oversized black jacket with shearling lining is draped loosely off her shoulders. Bright natural sunlight, sharp shadows, high contrast, bold street fashion photography.
 ```
 
 #### 🖼️ Generated Images
@@ -1313,106 +1881,92 @@ Environment (Luxury Minimalist Kitchen
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10129_0.jpg" width="600" alt="Resort Western Chic - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13172_0.jpg" width="600" alt="Pink Wall Street Fashion Shoot - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 33: AI Mirror Selfie Generation Guide
+### No. 42: Surreal Floating Purple Beverage Can
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-{ "image_generation_prompt": { "goal": "Ultra-realistic smartphone mirror selfie of a {argument name="subject" default="female fashion store owner"} showcasing…
+{ "meta": { "image_quality": "High", "image_type": "Photo (styled/advertisement-like)" }, "global_context": { "scene_description": "A single purple beverage ca…
 
 #### 📝 Prompt
 
 ```
 {
-  "image_generation_prompt": {
-    "goal": "Ultra-realistic smartphone mirror selfie of a {argument name="subject" default="female fashion store owner"} showcasing her {argument name="outfit description" default="outfit"}, indistinguishable from a real Instagram post.",
-    "identity_consistency": {
-      "priority": "critical",
-      "reference": "Use uploaded image as absolute truth",
-      "match": [
-        "face (100% identical)",
-        "body type & proportions",
-        "skin tone & texture (pores, imperfections)",
-        "hair (color, density, natural strands)"
+  "meta": {
+    "image_quality": "High",
+    "image_type": "Photo (styled/advertisement-like)"
+  },
+  "global_context": {
+    "scene_description": "A single purple beverage can suspended centrally among twisting organic vine-like tendrils and glossy leaves. The can is wet with visible water droplets; surrounding environment is dense with curving red-purple roots and foliage creating an otherworldly, saturated backdrop. Foreground and background elements frame the can, producing depth and a floating effect.",
+    "time_of_day": "Studio/indoor controlled lighting (not time-dependent)",
+    "weather_atmosphere": "Humid (visible condensation), surreal",
+    "lighting": {
+      "source": "Artificial (studio key and rim lights)",
+      "direction": "Top-right key with subtle back/rim lighting",
+      "quality": "Soft diffused with specular highlights",
+      "color_temp": "Cool-magenta biased (cool overall with warm accents)"
+    }
+  },
+  "color_palette": {
+    "dominant_hex_estimates": ["#6B1E6C","#A12B5A","#2C1330"],
+    "accent_colors": ["Electric purple","Crimson red"],
+    "contrast_level": "High"
+  },
+  "composition": {
+    "camera_angle": "Eye-level, slight tilt (can angled toward viewer)",
+    "framing": "Close-up (can fills central area)",
+    "depth_of_field": "Shallow (sharp on can, blurred background vines)",
+    "focal_point": "Purple beverage can with logo and water droplets"
+  },
+  "objects": [
+    {
+      "id": "obj_001",
+      "label": "Purple beverage can",
+      "category": "Container/Product",
+      "location": "Center-right",
+      "prominence": "Foreground",
+      "visual_attributes": {
+        "color": "Deep purple with lighter purple gradients",
+        "texture": "Matte aluminum with water droplets, metallic rim",
+        "material": "Aluminum",
+        "state": "Condensed (wet), undented, new",
+        "dimensions_relative": "Large relative to frame (primary subject)"
+      },
+      "micro_details": [
+        "Beading condensation across surface",
+        "Silver metallic top rim with specular highlights",
+        "Subtle printing texture visible under droplets",
+        "Small embossed/printed seal near base"
       ],
-      "rules": [
-        "No stylization or modification",
-        "Same person, not a generic model"
+      "pose_or_orientation": "Slightly tilted, floating",
+      "text_content": "{argument name="can text" default="[FizzyFizz]|TwilightBrew|NebulaPop|VioletRush|CrimsonBloom"}    "
+    },
+    {
+      "id": "obj_002",
+      "label": "Twisting tendrils/roots",
+      "category": "Plant-like elements",
+      "location": "Surrounding (all sides), foreground and background",
+      "prominence": "Both foreground and background",
+      "visual_attributes": {
+        "color": "Red to magenta gradients",
+        "texture": "Glossy, wet, slightly fibrous",
+        "material": "Organic (plant-like)",
+        "state": "Wet, healthy-looking",
+        "dimensions_relative": "Medium-large, weaving across frame"
+      },
+      "micro_details": [
+        "Thin vein-like texture on thicker tendrils"
       ]
-    },
-    "outfit_accuracy": {
-      "priority": "extreme",
-      "reference_required": true,
-      "match": [
-        "fabric, folds, stitching, fit",
-        "wrinkles, tension",
-        "colors (exact)",
-        "layering & proportions"
-      ],
-      "behavior": "Natural wear with realistic gravity and body interaction",
-      "rules": [
-        "Do not redesign, simplify, or improve",
-        "Exact recreation (virtual fitting)"
-      ]
-    },
-    "environment": {
-      "type": "{argument name="environment" default="realistic boutique store"}",
-      "elements": ["mirrors", "clothing racks", "decor"],
-      "lighting": "soft, slightly warm retail lighting",
-      "depth": "realistic spatial depth"
-    },
-    "scene": {
-      "action": [
-        "holding smartphone",
-        "taking mirror selfie",
-        "looking at phone screen"
-      ],
-      "pose": "natural, relaxed, confident, slight hip shift",
-      "energy": "fashion entrepreneur"
-    },
-    "camera": {
-      "type": "smartphone",
-      "aspect_ratio": "5:7 vertical",
-      "framing": "mid to full body",
-      "features": [
-        "slight perspective distortion",
-        "accurate mirror alignment"
-      ]
-    },
-    "lighting_realism": {
-      "style": "natural store lighting, soft shadows, warm tone",
-      "restrictions": ["no studio lighting", "no over-lighting"],
-      "skin": "visible pores, micro-imperfections, subtle shine, no airbrushing"
-    },
-    "realism_details": {
-      "clothing": "visible texture, natural folds & pressure",
-      "mirror": "accurate reflections (phone, arms, depth)",
-      "hands": "anatomically correct, natural grip",
-      "imperfections": [
-        "slight noise",
-        "minor lighting inconsistencies",
-        "depth falloff"
-      ]
-    },
-    "visual_style": {
-      "aesthetic": "instagram fashion",
-      "color": "natural grading, no HDR",
-      "avoid": [
-        "CGI look",
-        "over-sharpening",
-        "artificial smoothness"
-      ]
-    },
-    "final_expectation": "Feels like a real boutique owner casually posting a mirror selfie in her store."
-  }
+    }
+  ]
 }
 ```
 
@@ -1421,2535 +1975,451 @@ Environment (Luxury Minimalist Kitchen
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01729_0.jpg" width="600" alt="AI Mirror Selfie Generation Guide - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06433_0.jpg" width="600" alt="Surreal Floating Purple Beverage Can - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01729_1.jpg" width="600" alt="AI Mirror Selfie Generation Guide - Image 2">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06433_1.jpg" width="600" alt="Surreal Floating Purple Beverage Can - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01729_2.jpg" width="600" alt="AI Mirror Selfie Generation Guide - Image 3">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06433_2.jpg" width="600" alt="Surreal Floating Purple Beverage Can - Image 3">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 34: Wonder Woman Bathroom Grace
+### No. 43: Edgy Fashionista Matte EV Street Style
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-{ "subject": { "desc": "Redhead with strong resemblance to Wonder Woman cosplay, fishnets, fair skin with subtle golden undertone, long straight red hair over…
+luxury street fashion photo of a woman standing beside a matte black modern electric car parked on a city street, full body shot taken slightly from the side a…
+
+#### 📝 Prompt
+
+```
+luxury street fashion photo of a woman standing beside a matte black modern electric car parked on a city street, full body shot taken slightly from the side at waist height creating a candid street perspective, the woman leaning slightly forward while holding and adjusting a large black leather handbag in front of her body, her posture relaxed with one knee slightly bent and the other leg straight, wearing an oversized black leather jacket with dropped shoulders over a short minimal outfit, tall pointed black heeled knee high boots with slim silhouette, dark sunglasses with rectangular lenses, modern minimal accessories, confident street style attitude, makeup polished and editorial with smooth skin finish, defined contour, strong brows and soft nude lips, the car occupying most of the background with glossy surfaces reflecting surrounding buildings, urban street environment with parked vehicles and architectural reflections visible on the windshield, natural overcast daylight creating soft shadows and muted contrast, cinematic luxury lifestyle aesthetic with focus on fashion and automotive design
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24449_0.jpg" width="600" alt="Edgy Fashionista Matte EV Street Style - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 44: Quick Rosemary Cherry Tomato Focaccia
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+"style": "ultra_clean_modern", "dish": "{argument name="dish name" default="quick rosemary and cherry tomato focaccia"}", "presentation": { "form": "sliced int…
+
+#### 📝 Prompt
+
+```
+"style": "ultra_clean_modern",
+  "dish": "{argument name="dish name" default="quick rosemary and cherry tomato focaccia"}",
+  "presentation": {
+    "form": "sliced into squares",
+    "serving": "minimal board or plate",
+    "perspective": "slightly elevated, dynamic angled view"
+  },
+  "hero_visual": {
+    "main_item": "golden dimpled focaccia",
+    "toppings": ["blistered cherry tomatoes", "fresh rosemary", "glossy olive oil"]
+  },
+  "layout": {
+    "ingredients": "neatly arranged around main image",
+    "steps": "step-by-step instructions",
+    "tips": "helpful cooking tips"
+  },
+  "composition": {
+    "lighting": "bright, appetizing",
+    "balance": "visually balanced",
+    "focus": "clarity and modern design"
+  }
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04816_0.jpg" width="600" alt="Quick Rosemary Cherry Tomato Focaccia - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 45: Give me this character OOTD
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+give me this character ootd.
+
+#### 📝 Prompt
+
+```
+give me this character ootd.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14781_0.webp" width="600" alt="Give me this character OOTD - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 46: Luxury Apartment Raid Scene
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+ultra realistic photo, young woman with pale skin and long black hair, same face as reference, emotionless expression, slightly tired eyes, standing with hands…
+
+#### 📝 Prompt
+
+```
+ultra realistic photo, young woman with pale skin and long black hair, same face as reference, emotionless expression, slightly tired eyes, standing with hands behind her back as if handcuffed, relaxed posture, slight head tilt, confident “I regret nothing” attitude
+
+luxury modern apartment at night, panoramic windows with city lights, expensive minimalistic interior, cinematic atmosphere
+
+large wooden table in front of her covered with:
+huge stacks of US dollars and euro banknotes, slightly messy but mostly organized,
+black duffel bag filled with cash, partially open,
+multiple smartphones (latest models),
+2-3 laptops (MacBook style),
+many bank cards spread in rows across the table
+
+behind and around her:
+tactical officers in black uniforms (special forces style), faces covered, actively searching the apartment,
+some opening шкафы and shelves,
+some walking in the background,
+one officer standing near the table pointing at the money
+
+cinematic lighting, soft cold light from windows mixed with warm interior light, realistic shadows, reflections on table
+
+medium shot, slightly low angle, focus on the girl, shallow depth of field, background slightly blurred
+
+dark luxury, tension, realistic raid scene, controlled chaos.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07216_0.jpg" width="600" alt="Luxury Apartment Raid Scene - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07216_1.jpg" width="600" alt="Luxury Apartment Raid Scene - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 47: Nested Frames Family Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A photorealistic studio portrait featuring a symmetrical, nested composition against a dark charcoal background. A man with short hair and a beard, wearing a p…
+
+#### 📝 Prompt
+
+```
+A photorealistic studio portrait featuring a symmetrical, nested composition against a dark charcoal background. A man with short hair and a beard, wearing a plain white t-shirt, holds a large wooden picture frame. Positioned inside his frame is a blonde woman in a white t-shirt, holding a smaller wooden frame. Inside her frame is a young blonde girl with pigtails in a white t-shirt. The image features soft studio lighting, a neutral color palette focused on whites and warm wood tones, and detailed textures like wood grain and soft cotton. Calm, cinematic atmosphere, 8k resolution, highly detailed.  4K, Vertical portrait.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_11026_0.jpg" width="600" alt="Nested Frames Family Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 48: Elegant Lady Applying Lip Gloss
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Without changing the woman's appearance from the photo, her hair is long, straight, and waist-length; she sits in a cozy velvet armchair, comfortably immersed…
+
+#### 📝 Prompt
+
+```
+Without changing the woman's appearance from the photo, her hair is long, straight, and waist-length; she sits in a cozy velvet armchair, comfortably immersed in the atmosphere of a luxurious interior; her body is gracefully positioned in a relaxed pose, leg over leg. Her right hand is slightly raised, holding a small mirror, while a glass with a transparent drink, likely a cocktail, stands on the table; her nails are long, sharp, and French-tipped. She wears a dark brown blazer dress that loosely fits her figure, the fabric of which feels soft and matte to the touch; the satin sheen perfectly contrasts with the matte jacket. Black sheer tights. Her hair is gathered in a high, thick, long, straight, tight ponytail, revealing her neck and emphasizing her refined facial features, although the expression is indistinguishable and partially shaded. The girl is applying lip gloss. The background consists of walls decorated with many mirrors in elegant gilded frames, reflecting soft warm light from wall sconces, creating comfort and intimacy, while tables covered with snow-white tablecloths with neatly arranged candles add a romantic atmosphere of a warm evening in a men's club or an expensive restaurant. The overall color scheme of the shot is maintained in a combination of deep earthy tones, velvety textures, and shimmering amber light, which softly envelops and emphasizes the silhouette, creating a sense of intense and elegant seclusion. The woman's pose is confident yet relaxed, as if a moment of celebration is frozen in serene harmony, conveying a mood of calm and light euphoria, photorealistic image, high textural detail, high quality, 8K resolution. Black clover earrings on her ears.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24887_0.jpg" width="600" alt="Elegant Lady Applying Lip Gloss - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 49: Minimalist Studio Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+The woman sits close to a light-colored wall, her body turned toward the camera, one knee pulled up to her chest and partially obscuring the bottom of the fram…
+
+#### 📝 Prompt
+
+```
+The woman sits close to a light-colored wall, her body turned toward the camera, one knee pulled up to her chest and partially obscuring the bottom of the frame, shoulders slightly tilted forward, head gently tilted to the side, gaze directed directly at the lens. This is a close-up portrait from chest to crown. The eye-level angle is offset slightly to the left, focusing on the face and the line of the bent knee. The background is minimalist and neutral.
+
+Skin is even and matte with a subtle satin glow on the cheekbones and bridge of the nose. The skin tone is rich and even. She wears a crisp, graphic black eyeliner with an elongated wing, neutral beige-brown eyeshadow with soft blending, long, voluminous lashes, and a rich, nude-brown glossy lipstick with pronounced highlights.
+
+Her hair is loose, styled in voluminous, natural curls with distinct texture, evenly distributed across her shoulders and back, with moderate volume at the roots and a soft, natural parting.
+
+She's wearing a straight-cut black jacket made of a dense matte fabric with defined lapels, the hem hidden behind her raised knee. She's wearing translucent black lace tights with a floral pattern, the lace texture detailed. She's wearing large dangling earrings with clear, teardrop-shaped stones with distinct facets. The metal surface is smooth, and she has a thin metal ring on her nose.
+
+The location is a light gray, smooth wall without texture or embellishment, with a uniform background.
+
+Studio lighting is soft and directional, with the main light positioned in front and slightly above eye level. The light evenly illuminates the face and upper body, creating soft shadows under the chin and along the nose. The contrast is moderate, the shadows fade smoothly into midtones without sharp edges. The highlights on the lips and earrings are controlled and clear, and the background is evenly lit. Highly detailed, photorealistic, shot with an 85mm portrait lens. Shallow depth of field with sharp focus on the eyes and face. The background is slightly softened, and the texture of the skin, lace, and jacket fabric is detailed.
+
+clean studio portrait mood,
+neutral color temperature,
+balanced soft contrast,
+moderate saturation with warm skin emphasis,
+soft frontal lighting,
+smooth shadow transitions,
+controlled glossy highlights,
+natural warm skin tones,
+crisp fabric texture detail,
+refined editorial color grading.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23681_0.jpg" width="600" alt="Minimalist Studio Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 50: Snow Mountain Selfie Beauty
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "subject": { "description": "A young woman with a graceful figure and delicate features. She has an olive complexion, natural complexion, delicate pores, and…
+
+#### 📝 Prompt
+
+```
+{ "subject": { "description": "A young woman with a graceful figure and delicate features. She has an olive complexion, natural complexion, delicate pores, and subtle birthmarks. Her hair was dark brown, almost black, styled into two long, tight braids that fell over her shoulders. She has a pair of almond-shaped hazel eyes, thick eyelashes, distinct black eyebrows, and full lips with a natural matte texture. She wore a tight-fitting matte black long-sleeve bodysuit, with a deep, wide round neckline that accentuated her full, heavy, and naturally prominent bust. She wears high-waisted beige ski pants on the lower body, with gold button details at the waist. ", "anatomical_fidelity": "Ratio refers to locking. The main chest is full and prominent, significantly above average, perfectly consistent with the reference object, presenting a fullness and heaviness influenced by natural gravity. The thorax depth is significantly greater than the thoracic cavity, with a marked protrusion both forward and outward. Her waist is slender, creating a striking contrast with her chest and hips. Due to the posture, the shoulders are soft and slightly arched forward. The hands display realistic skin folds and finger joint details. ", "clothing_details": "Black bodysuits feature high-quality ribbed or matte fabric textures that fit closely against the skin. Beige pants are made from heavy professional ski wear materials, featuring prominent seams and belt loops. " }, "pose": { "description": "The subject is shot from a high angle in the middle shot, with the body slightly leaning forward, facing the camera. Her right hand was raised to chest height, and between her thumb and forefinger, she gently pinched the end of her right braid. Her left arm extends downward and slightly beyond the frame, hinting at a selfie perspective but not showing the device. Her head tilted slightly to the right, and her gaze calmly and resolutely met the camera. ", "weight_distribution": "Center of gravity is centered but tilted forward, creating intimacy and depth. The spine has a natural slight curve, matching a sitting or forward-leaning posture. " }, "environment": { "location": "Winter alpine ski slopes." "foreground": "A raw, slightly textured slope showing subtle skiing marks." "midground": "On the right side of the snow, a pair of skis and ski poles can be seen. In the middle of the frame is a dense evergreen pine forest covered in snow. ", "background": "Majestic, rugged mountains covered in thick snow, the sky is gloomy and cloudy. The air is cold and fresh, with excellent visibility. ", "camera": { "shot_type": "Medium View", "angle": "Slightly elevated angle, overhead view of the subject", "focal_length": "Approximately {argument name=\"focal length\" default=\"35mm\"}, simulating high-end smartphones or wide-angle portrait lenses without distortion", "perspective": "Deep three-dimensional space, There is a clear separation between the main body and the distant mountains", "focus": "Sharp f" } }
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15265_0.jpg" width="600" alt="Snow Mountain Selfie Beauty - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 51: Cyber-Noir Femme Fatale Night
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "reference_image": { "face_consistency": "use same face from reference image", "facial_features": "do not change facial features" }, "scene": { "setting": "w…
 
 #### 📝 Prompt
 
 ```
 {
+  "reference_image": {
+    "face_consistency": "use same face from reference image",
+    "facial_features": "do not change facial features"
+  },
+  "scene": {
+    "setting": "wet city sidewalk at night",
+    "atmosphere": "urban grit, dark moody cyber-noir",
+    "background": [
+      "old stone building facade",
+      "black metal pole",
+      "yellow curb paint",
+      "visible surveillance camera"
+    ],
+    "ground": "wet reflective pavement",
+    "weather_effects": [
+      "volumetric fog",
+      "thin cigarette smoke trail"
+    ]
+  },
   "subject": {
-    "desc": "Redhead with strong resemblance to Wonder Woman cosplay, fishnets, fair skin with subtle golden undertone, long straight red hair over shoulders/back flowing in heroic waves, symmetrical face with full lips, defined eyebrows, piercing blue eyes",
-    "apparel": {
-      "item": "Wonder Woman inspired bodysuit",
-      "style": "Halter-neck sleeveless, high-cut legs, regal and powerful",
-      "color": "Deep red base with gold eagle emblem on chest, blue star-spangled trim on legs and sides, gold accents and lasso belt detail",
-      "details": "Tight stretch fabric emphasizing curves, red/gold thigh-high boots with metallic shine, golden tiara and bracelets integrated"
-    },
-    "anatomy": {
-      "body_type": "Exaggerated voluptuous hourglass",
-      "bust": "Large full voluminous with strong forward projection, tightly contained",
-      "hips": "Very wide hips, thick thighs, narrow waist",
-      "skin": "Smooth fair with natural tone variation, subtle heroic glow"
-    }
-  },
-  "pose": {
-    "posture": "Standing upright, weight shifted to right hip (viewer's left) for pelvic tilt, torso slightly angled toward camera",
-    "limbs": {
-      "right_arm": "Extended down, hand resting on ornate marble countertop",
-      "left_arm": "Hanging naturally by side, partially obscured by hip",
-      "head": "Slight tilt, facing forward"
-    },
-    "gaze": "Direct eye contact, soft neutral confident expression"
-  },
-  "environment": {
-    "location": "Luxurious ancient Greek-style decorated bathroom",
-    "elements": [
-      "White marble countertop with golden Greek key border and carved motifs (left foreground)",
-      "Heavy wooden door with ornate bronze fittings and tall frosted glass panel featuring Greek patterns (right background)",
-      "Towel bar with embroidered white towels with gold trim (background left)",
-      "Large framed poster of Aquaman in dramatic pose (brooding expression, cinematic lighting) on marble wall (not mirrored/reflected)"
-    ]
-  },
-  "camera": {
-    "shot": "Medium (thighs up), vertical 3:4",
-    "angle": "Eye-level slightly frontal",
-    "lens": "50-85mm portrait",
-    "dof": "Moderate, sharp subject, slightly soft distinct background",
-    "framing": "Centered subject"
-  },
-  "lighting": "Soft diffuse warm torchlight and natural daylight through high arched windows, overhead/slightly frontal, even illumination, soft shadows under bust/hips, highlights on body contours, fabric sheen, gold details and marble surfaces",
-  "mood": "Confident calm sultry, mythical intimate ancient atmosphere with heroic elegance",
-  "style": "Photorealistic smartphone photography, high-fidelity detailed fabric/skin textures, natural color grading, unstyled physical proportions",
-  "colors": "Dominant vibrant red and gold suit, white marble with gold accents, warm w
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03000_0.jpg" width="600" alt="Wonder Woman Bathroom Grace - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03000_1.jpg" width="600" alt="Wonder Woman Bathroom Grace - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03000_2.jpg" width="600" alt="Wonder Woman Bathroom Grace - Image 3">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 35: Walking Versailles Hall of Mirrors
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Walking {argument name="Location" default="Palace of Versailles, Hall of Mirrors"} {argument name="Main Character" default="My House"}
-
-#### 📝 Prompt
-
-```
-Walking {argument name="Location" default="Palace of Versailles, Hall of Mirrors"} {argument name="Main Character" default="My House"}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13979_0.jpg" width="600" alt="Walking Versailles Hall of Mirrors - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 36: Duo Portrait Collection
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Photo albam of {argument name="character one" default="Nancy （Natalia Dyer）"} & {argument name="character two" default="MAX（Sadie Elizabeth Sink）"}
-
-#### 📝 Prompt
-
-```
-Photo albam of {argument name="character one" default="Nancy （Natalia Dyer）"} & {argument name="character two" default="MAX（Sadie Elizabeth Sink）"}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10447_0.jpg" width="600" alt="Duo Portrait Collection - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10447_1.jpg" width="600" alt="Duo Portrait Collection - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 37: Cinematic Portrait of Woman and Cat
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A cinematic, magazine-cover quality portrait of a {argument name="ethnicity" default="young South Asian woman"} with long, flowing dark hair, wearing an {argum…
-
-#### 📝 Prompt
-
-```
-A cinematic, magazine-cover quality portrait of a {argument name="ethnicity" default="young South Asian woman"} with long, flowing dark hair, wearing an {argument name="outfit" default="elegant black long-sleeved top"}. She is gently holding a {argument name="pet" default="fluffy, long-haired white Persian cat"}, looking at it with a soft, affectionate expression. Dramatic rim lighting from behind beautifully illuminates the edges of her hair and the cat's soft fur, creating a glowing halo effect. Subtle mist or fine dust particles are caught in the sharp backlight against a stark, pitch-black background. Shot on an 85mm lens at f/1.8, shallow depth of field, intense cinematic bokeh, hyper-realistic textures, 8K resolution, editorial fashion style. --ar 4:5
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09766_0.jpg" width="600" alt="Cinematic Portrait of Woman and Cat - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 38: Tokyo Ramen Bar Food Date
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "generation_request": { "meta_data": { "tool": "Nano Banana 2", "task_type": "tokyo_ramen_bar_giant_bowl_closeup", "language": "en", "priority": "highest", "…
-
-#### 📝 Prompt
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "Nano Banana 2",
-      "task_type": "tokyo_ramen_bar_giant_bowl_closeup",
-      "language": "en",
-      "priority": "highest",
-      "version": "v1.0_RAMEN_FLASH_CLOSEUP"
-    },
-    "input": {
-      "mode": "image_to_image",
-      "reference_image_usage": "very_high",
-      "preserve_identity": true,
-      "notes": "Use the reference woman exactly. Place her inside a colorful Tokyo ramen bar. The image should feel playful, candid, close-up, and delicious, with the ramen bowl exaggerated in the foreground for depth."
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "num_images": 1,
-      "render_style": "photoreal_flash_food_lifestyle_editorial",
-      "sharpness": "ultra_crisp",
-      "grain": "subtle_flash_film",
-      "color_grade": "warm_red_pink_lantern_yellow"
-    },
-    "subject": {
-      "identity": "reference woman",
-      "expression": "cute, playful, eyes gently closed or softly smiling, enjoying the food moment",
-      "hair": "{argument name="hair style" default="dark hair in two playful braided pigtails or soft twin braids with loose strands"}",
-      "hair_accessories": "small red ribbon ties or tiny sakura clips",
-      "makeup": "fresh dewy skin, rosy blush, soft eyeliner, glossy pink lips",
-      "outfit": "{argument name="outfit" default="cute casual Tokyo food-date outfit: fitted white baby tee or soft pastel top with light cardigan, playful but stylish"}",
-      "accessories": "small hoop earrings, delicate rings, glossy manicure",
-      "props": "large ramen bowl in foreground, chopsticks in hand, narutomaki, noodles, broth, greens, egg or shrimp details",
-      "body": "perfect anatomy, natural seated posture, realistic hands and chopstick grip"
-    },
-    "scene": {
-      "environment": "{argument name="location" default="colorful Tokyo ramen bar interior with paper lanterns, menu posters, warm lights, cozy counter seating"}",
-      "background": "vibrant walls and lanterns softly blurred, no readable text",
-      "lighting": "direct flash mixed with warm pink-orange restaurant lighting",
-      "mood": "playful, delicious, colorful, candid, youthful Tokyo food nightlife"
-    },
-    "pose_language": {
-      "pose": "leaning toward a giant ramen bowl close to the camera, smiling or eyes closed while holding chopsticks",
-      "posture": "relaxed, cute, natural",
-      "hands": "realistic chopstick grip, natural fingers"
-    },
-    "camera": {
-      "lens": "24mm wide food-lifestyle lens",
-      "angle": "slightly low close-up angle with ramen bowl dominating foreground",
-      "framing": "close portrait with oversized ramen foreground depth",
-      "focus": "sharp on ramen and face, slight wide-angle depth",
-      "depth_of_field": "moderate with warm bokeh"
-    },
-    "negative_prompt": [
-      "messy ramen",
-      "fake noodles",
-      "deformed chopsticks",
-      "bad hands",
-      "different woman",
-      "identity drift",
-      "readable"
-    ]
-  }
-}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08394_0.jpg" width="600" alt="Tokyo Ramen Bar Food Date - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 39: Travel Camera Adventure Awaits
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-An aesthetic promotional advertisement for the {argument name="camera model" default="CAMI C-500 Mirrorless camera"}, featuring a smiling woman capturing a pho…
-
-#### 📝 Prompt
-
-```
-An aesthetic promotional advertisement for the {argument name="camera model" default="CAMI C-500 Mirrorless camera"}, featuring a smiling woman capturing a photo on a charming, cobblestone European street. She is dressed in a stylish {argument name="clothing" default="olive green blazer"} and a brown leather backpack, embodying a "travel photographer" vibe. The poster includes the brand logo "CAMi" at the top with the slogan "{argument name="slogan" default="CAPTURE. SHARE. ADVENTURE."}" and lists key technical specs at the bottom: 24.2 MP Sensor, 4K Video, and Fast AF, all anchored by the bold tagline, "YOUR BEST SHOTS, EVERYWHERE."
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07779_0.jpg" width="600" alt="Travel Camera Adventure Awaits - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 40: Ballet Girl in Morning Light
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A young child standing beside a neatly made bed in a bright, cozy bedroom, captured in a candid, natural moment. The child is turned slightly toward the camera…
-
-#### 📝 Prompt
-
-```
-A young child standing beside a neatly made bed in a bright, cozy bedroom, captured in a candid, natural moment. The child is turned slightly toward the camera with a gentle smile, one hand reaching up toward a classic table lamp on a white nightstand. She wears an airy white tulle dress with layered ruffles, long sleeves, and a soft, ballet-inspired silhouette. The fabric looks light, delicate, and slightly translucent, emphasizing movement and softness rather than structure.
-
-The room is styled in calm, warm neutral tones: white bedding with subtle texture, a simple metal bed frame, sheer curtains filtering soft daylight, and a small bouquet of pastel roses placed on the nightstand. A plush light-colored rug rests on the wooden floor, adding warmth and comfort to the scene. Footwear is cozy and home-like, soft slippers that enhance the intimate, domestic mood.
-
-Lighting is natural and diffused, coming from a nearby window, with no harsh shadows. Skin tones appear warm and realistic, with a soft glow. The composition feels candid and documentary-like, as if captured during a quiet morning at home. No dramatic posing, no artificial styling. The overall atmosphere is tender, innocent, nostalgic, and timeless, resembling a high-end lifestyle or family editorial photograph.
-
-Style: clean, soft-focus realism, cozy editorial, gentle color palette, emotional warmth, intimate home photography.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25483_0.jpg" width="600" alt="Ballet Girl in Morning Light - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 41: Lace Beauty in Daisy Fields
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Ultra-detailed cinematic fashion portrait, young woman with long dark hair sitting in a vast blooming field of daisies, wearing an extravagant white ruffled la…
-
-#### 📝 Prompt
-
-```
-Ultra-detailed cinematic fashion portrait, young woman with long dark hair sitting in a vast blooming field of daisies, wearing an extravagant white ruffled lace dress with voluminous sleeves and matching lace stockings. Her expression is intense and alluring, lips glossy, eyes piercing, posture regal yet sensual. Surroundings are endless white daisies stretching across rolling hills under natural daylight. High-fashion editorial aesthetic, blending romantic fairytale with modern glamour –ar 2:3 –style raw –q 2 –v 6
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_26612_0.jpg" width="600" alt="Lace Beauty in Daisy Fields - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 42: Samurai Mecha Girl Figure Debut
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Samurai Mecha Girl ⠀ 1/7スケールフィギュア ⠀ This is the first time a sword has been depicted from the blade direction. It's a bit thick, but it's a PVC figure としてはリアルか…
-
-#### 📝 Prompt
-
-```
-Samurai Mecha Girl
-⠀
-1/7スケールフィギュア
-⠀
-This is the first time a sword has been depicted from the blade direction.
-It's a bit thick, but it's a PVC figure
-としてはリアルかも。
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04272_0.jpg" width="600" alt="Samurai Mecha Girl Figure Debut - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04272_1.jpg" width="600" alt="Samurai Mecha Girl Figure Debut - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04272_2.jpg" width="600" alt="Samurai Mecha Girl Figure Debut - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04272_3.jpg" width="600" alt="Samurai Mecha Girl Figure Debut - Image 4">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 43: Summer Luxury Jewelry Editorial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "image_type": "Luxury Jewelry Lifestyle Photos", "layout": { "style": "2x2 Grid Collage", "panels": 4, "aspect_ratio": "4:5 Vertical", "consistency": "All pa…
-
-#### 📝 Prompt
-
-```
-{ "image_type": "Luxury Jewelry Lifestyle Photos", "layout": { "style": "2x2 Grid Collage", "panels": 4, "aspect_ratio": "4:5 Vertical", "consistency": "All panels maintain consistent lighting and color grading" }, "subject": { "gender": "Female", "age_range": "Youth", " physique": "Slim, fit", "skin_tone": "Warm bronze", "skin_details": [ "Visible droplets", "Hydrated glow after swimming", "Natural skin texture", "Light freckles" ], "makeup": "Minimalist, natural makeup", "nails": "Crop, nude or soft pink nail polish" }, "wardrobe": { "bikini": { "color": "{ argument name=\"bikini color\" default=\"white\"}", "details": "Fine neon yellow straps and laces", "fit": "Fit, summer style" } }, "jewelry": { "style": "Luxury diamond jewelry", "materials": ["Silver", "Platinum", "Diamond", "Transparent gemstone"], "pieces": [ " Multi-layered necklaces of different lengths", "Diamond tennis chains", "Round and square gemstone pendants", "Diamond tennis bracelets", "Stacked fine diamond rings"], "visual_effect": "Jewelry sparkles subtly in the sunlight" }, "environment": { "location_type": "By the pool or beach", "Surface": "Neutral beige or cream lounge chair", "background": "Minimalist and blurred." ", "atmosphere": "Bright Summer Luxury Resort Vibe" }, "Lighting": { "type": "Bright Natural Sunshine", "time_of_day": "Noon", "qualities": [ "Strong Highlights", "Natural Sharp Shadows", "Emphasizing Skin Texture and Jewelry Reflections" ] }, "camera": { "style": "Surrealist Fashion Photography", "lens_look": "85mm SLR lens", "focus": "Jewelry and skin textures are sharp and clear", "depth_of_field": "Shallow depth of field", "quality": "High resolution", "color_grading": "Warm natural tones" }, "panels": { "top_left": { "framing": "Close-up of torso and waist when reclined", "pose": "Hands gently placed on abdomen", details": [ "Bikini hip straps visible", "Bracelet visible", "Intense sunlight highlights and shadows" }, "top_right": { "framing": "Hand on upper thigh", "focus": "Layered rings and bracelets", "details": [ "Visible water droplets", "Sunlight reflecting on skin and jewelry" }, "bottom_left": { "framing": "Neck and collarbone close-up", " focus": "Multi-layered necklace", "details": [ "Intense sunlight on the collarbone", "Jewelry sparkle emphasized" }, "bottom_right": { "framing": "Close-up above the chest", "pose": "Hand touches collarbone", "focus": [ "Ring", "Multi-layer necklace" ] } }, "mood": [ "Elegant", "High-end", "Casual luxury", "Summer sunshine", "Elegant and sexy", " High-end jewelry advertisement" ] }
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_18159_0.jpg" width="600" alt="Summer Luxury Jewelry Editorial - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 44: Selfie Girl with Pastel Bouquet
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-"prompt": "Natural handheld outdoor selfie of a young woman standing on a quiet residential European street during daytime, gently smiling at the camera while…
-
-#### 📝 Prompt
-
-```
-"prompt": "Natural handheld outdoor selfie of a young woman standing on a quiet residential European street during daytime, gently smiling at the camera while holding a large bouquet of soft pastel pink flowers wrapped in white paper. The bouquet contains pale pink roses, gerbera daisies, lisianthus, and small cream accent flowers arranged tightly. She slightly tilts her head toward the bouquet with a relaxed expression. Her dark brown hair is tied back in a loose bun with a few strands falling naturally near the face. She is wearing a simple sleeveless black top. The photo is taken at arm’s length as a selfie with natural perspective. Background shows leafy green trees, parked cars, street signs, and light colored residential buildings softly blurred by shallow depth of field. Lighting is soft natural daylight filtered through trees, creating gentle shadows and even skin tones. The image should look like a real smartphone photograph captured casually while walking outside, authentic colors, realistic skin texture, subtle imperfections, and natural background detail.",
-
-"style": "realistic photography",
-
-"camera": {
-
-"type": "smartphone front camera",
-
-"lens_equivalent": "26mm",
-
-"aperture": "f/2.0",
-
-"depth_of_field": "shallow",
-
-"perspective": "arm length selfie angle"
-
-},
-
-"lighting": {
-
-"type": "natural daylight",
-
-"quality": "soft diffused sunlight through trees",
-
-"time_of_day": "late morning or early afternoon"
-
-},
-
-"composition": {
-
-"framing": "head and shoulders selfie with bouquet filling lower right frame",
-
-"focus": "sharp focus on face and flowers",
-
-"background": "suburban street softly blurred"
-
-},
-
-"negative_prompt": "ai generated look, artificial skin smoothing, plastic skin, exaggerated beauty filters, unrealistic lighting, studio lighting, oversaturated colors, cartoon style, painterly style, overly sharp edges, warped anatomy, distorted hands, extra fingers, unrealistic flowers, synthetic textures, fake bokeh, fantasy environment"
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07918_0.jpg" width="600" alt="Selfie Girl with Pastel Bouquet - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07918_1.jpg" width="600" alt="Selfie Girl with Pastel Bouquet - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 45: Noir Sports Car Snowy Night
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A stylish man in a black suit stands confidently in front of a futuristic silver sports car, with a city at night as the backdrop and snowflakes falling, creat…
-
-#### 📝 Prompt
-
-```
-A stylish man in a black suit stands confidently in front of a futuristic silver sports car, with a city at night as the backdrop and snowflakes falling, creating a cinematic noir atmosphere. Dramatic lighting and light smoke rise from cigarettes, sharp details showcase a luxurious and mysterious aesthetic, with high-contrast black-and-white photography style.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_20858_0.jpg" width="600" alt="Noir Sports Car Snowy Night - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 46: Bold Asymmetric Grid Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Asymmetric grid poster design
-
-#### 📝 Prompt
-
-```
-Asymmetric grid poster design
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15933_0.jpg" width="600" alt="Bold Asymmetric Grid Poster - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 47: Tired Man Morning Bus Commute Turkey
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "meta": { "style": "ultra photorealistic, documentary realism", "resolution": "8k", "aspect_ratio": "9:16", "camera": "iPhone 15 Pro", "lens": "26mm", "light…
-
-#### 📝 Prompt
-
-```
-{
-  "meta": {
-    "style": "ultra photorealistic, documentary realism",
-    "resolution": "8k",
-    "aspect_ratio": "9:16",
-    "camera": "iPhone 15 Pro",
-    "lens": "26mm",
-    "lighting": "natural morning light through bus windows",
-    "quality": "high detail, cinematic realism"
-  },
-  "subject": {
-    "description": "A middle-aged man with fair skin, short slightly messy dark brown hair, light-colored eyes, subtle smile lines, and defined cheekbones.",
-    "expression": "tired but calm, slightly thoughtful morning expression",
-    "clothing": "affordable dark jacket, simple button-up shirt slightly wrinkled, modest everyday outfit",
-    "details": "very subtle under-eye tiredness, natural skin texture, realistic pores, no glamour styling"
-  },
-  "scene": {
-    "location": "public city bus in Turkey during early morning commute",
-    "environment": "crowded bus interior, yellow handrails, fabric seats, people standing, slightly fogged windows",
-    "time": "early morning",
-    "weather": "soft daylight, slightly overcast",
-    "mood": "realistic working-class morning commute atmosphere"
-  },
-  "composition": {
-    "angle": "candid eye-level shot from someone sitting across",
-    "framing": "vertical social media format, upper body visible",
-    "focus": "sharp focus on subject, slightly blurred background passengers",
-    "depth_of_field": "shallow depth of field"
-  },
-  "realism_boost": {
-    "skin_texture": "highly detailed natural skin texture",
-    "imperfections": "minor facial asymmetry, natural wrinkles, subtle morning fatigue",
-    "motion": "slight motion blur outside bus window",
-    "color_grading": "soft neutral tones, realistic Turkish morning light"
-  }
-}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_11469_0.jpg" width="600" alt="Tired Man Morning Bus Commute Turkey - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 48: Luxury Four Seasons Jewelry Set
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A luxurious four-piece set of four pieces of jewelry themed around the four seasons: Spring: A pair of earrings centered on pinkish-purple amethyst-like crysta…
-
-#### 📝 Prompt
-
-```
-A luxurious four-piece set of four pieces of jewelry themed around the four seasons: Spring: A pair of earrings centered on pinkish-purple amethyst-like crystals and cherry blossom-themed pieces, naturally set on silk. Summer: A teardrop-shaped necklace made of aurora holographic crystal, set against a background scattered with sunflower petals. Autumn: A ring centered on orange-red garnet-like crystals and maple leaves, set on a wooden tray. Winter: A transparent ice crystal pendant necklace with snowflakes sparkling on the crystal facets, set on a hologram-style cross Jewelry exhibition photos taken from a bird's-eye perspective show clear textures under natural light, with seasonal backgrounds (spring: soft pink / summer: light blue / autumn: orange / winter: pure white), vivid colors, realistic textures (crystal sparkle/metallic sheen, silk drape), fantasy jewelry art style, hyperrealism, ultra-high definition, 8K, romantic and luxurious atmosphere
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_16820_0.jpg" width="600" alt="Luxury Four Seasons Jewelry Set - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 49: Golden Serpent Elegance
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a close-up photo: an elegant woman in a tight black turtleneck dress, high sleek ponytail, chunky gold jewelry including a necklace, bracelets, and sunb…
-
-#### 📝 Prompt
-
-```
-Create a close-up photo: an elegant woman in a tight black turtleneck dress, high sleek ponytail, chunky gold jewelry including a necklace, bracelets, and sunburst earrings; sitting on a white cube with legs crossed, holding a large python in her hands, graceful and calm pose. Looking at the camera. Minimalist background with a warm golden crescent light behind creating a rim light; cinematic studio lighting with soft shadows and high contrast, warm color palette, rich texture of skin and snake scales, realistic details. Aspect ratio 3:4
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25878_0.jpg" width="600" alt="Golden Serpent Elegance - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 50: Cartoon Animal Pixelated Image
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A cartoonish ({argument name="animal name" default="Animal Name"}) in pixelated image format
-
-#### 📝 Prompt
-
-```
-A cartoonish ({argument name="animal name" default="Animal Name"}) in pixelated image format
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10063_0.jpg" width="600" alt="Cartoon Animal Pixelated Image - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10063_1.jpg" width="600" alt="Cartoon Animal Pixelated Image - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10063_2.jpg" width="600" alt="Cartoon Animal Pixelated Image - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10063_3.jpg" width="600" alt="Cartoon Animal Pixelated Image - Image 4">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 51: Luxury Lip Gloss Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Ультрареалистичный 8K fashion-портрет 9:16, крупный план: девушка смотрит в камеру, губы слегка приоткрыты, аппликатор с нюдово-карамельным глянцевым блеском к…
-
-#### 📝 Prompt
-
-```
-Ультрареалистичный 8K fashion-портрет 9:16, крупный план: девушка смотрит в камеру, губы слегка приоткрыты, аппликатор с нюдово-карамельным глянцевым блеском касается центра нижней губы, влажный зеркальный финиш. Белая шелковая блуза без рукавов с воротником-стойкой и объемным бантом, одно плечо открыто; светлая меховая накидка. Длинные белые атласные митенки. Лаконичные золотые серьги. Волосы в гладком низком хвосте, тонкие пряди у лица. Glass skin, бронзовый контуринг, хайлайтер, бронзовые smoky eyes со стрелкой, густые ресницы, четкие брови. Жесткий боковой студийный свет, четкая тень на светлой стене, глянцевый luxury minimalism, рекламная эстетика;  лицо на 100% идентично исходному референсу — полностью узнаваемо, без искажений и без изменения пропорций, черт и внешности; любые изменения лица запрещены.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23569_0.jpg" width="600" alt="Luxury Lip Gloss Fashion Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 52: Cozy Christmas Family Studio Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Reference image: conceptual variant. An intimate Christmas studio scene of a family of four sitting on the floor on a soft cream rug. Parents sit behind the ch…
-
-#### 📝 Prompt
-
-```
-Reference image: conceptual variant.
-An intimate Christmas studio scene of a family of four sitting on the floor on a soft cream rug. Parents sit behind the children, arms gently wrapped around them. Mother wears a soft white oversized sweater, natural makeup, hair loosely styled. Father wears a beige knit jumper and relaxed trousers. Children wear matching neutral pajamas or knit sets in ivory and sand tones. Props: wrapped gifts in kraft paper, silk ribbons, a low Christmas tree with warm lights, candles placed safely in glass holders. Lighting: warm directional studio light mimicking window daylight.
-Color palette: beige, ivory, soft gold, warm wood.Mood: cozy, emotional, modern Pinterest holiday aesthetic.
-Camera: medium-wide shot, eye-level, shallow depth of field.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_26511_0.jpg" width="600" alt="Cozy Christmas Family Studio Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 53: Cute Japanese Girl Fun Selfies
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A cute Japanese adult woman is taking a fun selfie with a smartphone, presented in a 4:5 aspect ratio 2×2 grid collage. All the photos are casual and natural,…
-
-#### 📝 Prompt
-
-```
-A cute Japanese adult woman is taking a fun selfie with a smartphone, presented in a 4:5 aspect ratio 2×2 grid collage. All the photos are casual and natural, shot using the smartphone's front camera. She wears a white deep-neck tank top, with a simple and natural style and a soft, slim fit. She looks charming and youthful: smooth skin, expressive eyes, natural makeup, slightly glossy lips, and casually flowing hair. Each shot shows different quirky poses: crossed eyes and playfully sticking out tongue, eyes closed for a gentle smile, eyes closed with a gentle smile, winking at the camera with a happy smile, leaning in to kiss the smartphone, lips close to the lens. All selfies appear casual and fun, shot in soft indoor lighting. Smartphone perspective, arm-length composition, slight wide-angle distortion. Visible film grain, slight noise, imperfect focusing, uneven exposure. Authentic social media selfie vibe, unedited or professionally processed. Overall vibe: cute, quirky, relaxed, intimate but healthy. Style / Camera Prompts Front smartphone camera Handheld selfie view Casual indoor lighting Film grain, slight blur, low fidelity Social media collage effects Optional negative prompts Professional studio lighting, DSLR quality, ultra-clear focus, sexually suggestive poses, exaggerated anatomical structures, cartoon style, CGI effects, over-retouching, glossy magazine style Aspect ratio / Layout 4:5 Canvas 2×2 grid collage, equal frame size
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19393_0.jpg" width="600" alt="Cute Japanese Girl Fun Selfies - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 54: Punjabi Village Beauty
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "image_generation_request": { "subject": { "person": "A beautiful South Asian woman", "expression": "Warm, natural smile", "pose": "Gracefully walking forwar…
-
-#### 📝 Prompt
-
-```
-{
-  "image_generation_request": {
-    "subject": {
-      "person": "A beautiful South Asian woman",
-      "expression": "Warm, natural smile",
-      "pose": "Gracefully walking forward on a dirt path",
-      "features": ["Long wavy dark hair", "Traditional earrings (Jhumkas)", "Henna/Mehendi on hands"]
-    },
-    "attire": {
-      "style": "Traditional Punjabi Salwar Kameez",
-      "color_palette": "Deep maroon and gold",
-      "details": "Intricate floral embroidery (Phulkari style) on the shirt and dupatta",
-      "footwear": "Matching embroidered Khussa/Jutti"
-    },
-    "environment": {
-      "setting": "Authentic rural village in Punjab",
-      "background_elements": [
-        "Mud houses (Kucha houses) with arched doorways",
-        "Lush green vegetable patches",
-        "Large ancient Banyan tree with hanging roots",
-        "Villagers in background performing daily chores",
-        "Traditional Charpai (woven bed) in the courtyard"
-      ],
-      "flora": ["Mango tree with green mangoes", "Potted plants", "Green fields"]
-    },
-    "lighting_and_atmosphere": {
-      "time_of_day": "Golden hour / Bright morning sun",
-      "lighting_type": "Soft sunlight filtering through tree leaves (Chiaroscuro effect)",
-      "weather": "Clear summer day",
-      "vibe": "Peaceful, vibrant, cultural, nostalgic"
-    },
-    "technical_specs": {
-      "resolution": "8k UHD",
-      "aspect_ratio": "4:5",
-      "style": "Photorealistic",
-      "camera_details": "35mm lens, f/2.8, deep depth of field",
-      "quality": "Highest resolution, sharp focus, cinematic textures"
-    }
-  }
-}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07920_0.jpg" width="600" alt="Punjabi Village Beauty - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 55: Anime Character Setting Sheet Design
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Character setting document-style layout: on the left {argument name="Girl 1" default="Pink Braided Girl (Armor Form)"} expression variations, on the right {arg…
-
-#### 📝 Prompt
-
-```
-Character setting document-style layout: on the left {argument name="Girl 1" default="Pink Braided Girl (Armor Form)"} expression variations, on the right {argument name="Girl in Japanese Clothing with Light Blue Hair (Kicho)"} full-body and SD character, background {argument name="Background" default="Washi Style Design"}, Simple and easy-to-read composition, expressions: smile, surprise, fatigue, with Japanese labels, clean design. Negative: messy, distorted text, low resolution
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14032_0.jpg" width="600" alt="Anime Character Setting Sheet Design - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14032_1.jpg" width="600" alt="Anime Character Setting Sheet Design - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 56: Emerald Rose Fashion Editorial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Reference image: uploaded photo. Recreate the image with ultra-realistic, high-fashion editorial accuracy. Preserve pose, angle, lighting, color palette, and m…
-
-#### 📝 Prompt
-
-```
-Reference image: uploaded photo. Recreate the image with ultra-realistic, high-fashion editorial accuracy. Preserve pose, angle, lighting, color palette, and mood exactly as in the reference. A woman crouched in a three-quarter turn, body angled away from the camera, head turned back over her shoulder. She holds a single white rose close to her face, fingers relaxed, gesture soft and controlled. Expression calm, intense, slightly distant, direct eye contact with the camera. Lips softly parted, gaze sharp and elegant. Outfit: deep emerald green satin slip dress with a low open back and thin spaghetti straps. Fabric smooth, fluid, with subtle sheen catching the light. Dress hugs the body naturally without exaggeration, mid-thigh length, minimalistic and refined. Hair: sleek, center-parted, pulled into a low polished bun. Hair glossy, tight, elegant, no loose strands. Makeup: sculpted editorial glam. Warm bronzed skin with strong highlight on cheekbones and shoulders, sharp elongated winged eyeliner, defined brows, nude glossy lips. Skin texture realistic, luminous, high-end beauty finish. Accessories: no visible jewelry. Focus remains on the dress, skin, and rose. Environment: neutral warm-toned studio background with soft shadows. Floor visible with scattered white rose petals near the subject, adding subtle narrative detail. No props besides the rose. Lighting: warm directional studio light from the side, emphasizing skin glow and muscle definition, soft shadows, cinematic contrast. No harsh highlights, painterly depth. Camera & style: medium-full portrait framing, shallow depth of field, sharp focus on face and upper body, luxury fashion editorial, ultra-realistic, Vogue-level aesthetics. No stylization, no reinterpretation, no added elements, no color shifts.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23295_0.jpg" width="600" alt="Emerald Rose Fashion Editorial - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 57: Neon Nights Urban Fashion Edge
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "master_prompt": { "scene_type": "ultra-realistic cinematic fashion portrait", "subject": { "description": "young man with round glasses", "pose": "looking d…
-
-#### 📝 Prompt
-
-```
-{
-  "master_prompt": {
-    "scene_type": "ultra-realistic cinematic fashion portrait",
-    "subject": {
-      "description": "young man with round glasses",
-      "pose": "looking down at the camera",
-      "camera_angle": "low angle shot",
-      "expression": "confident and calm"
-    },
-    "outfit": {
-      "upper_wear": "oversized light-colored hoodie",
-      "inner_layer": "warm orange sweater visible at neckline",
-      "style": "modern urban streetwear"
-    },
-    "environment": {
-      "location": "urban tunnel at night",
-      "lighting_elements": "bright orange and yellow neon lights",
-      "atmosphere": "night city vibe with glowing reflections"
-    },
-    "lighting": {
-      "type": "dramatic neon lighting",
-      "color_grading": "strong teal and orange",
-      "contrast": "intense contrast with vibrant highlights",
-      "face_lighting": "focused dramatic illumination on face and hoodie"
-    },
-    "camera": {
-      "lens": "35mm",
-      "depth_of_field": "shallow",
-      "background_effect": "soft bokeh",
-      "resolution": "ultra-detailed, cinematic clarity"
-    },
-    "mood": "bold, vibrant, high-fashion urban energy"
-  }
-}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05982_0.jpg" width="600" alt="Neon Nights Urban Fashion Edge - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05982_1.jpg" width="600" alt="Neon Nights Urban Fashion Edge - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 58: White Fashion Portrait Shoot
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "image_generation_prompt": { "reference_preferences": { "face_consistency": "100% same face", "body_consistency": "100% same body" }, "subject": { "identity"…
-
-#### 📝 Prompt
-
-```
-{
-  "image_generation_prompt": {
-    "reference_preferences": {
-      "face_consistency": "100% same face",
-      "body_consistency": "100% same body"
-    },
-    "subject": {
-      "identity": "Ana de Armas likeness",
-      "gender": "female",
-      "physical_attributes": {
-        "hair": "long, dark",
-        "bust": "full bust",
-        "makeup": "professional fashion makeup",
-        "expression": "lips slightly parted",
-        "gaze": "looking at the camera, facing the camera"
-      }
-    },
-    "attire": {
-      "dress": {
-        "color": "pure white",
-        "type": "mini dress",
-        "details": "airy multi-layered ruffles, lace-up neckline, very deep neckline",
-        "sleeves": "long sleeves with ruffles at the cuff"
-      },
-      "footwear": "rough brown suede ankle cowboy boots",
-      "accessories": "gold heart pendant"
-    },
-    "pose_and_action": {
-      "type": "dynamic fashion pose",
-      "stance": "leaning against the room’s white wall, one leg raised to the side",
-      "hands": {
-        "left_hand": "lifts the hem of the dress, exposing her legs",
-        "right_hand": "touches her hair"
-      }
-    },
-    "setting": {
-      "location": "white room",
-      "background": "white wall"
-    },
-    "lighting": {
-      "style": "cinematic studio lighting",
-      "specifics": [
-        "high key",
-        "soft fill light",
-        "rim lighting",
-        "volumetric lighting",
-        "shadows"
-      ]
-    },
-    "technical_specifications": {
-      "style_tags": [
-        "Ultra-realistic",
-        "high-quality portrait",
-        "high-quality commercial photo",
-        "texture focus",
-        "hyper-detailed",
-        "photorealistic",
-        "8K resolution",
-        "masterpiece"
-      ],
-      "camera_settings": {
-        "camera": "Canon R5",
-        "lens": "85 mm",
-        "aperture": "f/2.0",
-        "depth_of_field": "shallow"
-      },
-      "composition": "Vertical composition, Full-body shot"
-    },
-    "parameters": {
-      "aspect_ratio": "3:4"
-    },
-    "raw_prompt_string": "Ultra-realistic, high-quality portrait of a woman Ana de Armas with a full bust. Woman with long, dark hair looking at the camera, facing the camera, with professional fashion makeup. Pure white mini dress with airy multi-layered ruffles and a lace-up neckline. Very deep neckline, long sleeves with ruffles at the cuff. Rough brown suede ankle cowboy boots, gold heart pendant. The background is a white room. Dynamic fashion pose, the model leaning against the room’s white wall, one leg raised to the side, one hand lifts the hem of the dress, exposing her legs. the other hand touches her hair, lips slightly parted. Shadows. Vertical composition, high key. Full-body shot, high-quality commercial photo, cinematic studio lighting, soft fill light, rim lighting, volumetric lighting, texture focus, hyper-detailed, photorealistic, 8K resolution, masterpiece, shot on Canon R5 "
-  }
-}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_11632_0.jpg" width="600" alt="White Fashion Portrait Shoot - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 59: Cinematic Satin Slip Dress Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "character": { "name": "{argument name="celebrity name" default="Ana de Armas"}", "appearance": { "hair": { "color": "dark", "style": "wavy", "framing": "sof…
-
-#### 📝 Prompt
-
-```
-{
-  "character": {
-    "name": "{argument name="celebrity name" default="Ana de Armas"}",
-    "appearance": {
-      "hair": {
-        "color": "dark",
-        "style": "wavy",
-        "framing": "softly frames the face",
-        "length": "medium"
-      },
-      "facial_expression": {
-        "type": "neutral",
-        "lips": {
-          "status": "slightly parted",
-          "appearance": "soft and natural"
-        },
-        "gaze": {
-          "direction": "slightly off-camera",
-          "focus": "subtle and contemplative"
-        }
-      },
-      "skin": {
-        "texture": "highly detailed",
-        "lighting_effects": {
-          "type": "soft cinematic lighting",
-          "glow": "warm, highlighting collarbones"
-        }
-      }
-    },
-    "pose": {
-      "body": {
-        "position": "still, relaxed",
-        "orientation": "natural posture"
-      },
-      "head": {
-        "position": "slightly turned",
-        "angle": "gentle tilt"
-      }
-    }
-  },
-  "outfit": {
-    "dress": {
-      "type": "satin slip dress",
-      "color": "{argument name="dress color" default="deep red"}",
-      "material": "luxurious satin",
-      "cut": "fluid, slightly fitted",
-      "neckline": {
-        "style": "plunging V-neck",
-        "depth": "moderate",
-        "shape": "sharp, elegant"
-      },
-      "straps": {
-        "type": "thin spaghetti straps",
-        "adjustability": "minimal, fixed"
-      },
-      "fit": "fitted to body, accentuating natural curves",
-      "length": "mid-calf to floor length"
-    }
-  },
-  "background": {
-    "color": {
-      "primary": "neutral warm beige",
-      "secondary": "tan tones"
-    },
-    "texture": "flat, minimalistic",
-    "style": "simple, uncluttered",
-    "lighting": {
-      "type": "soft studio lighting",
-      "effect": {
-        "focus": "gentle glow across the skin",
-        "contrast": "low contrast, emphasizing warmth"
-      }
-    }
-  },
-  "photography": {
-    "style": "high-end fashion photography",
-    "image_resolution": "8k",
-    "focus": {
-      "main_subject": "highly detailed skin texture",
-      "depth_of_field": "shallow",
-      "bokeh": "soft background blur"
-    },
-    "lighting": {
-      "type": "soft studio lighting",
-      "effect": "creates cinematic, warm glow",
-      "direction": "evenly distributed, accentuating natural curves and skin tones"
-    },
-    "composition": {
-      "aspect_ratio": "3.4",
-      "framing": "portrait orientation",
-      "focus_area": "upper body, especially the face and dress neckline"
-    }
-  }
-}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00318_0.jpg" width="600" alt="Cinematic Satin Slip Dress Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00318_1.jpg" width="600" alt="Cinematic Satin Slip Dress Portrait - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00318_2.jpg" width="600" alt="Cinematic Satin Slip Dress Portrait - Image 3">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 60: Dubai Infinity Pool Relaxation
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Photorealistic photo of an adult woman in a black one-piece swimsuit, relaxedly lying on the edge of an infinity pool, view of the city coastal skyline (Dubai…
-
-#### 📝 Prompt
-
-```
-Photorealistic photo of an adult woman in a black one-piece swimsuit, relaxedly lying on the edge of an infinity pool, view of the city coastal skyline (Dubai skyscrapers/marina) in the background, midday bright sun, backlight, water droplets on the skin, natural pose, sunglasses, high resolution, shallow depth of field, 35mm/50mm, cinematic color grading, warm tones, realistic reflections in the water, sharp details
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23731_0.jpg" width="600" alt="Dubai Infinity Pool Relaxation - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 61: Glossy Studio Beauty Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Photorealistic studio beauty portrait of a young woman in a close medium shot from the upper back and bare shoulders: the model's body is turned three-quarters…
-
-#### 📝 Prompt
-
-```
-Photorealistic studio beauty portrait of a young woman in a close medium shot from the upper back and bare shoulders: the model's body is turned three-quarters away from the camera and she is looking back over her shoulder directly into the lens with a warm, confident smile. Oval face, smooth tanned radiant skin, defined cheekbones, dark neatly arched eyebrows, almond-shaped eyes with rich smoky makeup and long eyelashes, glossy nude-pink lips. Her chestnut hair is styled in a perfectly sleek low bun with a precise side part, the hair surface is shiny and polished. Minimalist clothing: black off-the-shoulder dress, the fabric line is lowered below the shoulders, exposing the neck, collarbones, shoulders, and upper back; matte black material contrasts sharply with the white background. Vertical composition, face close to the top of the frame, shoulders occupy the bottom half, camera at eye level, sharp focus on the face and earrings, soft shallow depth of field. Clean seamless white studio background with no objects, bright high-key light from the front left, soft shadows, expressive highlights on cheekbones and hair, palette of black, white, and warm skin tones, atmosphere of a glossy modern beauty shoot for a fashion campaign.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22581_0.jpg" width="600" alt="Glossy Studio Beauty Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 62: 3 Min Avocado Toast Thumbnail
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Design a viral video thumbnail using the person from Image 1. Face Consistency : Keep the person's facial features exactly the same as Image 1 , but change the…
-
-#### 📝 Prompt
-
-```
-Design a viral video thumbnail using the person from Image 1. Face Consistency : Keep the person's facial features exactly the same as Image 1 , but change their expression to look excited and surprised . Action : Pose the person on the left side, pointing their finger towards the right side of the frame. Subject : On the right side, place a high-quality image of [a delicious avocado toast]. Graphics : Add a bold yellow arrow connecting the person's finger to the toast. Text : Overlay massive, pop-style text in the middle: '3分钟搞定!' (Done in 3 mins!). Use a thick white outline and drop shadow. Background : A blurred, bright kitchen background. High saturation and contrast.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22358_0.jpg" width="600" alt="3 Min Avocado Toast Thumbnail - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22358_1.jpg" width="600" alt="3 Min Avocado Toast Thumbnail - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 63: Girl in Rose Greenhouse Cinematic Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Экстремально крупный план по пояс Девушка в цветочной оранжерее на улице вокруг растут белые большие розы Она смотрит в сторону Одета в корсетное воздушное пла…
-
-#### 📝 Prompt
-
-```
-Экстремально крупный план по пояс Девушка в цветочной оранжерее на улице вокруг растут белые большие розы 
-Она смотрит в сторону 
-Одета в корсетное воздушное платье, многослойная легка юбка 
-Платье молочного цвета с рюшами
-Рукава длинные но плечи открытые 
-Волосы объемные длинные блестящие 
-Кинематографический эффект с добавлением зерна. Ногти молочные  квадрат
-С легкой улыбой
-Кожа идеальная подсвечена 
-Не меняй черты лица
-Фото затемнено
-Пасмурно
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23188_0.jpg" width="600" alt="Girl in Rose Greenhouse Cinematic Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 64: Retro Glamour Vespa Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Кинематографичный городской портрет в стиле ретро-гламур: девушка сидит на ярко-красном скутере Vespa, элегантно нанося помаду, глядя в зеркальце. На ней белая…
-
-#### 📝 Prompt
-
-```
-Кинематографичный городской портрет в стиле ретро-гламур: девушка сидит на ярко-красном скутере Vespa, элегантно нанося помаду, глядя в зеркальце. На ней белая рубашка с объёмными рукавами, завязанная узлом на талии, и чёрные облегающие брюки с разрезами у щиколоток. Образ дополнен леопардовым платком, повязанным на голову, крупными чёрными солнцезащитными очками и высокими босоножками на шпильке. Фон — сдержанная городская стена нейтрального цвета, подчёркивающая контраст с красным скутером и стильным образом модели. Свет мягкий, естественный, с лёгким отражением на кузове Vespa. Атмосфера — как кадр из итальянского фильма 60-х: уверенность, стиль и женственность в каждом движении. Формат 2:3, стиль Vogue street editorial, Italian vintage aesthetic, soft daylight, ultra-detail 8K, stylize 300, raw cinematic look, film-inspired fashion composition.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_26743_0.jpg" width="600" alt="Retro Glamour Vespa Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 65: Cozy Cabin Glow Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "prompt": "Cozy cabin selfie portrait, young woman with platinum white blonde shoulder length wavy hair, looking up and to the side with soft contemplative d…
-
-#### 📝 Prompt
-
-```
-{
-  "prompt": "Cozy cabin selfie portrait, young woman with platinum white blonde shoulder length wavy hair, looking up and to the side with soft contemplative dreamy expression, light green blue eyes, natural minimal makeup with nude pink lips, fair porcelain skin with natural glow, wearing chocolate brown ribbed racerback tank top, wooden pine cabin interior with natural wood plank walls and ceiling, warm golden natural daylight streaming in from window, Scandinavian hygge aesthetic, intimate close-up portrait from below angle looking up, natural beauty wellness lifestyle, cozy rustic retreat mood, 3:4",
-  "negative_prompt": "outdoor, urban, heavy makeup, studio lighting, formal clothing, nighttime, harsh shadows, dark moody",
-  "style": "intimate cabin portrait, natural beauty, warm rustic aesthetic, Scandinavian cozy mood, wellness retreat",
-  "aspect_ratio": "3:4",
-  "camera": {
-    "type": "smartphone selfie camera",
-    "angle": "slightly below looking up at subject, close-up",
-    "framing": "close-up portrait, face and upper chest visible"
-  },
-  "lighting": {
-    "type": "warm natural daylight from window",
-    "quality": "soft golden warm light, natural illumination on face creating gentle highlights",
-    "atmosphere": "cozy cabin interior with warm wood tones"
-  },
-  "mood": "contemplative, peaceful, dreamy, natural, cozy, intimate, serene, relaxed",
-  "color_palette": "platinum blonde, chocolate brown tank top, warm honey wood tones, natural skin tones, earthy neutrals",
-  "subject_features": {
-    "hair": "platinum white blonde, shoulder length, soft wavy tousled texture, natural movement, slightly windswept",
-    "skin": "fair, natural healthy glow, minimal to no makeup base, fresh faced",
-    "eyes": "light green blue, looking up and to the side, natural lashes, dreamy gaze",
-    "lips": "natural nude pink, soft relaxed",
-    "eyebrows": "natural, soft shape",
-    "expression": "soft contemplative, dreamy, looking upward, peaceful serene"
-  },
-  "makeup": {
-    "style": "natural minimal or no makeup",
-    "base": "natural skin, dewy fresh",
-    "eyes": "minimal, natural lashes",
-    "lips": "natural nude pink"
+    "gender": "female",
+    "age": "young adult",
+    "ethnicity": "western",
+    "pose": "crouching low",
+    "expression": "intense seductive gaze slightly downward"
   },
   "wardrobe": {
-    "top": "chocolate brown ribbed racerback tank top, fitted, casual loungewear style"
+    "outerwear": "glossy metallic {argument name="jacket color" default="maroon/red"} patent leather jacket with oversized shoulders",
+    "legwear": "sheer fishnet tights with zigzag pattern",
+    "footwear": "leopard-print heels"
   },
-  "pose": {
-    "gaze": "looking up and to the right, contemplative dreamy",
-    "head": "slightly tilted, chin lifted",
-    "expression": "soft dreamy, peaceful, natural"
-  },
-  "setting": {
-    "location": "wooden cabin interior",
-    "walls": "natural pine wood plank walls with visible grain",
-    "ceiling": "wooden plank ceiling with natural wood grain pattern",
-    "bed": "white bedding partially visible at bottom edge",
-    "atmosphere": "cozy rustic Scandinavian cabin, warm hygge mood, wellness retreat"
-  }
-}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02495_0.jpg" width="600" alt="Cozy Cabin Glow Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 66: Cinematic Urban Portrait at Golden Hour
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A fashionable young woman stands on a busy city crosswalk during prime time, posing for a candid-style portrait. She wears round glasses, a soft loose gray swe…
-
-#### 📝 Prompt
-
-```
-A fashionable young woman stands on a busy city crosswalk during prime time, posing for a candid-style portrait. She wears round glasses, a soft loose gray sweater, and a brown leather bag over her shoulder. A gentle breeze brushed her shoulder-length hair. She slightly stepped away from the camera, looking thoughtful. The background is a crowded city, people walking, strong depth of field blur, and soft out-of-focus imaging. Natural sunlight casts warm highlights and soft shadows. Shot with an 85mm lens, f/1.8 aperture, surrealism, high-detail skin texture, film texture, soft cinematic color grading, sharp subject focus, dynamic urban atmosphere, 8K resolution.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_17050_0.jpg" width="600" alt="Cinematic Urban Portrait at Golden Hour - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 67: Sushi Commercial Food Photography
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Image 1: A high-quality commercial photography showcasing a well-arranged assorted sushi roll arranged on a slate plate. Soft diffused light, clean Japanese re…
-
-#### 📝 Prompt
-
-```
-Image 1: A high-quality commercial photography showcasing a well-arranged assorted sushi roll arranged on a slate plate. Soft diffused light, clean Japanese restaurant background blur, clear textures, and vibrant colors. Image 2: An exploded view of a sushi roll showing layers of rice, seaweed sheets, fish filling, and vegetables—precisely separated vertically, with clean and elegant labeling.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_16462_0.jpg" width="600" alt="Sushi Commercial Food Photography - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 68: Tattooed Woman On Tropical Beach ATV
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "prompt": "A confident tattooed woman, with long golden braids, sits sideways on a {argument name=\"vehicle color\" default=\"red\"} beach on a tropical beac…
-
-#### 📝 Prompt
-
-```
-{ "prompt": "A confident tattooed woman, with long golden braids, sits sideways on a {argument name=\"vehicle color\" default=\"red\"} beach on a tropical beach. She was wearing a bikini with sunglasses and {argument name="bikini color\" default=\"green\"}. Palm trees surround you, the sky is deep blue, the sea is calm and emerald, and in the background stands a small rocky island. Golden sunshine, summer atmosphere, high detail, realistic photography, sharp focus, vivid colors, cinematic composition. ", "style": "photorealistic", "lighting": "natural sunlight", "mood": "bold, tropical, adventurous", "camera": { "angle": "eye-level", "lens": "35mm", "depth_of_field": "moderate" }, "quality": "ultra." high resolution" }
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_21518_0.jpg" width="600" alt="Tattooed Woman On Tropical Beach ATV - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 69: Plush Toys Squeezed Against Window
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-View from outside looking in, a {argument name="场景" default="bedroom window"} completely filled with a huge pile of various plush toys, (consisting exclusively…
-
-#### 📝 Prompt
-
-```
-View from outside looking in, a {argument name="场景" default="bedroom window"} completely filled with a huge pile of various plush toys, (consisting exclusively of the specific provided plush doll characters, no unidentified toys or duplicated toys), (pressed tightly against the window glass:1.3), (faces squished against glass:1.2), chaotic heap of cute dolls, window frame, exterior view of a house, reflection on glass, soft indoor lighting visible through the gaps, cozy atmosphere, cinematic lighting.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01647_0.jpg" width="600" alt="Plush Toys Squeezed Against Window - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 70: Google Nano Banana Pro Gemini App
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Google Nano Banana Pro 🍌 Gemini App Prompt ⤵️ https://t.co/aHaoR1nSus
-
-#### 📝 Prompt
-
-```
-Google Nano Banana Pro 🍌 Gemini App
-
-Prompt ⤵️ https://t.co/aHaoR1nSus
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14792_0.jpg" width="600" alt="Google Nano Banana Pro Gemini App - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 71: Studio Trick: Man's Back as Woman's Chest
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "image_analysis_prompt": { "main_subject": "Camera arkası photo hilesi", "scene_description": "A humorous studio photo reveals a practical special effects te…
-
-#### 📝 Prompt
-
-```
-{ "image_analysis_prompt": { "main_subject": "Camera arkası photo hilesi", "scene_description": "A humorous studio photo reveals a practical special effects technique. A standing man's lower back is used to simulate a woman's cleavage/back. He had his back to the camera and was wearing a white T-shirt. Around his waist was a piece of red fabric with a circular slit exposing the skin on his lower back, adorned with a golden necklace and a long golden wig to mimic female hair. ", "characters": [ { "role": "Assistant/Stylist", "position": "Kneeling on the left", "appearance": "A lady with red-gold wavy hair, wearing a green floral long-sleeve top and dark jeans. She was fixing the wig/skirt device to the waist of a standing man. " }, { "role": "Prop/Model", "position": "Standing in the center (with back to the camera)", "appearance": "A man wearing a white T-shirt. He wears a red skirt-like fabric on his lower body, with a cutout to create the illusion of a woman's back. " }, { "role": "Observer", "position": "Kneeling on the right side", "appearance": "A man with a beard and short hair, wearing a gray turtleneck sweater and black trousers. He knelt with his arms crossed, expressionless/serious as he looked at the camera. " } ], "environment": { "setting": "Studio", "details": [ "Black and white backdrop", "Professional camera on a foreground tripod", "Visible C-bracket and lighting equipment", "Studio floor" ] }, "style": "Realistic, candid shot, high-resolution photos", "mood": "Fun, satirical, sarcastic, revealing" } }
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_17390_0.jpg" width="600" alt="Studio Trick: Man's Back as Woman's Chest - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 72: Colorful Cooking Class Character Design
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Wearing aprons, scarves, and slippers that match the theme, holding cooking items in both hands, everyone faces forward, the fox disappears, everyone is a diff…
-
-#### 📝 Prompt
-
-```
-Wearing aprons, scarves, and slippers that match the theme, holding cooking items in both hands, everyone faces forward, the fox disappears, everyone is a different color, and the background is a cooking class
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13403_0.jpg" width="600" alt="Colorful Cooking Class Character Design - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13403_1.jpg" width="600" alt="Colorful Cooking Class Character Design - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 73: Joyful Black White Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Black and white highly detailed studio portrait photography: a girl is sitting on a chair in the center, legs crossed, hands folded on her knees, sincere smile…
-
-#### 📝 Prompt
-
-```
-Black and white highly detailed studio portrait photography: a girl is sitting on a chair in the center, legs crossed, hands folded on her knees, sincere smile, looking into the camera. Behind her stands a man, leaning slightly forward, one hand in his pocket, the other on her shoulder, head thrown back with a loud laugh, eyes closed with joy. She is wearing a light long-sleeved shirt and a long light skirt with a slit; the guy is in a dark zip-up jacket over a T-shirt and dark trousers. Soft uniform lighting without harsh shadows emphasizes the texture of the fabric, skin, and hair, creating clarity and volume. Light gray background, slightly blurred. The atmosphere is light, joyful, and full of sincere happiness, like a spontaneous moment of real laughter. 8K in black and white style, contrasts, textures of clothing and facial expressions, cinematic emotionality and naturalness.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24246_0.jpg" width="600" alt="Joyful Black White Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 74: Sunset Beach Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Ultra-realistic fashion portrait of a young woman standing on a rocky beach at sunset, with the ocean and dramatic cloudy sky behind her. She wears an all-whit…
-
-#### 📝 Prompt
-
-```
-Ultra-realistic fashion portrait of a young woman standing on a rocky beach at sunset, with the ocean and dramatic cloudy sky behind her. She wears an all-white sporty chic outfit: a white zip-up jacket with logo detail, a fitted crop top, and high-waisted pants. A small black YSL crossbody bag hangs across her body, adding a touch of luxury. Her long hair flows naturally in the sea breeze, her makeup is glowy and fresh, and she poses confidently with one hand on her hip. The atmosphere is cinematic, blending modern street style with a serene seaside backdrop. --ar 2:3 --v 6 --style raw --q 2 --hd
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23301_0.jpg" width="600" alt="Sunset Beach Fashion Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 75: Sunlit Sea Cave Bikini Editorial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "prompt": "A sunlit coastal photoshoot of a woman standing on a boat inside a natural sea cave with turquoise water. She wears a {argument name="bikini patte…
-
-#### 📝 Prompt
-
-```
-{
-  "prompt": "A sunlit coastal photoshoot of a woman standing on a boat inside a natural sea cave with turquoise water. She wears a {argument name="bikini pattern" default="green butterfly-pattern bikini"} with tie-side bottoms. Her wet blonde hair is slicked back as she poses with one arm raised, highlighting a toned, athletic figure. Golden sunlight filters through the cave opening, illuminating textured rock walls and sparkling water. The mood is sensual yet natural, tropical, and adventurous, with a luxury travel editorial aesthetic.",
-  "style": [
-    "photorealistic",
-    "luxury travel editorial",
-    "natural light",
-    "summer aesthetic"
-  ],
-  "camera": {
-    "angle": "side profile",
-    "lens": "50mm",
-    "aperture": "f/2.0",
-    "depth_of_field": "moderate"
-  },
-  "lighting": {
-    "type": "natural sunlight",
-    "direction": "backlit through cave opening",
-    "mood": "warm, glowing, cinematic"
-  },
-  "environment": "rocky sea cave with clear turquoise water and small boat",
-  "mood": "confident, sensual, free-spirited",
-  "quality": "ultra high detail, sharp focus, 4k realism"
-}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10399_0.jpg" width="600" alt="Sunlit Sea Cave Bikini Editorial - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 76: Fluffy Fur Logo 3D Render
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Ultra-realistic 3D render of the official [{argument name="brand name" default="BRAND NAME"}] logo, exact original shape, proportions, and colors, no redesign,…
-
-#### 📝 Prompt
-
-```
-Ultra-realistic 3D render of the official [{argument name="brand name" default="BRAND NAME"}] logo, exact original shape, proportions, and colors, no redesign, no stylization, covered in soft fluffy fur texture, fine hair strands visible, plush material look, smooth rounded edges, studio-quality lighting, subtle realistic shadow, centered composition, clean white background, high resolution, product-style logo render, brand-accurate, minimal artistic interpretation
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06038_0.jpg" width="600" alt="Fluffy Fur Logo 3D Render - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06038_1.jpg" width="600" alt="Fluffy Fur Logo 3D Render - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06038_2.jpg" width="600" alt="Fluffy Fur Logo 3D Render - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06038_3.jpg" width="600" alt="Fluffy Fur Logo 3D Render - Image 4">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 77: Cyberpunk UFO Abyss Fall
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{argument name="Location" default="Abyss Abyss"} {argument name="Event" default="Picture of UFOs Falling"} {argument name="スタイル" default="サイバーパンク"}
-
-#### 📝 Prompt
-
-```
-{argument name="Location" default="Abyss Abyss"}
-　
-{argument name="Event" default="Picture of UFOs Falling"}
-
-{argument name="スタイル" default="サイバーパンク"}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_13298_0.jpg" width="600" alt="Cyberpunk UFO Abyss Fall - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 78: AI Background Removal White
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Replace the background with a clean, pure white background (RGB 255, 255, 255), keeping the subject sharp and clear with natural edges.
-
-#### 📝 Prompt
-
-```
-Replace the background with a clean, pure white background (RGB 255, 255, 255), keeping the subject sharp and clear with natural edges.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14710_0.webp" width="600" alt="AI Background Removal White - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 79: Cinematic Hyper-Real Beauty Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Ultra-deep, ultra-realistic studio beauty portrait with absolutely no AI-flat look. Preserve the original face from the reference image exactly, no replacement…
-
-#### 📝 Prompt
-
-```
-Ultra-deep, ultra-realistic studio beauty portrait with absolutely no AI-flat look. Preserve the original face from the reference image exactly, no replacement, no alteration, realistic proportions only. Shoulder-up framing. The head is slightly turned to the left, gaze directed straight into the camera with a subtle, confident squint. Expression calm, controlled, magnetic.
-Hair is alive and dynamic: strong but elegant airflow from one side lifts and blows the hair, creating movement, volume, and depth. Individual strands are visible, no stiffness, no artificial symmetry. Hair reacts naturally to the wind, framing the face and enhancing dimensionality.
-Skin is real, alive, non-AI, non-plastic, with zero blur and zero smoothing. Natural pores, micro-texture, soft imperfections preserved. Skin has a healthy glow with realistic light behavior. Natural highlights appear on cheekbones, bridge of the nose, brow bone, cupid’s bow, and chin, creating true depth and realism without over-polish.
-Lips are precisely defined: a brown-toned contour softly blended inward into a nude gradient, seamless transition with no harsh lines. The center of the lips is lighter and natural. Finished with a transparent, glassy gloss that reflects light subtly, not sticky, not exaggerated. Lips appear hydrated, dimensional, and real.
-No clothing visible in frame; focus remains strictly on face, neck, and skin tone. Accessories: only medium-sized gold hoop earrings with a refined metallic shine, minimal and elegant.
-Lighting is dramatic and architectural: a hard, cold white side light creates a sharp horizontal light band cutting across the eyes, dividing the face into light and shadow. High contrast with deep shadows, sculpting bone structure, eye sockets, nose bridge, and jawline. No flat light, no fill flattening the face.
-Background is pure white, minimal, clean, shadowless. Strong sense of depth, cinematic separation between subject and background. Focus is razor-sharp on eyes and skin texture. Atmosphere is modern, luxurious, cinematic fashion beauty editorial — intense, mysterious, controlled, and timeless. Extreme realism, deep dimensional lighting, authentic skin behavior, studio portrait precision.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25118_0.jpg" width="600" alt="Cinematic Hyper-Real Beauty Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 80: Mysterious Catwoman Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Without changing the appearance of the woman from the photo, the shot is filled with dramatic light and shade contrast, creating a tense atmosphere. The woman…
-
-#### 📝 Prompt
-
-```
-Without changing the appearance of the woman from the photo, the shot is filled with dramatic light and shade contrast, creating a tense atmosphere. The woman is presented in profile, her face partially hidden by a black mask with pointed ears, reminiscent of a superhero or anti-hero image, made of matte material with an elegant texture. The hair is voluminous. Under the mask, expressive eyes with accented black makeup are visible, emphasizing the depth and mystery of the look. Her lips are slightly parted, and her index finger is extended toward them in a graceful gesture, creating sensual tension. The finger is covered in a long black glove made of glossy material that shines and plays with highlights, giving the image a dynamic texture. The woman's head is slightly tilted forward, and light falling from behind and the side emphasizes the muscles of the neck and the contours of the collarbones, creating the effect of cinematic depth. The clothing, opening the décolleté area, is made of black fabric with a smooth surface; soft folds are visible, which harmoniously combine with the shape of the body and emphasize the silhouette. The lighting style is conceived in the spirit of a high-contrast portrait with a soft diffused background that does not distract attention, enhancing the monumentality and tension of the image. On the whole, the composition with a subtle play of light and shadow forms an atmosphere of mystery and strength, concentrating the eye on the strong lines and sensual accents of this expressive portrait, photorealistic image, high texture detail, high quality, 8K resolution.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23784_0.jpg" width="600" alt="Mysterious Catwoman Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 81: Silver-Haired Winter Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A hyper-realistic portrait of a young woman, gray-gold/silver hair, wearing a deep brown plush winter hat (Russian cotton hat style), natural freckles, light m…
-
-#### 📝 Prompt
-
-```
-A hyper-realistic portrait of a young woman, gray-gold/silver hair, wearing a deep brown plush winter hat (Russian cotton hat style), natural freckles, light makeup, shiny nude lips, subtle cheek highlights, soft window sunlight on the left, neutral indoor background, 35mm photo effect, sharp focus, highly detailed skin texture, clean color grading, cinematic realism, shallow depth of field.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22199_0.jpg" width="600" alt="Silver-Haired Winter Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 82: Haute Couture Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A captivating haute couture fashion portrait depicting a woman in a sparkling gown, with dramatic lighting, deep shadows, cinematic color grading, shot with vi…
-
-#### 📝 Prompt
-
-```
-A captivating haute couture fashion portrait depicting a woman in a sparkling gown, with dramatic lighting, deep shadows, cinematic color grading, shot with vintage film cameras, with extraordinary details and studio sets.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_21955_0.jpg" width="600" alt="Haute Couture Fashion Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 83: Gamer Girl Playful Selfie
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "subject": { "gender": "female", "cosplay": "blonde, cosplay character is {argument name=\"cosplay character\" default=\"https://t.co/kAhoun6OXc\"}", "hair":…
-
-#### 📝 Prompt
-
-```
-{ "subject": { "gender": "female", "cosplay": "blonde, cosplay character is {argument name=\"cosplay character\" default=\"https://t.co/kAhoun6OXc\"}", "hair": { "color": "golden", "style": "with twin ponytails, Equipped with purple accessories" }, "expression": { "face": "Blinking, tongue slightly sticking out" }, "pose": "Sitting in a gaming chair, holding a Samsung Galaxy S25 Ultra smartphone in my right hand for a selfie, left leg raised high, revealing the pink Puma soles, right knee bent", "accessories": { "headset": "White gaming headphones hanging around my neck", "smartphone": " Holding an orange smartphone in the right hand" }, "tattoos": "Visible snake and Japanese symbol tattoos on the left arm and right leg" }, "attire": { "bodysuit": { "color": "Orange and white", "text": "WANNA PLAY?" }, "socks": { "style": "Over-the-knee socks, gold and silver stripes" }, "shoes": { "style": "Shoes shown in the attached illustration" } }, " environment": { "location": "Game room", "furniture": { "chair": "Light blue and red Autofull gaming chair", "desk": "White gaming desk", "drawers": "White IKEA Alex drawer cabinet" }, "equipment": { "monitors": "Two monitors, one vertical, one horizontal display desktop", keyboard": "Partially visible", "mouse": "Partially visible" }, "decor": { "sign": "Glowing sign, with 'KEORUNREAL GAMES'", "plush_toys": "Multiple plush toys, including different Labubu", "posters": "Mounted on the wall are framed comic 'Dragon Ball' and 'One Piece' artwork", "rug": "Fluffy yellow carpet" } }, "lighting": "Soft indoor lighting", "camera_angle": "Slightly elevated angle", "image_type": "Photo, high quality, cinematic feel, hyperrealistic photos and lighting, high-quality photos, depth of field, no AI or CGI effects." }
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19107_0.jpg" width="600" alt="Gamer Girl Playful Selfie - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 84: Serene Shab-e-Barat Prayer Night
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Hande Erçel sitting gracefully on a traditional prayer mat (nimaz mat) during the sacred night of Shab-e-Barat, inside a softly lit room filled with a calm spi…
-
-#### 📝 Prompt
-
-```
-Hande Erçel sitting gracefully on a traditional prayer mat (nimaz mat) during the sacred night of Shab-e-Barat, inside a softly lit room filled with a calm spiritual atmosphere. She is dressed in modest, elegant attire — a loose, full-sleeved {argument name="attire color" default="pastel"} outfit with a light dupatta gently covering her head, maintaining respectful Islamic modesty.
-Her posture is serene and focused, sitting in the tashahhud position after prayer, hands raised softly in dua. Her facial expression is peaceful, reflective, and emotionally connected, eyes slightly lowered in devotion.
-Warm candlelight and a small bedside lamp create a golden glow in the room. A Quran rests on a wooden rehal beside her. Subtle fairy lights in the background create a soft bokeh effect. The environment feels pure, quiet, and sacred.
-The prayer mat has intricate Islamic geometric patterns. The room décor is minimal and clean — white walls, a simple curtain moving slightly, suggesting a gentle night breeze. Moonlight filters in through the window, adding a cool blue contrast to the warm indoor lighting.
-Visual style: ultra-realistic, cinematic editorial photography, 85mm lens, shallow depth of field, soft focus background, sharp facial detail, natural skin texture, HDR lighting, studio-grade realism, spiritual mood, respectful tone.
-Camera angle: eye-level, slightly angled from the front, intimate and calm framing.
-Resolution: Ultra HD 8K
-Aspect ratio: 4:5
-Lighting: warm candlelight + soft moonlight contrast
-Mood: spiritual, peaceful, sacred, reflective, modest, realistic
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_09309_0.jpg" width="600" alt="Serene Shab-e-Barat Prayer Night - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 85: Mojito Beauty by the Pool
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Slender slightly tanned woman lying on a black sun lounger (no jewelry). Holding a glass with a mojito and a straw. Nude nails. She wears white Prada sunglasse…
-
-#### 📝 Prompt
-
-```
-Slender slightly tanned woman lying on a black sun lounger (no jewelry). Holding a glass with a mojito and a straw. Nude nails. She wears white Prada sunglasses, very long hair to the waist, styled on a round brush, cascade haircut, layered shape, ends curled inwards without waves. She is wearing: A white strapless one-piece swimsuit highlights a light tan. She has full breasts. Neck without a chain. Background — light stone wall, windows with reflections of the sky and trees. Daylight, warm highlights. Photorealism, high skin detail, natural colors, shooting like on iPhone 17 Pro, 4K.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22598_0.jpg" width="600" alt="Mojito Beauty by the Pool - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 86: Laser Engraved Christmas LED Stand
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Role and Goals: You are a product photographer and a digital artist. Your job is to analyze this original image and reproduce it as a product photo of the "Pre…
-
-#### 📝 Prompt
-
-```
-Role and Goals: You are a product photographer and a digital artist. Your job is to analyze this original image and reproduce it as a product photo of the "Premium Laser Engraving Acrylic LED Stand." # プロセス1. Analyze and identify the [main subject] (e.g., person, pet, object) and [mood] (e.g., sentimental, energetic, gentle) from the original image. 2. Transform the visual style. - Convert the [main subject] into a line art sketch that emits pure shine (monochrome golden light, without using the original color or fill). - Create "decorations": artistic handwritten typography, doodles (e.g., hearts, stars, abstract shapes, speech bubbles), and decorative strokes surrounding the subject. These must be thematic and consistent with the detected [mood]. 3. Use the template below to compose the final product photo scene. # Image generation template: Macro photography of thick die-cut transparent acrylic stand-up light. Art: On the acrylic surface, laser-engraved golden line drawings of [detected main subject] detected from the original image are drawn. Around them, Christmas-themed decorative elements that enhance the subject (e.g., snowflakes, holly leaves, stars, reindeer silhouettes, handwritten letters like "Merry Christmas" or "Noel") are placed. The sculpture shines brightly with warm edge lighting. Base: A rustic wooden LED base supporting acrylic. Setting: Set against a luxurious and dimly lit indoor backdrop, [Christmas decorative props: e.g., pine branches with red berries, dazzling ornaments, warm fairy lights, pine cones, ribbons] are placed to create a cozy and festive atmosphere. **Atmosphere: High contrast, photorealistic, shallow depth of field at 8K f/1.8, magical emotional atmosphere. Light from the stands illuminates the surroundings. # Perform this analysis to generate an image.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08258_0.jpg" width="600" alt="Laser Engraved Christmas LED Stand - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 87: Gangster Boss with Cheetah
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-GENERATE A POWERFUL AND STYLISH IMAGE OF THE UPLOADED MAN, 100 PERCENT FACE RESERVED, RADIATING BOSSY GANGSTER VIBES. HE IS SEATED CONFIDENTLY ON A LUXURIOUS V…
-
-#### 📝 Prompt
-
-```
-GENERATE A POWERFUL AND STYLISH IMAGE OF THE UPLOADED MAN, 100 PERCENT FACE RESERVED, RADIATING BOSSY GANGSTER VIBES. HE IS SEATED CONFIDENTLY ON A LUXURIOUS VELVET SOFA, LEANING BACK IN A RELAXED YET COMMANDING POSE. A CHEETAH, ADORNED WITH HEAVY GOLD CHAINS, SITS ACROSS HIS LAP, ITS SLEEK BODY DRAPED NATURALLY OVER HIM.
-
-THE MAN'S HEAD IS TURNED SLIGHTLY DOWNWARD, GAZING AT THE CHEETAH WITH A COOL, COMPOSED EXPRESSION, SUNGLASSES ENHANCING HIS AURA OF DOMINANCE AND STYLE. ONE HAND RESTS CASUALLY ON THE CHEETAH'S BACK WHILE THE OTHER RESTS ALONG THE ARM OF THE SOFA, SHOWING BOTH CONTROL AND EASE.
-
-HE IS DRESSED IN HIGH-FASHION DARK ATTIRE - EITHER A PINSTRIPE SUIT OR AN OPEN-COLLARED SILK SHIRT LAYERED WITH BOLD GOLD JEWELRY. THE CHEETAH HAS A FIERCE, OPEN-MOUTH EXPRESSION, MIRRORING THE MAN'S AURA OF RAW POWER.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10514_0.jpg" width="600" alt="Gangster Boss with Cheetah - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 88: Ukiyo-e Profile Portrait Art
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Modeled after the woman in the attached image. Profile portrait. Left-facing profile, with a cool and intellectual expression. Bust-up composition. Women's fac…
-
-#### 📝 Prompt
-
-```
-Modeled after the woman in the attached image. Profile portrait. Left-facing profile, with a cool and intellectual expression. Bust-up composition.
-
-Women's faces and skin maintain fully photorealistic photo quality. This is the top priority and should not be illustrated or anime-style. Ultra-high-definition texture that lets you see every pore, fine hair, individual eyelashes, and even the sheer cartilage of the ears.
-
-The background and decorative elements blend urban, industrial, and ukiyo-e prints. Grid lines and measurement lines run across the entire screen, with part of the grid transformed into the wave curves of Katsushika Hokusai. The lines on the blueprint, which were straight lines, suddenly transform from a certain point into a wave crest swell. Numbers and scale notations are mixed with vertical Japanese text.
-
-The sharp geometric triangles and lines placed in the background are indigo, and this indigo is the same deep blue as the indigo prints in ukiyo-e. Inside the triangle, the wave and spiral patterns of woodblock prints can be seen through. Geometric and ukiyo-e patterns coexist on a single canvas.
-
-Miniature-sized people working on women's faces and contours. He was a woodblock print carver and printer from the Edo period, carving woodblocks with small carving knives and printing them onto washi paper with a ballen. Ukiyo-e artisans wear indigo kimonos. Small platforms and ladders are set up along the contours of the face.
-
-The contours of the woman's profile are made up of sharp digital vector lines in some parts and ukiyo-e outlines created with ink and brush. Two line drawing techniques intersect on one person's face.
-
-Ink splatters and droplets are scattered across the entire screen, but indigo ink droplets and vermilion droplets are mixed with the black ink droplets. The grunge texture overlaps with the texture of concrete walls and the fibers of washi paper.
-
-The screen contains no text, text, typography, Japanese strings, seals, seals, stamps, or signatures at all.
-
-The lighting features dramatic shadows with strong contrast. The hard light from the left side of the canvas clearly highlights the profile of the face with clear light and shadow. フィルムグレイン。 Ultra-high resolution. シャープ。 Art poster style.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02796_0.jpg" width="600" alt="Ukiyo-e Profile Portrait Art - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02796_1.jpg" width="600" alt="Ukiyo-e Profile Portrait Art - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02796_2.jpg" width="600" alt="Ukiyo-e Profile Portrait Art - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02796_3.jpg" width="600" alt="Ukiyo-e Profile Portrait Art - Image 4">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 89: Premium Chilled Soda Visual
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
--Ultra-realistic premium beverage product photography of a chilled aluminum soda can floating upright at the center of the frame, partially submerged in vivid…
-
-#### 📝 Prompt
-
-```
--Ultra-realistic premium beverage product photography of a chilled aluminum soda can floating upright at the center of the frame, partially submerged in vivid crystal-clear blue water, with dynamic ripples and splashes radiating outward; the can features a clean yellow-and-white label design with condensation droplets across the surface, and the brand name “{argument name="brand name" default="lemonate"}” prominently displayed in bold black typography, replacing all original branding, with smaller minimalist
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_01239_0.jpg" width="600" alt="Premium Chilled Soda Visual - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 90: Artist painting recursive image
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Amateur photograph from {argument name="year" default="1998"} of a middle-aged artist copying an image by hand from a computer screen to an oil painting on str…
-
-#### 📝 Prompt
-
-```
-Amateur photograph from {argument name="year" default="1998"} of a middle-aged artist copying an image by hand from a computer screen to an oil painting on stretched canvas, but the image is itself the photo of the artist painting the recursive image.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10737_0.jpg" width="600" alt="Artist painting recursive image - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 91: Cinematic Vintage Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A cinematic vintage fashion portrait of an elegant young woman dressed in 1950s style clothing stands beside a classic convertible. The camera captures her fro…
-
-#### 📝 Prompt
-
-```
-A cinematic vintage fashion portrait of an elegant young woman dressed in 1950s style clothing stands beside a classic convertible. The camera captures her from a three-quarter back angle, where she glances back with a smile, her gaze gentle and confident. She wore a tailored ivory two-piece suit, including a high-waisted pencil skirt and a matching cropped jacket. The hem of the jacket is adorned with hand-painted red rose patterns. A slender red scarf was tied around her neck. Her hair is styled into a voluminous vintage updo in reddish/reddish tones. She wore white leather gloves and delicate pearl earrings. The makeup is exquisite and classic: fluttering eyeliner, soft blush, and deep red lipstick. The scene is bathed in warm golden sunlight, with creamy bokeh as the backdrop, set in an outdoor garden. Ultra-detailed, photo-realistic with shallow depth of field, cinematic lighting, luxurious stylish editing style, and 8K image quality. Shot with the Hasselblad X2D 100C camera and 80mm lens. Editing moods, high-end fashion.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_21950_0.jpg" width="600" alt="Cinematic Vintage Fashion Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 92: Santa Girl Crouching Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "frame": { "aspect_ratio": "9:16", "shot_size": "Full Shot (Subject is crouching)", "orientation": "Portrait", "composition_guide": "Center Framed" }, "subje…
-
-#### 📝 Prompt
-
-```
-{
-  "frame": {
-    "aspect_ratio": "9:16",
-    "shot_size": "Full Shot (Subject is crouching)",
-    "orientation": "Portrait",
-    "composition_guide": "Center Framed"
-  },
-  "subject": {
-    "subject_type": "Human",
-    "identity_summary": "Young Asian female with long dark hair wearing a red velvet Santa-inspired dress.",
-    "visual_signature": {
-      "facial_signature": {
-        "face_shape": "Oval with smooth, youthful contours and a delicate chin",
-        "eye_details": "Large, almond-shaped dark eyes, defined upper lashes, soft pink under-eye makeup (aegyo-sal)",
-        "nose_details": "Small, narrow bridge with a refined tip",
-        "lip_details": "Plump, rose-tinted lips, slightly parted in a soft expression",
-        "cheek_and_jaw": "Fair, porcelain complexion; distinct beauty mark/mole on the right cheek (viewer's left)",
-        "unique_features": "Long dark hair framing the face"
-      },
-      "body_signature": {
-        "build": "Slender, petite",
-        "proportions": "Model-like",
-        "skin_tone_and_texture": "Very fair, smooth skin",
-        "height_estimation_cm": 165,
-        "unique_markings": "None visible on body"
-      }
-    },
-    "pose_and_action": {
-      "description": "Subject crouches low in a 'squat' pose, looking directly at the camera with hands raised near the face.",
-      "body_position": "Deep squat, knees bent, torso upright",
-      "limb_positions": "Legs tucked beneath, arms bent with elbows resting near knees",
-      "hand_gestures": "Fingers loosely curled, touching or hovering near the chin and lips",
-      "facial_expression": "Soft, alluring gaze, slightly open mouth",
-      "gaze_direction": "Direct eye contact with lens"
-    },
-    "inventory": {
-      "wardrobe": "Festive Santa-style red velvet mini dress. Features an off-the-shoulder neckline, white fur trim along the bust and hemline. Large, chunky beige/cream fur boots (moon boots style).",
-      "accessories": "Silver necklace with a small green emerald pendant, matching silver earrings with green stones.",
-      "held_objects": "None",
-      "hair_style": "Long, dark brown wavy hair, center-parted, extending past shoulders"
-    }
-  },
-  "environment": {
-    "setting_type": "Indoor/Industrial Background",
-    "location_description": "Against a grey corrugated metal rolling shutter door",
-    "time_of_day": "Indeterminate (Artificial Light)",
-    "weather_conditions": "Indoor",
-    "background_elements": "Horizontal metal slats, yellow safety line on concrete floor"
-  },
-  "lighting": {
-    "global_illumination": "Soft studio lighting",
-    "primary_source": "Frontal flash/strobe",
-    "direction": "Front-lit",
-    "shadow_quality": "Soft drop shadow behind subject",
-    "color_temperature": "Cool neutral"
-  },
-  "camera": {
-    "angle": "Eye-Level",
-    "lens_type": "50mm Standard",
-    "focal_length_mm": 50,
-    "aperture": "f/4"
-  },
-  "post_processing": {
-    "art_medium": "Photography",
-    ""
-  }
-}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05576_0.jpg" width="600" alt="Santa Girl Crouching Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 93: Cinematic World-Building Visual Guide
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a complete visual world-building model for a civilization @image_1 a reference image, including architecture, people, clothing, vehicles, maps, and othe…
-
-#### 📝 Prompt
-
-```
-Create a complete visual world-building model for a civilization @image_1 a reference image, including architecture, people, clothing, vehicles, maps, and other images, using a unified design language with cinematic realism and extremely rich details.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15745_0.jpeg" width="600" alt="Cinematic World-Building Visual Guide - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 94: Premium Product Hero Shot Studio Lighting
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Front-facing strict product hero shot, centered and upright, photographed at eye level with a soft studio key light coming from 45° left, gentle falloff and su…
-
-#### 📝 Prompt
-
-```
-Front-facing strict product hero shot, centered and upright, photographed at eye level with a soft studio key light coming from 45° left, gentle falloff and subtle specular highlights defining the edges of the packaging; a vertical black-to-white gradient backdrop creates a controlled, premium atmosphere while maintaining high legibility of the label; charred black branches frame the composition in the foreground and midground with restrained, organic asymmetry, adding texture without distracting from the product; clean soft contact shadow anchors the product to the surface, crisp glass/material realism, cinematic contrast, shallow depth of field with background kept smooth and noise-free.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12131_0.jpg" width="600" alt="Premium Product Hero Shot Studio Lighting - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12131_1.jpg" width="600" alt="Premium Product Hero Shot Studio Lighting - Image 2">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 95: Street Snapshot Freeze Moment
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Street snapshot portraits, with the subject centered and sharp, the surrounding crowd's movement blurred, slow shutter speed, paparazzi street style, handheld…
-
-#### 📝 Prompt
-
-```
-Street snapshot portraits, with the subject centered and sharp, the surrounding crowd's movement blurred, slow shutter speed, paparazzi street style, handheld camera, wind-blown hair covering the face, natural makeup, olive green jacket, shallow depth of field, soft cloudy daylight, cinematic color grading, cyan and warm tones, film grain, bokeh city lighting, documentary realism, busy street background, sharp gaze, freeze moments amid chaos
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_16898_0.jpg" width="600" alt="Street Snapshot Freeze Moment - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 96: Golf Girl Golden Hour Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Экстремально близкий кадр Девушка сидит облокотившись на сидение машины для гольфа в гольф клубе на поле Одета в белый топ и белый ободок для гольфа Волосы объ…
-
-#### 📝 Prompt
-
-```
-Экстремально близкий кадр Девушка сидит облокотившись на сидение машины для гольфа в гольф клубе на поле
-Одета в белый топ и белый ободок для гольфа
-Волосы объемные длинные блестящие прямые
-Лицо положила на руки смотрит в камеру с легкой ухмылкой Кинематографический эффект с добавлением зерна. Фото в золотой час Формат 9:16
-Кожа идеальная подсвечена 
-Не меняй черты лица
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24518_0.jpg" width="600" alt="Golf Girl Golden Hour Portrait - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 97: Floating Island Country Fantasy Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create an ultra-HD, hyper-realistic digital poster of a floating miniature island shaped like [COUNTRY], resting on white clouds in the sky. Blend iconic landm…
-
-#### 📝 Prompt
-
-```
-Create an ultra-HD, hyper-realistic digital poster of a floating miniature island shaped like [COUNTRY], resting on white clouds in the sky. Blend iconic landmarks, natural landscapes (like forests, mountains, or beaches), and cultural elements unique to [COUNTRY]. Carve "[COUNTRY]" into the terrain using large white 3D letters. Add artistic details like birds (native to [COUNTRY]), cinematic lighting, vivid colors, aerial perspective, and sun reflections to enhance realism. Ultra-quality, 4K+ resolution. 1080x1080 format.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22335_0.jpg" width="600" alt="Floating Island Country Fantasy Poster - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 98: Cinematic Chiaroscuro Portrait in Shadows
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A hyper-realistic cinematic portrait of a {argument name="subject" default="handsome man with a rugged jawline and short, messy dark hair"}. He is wearing dark…
-
-#### 📝 Prompt
-
-```
-A hyper-realistic cinematic portrait of a {argument name="subject" default="handsome man with a rugged jawline and short, messy dark hair"}. He is wearing dark round sunglasses and a textured black blazer over a slightly unbuttoned dress shirt. Pose: He is looking slightly downward toward the camera, tilting his head, with his hand curled into a fist resting firmly under his chin. Lighting: Dramatic chiaroscuro lighting; one side of his face is in deep shadow, while a sharp, vibrant {argument name="rim light color" default="orange-red"} rim light highlights his profile and hand. High contrast, moody atmosphere, 8k resolution, shot on {argument name="lens" default="85mm"} lens.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06996_0.jpg" width="600" alt="Cinematic Chiaroscuro Portrait in Shadows - Image 1">
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 99: Luxury Holiday Couple Kiss
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-{ "generation_request": { "meta_data": { "tool": "NanoBanana Pro", "task_type": "photorealistic_couple_holiday_editorial", "version": "v1.0_COUPLE_NYE_TREE_KIS…
-
-#### 📝 Prompt
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photorealistic_couple_holiday_editorial",
-      "version": "v1.0_COUPLE_NYE_TREE_KISS_EDITORIAL",
-      "priority": "highest"
-    },
-    "references": {
-      "female_character_reference_image": "UPLOAD_FEMALE_REFERENCE (OPTIONAL: for identity lock)",
-      "male_character_reference_image": "UPLOAD_MALE_REFERENCE (OPTIONAL: for identity lock)",
-      "pose_reference_image": "UPLOAD_POSE_REFERENCE (OPTIONAL: use this image for same pose/framing)"
-    },
-    "output_settings": {
-      "aspect_ratio": "2:3",
-      "orientation": "portrait",
-      "resolution": "ultra_high_res",
-      "render_style": "ultra_photoreal_high_fashion_holiday_editorial",
-      "sharpness": "crisp_but_natural",
-      "film_grain": "none_or_minimal",
-      "color_grade": "warm_luxury_true_to_life"
-    },
-    "hard_constraints": [
-      "EXACTLY 2 people only: one woman and one man.",
-      "If reference images are provided: perfect identity match (no face/body changes).",
-      "Match the pose and framing: the couple hugging; the man kissing the woman’s cheek; the woman’s arms around his neck; close, intimate stance.",
-      "No text, no logos, no watermarks.",
-      "Perfect anatomy: hands/fingers/teeth correct; no extra limbs.",
-      "Photoreal skin texture (no plastic smoothing).",
-      "Luxury holiday vibe; no cheap party props; no neon club lighting."
+  "accessories": {
+    "jewelry": [
+      "multiple thin gold bangles stacked on both wrists",
+      "large statement gold earrings"
     ],
-    "creative_prompt": {
-      "scene_summary": "Ultra-photoreal luxury holiday editorial portrait. A couple stands in front of a decorated Christmas tree with warm fairy lights and red ornaments. The woman wears a fitted elegant {argument name="woman's dress color" default="red"} dress (sleek, sophisticated; floor-length or fitted midi with a long red ribbon/scarf detail trailing down), glamorous makeup with classic red lipstick, soft bronzy blush, and defined brows; long glossy dark-to-warm brunette waves with volume. Her nails are painted red. She smiles subtly toward camera while the man kisses her cheek. The man wears a black suit with a white shirt and a red pocket square; groomed dark hair and a neat beard; one hand at her waist. Lighting: high-end editorial strobe + soft fill, warm ambient bokeh from tree lights, controlled shadows, cinematic but clean. Background: upscale indoor setting with a neutral wall, the Christmas tree positioned to the left, tasteful decorations, premium warm atmosphere. Camera: 85mm portrait look, shallow depth of field for creamy bokeh while keeping faces sharp."
-    },
-    "negative_prompt": [
-      "any text, logo, watermark",
-      "extra people",
-      "blurred faces",
-      "identity drift",
-      "deformed hands, extra fingers, warped anatomy",
-      "cartoon, anime, CGI look",
-      "plastic skin, heavy smoothing, beauty blur",
-      "overexposed highlights, harsh blown-out flash",
-      "neon lighting, nightclub look",
-      "messy background clutter",
-      "duplicate limbs, double heads"
+    "prop": "cigarette dangling from lips"
+  },
+  "makeup": {
+    "eyes": "heavy dark smokey eye makeup with sharp winged liner",
+    "lips": "deep red glossy lips"
+  },
+  "lighting": {
+    "style": "moody dramatic lighting",
+    "effects": [
+      "rim light",
+      "reflective highlights on jacket"
+    ]
+  },
+  "camera": {
+    "lens": "35mm",
+    "depth_of_field": "shallow",
+    "film_style": "shot on 35mm film",
+    "grain": "visible film grain"
+  },
+  "rendering": {
+    "realism": "ultra-realistic",
+    "detail": "high detail skin texture",
+    "resolution": "8k",
+    "color_grading": "cinematic"
+  }
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_02175_0.jpg" width="600" alt="Cyber-Noir Femme Fatale Night - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 52: Actress Fashion Portraits
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Ai { "digital_asset_portfolio": { "collection_title": "Cinematic Actress Portraits & Themed Concepts", "metadata_version": "3.0", "analysis_depth": "Ultra-Deta…
+
+#### 📝 Prompt
+
+```
+Ai
+{
+  "digital_asset_portfolio": {
+    "collection_title": "Cinematic Actress Portraits & Themed Concepts",
+    "metadata_version": "3.0",
+    "analysis_depth": "Ultra-Detailed",
+    "subjects": [
+      {
+        "identity": "Sadie Sink",
+        "aesthetic_profile": {
+          "vibe": "Versatile, ranging from sporty-minimalist to urban-glamour",
+          "key_visuals": [
+            {
+              "scene_description": "A vibrant and energetic shot featuring a minimalist aesthetic.",
+              "fashion_breakdown": "A bright red athletic dress with a white neckline border, paired with vintage-style pink sunglasses.",
+              "composition": "High-angle shot emphasizing the subject's interaction with a metallic disco ball on the ground.",
+              "color_theory": "Strong contrast between the lime green backdrop and the saturated red fabric.",
+              "lighting": "Sharp, direct sunlight creating high-contrast shadows."
+            },
+            {
+              "scene_description": "A cinematic high-fashion portrait set against a twilight city backdrop.",
+              "fashion_breakdown": "An intricate emerald green sequined gown with a side slit, complemented by red strappy sandals.",
+              "accessories": "A matching green leather clutch with gold hardware.",
+              "environment": "Urban rooftop overlooking a sprawling metropolis with glowing skyscrapers.",
+              "atmosphere": "Moody and sophisticated, utilizing professional bokeh effects for the city lights."
+            }
+          ]
+        }
+      },
+      {
+        "identity": "Maya Hawke",
+        "aesthetic_profile": {
+          "vibe": "Eclectic, combining fitness-focused lifestyle with playful character themes",
+          "key_visuals": [
+            {
+              "scene_description": "A personal lifestyle mirror selfie capturing a moment of physical activity.",
+              "fashion_breakdown": "A deep blue athletic tank top paired with vibrant red performance leggings.",
+              "pose_analysis": "Subject is performing a split stretch, showing flexibility and athleticism.",
+              "environment_details": "Cozy indoor room with warm, diffused lamp lighting and a neutral color palette.",
+              "visual_texture": "Soft interior glow reflecting off the mirror surface."
+            },
+            {
+              "scene_description": "A creative character-themed photoshoot with high-detail costume elements.",
+              "fashion_breakdown": "A Western-inspired 'Jessie' ensemble featuring a blue bandeau top with gold trim and denim shorts.",
+              "costume_assets": "Large red cowgirl hat with white stitching, yellow wrist cuffs with red ribbons, and white chaps.",
+              "styling_details": "Long blonde braids tied with red ribbons and a sophisticated wine glass as a prop.",
+              "lighting": "Clean, even studio lighting d"
+            }
+          ]
+        }
+      }
     ]
   }
 }
@@ -3960,25 +2430,49 @@ A hyper-realistic cinematic portrait of a {argument name="subject" default="hand
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05314_0.jpg" width="600" alt="Luxury Holiday Couple Kiss - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04723_0.jpg" width="600" alt="Actress Fashion Portraits - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04723_1.jpg" width="600" alt="Actress Fashion Portraits - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04723_2.jpg" width="600" alt="Actress Fashion Portraits - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_04723_3.jpg" width="600" alt="Actress Fashion Portraits - Image 4">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
 
 ---
 
-### No. 100: Minimalist Blue Studio Man Portrait
+### No. 53: Stylish Woman Strawberry Dessert Street
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Create a minimalist studio portrait of a confident man seated casually on a simple geometric cube against a solid muted blue background. He sits with his legs…
+{ "prompt": "{argument name="subject" default="a stylish blonde woman on a city street holding a strawberry dessert"}, casual outfit, candid moment, urban back…
 
 #### 📝 Prompt
 
 ```
-Create a minimalist studio portrait of a confident man seated casually on a simple geometric cube against a solid muted blue background. He sits with his legs apart and feet planted firmly on the ground, leaning slightly forward with both hands resting naturally near his knees, creating a grounded, relaxed, and quietly powerful posture. He has medium-length, textured dark hair styled with natural volume, a full, well-groomed beard, and an intense yet calm expression as he looks directly at the camera. His outfit is clean and understated: a soft off-white crewneck sweatshirt with a relaxed fit, paired with classic blue denim jeans featuring elasticated cuffs. He wears modern blue athletic sneakers with white accents, adding a casual, contemporary streetwear touch. The background is a smooth, seamless blue studio wall with no distractions, emphasizing simplicity and balance. Lighting is soft, diffused, and frontal, evenly illuminating the subject while gently sculpting facial features and fabric texture without harsh shadows. The color palette is cohesive and calm. Use aspect ratio 4:5.
+{
+  "prompt": "{argument name="subject" default="a stylish blonde woman on a city street holding a strawberry dessert"}, casual outfit, candid moment, urban background with buildings and bus",
+  "style": "{argument name="style" default="photorealistic, lifestyle"}",
+  "camera": "{argument name="camera" default="iPhone photo, shallow depth of field"}",
+  "lighting": "natural daylight",
+  "aspect_ratio": "9:16"
+}
 ```
 
 #### 🖼️ Generated Images
@@ -3986,7 +2480,1846 @@ Create a minimalist studio portrait of a confident man seated casually on a simp
 ##### Image 1
 
 <div align="center">
-<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12198_0.jpg" width="600" alt="Minimalist Blue Studio Man Portrait - Image 1">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08627_0.jpg" width="600" alt="Stylish Woman Strawberry Dessert Street - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 54: Ana de Armas Fashion Editorial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "prompt_metadata": { "version": "2.0", "target_style": "High-End Commercial Lifestyle Photography", "aspect_ratio": "3:4", "subject_fidelity": "Rigorous/Abso…
+
+#### 📝 Prompt
+
+```
+{ "prompt_metadata": { "version": "2.0", "target_style": "High-End Commercial Lifestyle Photography", "aspect_ratio": "3:4", "subject_fidelity": "Rigorous/Absolute" }, "subject_details": { "identity": { "name": "{argument name=\ "subject name\" default=\"Ana de Armas\"}", "face_integrity": "100% preserves original facial features, no AI distortion, realistic oval face shape, defined jawline", "makeup": { "eyes": "sharp black upturned cat's eye liner, precisely outlined eyebrows", "lips": "matte soft rose light purple lipstick, slightly flared expression", "skin": " Tanned skin, visible natural skin texture, tiny pores, high-fidelity subsurface scattering" }, "hair": "Dark brown, center part, straight hair, draped over shoulders, sunlight backshining, showing strands and stray strands" }, "expression_and_pose": { "gaze": "Looking straight into the camera, confident, charming eye contact", "body_language": "Sitting on the floor, leaning forward, hands loosely hugging calves, sitting hugging knees", angle_interaction": "Head slightly tilted back, viewed from the bridge of the nose downward, viewing from a wormhole" }, "anatomy_adjustments": { "proportions": "Slim and athletic figure, significantly enlarged chest, prominent leg length", "perspective_distortion": "Emphasizing forced perspective on hand and knee size in the foreground" } }, "apparel_and_ styling": { "upper_body": { "garment": "Satin camisole vest", "color": "Light purple/pink gradient", "neckline": "Ultra-deep V-neck", "straps": "Ultra-thin camisole", "texture": "High-gloss silk reflective with soft fabric tension lines" }, "lower_body": { "garment": "High-waisted mini skirt", pattern": "psychedelic vortex abstract pattern", "colors": ["bright pink", "deep red", "burnt orange"], "footwear": "pristine white leather sneakers, partially cropped at the bottom of the frame" }, "accessories": { "nails": "rectangular nail plates gradient from vivid red to deep red, ring finger adorned with 3D rhinestones", "rings": "oversized gold square declaration ring, On the other hand, he wears a heavy gold signet ring", "necklaces": "Multi-layered silver Cuban chains and cable chains", "earrings": "Delicate polished silver earrings" } }, "composition_and_environment": { "framing": { "shot_type": "Ultra-low angle, insect eye view", "focal_length": "24mm wide-angle distortion", " depth_of_field": "Deep depth, sharp and sharp from the foreground hand to the background face" }, "background": { "immediate": "Thick, textured gray tree trunk growing vertically upward behind the subject", "canopy": "Lush green deciduous leaves form the frame of one-third of the frame" } } }
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_17923_0.jpg" width="600" alt="Ana de Armas Fashion Editorial - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 55: Photorealistic Close-Up Selfie
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A photorealistic, intimate close-up selfie of a beautiful young woman lying comfortably on her back across an ornate, richly patterned couch in a cozy indoor h…
+
+#### 📝 Prompt
+
+```
+A photorealistic, intimate close-up selfie of a beautiful young woman lying comfortably on her back across an ornate, richly patterned couch in a cozy indoor home setting. The couch upholstery features intricate floral and baroque-inspired motifs in warm, muted tones, adding texture and visual depth to the background while still keeping the focus entirely on her face.
+
+The camera angle is positioned directly above her, as if she’s holding the phone slightly raised over her head, creating a soft, flattering perspective. Her long, wavy brown hair fans out naturally around her head, spreading across the couch like a halo, with individual strands visible in fine detail. The waves catch the ambient indoor light, showing subtle variations in warm chestnut and caramel undertones.
+
+She is wearing a loose lavender short-sleeve top with delicate horizontal stripes. The fabric looks soft and lightweight, slightly relaxed at the neckline, which falls naturally and casually without appearing posed. The gentle folds of the material create realistic shadows and highlights, enhancing the authenticity of the scene. A delicate, thin necklace rests against her collarbone, catching a soft glimmer of light and adding a subtle elegant touch.
+
+Her face is the focal point—highly detailed and sharply rendered. Her striking bright turquoise-blue eyes look directly into the camera lens, creating an immediate sense of connection with the viewer. The eyes are glossy and reflective, with tiny light reflections visible in the irises, giving them depth and realism. Her lashes are natural yet defined, framing her gaze beautifully.
+
+Her skin texture is realistic and finely detailed—soft, smooth, and luminous under gentle natural indoor lighting. The light appears to be coming from a nearby window, diffused and warm, casting soft highlights across her cheekbones, nose bridge, and forehead while maintaining gentle, flattering shadows along the contours of her face. Subtle variations in skin tone and faint natural imperfections enhance the photorealism.
+
+Her full lips are slightly parted, coated with a subtle gloss that reflects light softly, adding dimension without appearing heavy. There’s a calm, relaxed sensuality in her expression—confident yet effortless. One arm is bent behind her head, lifting her shoulder slightly and creating a natural curve in her posture. The pose feels spontaneous rather than staged, intimate yet refined.
+
+The overall composition emphasizes closeness and authenticity—an 8K ultra-detailed, cinematic-quality selfie with realistic skin texture, soft natural lighting, shallow depth of field, and a warm, inviting indoor atmosphere.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07927_0.jpg" width="600" alt="Photorealistic Close-Up Selfie - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 56: Walking Country Path Golden Hour
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "image_generation": { "subject": { "description": "A young woman walking alone on a damp country path during prime time", "pose": "Striding posture, one hand…
+
+#### 📝 Prompt
+
+```
+{ "image_generation": { "subject": { "description": "A young woman walking alone on a damp country path during prime time", "pose": "Striding posture, one hand gently touching hair", "expression": "A gentle, relaxed smile, calm and contemplative mood", "gaze": "Unintentionally looking down slightly" }, "appearance": { "hair": { "color": "Dark Brown", "style": "Long straight hair naturally drapes" }, "makeup": "Natural light makeup", "skin_tone": "Fair and natural skin tone" }, "outfit": { "top": "Black leather jacket", "inner": "Light unisex shirt", "bottom": "Wide-leg gray jeans", "footwear": "Black and white sneakers", accessories": "Small crossbody bag" }, "environment": { "setting": "Peaceful country road after rain", "background_elements": [ "Wet asphalt road reflecting the sky", "Green grass", "Tall trees on the right", "Small house in the distance", "Magnificent golden clouds", "Blue sky" ], "time_of_day": "Golden sunset", " weather": "Clear sky after rain" }, "lighting": { "type": "Natural sunset light", "direction": "Warm sunlight from the side", "effect": "Golden light on the subject, wet road surface with reflected highlights" }, "camera": { "angle": "Full-body head-up shot", "framing": "Vertical composition, vast sky", "depth_of_ field": "Moderate depth of field, clear background" }, "aesthetic": { "style": "Cinematic lifestyle photography", "vibe": "Serene, beautiful, and atmospheric golden hour", "color_palette": "Warm gold, deep blue, green tones" }, "quality": { "resolution": "High resolution", "realism": "Hyperrealistic", "details": " Sharp textures, realistic light, reflective moist surfaces" } } }
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_17098_0.jpg" width="600" alt="Walking Country Path Golden Hour - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 57: Monaco Night Flash Fashion Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+молодая девушка с фото с длинными прямыми волосами и взгляд направлен в бок. Одежда (ВАЖНО: ткань идеально гладкая): стильный полностью белый образ (all-white)…
+
+#### 📝 Prompt
+
+```
+молодая девушка с фото с длинными прямыми волосами и взгляд направлен в бок.
+Одежда (ВАЖНО: ткань идеально гладкая): стильный полностью белый образ (all-white). На ней объемный структурированный белый пиджак оверсайз, который выглядит идеально выглаженным и отпаренным, без единой складки или помятости. Под ним облегающий белый кроп-топ бандо и юбка обтягивающая ниже колен, с высокой талией из гладкой, безупречной ткани. В руке держит маленькую жесткую сумочку черного цвета.
+Локация: Вход в роскошный отель в
+Монако. Задний план темный, с размытыми теплыми огнями города и бликами на полировано камне.
+Освещение и детали: Главный источник света - яркая, жесткая прямая вспышка от смартфона «в лоб», которая сильно высвечивает девушку и создает резкие тени позади нее. Видна реалистичная текстура кожи, блеск на волосах от вспышки. Эффект сырого необработанного кадра, пленочное зерно. Ракурс немного снизу
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23696_0.jpg" width="600" alt="Monaco Night Flash Fashion Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 58: Night Street Flash Capture
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Ultra-realistic candid smartphone photograph, 9:16 vertical. Use the attached image only as a strong visual inspiration for general facial proportions and vibe…
+
+#### 📝 Prompt
+
+```
+Ultra-realistic candid smartphone photograph, 9:16 vertical.
+Use the attached image only as a strong visual inspiration for general facial proportions and vibe,
+while ensuring the generated subject remains fully original, non-identifiable, and not a face copy.
+Scene
+Nighttime on a quiet {argument name="location" default="Tokyo city sidewalk"} beside a building with white ceramic tile walls.
+The subject is walking past the camera, partially side-on, captured mid-step in a rushed, accidental moment.
+Poses & Gestures (combined naturally)
+The subject reacts instinctively to being photographed:
+turning her head back mid-walk as if surprised,
+raising one hand close to the lens to partially block the camera,
+{argument name="expression" default="shy, restrained smile forming as she suppresses laughter"},
+body angled in half-profile while continuing to walk forward,
+motion carries her slightly out of frame, imperfect framing.
+Expressions are subtle and spontaneous — embarrassed, playful, fleeting — never posed.
+Camera & Motion
+Shot on a modern smartphone, handheld, rushed capture. Strong uncontrolled camera shake. Heavy directional motion blur across the raised hand, hair, and face. Facial features appear smeared and streaked by movement, faintly recognizable but distorted. Partial ghosting around the body. Imperfect framing, subject nearly leaving the frame.
+Lighting
+Flash-only lighting fired mid-motion. Harsh flash highlights on skin and hand. Deep surrounding darkness. Uneven exposure, blown highlights, hard shadows typical of hurried night phone photography.
+Background
+White ceramic tile wall stretches into streaked light bands due to motion blur. Street surroundings fade into darkness with minimal readable detail.
+Mood
+Candid, shy, slightly playful. Feels intrusive, raw, imperfect, and authentic — like a fleeting memory accidentally captured and never meant to be perfect.
+Image Quality
+Extremely noisy. Heavily blurred. Raw smartphone look. Not cinematic. Not editorial. Not polished.
+Negative Prompt
+anime, illustration, painting, stylized,
+studio lighting, beauty lighting, soft portrait,
+sharp focus, clean face, perfect anatomy, smooth skin,
+fashion editorial, posed portrait, cinematic grading, film still,
+tripod shot, professional photography,
+identity match, face copy, real person replication
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03182_0.jpg" width="600" alt="Night Street Flash Capture - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 59: Hollywood Stars Dazzle Red Carpet
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "metadata": { "version": "1.1", "project": "Holiday Red Carpet Party", "style_preset": "Jason_Movie_Charm" }, "canvas_settings": { "dimensions": { "width": 1…
+
+#### 📝 Prompt
+
+```
+{ "metadata": { "version": "1.1", "project": "Holiday Red Carpet Party", "style_preset": "Jason_Movie_Charm" }, "canvas_settings": { "dimensions": { "width": 1200, "height": 1200, "unit": "px" }, "format": { " aspect_ratio": "1:1", "orientation": "Square" } }, "environment": { "location": { "setting": "Luxurious indoor party venue", "event": "Premiere celebration of the film 'The Maid'", "atmosphere": "Festival, elegance, cinematic feel, haute couture" }, "lighting": { "primary_ source": { "type": "Movie Spotlight and Ambient Light", "position": "Slightly above front", "temperature": "Warm Gold", "Behavior": "Dramatic and soft, smooth light transitions" }, "accent_lighting": { "type": "Decorative Festival Lights", "color": "Soft Warm White", "intensity": "Low" }, " global_contrast": "Mid-high" }, "background_elements": { "decor": { "elements": [ "Red Poins", "Christmas Plants", "Ornaments", "Soft Fairy Lights" ], "placement": "Edge and Soft, Blurred Background" }, "Backdrop": { "style": "Dark Melancholy", "finish": " Soft bokeh highlights" } } }, "character_models": [ { "identity": { "name": "{argument name=\"first celebrity\" default=\"Sydney Sweeney\"}", "gender": "Female", "age": "Mid-twenties", "appearance": "Precise Portrait" }, " anatomy_details": { "skin": "Smooth and lifelike texture, natural shine", "hair": { "color": "Gold", "style": "Long and voluminous waves", "finish": "Silky" } }, "wardrobe": { "item": "Strapless Satin Mini Dress", "color": "Pure White", "fit": "Slim silhouette, above-knee length", " details": [ "3D floral decals", "Delicate embroidery on corsets"], "accessories": [ "White lace open-toe high heels"], "makeup": { "style": "Radiant charm", "lip_color": "Bold red" } }, "performance": { "pose": "Hand in arm", "expression": "Confident smile, looking straight ahead" } }, { " identity": { "name": "{argument name=\"second celebrity\" default=\"Amanda Seyfried\"}", "gender": "Female", "age": "Late 30s", "appearance": "Accurate portrait" }, "anatomy_details": { "skin": "Natural and lifelike texture ", "hair": { "color": "Gold", "style": "Soft and elegant waves" } }, "wardrobe": { "item": "Strapless metallic evening gown", "color": "Shiny red", "fit": "Slim fit", "details": [ "Asymmetrical folds and drapes", "High slit" ] } } ] } ]
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_17401_0.jpg" width="600" alt="Hollywood Stars Dazzle Red Carpet - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 60: Dreamy Girl Against Colorful Wall
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A stylized 3D animated young woman leans against a textured abstract wall made of multiple layers of cracked paint panels in warm yellow, coral, pink, red, and…
+
+#### 📝 Prompt
+
+```
+A stylized 3D animated young woman leans against a textured abstract wall made of multiple layers of cracked paint panels in warm yellow, coral, pink, red, and soft purple gradients.
+She wore slightly messy black short curly hair, eyes half-closed, a gentle and peaceful smile, wearing a small earring, arms crossed over her chest, looking relaxed. She wore a loose light pink long-sleeved shirt, high-waisted blue jeans, rolled-up pant legs, and a pair of old brown boots.
+Soft cinematic lighting, warm pastel tones, shallow depth of field, painterly textures, a cozy and peaceful atmosphere, whimsical Pixar-style 3D illustrations, ultra-detailed, high-resolution, soft shadows, and a dreamy atmosphere.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19574_0.jpeg" width="600" alt="Dreamy Girl Against Colorful Wall - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 61: Little Pilot Cardboard Plane
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A small child sits inside a makeshift cardboard airplane. The child's body is tilted forward, one arm extended outward and touching artificial clouds, the othe…
+
+#### 📝 Prompt
+
+```
+A small child sits inside a makeshift cardboard airplane. The child's body is tilted forward, one arm extended outward and touching artificial clouds, the other resting on the edge of the box. The child's gaze is directed forward and slightly to the side. The shot is medium-shot, angled at the child's eye level. The composition is central, with the airplane taking up the majority of the frame.
+
+He wears a brown, thick fabric pilot's hat with a fur lining along the brim, decorative glasses with clear lenses and a strap attached to the top, and a light-colored, short-sleeved T-shirt. The airplane is made of corrugated cardboard, with visible folds and layers of material. Simple cardboard wings and a tail are attached to the sides, and a small stuffed toy lies in the cockpit.
+
+The setting is studio-style, with a plain light blue background and no texture. The lower portion of the frame is filled with artificial white clouds made of synthetic fiber, creating the illusion of flight. The space is minimalist, free of additional objects.
+
+The lighting is soft studio style, with diffused frontal light evenly illuminating the face and the plane. The shadows are soft and shallow, the contrast is moderate, the highlights on the glasses and cardboard are controlled, and the background is evenly lit without gradients.
+
+Shot with a 50mm lens, medium depth of field with sharp focus on the face and the front of the plane, slightly blurred clouds in the foreground, high texture detail on the cardboard and fabric, a staged children's photo, highly detailed, photorealistic.
+
+Playful imaginative mood,
+soft pastel blue tones,
+moderate saturation,
+even diffused studio lighting,
+low contrast with gentle shadows,
+clean bright highlights,
+natural soft skin tones,
+light airy background,
+soft texture emphasis,
+whimsical cinematic color grading.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25128_0.jpg" width="600" alt="Little Pilot Cardboard Plane - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 62: Cinematic Porsche Desert Sunset Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{"image_request":{"meta_data":{"dimensions":{"width":1200,"height":1200},"style_preset":"Cinematic flash, film grain"},"technical_specifications":{"lighting_se…
+
+#### 📝 Prompt
+
+```
+{"image_request":{"meta_data":{"dimensions":{"width":1200,"height":1200},"style_preset":"Cinematic flash, film grain"},"technical_specifications":{"lighting_setup":{"type":"Powerful flash","effect":"Extreme contrast, metallic sheen"},"composition":{"focus":"Full sharp on subject/car","background":"Near-black night"}},"subject":{"facial_features":{"skin":"Fair","expression":"Slight smile at camera"},"hair":"Loose with yellow ribbon tie","pose":"Dramatic next to car, right hand on hood"},"wardrobe_and_styling":{"clothing":["Soft pink sport bra","Jeans miniskirt","Pantyhose"],"footwear":"Black hills with diamonds decorations"},"environment":{"vehicle":"Bright white Porsche GT3 with red alloy wheels","location_type":"Desert outside dubai at sunset"},"mood_and_atmosphere":{"mood":"Bold cinematic powerful"}}}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23266_0.jpg" width="600" alt="Cinematic Porsche Desert Sunset Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 63: Cinematic Rose Room Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "generation_request": { "meta_data": { "task_type": "cinematic_lowkey_valentines_rose_room_red_dress", "language": "en", "priority": "highest", "version": "v…
+
+#### 📝 Prompt
+
+```
+{ "generation_request": { "meta_data": { "task_type": "cinematic_lowkey_valentines_rose_room_red_dress", "language": "en", "priority": "highest", "version": "v1.0_RED_DRESS_ROSE_ ROOM_LOWKEY_DRAMA" }, "output": { "aspect_ratio": "4:5", "resolution": "ultra_high", "num_images": 4, "sharpness": "high", "grain": "fine_film_grain" }, "scene": { "concept": " A woman in a red dress presents a dramatic, understated cinematic portrait in a room filled with red roses. "environment": "A dark, minimalist room with bright white floors, densely packed bouquets of red roses in several large glass vases, arranged in a circle around the subject". "Composition": "Shot from above or at a slightly elevated angle, the subject centered, surrounded by roses, with strong negative space in the shadows, and dark glow at the edges." "mood": Luxurious, melancholic, private, dramatic" }, "subject": { "person": "Adult woman", "pose": "Sitting on the floor with legs folded to the side, hands or arms draped over a bouquet, head slightly lowered, gaze downward", "expression": "soft, introspective, calm", "hair": "extremely long straight black hair, smooth and shiny, parted in the middle", "makeup": "full makeup: distinct eyelashes, soft contouring, Nude pink lips or subtle rose tones", "wardrobe": { "dress": "Fitted red spaghetti strap long dress, smooth fabric, simple silhouette, realistic pleats when sitting" }, "accessories": "minimalist jewelry, small necklaces" }, "props": { "roses": "Many oversized, dense red rose bouquets are arranged in transparent glass vases, some bouquets close to the camera foreground, slightly out of focus", "floor": " White reflective tiles or polished surfaces subtly reflect roses and skirts" }, "camera": { "shot_type": "Film portrait, slightly overlooked", "lens": "50mm", "aperture": "f/2.0", "focus": "Clear main face and recent bouquet; The foreground bouquet is slightly blurred to increase depth of field", "framing": "4:5 vertical composition, center symmetrical" }, "lighting": { "setup": "A strong, soft spotlight in the upper left creates dramatic shadows; "Minimal fill light", "look": "Low-key, contrasting light and dark style, deep black tones", "highlights": "Controlled highlights on roses and hair; No overexposed white on the floor" }, "color_grading": { "palette": "Deep red + cool dark shadows + neutral white", "look": "Cinematic, high contrast, slightly cool-toned shadows, emphasizing rich red", "contrast": "High", "saturation": "Controlled (rich red without distortion)" }, "quality_rules": { "anatomy_ accuracy": "Rigorous", "face_integrity": "No distortion, no asymmetrical artifacts", "hands": "Correct fingers, natural joints, no extra fingers", "rose_detail": "Petals clear, no melting texture", "no_ai_artifacts": true, "no_text": true }, "negative_prompt": [] } }
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_16138_0.jpg" width="600" alt="Cinematic Rose Room Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 64: Silver Y2K Futuristic Fashion Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Realistic fashion photograph, shot in a minimalist studio setting, depicting a woman posing against a smooth cream-colored wall with substantial negative space…
+
+#### 📝 Prompt
+
+```
+Realistic fashion photograph, shot in a minimalist studio setting, depicting a woman posing against a smooth cream-colored wall with substantial negative space around her figure. Shot on a full-frame camera using an 85mm lens with an f/2.8 aperture to create a shallow depth of field, ensuring sharpness while allowing the clean background to transition smoothly into a soft blur. Color grading performed using Kodak Portra 400 film emulation, creating warm creamy highlights, lifted shadows, moderate contrast, and subtle authentic 35mm film grain woven into the image. The model is a girl with a slightly tanned skin tone and a toned figure, positioned in the center of the frame with her head held high. Her dark chestnut hair is styled in a very smooth, thick braid that hangs over her left shoulder and extends below her waist, showcasing a glossy, tightly woven texture resembling a rope with no stray strands. She is wearing a silver metallic triangular bikini-style top with thin straps tied behind her neck. The liquid metal effect fabric softly reflects light on the cups, along with long silver metallic opera gloves that reach the elbows and fit tightly, bunching slightly at the joints. On her face are futuristic slim silver sunglasses with reflective dark lenses and angular Y2K-style frames that contour around the eyes, with temples neatly resting along the hairline. Her lips are full, painted with glossy nude-pink lipstick, slightly parted, showing a relaxed and confident expression; her eyebrows are clearly defined and arched, and her gaze is directed straight into the lens. With her raised right hand, she extends a vintage portable camcorder toward the viewer, positioned approximately at shoulder level. The camera is a silver-and-black late 90s digital VCR with a prominent cylindrical lens on the left, a flip-out pale LCD screen on the right, visible control buttons, and a strap hanging from under the grip. The lighting consists of a single large diffused softbox or natural window light positioned directly in front of her and slightly above eye level, creating soft, wrapping, even lighting on the skin with minimal shadowing under the chin and delicate pinpoint highlights in the reflective sunglasses lenses. The color palette emphasizes warm cream skin tones, cold silver metallic reflections, and neutral white background tones, evoking a nostalgic yet futuristic early 2000s editorial aesthetic. Photograph executed as a close-up portrait, cropped mid-torso, in ultra-detailed 8K resolution with visible natural skin texture, fabric draping, and photographic precision. Hyper-realism.
+
+Negative constraints: do not add filters, scene is not 18+.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22491_0.jpg" width="600" alt="Silver Y2K Futuristic Fashion Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 65: Gemini 3 Flash AI Promo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Generate a Gemini 3 Flash promotional image that matches Google's style, with an aspect ratio of 16:9
+
+#### 📝 Prompt
+
+```
+Generate a Gemini 3 Flash promotional image that matches Google's style, with an aspect ratio of 16:9
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_20112_0.jpeg" width="600" alt="Gemini 3 Flash AI Promo - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 66: Snowy Forest Pink Coat Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A hyper-realistic winter portrait of a young woman standing outdoors in a snowy forest. Vertical mid-shot, woman facing camera, cozy posture, hands in oversize…
+
+#### 📝 Prompt
+
+```
+A hyper-realistic winter portrait of a young woman standing outdoors in a snowy forest. Vertical mid-shot, woman facing camera, cozy posture, hands in oversized sleeves, head tilted. Warm subtle smile, calm expression. Wearing a pastel pink oversized winter puffer coat with a hood up, belted at the waist, white winter gloves. Hair tucked in hood, natural makeup, rosy cheeks. Background of snow-covered pine trees and soft snowbanks under a clear winter sky. Natural winter daylight with golden-hour highlights. Lifestyle photography style, natural depth of field, ultra-realistic textures, soft pastel aesthetic, clean and minimal.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25958_0.jpg" width="600" alt="Snowy Forest Pink Coat Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 67: Luxury Winter Fashion Editorial Shoot
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+High-end lifestyle fashion photo taken from a passenger perspective, not a selfie. A woman sits inside a luxury car with panoramic roof, snowy forest visible t…
+
+#### 📝 Prompt
+
+```
+High-end lifestyle fashion photo taken from a passenger perspective, not a selfie. A woman sits inside a luxury car with panoramic roof, snowy forest visible through the window. She wears a voluminous fur coat in natural mixed tones, oversized and plush, layered over a black top. On her head a branded elastic headband worn low on the forehead. Sleek narrow futuristic sunglasses with thick frames. Hair worn long and loose, slightly tousled, flowing over the coat. One hand raised to adjust the sunglasses, nails long and manicured. soft sculpted face, rosy cheeks, glossy lips, clean defined brows. Neutral cool daylight mixed with soft interior car lighting, gentle contrast. Calm confident expression, lips softly parted. Reference to image. Added fine film grain, realistic skin pores, subtle glow, Pinterest clean-girl meets luxury winter vibe, lifestyle editorial photography, ultra-detailed, 8K quality.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25352_0.jpg" width="600" alt="Luxury Winter Fashion Editorial Shoot - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 68: Glamorous Beauty Editorial Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A close-up portrait of a woman in the style of a high-end fashion beauty editorial office, featuring warm-toned skin, captivating brown eyes, and voluminous, w…
+
+#### 📝 Prompt
+
+```
+A close-up portrait of a woman in the style of a high-end fashion beauty editorial office, featuring warm-toned skin, captivating brown eyes, and voluminous, wavy reddish-brown hair. She struck an elegant pose, hands close to her face, showcasing exquisite almond-shaped manicures featuring abstract swirl art in nude and white. One hand gently rested on her forehead, casting a subtle shadow, while her other hand rested at her lips, a finger lightly touching her lips painted with matte, dry rose-colored lipstick. She wore a clean and tidy white collared shirt with an open neckline. The scene is illuminated by bright, direct natural sunlight, highlighting her delicate skin texture and creating sharp, dramatic shadows that evoke a stylish, modern magazine cover aesthetic.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_17366_0.jpg" width="600" alt="Glamorous Beauty Editorial Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 69: Shadowed Thinker Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Extreme close-up of a thoughtful man's face in a dimly lit studio. He is wearing a simple black tank top. He is muscular with visible muscles. Small splashes o…
+
+#### 📝 Prompt
+
+```
+Extreme close-up of a thoughtful man's face in a dimly lit studio. He is wearing a simple black tank top. He is muscular with visible muscles. Small splashes of water from above. A narrow beam of harsh light captures only half of his face, creating deep contrast shadows. Behind him, a bright light highlights him. Black and white photography, graininess. Hands folded in front of him. Detailed photo with visible pores and textures and details. 8K quality. Aspect ratio 3:4.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_25359_0.jpg" width="600" alt="Shadowed Thinker Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 70: Ancient Goddess Aesthetic Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+"album_maloomat": { "shakhsiyat": "{argument name=\"shakhsiyat\" default=\"Sydney Sweeney\"}", "theme": "Qadeem Asateeri (Ancient Mythological / Goddess Aesthe…
+
+#### 📝 Prompt
+
+```
+"album_maloomat": {
+    "shakhsiyat": "{argument name=\"shakhsiyat\" default=\"Sydney Sweeney\"}",
+    "theme": "Qadeem Asateeri (Ancient Mythological / Goddess Aesthetic)",
+    "location": "Aisay maloom hota hai jaise koi Roman Bath ya Temple ruins hain",
+    "lighting": "Naram qudrati roshni (Golden hour vibe)"
+  },
+  "tasveeron_ka_tafseel": [
+    {
+      "file_name": "20260209_100107.jpg",
+      "frame_type": "Medium shot / Portrait",
+      "markazi_khusoosiyat": {
+        "expression": "Sanjeeda aur pur-waqar (Serene and authoritative)",
+        "pose": "Pani ke darmiyan ghutno ke bal baithi hui",
+        "kapray": "Gulaabi rang ka rishmi (silky) libas jo qadeem 'Chiton' style se milta julta hai",
+        "accessories": "Sunehri saanp ka baazu-band jo 'Cleopatra' ya 'Medusa' vibe deta hai"
+      },
+      "background_elements": [
+        "Teen bare Corinthian style ke sutoon",
+        "Saaf neela aasmaan",
+        "Pani mein parne wala aks (Reflection)"
+      ]
+    },
+    {
+      "file_name": "20260209_100106.jpg",
+      "frame_type": "Full length / Side angle",
+      "markazi_khusoosiyat": {
+        "expression": "Khamosh aur pur-israr (Mysterious)",
+        "pose": "Ek bare pathar (Pedestal) se tek lagaye hue, paaon pani mein doobe hue",
+        "fiziki_halat": "Baal aur jism geele hain (Wet look), jaise abhi naha kar nikli hon",
+        "focus": "Tasveer mein unka poora jism aur aas-paas ke patthar wazay hain"
+      },
+      "background_elements": [
+        "Sutoonon ka ooperi hissa (Entablature)",
+        "Pani ki sateh par halki lehrein",
+        "Qadeem deewaron ki matti aur pathar"
+      ]
+    }
+  ],
+  "rang_o_mijaz": {
+    "color_palette": ["Mauve", "Gold", "Sky Blue", "Stone Grey"],
+    "mood": "Pur-sakoon, qadeem, aur shandaar"
+  }
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08598_0.jpg" width="600" alt="Ancient Goddess Aesthetic Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08598_1.jpg" width="600" alt="Ancient Goddess Aesthetic Portrait - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 71: Cozy Bedroom Mirror Selfie With Cat
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "main_prompt": "intimate cozy bedroom mirror selfie of a young woman in her mid-20s with fair skin and natural glow, shoulder-length wavy auburn-red hair sli…
+
+#### 📝 Prompt
+
+```
+{
+  "main_prompt": "intimate cozy bedroom mirror selfie of a young woman in her mid-20s with fair skin and natural glow, shoulder-length wavy auburn-red hair slightly messy, subtle makeup with soft eyeliner and glossy nude lips, dreamy relaxed expression with half-lidded eyes looking at camera, wearing loose lavender long-sleeve cardigan over white V-neck top showing subtle cleavage, light gray oversized sweatpants, barefoot with dark red nail polish, sitting cross-legged on bed holding phone for selfie (phone visible with pop socket case), fluffy white Persian cat beside her, soft warm bedside lamp light + cool window moonlight mix creating golden rim light on hair and face, blue-gray curtains and floral bedding in background, vintage phone aesthetic with light grain and vignette, photorealistic, ultra-detailed skin texture and hair strands, cinematic warm-cool grading, shallow DoF, dreamy late-night vibe --ar 3:4 --stylize 250 --v 6 --q 2",
+  "negative_prompt": "blurry, deformed, extra limbs, bad anatomy, ugly, overexposed, harsh flash, pale skin, heavy makeup, smiling happy, bright daylight, no cat, cluttered room, synthetic look, no grain, modern filter",
+  "style_tags": ["photorealistic", "cozy bedroom selfie", "warm-cool lighting", "raw candid vibe", "film grain subtle", "intimate dreamy mood"],
+  "technical": {
+    "aspect_ratio": "3:4",
+    "lighting": "warm lamp + cool moonlight",
+    "camera": "iPhone night mode portrait"
+  },
+  "extra_parameters": {
+    "recommended_model": "Flux.1 [dev]",
+    "guidance_scale": "7.5",
+    "steps": "40",
+    "image_reference": "use uploaded reference image for exact pose, hair, expression, cat placement and lighting"
+  }
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10924_0.jpg" width="600" alt="Cozy Bedroom Mirror Selfie With Cat - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 72: Vintage Rose on Prague Bridge
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "MPNB_version": "Nano Banana Pro vNext", "intent": { "summary": "A maximalist editorial photograph depicting a beautiful 25-year-old woman dressed in 1960s-s…
+
+#### 📝 Prompt
+
+```
+{ "MPNB_version": "Nano Banana Pro vNext", "intent": { "summary": "A maximalist editorial photograph depicting a beautiful 25-year-old woman dressed in 1960s-style clothing, holding a red rose, standing on a historic bridge in Prague", "style": "Cinematic editorial realism", "quality_target": " Luxury fashion magazine, high-end print advertisement", "aspect_ratio": "4:5 vertical" }, "subject": { "description": "Beautiful woman, 25 years old", "pose": "Gracefully standing beside the stone railing of Prague's historic bridge, body slightly tilted, bouquet gently held at waist height", "expression": "Gentle confident smile, romantic and composed", "wardrobe": { "dress": "Short pale blue 1960s mini dress, structured waistline, subtle A-line silhouette", "fabric_detail": "Matte woven fabric with realistic pleats and breeze interaction", "accessories": "Petite vintage handbag, delicate pearl earrings", "shoes": "Beige low-heeled vintage heels" }, "props": { "bouquet": "Fresh deep red rose bouquet, Velvety petals with subtle imperfections reveal the natural green flower stem, loosely wrapped in translucent paper" }, "hair_makeup": { "hair": "1960s soft, voluminous hairstyle, smooth texture, with slightly airy tips", "makeup": "Delicate eyeliner, fine mascara, natural blush, soft pink lip makeup" } }, "environment": { "location": " A historic bridge over the Vltava River in Prague", "architectural_context": "Gothic stone railings, Baroque statues lined up by the bridge, softly blurred distant view of Prague's Old Town skyline", "background_elements": "River reflection, warm-toned historic building facade, subtle morning mist", "atmosphere": "Soft golden light creates a romantic European atmosphere"}, " lighting": { "type": "Natural golden daylight, shaped for editing depth", "direction": "Side light from the left side of the camera, with soft contour light outlining hair and bouquets", "quality": "Warm and soft sunlight, soft transitions in highlights", "shadow_behavior": "Natural grounding shadows on textured stone surfaces" }, "camera": { "body": "Medium format film simulation." ", "lens": "85mm equivalent portrait lens", "aperture": "f/2.8", "focus": "Eyes and roses are sharp and clear, background statues are soft and blurred", "depth_of_field": "Moderate shallow depth of field achieves refined subject separation" }, "color_grading": { "palette": "Light blue dress, deep red rose, warm sandstone tones, soft sky blue", " tone": "Slightly warm vintage film tones", "contrast": "Balanced edited contrast, natural skin tone", "grain": "Subtle authentic film grains" }, "realism_controls": { "skin_texture": "Natural pores, no artificial smoothing", "fabric_physics": "Precise interaction between gravity and breeze", "object_interaction ": "Realistic finger tension when holding a bouquet", "imp": null } }
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_19472_0.jpg" width="600" alt="Vintage Rose on Prague Bridge - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 73: Morning Light Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Native 4K vertical hyper-realistic half-length portrait, a mature East Asian woman with {argument name="Visual Age" default="Early 20s"} standing at {argument…
+
+#### 📝 Prompt
+
+```
+Native 4K vertical hyper-realistic half-length portrait, a mature East Asian woman with {argument name="Visual Age" default="Early 20s"} standing at {argument name="Scene" default="Bedroom Window"}, morning sunlight streaming into the room, slightly messy black hair, natural makeup, gentle and confident gaze, real skin texture, visible pores, slight freckles, {argument name="Dress" default= "White V-neck camisole paired with a light-colored cardigan"}, the upper body is elegant in curves, golden sunlight filters through the sheer curtains, hair has bright edge light, the face and collarbones show mottled window shadows, strong contrast between light and dark, film-like texture, natural grain, no beauty filters, sophisticated sexiness, no nudity, no text, no watermark
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03976_0.jpg" width="600" alt="Morning Light Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_03976_1.jpg" width="600" alt="Morning Light Portrait - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 74: Fairy Selfie Collage Dump
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+:- { "image_structure": { "format": "2x2 Grid Collage", "total_panels": 4, "layout_style": "Four distinct 0.5x wide-angle selfies arranged in a square grid", "…
+
+#### 📝 Prompt
+
+```
+:-
+{
+  "image_structure": {
+    "format": "2x2 Grid Collage",
+    "total_panels": 4,
+    "layout_style": "Four distinct 0.5x wide-angle selfies arranged in a square grid",
+    "aspect_ratio": "Square (1:1) or 4:5 overall ratio containing four vertical 3:4 images"
+  },
+  "global_style_settings": {
+    "camera_effect": "0.5x Ultra-wide angle lens / Fisheye effect",
+    "perspective": "High-angle selfie with arm distortion (arms appear elongated and large in foreground)",
+    "lighting": "Indoor ambient overhead light mixed with front-facing phone screen flash (bright, slightly cool toned)",
+    "aesthetic": "Gen Z candid social media dump, chaotic fairy vibes"
+  },
+  "subject_universal_details": {
+    "demographics": "Young woman, approx 20 years old, Caucasian",
+    "skin": "Fair/Pale complexion with cool pink undertones, very smooth skin texture",
+    "hair": "Dirty blonde/light brown roots transitioning to blonde lengths, styled in a messy high bun (topknot) with loose face-framing wispy strands",
+    "outfit": "{argument name="outfit color" default="Lime green"}/Chartreuse mini dress covered in large circular sequins, thin spaghetti straps",
+    "accessories": [
+      "Large translucent light green fairy wings with glittery vein details",
+      "Black plastic tattoo-style choker necklace"
+    ],
+    "makeup": "Heavy black winged eyeliner (cat eye), subtle mascara, highlighter on the tip of the nose, rosy pink blush on high cheekbones, glossy mauve/pink natural lip color"
+  },
+  "panel_breakdown": {
+    "top_left_panel": {
+      "expression": "Playful, tongue sticking out flat",
+      "gaze": "Looking directly into camera",
+      "pose": "Head slightly tilted, both arms extended forward towards lens",
+      "specific_detail": "Tongue is extended downwards, eyes wide open"
+    },
+    "top_right_panel": {
+      "expression": "Duck face / Pouty lips",
+      "gaze": "Looking straight at camera",
+      "pose": "Chest forward, shoulders up, arms framing the body",
+      "specific_detail": "Lips pursued together, innocent expression"
+    },
+    "bottom_left_panel": {
+      "expression": "Winking (Left eye closed, Right eye open), subtle pout",
+      "gaze": "Looking straight at camera",
+      "pose": "Head tilted to her right, leaning slightly back",
+      "specific_detail": "One eye scrunched closed tight, jawline defined"
+    },
+    "bottom_right_panel": {
+      "expression": "Winking (Left eye closed, Right eye open), exaggerated kissy face",
+      "gaze": "Looking straight at camera",
+      "pose": "Head tilted to her left, body angled slightly",
+      "specific_detail": "Lips puckered forward for a kiss, eyebrows slightly raised"
+    }
+  },
+  "background_environment": {
+    "location": "Suburban living room",
+    "furniture": "Dark grey fabric sectional sofa (visible behind her in all shots)",
+    "architecture": "White staircase with banister rails visible in background (top left and bottom left specifically)",
+    "decor": "Wooden vertical "
+  }
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05289_0.jpg" width="600" alt="Fairy Selfie Collage Dump - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 75: Cinematic Day in Her Life
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A movie-quality 8-frame narrative puzzle that runs through the entire journey of the same girl. Frame 1: Bedroom Desk — Laptop bag packed, morning light pourin…
+
+#### 📝 Prompt
+
+```
+A movie-quality 8-frame narrative puzzle that runs through the entire journey of the same girl.
+Frame 1: Bedroom Desk — Laptop bag packed, morning light pouring in.
+Frame 2: Leaving Home — Put on headphones and step confidently.
+Frame 3: City sidewalk—coffee aroma atmosphere, motion blurred.
+Frame 4: Entering a café—warm interior, gentle smile.
+Frame 5: Laptop open—deep focus, typing on the keyboard.
+Frame 6: Sip a cup of coffee—a contemplative pause.
+Frame 7: Closing the notebook—a bountiful harvest.
+Frame 8: Walking home—golden time is tranquil.
+Editing life moods, natural tones, cinematic depth of field, hyperrealism.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_17053_0.jpeg" width="600" alt="Cinematic Day in Her Life - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 76: Presidents Struggling With Recruitment Infographics
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Create infographics showing the situation of presidents struggling to recruit
+
+#### 📝 Prompt
+
+```
+Create infographics showing the situation of presidents struggling to recruit
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12226_0.jpg" width="600" alt="Presidents Struggling With Recruitment Infographics - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 77: Alpine Skiing Beauty
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "project_metadata": { "output_format": "RAW_Photography", "version": "3.0_High_Fidelity", "aspect_ratio": "3:4", "style_preset": "Cinematic_Portrait" }, "sub…
+
+#### 📝 Prompt
+
+```
+{
+  "project_metadata": {
+    "output_format": "RAW_Photography",
+    "version": "3.0_High_Fidelity",
+    "aspect_ratio": "3:4",
+    "style_preset": "Cinematic_Portrait"
+  },
+  "subject_definition": {
+    "identity": {
+      "biometrics": {
+        "gender": "Female",
+        "apparent_age": "20-25",
+        "ethnicity_profile": "Northern European"
+      },
+      "face_mapping": {
+        "eyes": { "iris_color": "Crystal Blue", "expression": "Intense, direct" },
+        "skin": { 
+          "texture_type": "Hyper-detailed dermis",
+          "imperfections": ["Freckles", "Cold-induced flushing"],
+          "moisture_level": "Slightly damp from snow"
+        },
+        "hair": {
+          "base_color": "Blonde",
+          "state": "Messy/Wind-swept",
+          "interaction": "Tucked under goggle strap with wisps framing face"
+        }
+      }
+    },
+    "styling_layers": {
+      "layer_0_skin": "Natural pink lips, unadorned",
+      "layer_1_base": {
+        "item": "Knit Turtleneck",
+        "color": "Tan",
+        "texture": "Vertical ribbing"
+      },
+      "layer_2_outer": {
+        "item": "Parka/Coat",
+        "accent": "Brown faux fur collar",
+        "interaction": "Snow-dusted"
+      },
+      "accessories": {
+        "item": "Ski Goggles",
+        "frame": "Tan Matte",
+        "lens": "Brown Mirror Finish",
+        "placement": "Forehead"
+      }
+    }
+  },
+  "environment_simulation": {
+    "geography": {
+      "primary_location": "Alpine mountain slope",
+      "background_elements": ["Snow-capped peaks", "Basalt rock outcrops"],
+      "depth_mapping": "Extreme bokeh/background blur"
+    },
+    "particle_effects": {
+      "type": "Fresh powder snow",
+      "placement": ["Fur collar fibers", "Hair strands", "Goggle edges"]
+    },
+    "lighting_engine": {
+      "source": "Overcast daylight",
+      "diffusion": "High (soft shadows)",
+      "color_temp": "6500k (Cool winter tones)",
+      "highlights": "Reflective glints on snow crystals and goggles"
+    }
+  },
+  "optical_parameters": {
+    "camera_specs": {
+      "lens_type": "85mm Prime",
+      "aperture": "f/1.8",
+      "shot_distance": "Close-up (CU)",
+      "focus_priority": "Iris of the eyes"
+    },
+    "render_passes": [
+      "Subsurface scattering (skin)",
+      "Micro-displacement (knit texture)",
+      "Volumetric cold air haze",
+      "Individual follicle rendering"
+    ],
+    "mood_profile": ["Serene", "Arctic", "Exploration", "High-Contrast"]
+  }
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00206_0.jpg" width="600" alt="Alpine Skiing Beauty - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00206_1.jpg" width="600" alt="Alpine Skiing Beauty - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00206_2.jpg" width="600" alt="Alpine Skiing Beauty - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00206_3.jpg" width="600" alt="Alpine Skiing Beauty - Image 4">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 78: Elegant Beauty on White Spiral Stair
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+a young and beautiful East Asian woman sits gracefully on a minimalist white spiral staircase, her posture poised and elegant. Her long, straight black hair fa…
+
+#### 📝 Prompt
+
+```
+a young and beautiful East Asian woman sits gracefully on a minimalist white spiral staircase, her posture poised and elegant. Her long, straight black hair falls over her shoulders, her fair and flawless skin glistens softly, and a gentle smile plays on her face. She wears a nude champagne-colored sequined halter mini skirt with metallic circular embellishments at the waist. Her slender legs are naturally crossed and extended forward, adorned with gold thin-strap high heels. Beside her lies a nude leather handbag with a gold metal ring handle. The overall lighting is soft and diffused, set in a high-end minimalist white space, exuding the quality of an upscale fashion editorial shoot—8K-level ultra-high-definition details, exquisitely rendered skin textures, and a clean, sophisticated color palette.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22994_0.jpg" width="600" alt="Elegant Beauty on White Spiral Stair - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 79: Platinum Beauty Night Cuddle
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "subject": { "character": "uploaded_photo", "face_consistency": true, "body_consistency": true, "gender": "female", "age_appearance": "Young adult, early 20s…
+
+#### 📝 Prompt
+
+```
+{ "subject": { "character": "uploaded_photo", "face_consistency": true, "body_consistency": true, "gender": "female", "age_appearance": "Young adult, early 20s", "ethnicity": "Nordic descent", "emotion": " Warm, relaxed confidence, friendly intimacy, casual elegance", "hair": { "color": "Light platinum", "length": "Long hair, below shoulder length", "style": "Straight hair with very subtle natural waves", "texture": "Soft, smooth, reflective", "placement": "Center-parted, evenly draped over shoulders" }, "face": { "visibility": "Fully visible", profile_visibility": "Front with slight three-quarter side turn", "skin_tone": "Very fair, porcelain white", "expression": "Gentle closed smile, relaxed cheeks, gentle eyes" } }, "meta": { "aspect_ratio": "3:4", "camera": "iPhone 15 Pro rear camera", "lens": "24mm." Smartphone Equivalent Focal Length", "aperture": "f/1.78", "focal_character": "Natural perspective, slight wide-angle view, no distortion", "quality": "Hyperrealistic", "Style": "Instagram night portraits, casual life realism, soft flash lighting, subtle graininess" }, "camera_angle": { "vertical_position": "Camera position approximately 10 degrees above the subject's line of sight", "horizontal_alignment": "Camera aligned with the center of the subject's torso", "tilt": "Tilted downward by -5 degrees", "yaw": "Camera facing the subject", "roll": "0 degrees, level with the horizon", "distance_to_subject_meters": 2.2, "handheld_behavior": Stable handheld, minimal minor shake" }, "body_angle": { "global_orientation": "Subject sitting sideways on an outdoor sofa", "torso_rotation_degrees": 18, "shoulder_alignment": "Slightly tilted toward the camera", "hip_rotation_degrees": 20, "weight_ distribution": "Weight evenly on the sofa cushion", "posture": "Straight torso, relaxed shoulders" }, "head_angle": { "rotation_degrees": 10, "tilt": "Head slightly tilted to the right of the camera", "chin_position": "Neutral", "neck_tension": "Relaxed" }, "pose": { "legs": { "position": "Knees bent, diagonally facing the right side of the camera", "knee_angle_degrees": 95, "feet_position": "Feet flat on the ground, parallel, toes pointing forward" }, "arms": { "right_arm": "Elbows bent, supporting the dog from below", "left_arm": "Elbows bent, gently holding the dog in front of chest", "elbow_angle_ degrees": 80 }, "hands": { "grip": "Gently and supportively holding the dog", "finger_tension": "Relax" } }, "secondary_subject": { "type": "Dog", "breed": "Pomeranian", "size": "Small", "fur_color": "Golden brown", "fur_texture": "Very fluffy, dense, Well groomed", "position": "Sit upright on the subject's lap", "orientation": "Facing the camera" } }
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_18965_0.jpg" width="600" alt="Platinum Beauty Night Cuddle - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 80: Snow Street Style Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Hyper-realistic 8K editorial frame. Warm garlands overhead, snowy street depth. Man wearing a thick beige shearling coat, knitted ivory scarf, warm leather glo…
+
+#### 📝 Prompt
+
+```
+Hyper-realistic 8K editorial frame. Warm garlands overhead, snowy street depth. Man wearing a thick beige shearling coat, knitted ivory scarf, warm leather gloves. Man leaning against a wooden market booth beam. Pose: relaxed hands crossed. Expression: slight smirk, confident. Use the face from the uploaded photo.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/5/NB_26162_0.jpg" width="600" alt="Snow Street Style Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 81: Surreal Tension of Splitting Faces
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "prompt": "A high-tension, surreal portrait of two individuals based on the provided references, set against a seamless, user-selected {argument name="backgr…
+
+#### 📝 Prompt
+
+```
+{
+  "prompt": "A high-tension, surreal portrait of two individuals based on the provided references, set against a seamless, user-selected  {argument name="background color" default="{background_color}"}  studio background. The two subjects are actively and forcefully pulling their heads away from one another in opposite directions, appearing to be in a physical struggle to separate. They remain connected by a thick, highly elastic bridge of flesh, skin, and tissue stretching between their mid-faces (cheekbones to jaws). This connection is under extreme physical tension, appearing taut, fibrous, and sinewy—like stretched rubber or muscle just before a breaking point—rather than viscous or gooey. The skin on their faces is severely distorted and pulled tightly towards this central connection, conveying a desperate effort to 'split away.' The lighting is dramatic studio lighting designed to emphasize the stretched textures, fibrous strands, and physical strain of the separation attempt. The framing is a tight head-and-shoulders shot, focusing on the intense action.",
+  "subject": "Two faces connected by extreme elastic tension, struggling to separate",
+  "style": "Surreal portrait photography, physical distortion, high-tension aesthetics",
+  "technique": "Elastic stretching, tensile force visualization, fibrous connection rendering",
+  "inputs": {
+    "background_color": "User-selected solid color",
+    "reference_image_1": "First person's portrait",
+    "reference_image_2": "Second person's portrait"
+  },
+  "composition": "Tight head-and-shoulders, dynamic opposing action pulling apart",
+  "lighting": "Dramatic, textured lighting emphasizing strain and elasticity"
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_07945_0.jpg" width="600" alt="Surreal Tension of Splitting Faces - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 82: Luxury Watch Collection
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A glamorous editorial for a luxury watch brand, 1:1. LAYOUT: Irregular grid (1+2) - large hero left, two supporting images stacked right DIRECTION: None (edito…
+
+#### 📝 Prompt
+
+```
+A glamorous editorial for a luxury watch brand, 1:1.
+
+LAYOUT: Irregular grid (1+2) - large hero left, two supporting images stacked right
+DIRECTION: None (editorial arrangement)
+BACKGROUND: Warm cream base (#FAF6F0), studio shots with soft beige gradient
+PRODUCT: 3D render - hero full product, supporting close-ups and angles
+DYNAMIC: None (static elegance)
+TONE: Color contrast - chrome silver watch blends with earth-toned background, warm luxury throughout
+STYLE: Minimal + Soft hybrid, collection presentation
+
+GRID COMPOSITION:
+
+HERO CELL (left 60%):
+Full shot of luxury watch on a neutral wrist, standing with slight turn, elegant pose, hands relaxed, soft expression, minimal jewelry
+Background: Soft beige gradient, clean studio
+
+SUPPORTING CELL 1 (top right, 20%):
+Detail shot - watch on wrist, bias cut visible, hand touching watch
+Background: Cream solid
+
+SUPPORTING CELL 2 (bottom right, 20%):
+Back view - watch detail, strap construction, elegant neckline
+Background: Matching cream
+
+PRODUCT INFO OVERLAY:
+- Color swatches: 4 circles ({argument name="color 1" default="Silver"}, {argument name="color 2" default="Champagne"}, {argument name="color 3" default="Blush"}, {argument name="color 4" default="Gold"}) with names
+
+TYPOGRAPHY:
+"TIMELESS LUXURY" headline in elegant serif
+"Elegance Redefined" tagline
+Brand logo top left
+
+CAMERA: Hasselblad X2D, 85mm for full body, 100mm macro for details, consistent soft studio lighting
+
+Style keywords: collection showcase, irregular grid, chrome watch, minimal luxury, product presentation. A stylish handwritten signature Willy is elegantly and small letters placed at the Bottom Right corner.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_12541_0.jpg" width="600" alt="Luxury Watch Collection - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 83: Vogue-Style White Suit Fashion Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+The photo is in the style of Vogue, with added clarity and elegance, creating a high fashion atmosphere. A girl sits on a black chair, her pose relaxed but wit…
+
+#### 📝 Prompt
+
+```
+The photo is in the style of Vogue, with added clarity and elegance, creating a high fashion atmosphere. A girl sits on a black chair, her pose relaxed but with expressed confidence. Chair reversed. She leaned on two hands, Her gaze focused, confident, and direct, which adds depth and emotionality to the shot. The camera is set for sharpness and clarity, capturing every detail of her image perfectly. She wears a white oversized suit, consisting of a jacket and pants, with a classic cut. The jacket fits the figure perfectly, one shoulder is open, emphasizing her silhouette. Inside the jacket is the absence of a shirt, which creates a bolder and more modern look. Lightly tanned skin. Hair gathered in a low bun smooth and a lock near the face curled. Makeup is done in nude tones with thin black arrows, lush eyelashes and matte soft brown lips, highlighted with a highlighter for a natural skin glow. Shimmer on the neckline. The shot was taken using a high-quality camera, which allows you to clearly see every detail, the texture of the suit and makeup. On the ear is a large silver cuff earring. The lighting is soft and directed, with an emphasis on her face and jewelry, creating a contrast between her and the minimalist light background. Do not change facial features.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24605_0.jpg" width="600" alt="Vogue-Style White Suit Fashion Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 84: Abstract Symbol Art
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+√﹀\_︿╱﹀╲/╲︿_/︺╲▁︹_/﹀\_︿╱▔︺\/\︹▁╱﹀▔╲︿_/︺▔╲▁︹_/﹀▔\⁄﹀\╱﹀▔︺\︹▁︿╱\╱﹀
+
+#### 📝 Prompt
+
+```
+√﹀\_︿╱﹀╲/╲︿_/︺╲▁︹_/﹀\_︿╱▔︺\/\︹▁╱﹀▔╲︿_/︺▔╲▁︹_/﹀▔\⁄﹀\╱﹀▔︺\︹▁︿╱\╱﹀
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_11688_0.jpg" width="600" alt="Abstract Symbol Art - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_11688_1.jpg" width="600" alt="Abstract Symbol Art - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 85: Luxury Bag Burst: Cinematic Fashion Freeze
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Create a cinematic editorial fashion photograph using the uploaded image as the exact facial reference. Preserve the identical face shape, skin tone, hairstyle…
+
+#### 📝 Prompt
+
+```
+Create a cinematic editorial fashion photograph using the uploaded image as the exact facial reference. Preserve the identical face shape, skin tone, hairstyle, facial structure, eye shape, expression style, and overall identity with maximum realism and precision. The image should feel like a luxury magazine campaign captured in a dramatic fashion studio environment with strong movement and controlled chaos. Maintain a polished appearance with no loose hair strands. Hair should remain stylish, sleek, and professionally groomed despite the action in the scene. The setting should feature a completely dark solid seamless backdrop with a glossy studio floor that subtly reflects light and movement. Use harsh direct strobe lighting to create crisp shadows, sharp highlights, dramatic contrast, and ultra detailed textures across the skin, clothing, and scattered objects. The lighting should resemble premium editorial studio photography commonly seen in Vogue, Harper’s Bazaar, or luxury fashion advertising campaigns. Capture the composition using a SUPER ultra wide 12mm lens from a dramatic high angle perspective looking downward toward the model. The lens distortion should create exaggerated depth and cinematic energy, making nearby objects appear larger and more dynamic. The model should be positioned in the middle of a sudden action moment, twisting rapidly while reaching to grab a torn luxury shopping bag sliding across the floor. The body posture should feel elegant yet chaotic, balancing movement with high fashion sophistication. The torn shopping bag should appear mid motion, spilling fresh {argument name="fruit 1" default="oranges"} and {argument name="fruit 2" default="cherries"} across the studio floor. Several fruits should be bouncing and rolling naturally in different directions, creating visual rhythm and dynamic movement throughout the frame. One orange or cherry should be suspended dramatically in mid air extremely close to the camera lens for added depth and immersive perspective. Include scattered fruit reflections on the glossy floor to enhance realism and luxury production quality. The outfit should be a {argument name="clothing style" default="premium modern fashion editorial look"} featuring a structured designer jacket, fitted luxury trousers, layered jewelry, polished shoes, and subtle accessories that elevate the cinematic aesthetic. Emphasize ultra crisp detail, frozen action photography, glossy textures, premium fashion styling, dramatic perspective distortion, cinematic realism, luxury editorial mood, and magazine quality production throughout the final image.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_06821_0.jpg" width="600" alt="Luxury Bag Burst: Cinematic Fashion Freeze - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 86: Kasumigaura Presentation Style Generator
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Generates images that include all information in Japanese without omission. Kasumigaura Power Point Style.
+
+#### 📝 Prompt
+
+```
+Generates images that include all information in Japanese without omission. Kasumigaura Power Point Style.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00369_0.jpg" width="600" alt="Kasumigaura Presentation Style Generator - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00369_1.jpg" width="600" alt="Kasumigaura Presentation Style Generator - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 87: Winter Fur Glamour in Snow
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A fashionable woman crouching outdoors on a snowy pathway surrounded by dark evergreen trees decorated with tiny warm fairy lights, snow gently falling. She is…
+
+#### 📝 Prompt
+
+```
+A fashionable woman crouching outdoors on a snowy pathway surrounded by dark evergreen trees decorated with tiny warm fairy lights, snow gently falling. She is sitting low with one knee bent and the other slightly forward, resting her elbow on her knee, fingers touching her cheek, gaze soft and distant. In her hand she holds a bundle of traditional bagels tied on a string, hanging down near her white pointed stiletto ankle boots. Outfit: oversized silver-gray faux fur coat with plush texture and voluminous sleeves; matching fluffy white fur hat; dark blue wide-leg denim jeans; sharp white leather pointed ankle boots with high thin heel. Hair: straight hair tucked partly under the hat, smooth and sleek. Makeup: winter glam, long defined lashes, subtle shimmer on eyelids, glowing highlighter, nude-pink lips. , soft sculpted face, rosy cheeks, glossy lips, clean defined brows. Neutral cool winter lighting with slight smartphone front camera flash, balanced shadows. Shot on iPhone camera. Reference to image. Added fine film grain, realistic skin pores, subtle glow. Pinterest luxury winter aesthetic, editorial Y2K influence, ultra-detailed, 8K quality. Framing: mid-shot, from head to mid-calf.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_24974_0.jpg" width="600" alt="Winter Fur Glamour in Snow - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 88: New Artisan Bakery Ad
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Create a video ad for a new artisan bakery.
+
+#### 📝 Prompt
+
+```
+Create a video ad for a new artisan bakery.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_11655_0.jpg" width="600" alt="New Artisan Bakery Ad - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 89: Still Woman Amid Rushing Water
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Handheld smartphone camera view, with slight natural shaking. A young woman with curly hair and messy buns squats in front of the mirror, wearing a black tank…
+
+#### 📝 Prompt
+
+```
+Handheld smartphone camera view, with slight natural shaking. A young woman with curly hair and messy buns squats in front of the mirror, wearing a black tank top over a white shirt and ripped blue jeans. She points her phone at the mirror, smiling gently. Throughout the video, her body, face, and posture remain completely still. Suddenly, a vividly clear stream of water rushes into the room from all directions. The water level rises rapidly, flooding the bed, bookshelf, and plants. The water flows quickly and powerfully, accompanied by visible ripples, bubbles, splashes, and floating particles. Light refracts through the water's surface, creating flickering reflections and distorted mirror visual effects. Due to the refraction of the water, the environment slightly distorts. The woman does not react. She remains still and calm, while the surroundings change dramatically. The handheld composition remains consistent. Cinematic realism, highly detailed water physics, dramatic lighting, and surreal contrasts between static subjects and chaotic environments.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_18584_0.jpg" width="600" alt="Still Woman Amid Rushing Water - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 90: Women's Day Balloon Celebration
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+ltra-realistic cinematic scene of a joyful woman standing in an open plaza releasing dozens of purple, gold, and white balloons into the sky forming the words…
+
+#### 📝 Prompt
+
+```
+ltra-realistic cinematic scene of a joyful woman standing in an open plaza releasing dozens of purple, gold, and white balloons into the sky forming the words “Happy Women’s Day”, bright sunlight, confetti floating in the air, vibrant festive atmosphere, editorial photography, 8k detail.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_08138_0.jpg" width="600" alt="Women's Day Balloon Celebration - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 91: Vagabond Musashi Glass Whiteboard Sketch
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Create a photo of vagabonds musashi praying drawn on a glass whiteboard in a slightly faded green marker
+
+#### 📝 Prompt
+
+```
+Create a photo of vagabonds musashi praying drawn on a glass whiteboard in a slightly faded green marker
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_22325_0.jpg" width="600" alt="Vagabond Musashi Glass Whiteboard Sketch - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 92: Freckled Beauty Kitchen Glance
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "subject": { "description": "A young woman with a fit and curvy figure, with tanned bronze skin and noticeable freckles on her nose and cheeks." , "hair": "A…
+
+#### 📝 Prompt
+
+```
+{ "subject": { "description": "A young woman with a fit and curvy figure, with tanned bronze skin and noticeable freckles on her nose and cheeks." , "hair": "A wavy deep blonde long hair with light gold highlights and dark roots, tied back with a thick navy blue headband. Hair falls below the waist. ", "clothing": { "top": "Black ribbed sleeveless turtleneck crop top, fitted style." , "bottom": "Black tie bikini bottoms, low-waist design." , "accessories": "Petite silver earrings, silver bracelet on the left wrist." }, "body_details": { "tattoos": "Clearly visible tattoo: black line art tattoo on the fingers and back of the left hand, a number "7" or similar symbol on the left forearm, a small rabbit and a teary eye line on the upper left thigh. ", "skin_texture": "High-fidelity skin texture, clearly visible pores, dense facial freckles, natural flushing of cheeks." } }, "pose": { "description": "The main body leans forward, leaning against the back of a black leather bar chair, body facing the camera, twisting torso and head simultaneously, crossing the left shoulder to look directly at the viewer." , "torso_alignment": "Torso twists to the left, highlighting the curve of the spine and the side profile of the chest." , "limbs": "Left arm casually resting on the top of the chair back, fingers relaxed and hanging down." Legs are positioned to highlight the hips and gluteus maximus, with body weight resting on the chair. ", "facial_expression": "Warm, playful smiles, direct eye contact, conveying a playful and confident mood." }, "environment": { "setting": "Spacious, modern residential kitchen." , "flooring": "Light oak hardwood flooring, diagonal lines running through the frame." , "background_elements": "White rocking board cabinets, a large white kitchen island, a stainless steel double-layer oven on the left, a stainless steel refrigerator in the center background, white countertops, and a dining area visible in the deep background." , "details": "In the background, there is a window with white shutters, a crystal chandelier near the upper right corner, and a white shopping bag visible on the countertop at the back." }, "camera": { "shot_type": "Medium three-quarter shot, shooting angle slightly above the subject's eye level, but highlighting the lower body." , "perspective": "Rear angle, emphasizes the curves of the back and hips while maintaining facial focus." , "focal_length": "Approximately 28mm to 35mm, creating a natural, slightly wider field of view without excessive distortion." , "depth_of_field": "Subject in sharp focus, background slightly softened, but details still recognizable." }, "lighting": { "source": "Ample natural daylight enters from the right side and the window in the background." , "quality": "Soft, diffused" } }
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_21223_0.jpg" width="600" alt="Freckled Beauty Kitchen Glance - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 93: Black White Fashion Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Use the mobile phone photos in the attached illustrations as references for facial and physical features. This is a black-and-white fashion shoot portrait, wit…
+
+#### 📝 Prompt
+
+```
+Use the mobile phone photos in the attached illustrations as references for facial and physical features.
+
+This is a black-and-white fashion shoot portrait, with the model wearing a loose white shirt. She raised one arm, partially covering her face, while lifting her hair with her hand to create a dramatic and artistic composition.
+
+Her gaze is deep and captivating, staring straight into the camera, exuding a strong and mysterious aura.
+
+Background: Minimalist plain walls, where bright natural light casts clear shadows, adding depth and contrast to the image.
+
+Light: Strong natural light, high-contrast lighting
+
+It highlights facial contours, prominent cheekbones, and the texture of hair and clothing.
+
+Pose: Bold and expressive, raised arms outline the face, emphasizing genuine emotion and the style of a fashion blockbuster.
+
+Shooting angle: Head-up angle, close-up, focusing on facial expressions, texture, and lighting effects.
+
+Using the Canon EOS R5 full-frame DSLR with an 85mm f/1.8 lens, it delivers clear detail, rich tonal gradation, and fine graininess.
+
+Style: Black-and-white high-end fashion shoot.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10760_0.jpg" width="600" alt="Black White Fashion Portrait - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 94: Blonde Beauty Bathroom Gaze
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "prompt": { "subject": { "age": { "argument name": "age", "default": "20" }, "gender": "female", "hair": { "color": "golden", "style": "two tall braids secur…
+
+#### 📝 Prompt
+
+```
+{ "prompt": { "subject": { "age": { "argument name": "age", "default": "20" }, "gender": "female", "hair": { "color": "golden", "style": "two tall braids secured with light pink hair ties", "length": "medium-length", "texture": "straighten with a slight wave" }, " skin": { "tone": "Fair, with a warm golden base", "texture": "Smooth, shiny" }, "face": { "eyes": { "color": "Light Blue/Green", "makeup": "Delicate eyeliner, mascara" }, "brows": { "color": "Deep Gold", "shape": "Well-defined brows" }, "nose": { "shape": "Slim, well-defined contours " }, "lips": { "color": "Natural Pink", "fullness": "Full and glossy" }, "cheeks": { "color": "Rosy, with subtle highlights" } } }, "clothing_and_accessories": { "top": { "type": "Crop Top", "color": "White", "fabric": "Ribbed Cotton", "details" : "Short sleeves, low crew neck" }, "bottoms": { "type": "High-waisted shorts", "color": "White", "fabric": "Ribbed cotton" }, "jewelry": { "necklace": "Small white pearl necklace", "bracelet": "Left wrist wearing a gold chain and a large silver watch" } }, "pose_and_expression": { "pose": "Body leaning, Facing away from the camera, leaning over the white countertop, hands on the surface, looking directly at the camera beyond the shoulder", "expression": "seductive gaze, slightly parted lips" }, "setting_and_background": { "location": "modern bathroom", "counter": "white quartz/marble countertop", "shower": "glass shower room, gold fittings, tiled wall", "towel_rack" : { "material": "Wooden floor-standing towel rack", "contents": [ { "type": "Bathrobe", "color": "White terry fabric", "details": "Embroidered text on the back" }, { "type": "Towel", "color": "Red" }, { "type": "Towel", "color": "White" } ] }, "door": "Black border, white door panel" },  "technical_details": { "lighting": "Bright, natural daylight", "shot_type": "Medium to close-up", "focus": "Clear subject, slightly blurred background" } }, "aspect_ratio": "4:5" }
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/3/NB_15349_0.jpg" width="600" alt="Blonde Beauty Bathroom Gaze - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 95: Glamorous Woman Applying Lip Gloss
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "image_asset": { "title": "Glamorous Woman Applying Lip Gloss in Mirror Reflection", "scene_id": "glam_bathroom_mirror_001", "category": "Lifestyle / Beauty"…
+
+#### 📝 Prompt
+
+```
+{
+  "image_asset": {
+    "title": "Glamorous Woman Applying Lip Gloss in Mirror Reflection",
+    "scene_id": "glam_bathroom_mirror_001",
+    "category": "Lifestyle / Beauty",
+    "format": "Vertical Portrait"
+  },
+  "content_analysis": {
+    "subject": {
+      "description": "Young woman with sleek dark hair in a high ponytail.",
+      "attire": "Light pink spaghetti strap slip dress.",
+      "jewelry": [
+        "Large white floral stud earrings with gold centers",
+        "Van Cleef & Arpels Alhambra motif bracelet",
+        "Flat gold bangle"
+      ],
+      "makeup": {
+        "style": "Full glamour",
+        "details": [
+          "Flawless base",
+          "Contoured cheeks",
+          "Winged eyeliner",
+          "Glossy nude-pink lips"
+        ]
+      },
+      "action": "Applying lip gloss to lower lip while looking into a large oval mirror."
+    },
+    "environment": {
+      "setting": "Bathroom/Dressing area.",
+      "key_elements": [
+        "Large oval gold-framed mirror",
+        "Dark teal vertical subway tiles",
+        "Brushed gold brass sconce",
+        "Dark wooden doorway (reflected)",
+        "Glass shower enclosure (reflected background)"
+      ]
+    },
+    "lighting_and_mood": {
+      "type": "Warm artificial ambient.",
+      "mood": "Glamorous, intimate, confident.",
+      "color_palette": [
+        "#004d55 (Deep Teal)",
+        "#f2cdd3 (Pale Pink)",
+        "#cfa97e (Skin Tone)",
+        "#bca36a (Gold)"
+      ]
+    }
+  },
+  "technical_metadata": {
+    "camera_angle": "Eye-level, mirror reflection shot.",
+    "focus": "Sharp focus on face and hands; softer background reflection.",
+    "lighting_quality": "Soft, flattering highlights on skin and glazed tiles."
+  },
+  "generation_config": {
+    "engine_hints": "Social media aesthetic, high fidelity, rich textures (gloss, glass, tile).",
+    "positive_prompt": "A candid photograph of a glamorous woman with sleek dark hair in a high ponytail, wearing a pink slip dress and gold jewelry, applying lip gloss. She is reflected in a large oval gold mirror in a bathroom with dark teal vertical subway tiles. Warm, soft artificial lighting creates highlights on her skin and the tiles. The reflection shows a doorway and another person in the background.",
+    "negative_prompt": "blurry, low resolution, text, watermark, distorted features, messy hair, bright daylight, harsh shadows, cartoonish, oversaturated."
+  }
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00456_0.jpg" width="600" alt="Glamorous Woman Applying Lip Gloss - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 96: Floating Chocolate Chip Cookie Explosion
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "global_settings": { "resolution": "8K ultra-high-definition", "aspect_ratio": "3:4 vertical", "render_style": "hyper-realistic commercial food photography",…
+
+#### 📝 Prompt
+
+```
+{
+  "global_settings": {
+    "resolution": "8K ultra-high-definition",
+    "aspect_ratio": "3:4 vertical",
+    "render_style": "hyper-realistic commercial food photography",
+    "quality": "premium advertising grade",
+    "sharpness": "extreme micro-detail, crisp edges",
+    "noise": "none",
+    "artifacts": "none",
+    "depth_of_field": "shallow, subject-focused",
+    "motion": "frozen mid-air ingredients",
+    "background_style": "solid single-color studio backdrop"
+  },
+
+  "subject": {
+    "main_food": "chocolate chip cookies",
+    "quantity": 3,
+    "appearance": [
+      "golden-brown freshly baked cookies",
+      "soft cracked surface",
+      "visible melted chocolate chips",
+      "slightly crisp edges",
+      "natural handmade texture"
+    ],
+    "branding_rules": [
+      "no text",
+      "no logo",
+      "no embossing",
+      "no patterns",
+      "no symbols"
+    ]
+  },
+
+  "secondary_elements": {
+    "ingredients_flying": [
+      "dark chocolate chunks",
+      "cookie crumbs",
+      "fine sugar crystals"
+    ],
+    "motion_style": "dynamic floating explosion",
+    "distribution": "balanced around the cookies, natural randomness",
+    "particle_detail": "sharp, frozen motion with depth separation"
+  },
+
+  "composition": {
+    "camera_angle": "slightly low angle",
+    "framing": "center-weighted hero composition",
+    "spacing": "clean negative space around subject",
+    "focus_priority": "front cookie in razor-sharp focus"
+  },
+
+  "lighting": {
+    "type": "professional studio lighting",
+    "key_light": "soft directional key light",
+    "fill_light": "gentle fill for texture clarity",
+    "rim_light": "subtle rim highlight for separation",
+    "shadows": "soft and natural, no harsh contrast"
+  },
+
+  "color_palette": {
+    "background_color": "pastel blue",
+    "cookie_tones": "warm golden browns",
+    "accent_colors": "rich chocolate browns, crystal sugar whites",
+    "contrast": "high subject-background separation"
+  },
+
+  "photography_style": {
+    "genre": "luxury food advertising",
+    "mood": "fresh, indulgent, premium",
+    "cleanliness": "spotless studio look",
+    "post_processing": "minimal, natural, high-end retouching"
+  },
+
+  "exclusions": [
+    "text",
+    "logos",
+    "watermarks",
+    "hands",
+    "plates",
+    "props",
+    "packaging",
+    "background objects",
+    "cartoon style",
+    "illustration style"
+  ]
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05988_0.jpg" width="600" alt="Floating Chocolate Chip Cookie Explosion - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/1/NB_05988_1.jpg" width="600" alt="Floating Chocolate Chip Cookie Explosion - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 97: Rainy Temple Sword Fight
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Overall style tip: Chinese martial arts fantasy style, cinematic texture, motion blur, abandoned ancient temple in heavy rain, gloomy sky, lightning occasional…
+
+#### 📝 Prompt
+
+```
+Overall style tip: Chinese martial arts fantasy style, cinematic texture, motion blur, abandoned ancient temple in heavy rain, gloomy sky, lightning occasionally illuminating raindrops and broken eaves, visuals full of power and speed.
+
+• Shot 1 (0-3 seconds): Dark Crow drags his sword, Frost Descends 
+• Visual: Torrential rain. The Dark Crow clad in black heavy armor radiating ominous purple energy, dragging a massive black iron sword wrapped in chains in one hand. The blade traced dazzling sparks and ripples across the stone floor. His gaze was sinister as he looked ahead. Immediately after, Qingshuang drifted down from the broken eaves of the ancient temple like a fallen leaf. Her white and blue outfit was sharp and spirited, her high ponytail billowing, and the green longsword in her hand was drawn with a clang, the cold force through the rain curtain around her. The two confronted each other in the rain. 
+• Camera Movement: Follows the path of the giant sword at an extremely low angle, then quickly zooms in to present a panoramic confrontation in the rainy courtyard, one black and one green, one heavy and one light. 
+• Dialogue/Sound: Dark Crow (deep and hoarse): "{argument name="Dark Crow Dialogue" default="Stubborn." "}” 
+• Sound effects: heavy metal friction, pouring rain, wind noise. 
+
+• Shot 2 (3-6 seconds): Greatsword sweeps across, light sword startles the swan. • Visual: The dark crow suddenly exerts force, swinging both arms with the giant sword. A crescent-shaped black sword aura tears through the rain curtain, sweeping out. Raindrops evaporate wherever it passes, and the stone slabs on the ground are plowed open. Qingshuang's eyes narrowed, her toes lightly touching the water's surface, her figure soaring into the sky like a hawk, and with a deft flip in midair, she narrowly dodged the sword energy. At the same time, she used the momentum of her descent to gather cold light at the tip of her sword, shooting like a meteor straight at the Dark Crow's throat. 
+• Camera Movement: Fast-paced camera cuts. First, a side Dolly Shot captures the slow-motion moment of the black sword energy slicing through countless raindrops, then switches to a low-angle view, showcasing Qingshuang's graceful dodging and counterattack trajectory in midair.
+• Sound effects: The heavy whistle of a giant sword cutting through the air, the "sizzle" sound of sword energy evaporating, and the rustling of clothes slicing through the wind. 
+
+• Shot 3 (6-9 seconds): Aerial clash, sparks flying • Visual: Dark Crow greatsword strikes back, colliding precisely with Qingshuang's sword! "Dang ——!" The mighty power of the giant sword clashed fiercely with the sword's nimble coldness, erupting dazzling blue-white sparks and a ring of shockwaves that scattered all the surrounding rain. Dark Crow used her strength advantage to press downward, while Qingshuang used lightness skill, tapping her toes on the greatsword to use the momentum to spin backward, dispelling the thousand-pound pressure. 
+• Shot: Bullet Time (Bullet Time). The camera centers on the point where the two weapons collide, spinning rapidly 360 degrees, finally capturing a close-up of the moment when sparks are at their brightest and their strength clashes. 
+• Dialogue/Sound: Qing Shuang (cold and resolute): "{argument name="Qing Shuang Lines" default="Evil Cannot Overcome Good!" "}” 
+• Sound effects: The roar of massive metal collisions and the hum of power struggles. 
+
+• Shot 4 (9-12 seconds): Continuous blue shadows, Black Wall holding firm 
+• Visual: Upon landing, Qingshuang launches the first attack. Her figure turned into a blue afterimage, her sword thrusting fiercely, instantly transforming into several sharp blue sword lights that shot at the Dark Crow from different angles, the cold energy at the sword tip leaving frost marks in the air. The Dark Crow let out a low growl, swinging the heavy greatsword so tightly that it couldn't penetrate, forming a barrier of purple-black sword energy. Amid the dense "ding-clang" sounds, all the cyan sword lights were blocked, but the powerful impact still forced the dark crow to retreat three steps with a "thump thump thump" sound, each step shattering the stone bricks beneath its feet. 
+• Camera Movement: Handheld Shaky Cam with continuous shots. The camera closely follows Qing Shuang's attack trajectory, with each thrust causing a slight shake, then quickly shifting to Dark Crow's defense and retreat, creating a strong sense of immersion. 
+• Sound effects: The dense crisp sound of sword tips striking barriers, the cracking of stone bricks, heavy footsteps, and heavy breathing. 
+
+• Shot 5 (12-15 seconds): The ultimate collision, overwhelming the universe 
+• Visual: The Dark Crow flew into a rage, pouring purple energy into his greatsword and slamming it into the ground! Boom! A thick pillar of purple-black light shot up into the sky, stirring the dark clouds above. Qingshuang showed no fear, pouring all the cold energy into the blade. Person and sword became one, transforming into a massive, pure blue streak of light that descended from the sky like a comet, piercing straight to the center of the pillar. The two collided with a thunderous crash! Time seemed to stand still, then a blinding white light and ring-shaped shockwaves erupted, sweeping out the rain, rubble, and dead leaves from the entire courtyard. 
+• Camera Movement: Close-ups rapidly intensify. First, there is a rapid close-up of the cold eyes of the dark crow and the resolute gaze of Qingshuang, then the camera rockets up and down like a rocket, turning into a bird's-eye view, presenting a stunning panorama of exploding white light swelling and shockwaves sweeping through the ruins of the ancient temple. The image freezes at the peak of the white light. 
+• Dialogue/Sound: (Before collision) The roar of the Dark Crow intertwines with the clear shout of Qingshuang.
+• Sound effects: The buzzing of energy gathering, the earth-shaking explosion, then all sounds fade away, leaving only the fading echo of rain.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10423_0.jpg" width="600" alt="Rainy Temple Sword Fight - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_10423_1.jpg" width="600" alt="Rainy Temple Sword Fight - Image 2">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 98: Shibuya Anime Girls Friendship Moment
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Theme: Friendship between two people. Style description (Characters: Japanese anime, Background: Photo-grade anime), Characters: Two Japanese high school girls…
+
+#### 📝 Prompt
+
+```
+Theme: Friendship between two people. Style description (Characters: Japanese anime, Background: Photo-grade anime), Characters: Two Japanese high school girls, Background: Shibuya Crossing, Weather: Clear, Time: 3 PM, Breeze, Aspect ratio: 2:1, Photography: High-performance camera system equipped with AI.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/2/NB_14977_0.jpg" width="600" alt="Shibuya Anime Girls Friendship Moment - Image 1">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 99: Celebrity Winter Aesthetic Collection
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+{ "creator_id": "X_Creator_Project_2026", "content_type": "Premium Celebrity Aesthetics", "visual_specifications": { "aspect_ratio": "1:1", "resolution": "1080…
+
+#### 📝 Prompt
+
+```
+{
+  "creator_id": "X_Creator_Project_2026",
+  "content_type": "Premium Celebrity Aesthetics",
+  "visual_specifications": {
+    "aspect_ratio": "1:1",
+    "resolution": "1080x1080 pixels",
+    "lighting": "Soft Natural Winter Light"
+  },
+  "collection_data": [
+    {
+      "subject": "{argument name="subject 1" default="Sydney Sweeney"}",
+      "outfit_style": "Ribbed Emerald Bodysuit",
+      "scene_setting": "Mountain Cabin Interior / Snowy Forest View",
+      "visual_highlights": "Matte finish, high contrast green vs. white snow",
+      "keyword_tags": ["Alpine Chic", "Emerald Fashion"]
+    },
+    {
+      "subject": "Billie Eili sh",
+      "outfit_style": "Oversized Burgundy High-Neck",
+      "scene_setting": "Frost-Covered Birch Trees Background",
+      "visual_highlights": "Deep velvet textures and cool-toned shadows",
+      "keyword_tags": ["Burgundy Winter", "Alternative Style"]
+    },
+    {
+      "subject": "Sadie Sink",
+      "outfit_style": "Cobalt Blue Turtleneck with Tea Accessory",
+      "scene_setting": "Warm Wood Trim Window Frame / Valley View",
+      "visual_highlights": "Vibrant blue contrast with ginger hair tones",
+      "keyword_tags": ["Blue Winter", "Cozy Vibes"]
+    },
+    {
+      "subject": "{argument name="subject 4" default="Ana de Armas"}",
+      "outfit_style": "V-Neck Royal Blue & Mustard Yellow Accents",
+      "scene_setting": "Bright Minimalist Living Space / Arctic Fox View",
+      "visual_highlights": "Sharp detailing on accessories and footwear",
+      "keyword_tags": ["AnaDeArmasStyle", "VividAesthetics"]
+    }
+  ],
+  "engagement_metrics": {
+    "target_platform": "X / Twitter",
+    "intended_impact": "Viral Reach / Subscriber Exclusive Content"
+  }
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00983_0.jpg" width="600" alt="Celebrity Winter Aesthetic Collection - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00983_1.jpg" width="600" alt="Celebrity Winter Aesthetic Collection - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00983_2.jpg" width="600" alt="Celebrity Winter Aesthetic Collection - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/0/NB_00983_3.jpg" width="600" alt="Celebrity Winter Aesthetic Collection - Image 4">
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 100: Red Rose Couture Editorial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Reference image: uploaded photo. Ultra-realistic high-fashion studio editorial. Full-body shot of a woman seated on a seamless white studio floor, legs extende…
+
+#### 📝 Prompt
+
+```
+Reference image: uploaded photo. Ultra-realistic high-fashion studio editorial. Full-body shot of a woman seated on a seamless white studio floor, legs extended diagonally forward, one knee softly bent, body leaning slightly to the side. One arm lifted above the head holding a single deep red rose by the stem, the other hand resting on the floor for balance. Pose elegant, sensual, sculptural, strong fashion posture. Expression confident and seductive, gaze directed sideways past the camera, lips slightly parted. Outfit: sheer red lace long-sleeve mini dress with high neckline, layered over a structured black corset bodice, visible boning and stitching, red lace skirt semi-transparent with delicate texture. Footwear: red pointed-toe high heels, glossy finish. Hair: sleek low bun with a clean center part, polished and tight. Makeup: editorial glam — flawless matte skin, sculpted cheekbones, soft contour, defined brows, subtle smoky eyes, sharp eyeliner, deep red matte lips matching the dress and rose. Lighting: clean professional studio lighting, soft key light from front-left, gentle fill from right, subtle shadow under legs and body, no harsh contrast. Background: pure white seamless studio backdrop, minimalistic, no props besides the rose. Color grading: neutral whites, rich saturated reds, deep blacks, high clarity, fashion magazine finish. Camera: professional fashion photography, 50–85mm look, sharp focus on subject, crisp details, natural proportions. Style: couture editorial, luxury, sensual elegance, Vogue-style studio shoot. Negative prompt: selfie, phone visible, casual pose, neon lighting, cluttered background, distortion, plastic skin, exaggerated anatomy, blur, low resolution.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://huggingface.co/datasets/Goku-OpenLab/nano-banana-pro-prompts-datasets/resolve/main/nano-banana-pro/images/4/NB_23984_0.jpg" width="600" alt="Red Rose Couture Editorial - Image 1">
 </div>
 
 **[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
@@ -4021,6 +4354,6 @@ Licensed under CC BY 4.0.
 
 **[🌐 View in Web Gallery](https://prompthub.gokuscraper.com)** • **[⭐ Star this repo](https://github.com/goku-open/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: Monday, August 24, 2026 at 12:38:33 AM UTC</sub>
+<sub>🤖 This README is automatically generated. Last updated: Tuesday, August 25, 2026 at 12:37:52 AM UTC</sub>
 
 </div>
