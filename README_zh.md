@@ -50,7 +50,7 @@
 | 指标 | 数量 |
 |--------|-------|
 | 📝 提示词总数 | **undefined** |
-| 🔄 最后更新 | **2026年9月13日星期日 UTC 01:57:48** |
+| 🔄 最后更新 | **2026年9月14日星期一 UTC 02:15:47** |
 
 </div>
 
@@ -4802,6 +4802,6 @@ HDR
 
 **[🌐 在网页图库中查看](https://prompthub.gokuscraper.com)** • **[⭐ 给仓库点星](https://github.com/goku-open/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026年9月13日星期日 UTC 01:57:48</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026年9月14日星期一 UTC 02:15:47</sub>
 
 </div>
